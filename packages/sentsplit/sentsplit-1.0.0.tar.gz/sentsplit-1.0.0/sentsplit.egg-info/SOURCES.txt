@@ -1,0 +1,17 @@
+README.md
+pyproject.toml
+setup.py
+sentsplit/__init__.py
+sentsplit/cli.py
+sentsplit/config.py
+sentsplit/meta_data.py
+sentsplit/regexes.py
+sentsplit/segment.py
+sentsplit/train.py
+sentsplit/utils.py
+sentsplit.egg-info/PKG-INFO
+sentsplit.egg-info/SOURCES.txt
+sentsplit.egg-info/dependency_links.txt
+sentsplit.egg-info/entry_points.txt
+sentsplit.egg-info/requires.txt
+sentsplit.egg-info/top_level.txt

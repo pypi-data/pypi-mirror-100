@@ -1,0 +1,11 @@
+Metadata-Version: 1.2
+Name: sentsplit
+Version: 1.0.0
+Summary: A flexible sentence segmentation library using CRF model and regex rules
+Home-page: https://github.com/zaemyung/sentsplit
+Author: Zae Myung Kim
+Author-email: zaemyung@gmail.com
+License: UNKNOWN
+Description: UNKNOWN
+Platform: UNKNOWN
+Requires-Python: >=3.6
