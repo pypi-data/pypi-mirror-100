@@ -1,0 +1,15 @@
+octoprint_pi_support/__init__.py,sha256=Y7PJvjbkx50yt9wsvXqXSA_JXdkoIz3Bu5HGiDX12g4,14790
+octoprint_pi_support/static/clientjs/pi_support.js,sha256=R_H53SKV6bEREGrNT8VW790Ap8kk41jeVc9dGkiJiIM,583
+octoprint_pi_support/static/css/pi_support.css,sha256=YKeilyIUReaswPGZ3zEkMS5MQoQQRB6zldp-cRRRESk,160
+octoprint_pi_support/static/js/pi_support.js,sha256=-KSlCHFz3c-Q0WH09GwVUMXEHaBYlyotC5Khi-qgxuc,6798
+octoprint_pi_support/templates/pi_support_about_octopi.jinja2,sha256=AQaoQ2zueSxVNc7PoXrltMzAwINsD6sW8KKgyrcPLe8,1475
+octoprint_pi_support/templates/pi_support_navbar.jinja2,sha256=4iAdLUfoYVCcIceCxh5LaJ1mfTT239OC39VKrihpmiM,775
+octoprint_pi_support/templates/pi_support_settings.jinja2,sha256=WCTDVHJKqtvumFKuVHDCocctbNLLba_nk7l_wODGdYg,2335
+octoprint_pi_support/translations/de/LC_MESSAGES/messages.mo,sha256=B0R8rBFvZqqGHYysBzNs1CCo-EXiw0R58q1vNzkM3kk,4541
+octoprint_pi_support/translations/de/LC_MESSAGES/messages.po,sha256=LKWHaHXASbVTCc8bq7Dz_qYtWrA6dpkjptwF4bJ3Q5U,6489
+OctoPrint_PiSupport-2021.3.26.dist-info/LICENSE,sha256=V8j_M8nAz8PvAOZQocyRDX7keai8UJ9skgmnwqETmdY,34520
+OctoPrint_PiSupport-2021.3.26.dist-info/METADATA,sha256=Td9p8DLEoDemDlUF05rHgEPAN-pFps9xowdG4FLoebE,2925
+OctoPrint_PiSupport-2021.3.26.dist-info/WHEEL,sha256=6T3TYZE4YFi2HTS1BeZHNXAi8N52OZT4O-dJ6-ome_4,116
+OctoPrint_PiSupport-2021.3.26.dist-info/entry_points.txt,sha256=ObvSySFV8SP00GS94oaXZiuXy7aRpmMJFRD6shucPXI,54
+OctoPrint_PiSupport-2021.3.26.dist-info/top_level.txt,sha256=6PX33TeryzNmtbS05pbWeG1VwlAQv64MqOZdiyX9QkQ,21
+OctoPrint_PiSupport-2021.3.26.dist-info/RECORD,,
