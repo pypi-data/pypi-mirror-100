@@ -1,0 +1,26 @@
+{% extends "./base_list.html" %}{% load i18n static %}
+{% block content-table-head-row %}
+{% include "./column_header.html" with label="Name" align="left" sort_name="name" %}
+{% include "./column_header.html" with label="DKIM used" align="right" sort_name="dkim_enabled" %}
+{% include "./column_header.html" with label="DKIM valid" align="right" %}
+{% include "./column_header.html" with label="Users" align="right" %}
+{% include "./column_header.html" with label="Aliases" align="right" %}
+{% include "./column_header.html" with type="actions" %}
+{% endblock %}
+{% block content-table-row %}
+{% include "./column_data.html" with data=object.name align="left"
+    detail_url_base="mailserveradmin:domain-detail"
+%}
+{% include "./column_data.html" with data=object.dkim_enabled align="right" type="bool" %}
+{% include "./column_data.html" with data=object.dkim_validated align="right" type="bool" %}
+{% include "./column_data.html" with data=object.users.count align="right" type="num" %}
+{% include "./column_data.html" with data=object.aliases.count align="right" type="num" %}
+{% include "./column_data.html" with type="actions"
+    edit_url_base="mailserveradmin:domain-update"
+    delete_url_base="mailserveradmin:domain-delete"
+%}
+{% endblock %}
+{% block content-table-empty %}
+{% include "./column_data.html" with data="No domain yet" colspan="6" %}
+{% endblock %}
+{# vim: set ft=htmldjango: #}

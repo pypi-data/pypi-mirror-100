@@ -1,0 +1,15 @@
+{% extends "./base_crud.html" %}{% load i18n static %}
+{% block content-actions %}
+<a class="action-return btn btn-info" href="{% url "mailserveradmin:"|add:model_name|add:"-list" %}">Return</a>
+<a class="action-edit btn btn-primary" href="{% url "mailserveradmin:"|add:model_name|add:"-update" object.pk %}">Edit</a>
+<a class="action-delete btn btn-danger" href="{% url "mailserveradmin:"|add:model_name|add:"-delete" object.pk %}">Delete</a>
+{% endblock %}
+{% block content-panel %}
+<div class="detail">
+    {% for field_name, field_value_type in fields.items %}
+    {% include "./field_detail.html" with field_type=field_value_type.1 field_value=field_value_type.0 %}
+    {% endfor %}
+    {% block detail-extra %}{% endblock %}
+</div>
+{% endblock %}
+{# vim: set ft=htmldjango: #}
