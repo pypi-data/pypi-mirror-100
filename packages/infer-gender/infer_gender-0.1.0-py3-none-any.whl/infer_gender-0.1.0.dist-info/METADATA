@@ -1,0 +1,27 @@
+Metadata-Version: 2.1
+Name: infer-gender
+Version: 0.1.0
+Summary: Infers gender from an Indian first name or full name
+Home-page: https://github.com/bnriiitb/infer-gender
+Author: Nagaraju Budigam
+Author-email: nagaraju.iith@gmail.com
+License: MIT
+Platform: UNKNOWN
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.7
+Description-Content-Type: text/markdown
+Requires-Dist: missingno (>=0.4.2)
+Requires-Dist: pandas (==1.2.1)
+Requires-Dist: numpy (==1.19.2)
+Requires-Dist: matplotlib (==3.3.1)
+Requires-Dist: scikit-learn (==0.24.1)
+Requires-Dist: tensorflow (==2.4.1)
+Requires-Dist: tensorflow-addons (==0.12.1)
+
+infer-gender
+==============================
+
+Infers gender from the indian first name or full name.
+
+
