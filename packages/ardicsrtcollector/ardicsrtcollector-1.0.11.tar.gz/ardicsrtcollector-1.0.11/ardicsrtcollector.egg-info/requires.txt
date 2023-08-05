@@ -1,0 +1,3 @@
+youtube-channel-transcript-api
+youtube_dl
+launchpadlib
