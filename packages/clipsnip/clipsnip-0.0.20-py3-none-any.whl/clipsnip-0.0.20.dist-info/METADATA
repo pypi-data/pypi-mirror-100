@@ -1,0 +1,83 @@
+Metadata-Version: 2.1
+Name: clipsnip
+Version: 0.0.20
+Summary: Automated extraction of short clips from media files, using quotes.
+Home-page: https://github.com/obroomhall/clipsnip
+Author: Oliver Broomhall
+Author-email: obroomhall@gmail.com
+License: MIT
+Keywords: ffmpeg trim subtitles gif gifv video media tv film movie clip
+Platform: UNKNOWN
+Classifier: Development Status :: 3 - Alpha
+Classifier: Intended Audience :: Developers
+Classifier: Intended Audience :: End Users/Desktop
+Classifier: Topic :: Multimedia :: Video
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3.5
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.5, <4
+Description-Content-Type: text/markdown
+Requires-Dist: pysubs2
+Requires-Dist: python-opensubtitles
+Requires-Dist: whoosh
+Requires-Dist: tmdbsimple
+Requires-Dist: scenedetect[opencv-headless]
+Requires-Dist: ffsubsync
+Requires-Dist: wheel
+Requires-Dist: syllables
+
+# ClipSnip [![](https://img.shields.io/pypi/v/clipsnip.svg)](https://pypi.org/pypi/clipsnip/) [![](https://img.shields.io/pypi/pyversions/clipsnip.svg)](https://pypi.org/pypi/clipsnip/) [![](https://img.shields.io/pypi/status/clipsnip.svg)](https://pypi.org/pypi/clipsnip/)
+
+ClipSnip is a command line tool that that automates the creation of GIFs from media files.
+
+
+## Usage
+
+Simple usage:
+```
+snip -q "nicest" -v "Community.S01E01.1080p.BluRay.x264.mkv"
+```
+Parameters:
+* The quote to search for (`-q`)
+* The video file to snip (`-v`)
+
+output-1 | output-2
+:---:|:---:
+![Community](https://media.giphy.com/media/TFaDvUr4O9pR9jKz4q/giphy.gif) | ![Community2](https://media.giphy.com/media/SwTwbjka5sLMpxsuAt/giphy.gif)
+
+
+## Key Features
+
+* Media file identification
+* Subtitle sourcing, syncing and searching
+* Frame perfect scene extraction
+
+
+## Installation
+
+1. Ensure you have [ffmpeg](https://ffmpeg.org/) installed
+    ```
+    sudo apt-get install ffmpeg
+    ```
+
+2. Install ClipSnip with OpenCV
+    ```
+    pip install clipsnip[opencv]
+    ```
+
+    Otherwise, if you already have OpenCV
+    ```
+    pip install clipsnip
+    ```
+
+
+## Credits
+
+* [PySceneDetect](https://github.com/Breakthrough/PySceneDetect) for detecting start and end of scenes
+* [ffsubsync](https://github.com/smacke/ffsubsync) for syncing subtitles to audio streams
+* [ffmpeg](https://ffmpeg.org/) for being awesome
+
+
