@@ -1,0 +1,12 @@
+setup.py
+mainmodule/__init__.py
+mainmodule/add.py
+mainmodule/subtract.py
+mainmodule.egg-info/PKG-INFO
+mainmodule.egg-info/SOURCES.txt
+mainmodule.egg-info/dependency_links.txt
+mainmodule.egg-info/requires.txt
+mainmodule.egg-info/top_level.txt
+mainmodule/submodule/__init__.py
+mainmodule/submodule/divide.py
+mainmodule/submodule/multiply.py
