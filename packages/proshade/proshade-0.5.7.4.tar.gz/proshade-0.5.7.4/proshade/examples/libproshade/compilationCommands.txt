@@ -1,0 +1,43 @@
+============================
+compiling proshadeBinary.cpp
+============================
+
+
+CLANG:
+======
+
+clang ./proshadeBinary.cpp -I/path/to/proshade/extern/soft-2.0/include \
+                           -I/path/to/proshade/extern/gemmi/include \
+                           -I/path/to/proshade/extern
+                           -L/path/to/proshade/install/lib \
+                           -std=c++11 -lproshade -lc++ -lz \
+                           -rpath /path/to/proshade/install/lib \
+                           -o ./proshadeProject
+
+               
+GCC:
+====            
+g++ ./proshadeBinary.cpp -I/path/to/proshade/extern/soft-2.0/include \
+                         -I/path/to/proshade/extern/gemmi/include \
+                         -L/path/to/proshade/install/lib \
+                         -lproshade -lz -Wl,-rpath,/path/to/proshade/install/lib \
+                         -o ./proshadeProject
+                  
+                  
+MSVC:
+=====        
+cl.exe 	/I "/path/to/proshade\extern\gemmi\include" 
+		/I "/path/to/proshade\winLibs\x64\ZLIB" 
+		/I "/path/to/proshade\winLibs\x64\FFTW3" 
+		/I "/path/to/proshade\extern\soft-2.0\include" 
+		/I "/path/to/proshade\extern\gemmi\include" 
+		/I "/path/to/proshade\winLibs\x64\ZLIB" 
+		/I "/path/to/proshade\winLibs\x64\FFTW3" 
+		/I "/path/to/proshade\extern" 
+		/EHsc .\proshadeBinary.cpp proshade.dll
+                           
+
+=====
+NOTE:
+=====
+The rest of the examples can be compiled by simple switching the "proshadeBinary.cpp" for the example file that you intend to compile.
