@@ -1,0 +1,14 @@
+README.md
+setup.py
+tianchi/__init__.py
+tianchi/globalvar.py
+tianchi/inferServer.py
+tianchi/log.py
+tianchi/notice.py
+tianchi/test.py
+tianchi/test_gpu.py
+tianchi.egg-info/PKG-INFO
+tianchi.egg-info/SOURCES.txt
+tianchi.egg-info/dependency_links.txt
+tianchi.egg-info/requires.txt
+tianchi.egg-info/top_level.txt
