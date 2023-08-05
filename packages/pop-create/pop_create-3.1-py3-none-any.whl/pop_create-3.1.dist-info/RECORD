@@ -1,0 +1,15 @@
+pop_create/conf.py,sha256=TgU92L8D7oCb-YAhVlYEy1179Q6RXuvFajP6Lj4r748,1999
+pop_create/scripts.py,sha256=CUbHw5-8YSh40jGlw5rZ1m0HeZuIeHodqHZL5a7MfVE,151
+pop_create/version.py,sha256=CvYKi1jBmBdbMp9SJVflBQFJPp_IcJ7XDjhGPIxjOYc,16
+pop_create/pop_create/init.py,sha256=tiB1PpmS9ySzJkxX6NOW8VQV45JWd_K7CRPqFxZvl2s,5059
+pop_create/pop_create/docs/init.py,sha256=cOhCqhk5XH-tfe2cjCPK40YMsG8t-8ZBp01Rt_o_t-Q,220
+pop_create/pop_create/seed/init.py,sha256=ygImaqxncXOOhYZhfIAbSVaaCuLviti93vuqXdKOc4k,301
+pop_create/pop_create/seed/hooks/post_gen_project.py,sha256=cpcG5LEmo43YU45g-TCbZuIsLSyyBg0q14esa9VN2GE,805
+pop_create/pop_create/seed/hooks/pre_gen_project.py,sha256=jPkxQGCaYz2xuv0iRZMo-qLWlZtCVxqbxauteCjrhhQ,670
+pop_create/pop_create/tests/hooks/post_gen_project.py,sha256=EJmcr3Mjol-VSS5AWzcPk1ibbq1IvwrfMG7gYs4uztw,932
+pop_create-3.1.dist-info/LICENSE,sha256=pZUC-Jz_OkbURD3ZSsQBh6u1Giu7OTkbeNF8oUembIY,11348
+pop_create-3.1.dist-info/METADATA,sha256=oKzIhp5FU6VdY_HykVuP_oVNHJBZfMConYKtOlhoMmg,2665
+pop_create-3.1.dist-info/WHEEL,sha256=OqRkF0eY5GHssMorFjlbTIq072vpHpF60fIQA6lS9xA,92
+pop_create-3.1.dist-info/entry_points.txt,sha256=5jdL3RL7Xby2_PXg7QkdPyJVhN5tapsBV6Ktg5WVrGo,57
+pop_create-3.1.dist-info/top_level.txt,sha256=Fp5JWQ8vPKDjuI78TAno112_fgW7OqNNDoaryBDR62Q,11
+pop_create-3.1.dist-info/RECORD,,
