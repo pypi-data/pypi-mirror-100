@@ -1,0 +1,16 @@
+Metadata-Version: 2.1
+Name: ncbi-taxon-db
+Version: 2021.3.25
+Summary: Taxoniq index for NCBI Taxonomy database
+Home-page: https://github.com/chanzuckerberg/taxoniq
+Author: Andrey Kislyuk
+Author-email: akislyuk@chanzuckerberg.com
+License: MIT License
+Platform: UNKNOWN
+Requires-Dist: ncbi-refseq-accession-db (==2021.3.25)
+Requires-Dist: ncbi-refseq-accession-lengths (==2021.3.25)
+Requires-Dist: ncbi-refseq-accession-offsets (==2021.3.25)
+
+UNKNOWN
+
+
