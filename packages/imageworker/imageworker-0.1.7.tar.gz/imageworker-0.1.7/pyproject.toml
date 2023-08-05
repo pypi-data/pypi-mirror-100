@@ -1,0 +1,22 @@
+[tool.poetry]
+name = "imageworker"
+version = "0.1.7"
+readme = "README.md"
+description = "Lightweight image library"
+authors = ["kula <kula@live.com>"]
+
+[tool.poetry.dependencies]
+python = "^3.6"
+qiniu = "^7.3.1"
+Pillow = "^8.1.2"
+numpy = "^1.15.4"
+keras_preprocessing = "^1.1.2"
+requests = "^2.25.1"
+httpx = "^0.17.1"
+
+[tool.poetry.dev-dependencies]
+pytest = "^5.2"
+
+[build-system]
+requires = ["poetry>=0.12"]
+build-backend = "poetry.masonry.api"
