@@ -1,0 +1,38 @@
+Metadata-Version: 2.1
+Name: gynumdata
+Version: 0.0.3
+Summary: A simple package calculating values for a single number and created in my Udemy course
+Home-page: https://github.com/yawbrother/python-pkgdev
+Author: Yaw Brother
+Author-email: gsolomonsa@gmail.com
+License: UNKNOWN
+Description: # NumData Documentation
+        ***
+        
+        ## Installation
+        gynumdata can be installed using python pip. The package is hosted on [PyPI](https://pypi.org/) and [PyPI-test](https://test.pypi.org)
+        
+        ```python
+        pip install gynumdata
+        ```
+        ***
+        ## Usage 
+        Initialization is not required for using methods in numdata
+        
+        ```python
+        from gynumdata import calculate
+        
+        # Calculate square of a number
+        print(gynumdata.calculate.calculate_square(8))
+        # 64
+        
+        # Calculate cube of a number
+        print(gynumdata.calculate.calculate_cube(8))
+        # 512
+        ```
+Keywords: package numbers calculations
+Platform: UNKNOWN
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3
+Classifier: Operating System :: OS Independent
+Description-Content-Type: text/markdown

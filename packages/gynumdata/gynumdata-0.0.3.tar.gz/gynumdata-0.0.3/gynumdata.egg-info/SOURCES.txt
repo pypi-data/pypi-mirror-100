@@ -1,0 +1,8 @@
+README.md
+setup.py
+gynumdata/__init__.py
+gynumdata/calculate.py
+gynumdata.egg-info/PKG-INFO
+gynumdata.egg-info/SOURCES.txt
+gynumdata.egg-info/dependency_links.txt
+gynumdata.egg-info/top_level.txt
