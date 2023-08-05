@@ -1,0 +1,12 @@
+pzip/__init__.py,sha256=OODVDiItpyCkY2BTZun94b19YufJN-mHT1vMNNwbrhQ,881
+pzip/__main__.py,sha256=MSmt_5Xg84uHqzTN38JwgseJK8rsJn_11A8WD99VtEo,61
+pzip/base.py,sha256=LjU_zkqKOVeai8IKC84BqzWhSfl0-Lwm6IJBu8o3Jgo,8015
+pzip/cli.py,sha256=4mjNLvNZxtiqQ6wk0RsuguHdFyeE9nvkOWGMcAxcpqM,9548
+pzip/reader.py,sha256=BhIYjuGBleCH6aE8R8mAUVpgOiqpv_c4Uj1bf4MgQ6k,8903
+pzip/writer.py,sha256=G5KNhoGapMhe_YZ9dNe3lB4RVL-W6V76-9jg4CyUZTk,4679
+pzip-0.9.9.dist-info/LICENSE,sha256=4YI5PXzUeEwe50j26VGnsnmXciguSTgEAP5V2LO5ybc,1094
+pzip-0.9.9.dist-info/METADATA,sha256=4A_urJVV5yhILd0Mcljl4mVoW7BEOu0AroXEWzs4WLs,3967
+pzip-0.9.9.dist-info/WHEEL,sha256=OqRkF0eY5GHssMorFjlbTIq072vpHpF60fIQA6lS9xA,92
+pzip-0.9.9.dist-info/entry_points.txt,sha256=lznrkF6gzGoCfJE8_yoIUZe4oTI0AmhIu5ziqrFq34A,40
+pzip-0.9.9.dist-info/top_level.txt,sha256=YE4XcMkOigJDQ_OQKpsL24ASibM7EWeUyNC13T3ldy8,5
+pzip-0.9.9.dist-info/RECORD,,
