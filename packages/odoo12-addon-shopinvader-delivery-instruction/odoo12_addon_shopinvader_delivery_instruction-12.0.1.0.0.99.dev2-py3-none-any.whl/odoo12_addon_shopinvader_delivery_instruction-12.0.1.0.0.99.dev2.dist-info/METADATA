@@ -1,0 +1,19 @@
+Metadata-Version: 2.1
+Name: odoo12-addon-shopinvader-delivery-instruction
+Version: 12.0.1.0.0.99.dev2
+Summary: Shopinvader addons to let user define delivery instructions
+Home-page: https://github.com/shopinvader/odoo-shopinvader
+Author: ACSONE SA/NV
+License: AGPL-3
+Platform: UNKNOWN
+Classifier: Programming Language :: Python
+Classifier: Framework :: Odoo
+Classifier: License :: OSI Approved :: GNU Affero General Public License v3
+Requires-Python: >=3.5
+Requires-Dist: odoo12-addon-sale-stock-picking-note
+Requires-Dist: odoo12-addon-shopinvader
+Requires-Dist: odoo (<12.1dev,>=12.0a)
+
+UNKNOWN
+
+
