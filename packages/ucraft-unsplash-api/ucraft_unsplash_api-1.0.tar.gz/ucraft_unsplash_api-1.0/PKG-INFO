@@ -1,0 +1,17 @@
+Metadata-Version: 1.1
+Name: ucraft_unsplash_api
+Version: 1.0
+Summary: A Python client for the Unsplash API.
+Home-page: https://github.com/levon2111/unsplash_api.git
+Author: UC
+Author-email: UNKNOWN
+License: MIT
+Description: UNKNOWN
+Keywords: unsplash api python
+Platform: UNKNOWN
+Classifier: Development Status :: 5 - Production/Stable
+Classifier: Topic :: Software Development :: Libraries
+Classifier: Programming Language :: Python :: 2.7
+Classifier: Programming Language :: Python :: 3.4
+Classifier: Programming Language :: Python :: 3.5
+Classifier: Programming Language :: Python :: 3.6
