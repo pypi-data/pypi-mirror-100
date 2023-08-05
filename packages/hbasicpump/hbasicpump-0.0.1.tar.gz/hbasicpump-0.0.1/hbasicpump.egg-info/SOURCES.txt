@@ -1,0 +1,10 @@
+CHANGELOG.txt
+LICENSE.txt
+MANIFEST.in
+README.txt
+__init__.py
+setup.py
+hbasicpump.egg-info/PKG-INFO
+hbasicpump.egg-info/SOURCES.txt
+hbasicpump.egg-info/dependency_links.txt
+hbasicpump.egg-info/top_level.txt
