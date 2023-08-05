@@ -1,0 +1,41 @@
+Metadata-Version: 2.1
+Name: stdlibs
+Version: 0
+Summary: List of packages in the stdlib
+Home-page: https://github.com/jreese/stdlibs
+Author: John Reese
+Author-email: john@noswap.com
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
+Classifier: Development Status :: 4 - Beta
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Topic :: Utilities
+Classifier: Typing :: Typed
+Requires-Dist: black>=20.8b0
+Requires-Dist: usort>=0.5.0
+
+# stdlibs
+
+Simple list of top-level packages in Python's stdlib
+
+
+Install
+-------
+
+You can install it from PyPI:
+
+```shell-session
+$ pip install stdlibs
+```
+
+
+License
+-------
+
+stdlibs is copyright [John Reese](https://jreese.sh), and licensed under
+the MIT license.  I am providing code in this repository to you under an open
+source license.  This is my personal repository; the license you receive to
+my code is from me and not from my employer. See the `LICENSE` file for details.
+
+
