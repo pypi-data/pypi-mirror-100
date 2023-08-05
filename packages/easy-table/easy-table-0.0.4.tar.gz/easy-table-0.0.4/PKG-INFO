@@ -1,0 +1,19 @@
+Metadata-Version: 2.1
+Name: easy-table
+Version: 0.0.4
+Summary: easy-table replacement
+Home-page: UNKNOWN
+Author: iz1kga
+Author-email: iz1kga@gmail.com
+License: MIT License
+Description: # easy-table
+        i was using this lib and it disappeared from PyPI 
+        
+        if you are the original author please contact me!!!!
+        
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown

@@ -1,0 +1,8 @@
+README.md
+setup.py
+easy_table/EasyTable.py
+easy_table/__init__.py
+easy_table.egg-info/PKG-INFO
+easy_table.egg-info/SOURCES.txt
+easy_table.egg-info/dependency_links.txt
+easy_table.egg-info/top_level.txt
