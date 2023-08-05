@@ -1,0 +1,6 @@
+README.md
+setup.py
+pdftool.egg-info/PKG-INFO
+pdftool.egg-info/SOURCES.txt
+pdftool.egg-info/dependency_links.txt
+pdftool.egg-info/top_level.txt
