@@ -1,0 +1,8 @@
+README.md
+setup.py
+QSimpleWidgets/QEditor.py
+QSimpleWidgets/__init__.py
+QSimpleWidgets.egg-info/PKG-INFO
+QSimpleWidgets.egg-info/SOURCES.txt
+QSimpleWidgets.egg-info/dependency_links.txt
+QSimpleWidgets.egg-info/top_level.txt

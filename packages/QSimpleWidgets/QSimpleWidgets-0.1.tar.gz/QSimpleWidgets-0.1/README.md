@@ -1,0 +1,61 @@
+# QSimpleWidgets
+
+### Um Sistema que traz um QWidget Para Edição de Codigo
+
+*Exemplo de codigo de Editor Basico usando o QSimpleWidgets* 
+
+```
+from QSimpleWidgets import QCodeEdit,QSetStyles
+
+# Configurações do Editor
+STYLES = {
+    'keyword': QSetStyles(255, 0, 157),
+    'operator': QSetStyles(255, 0, 157,"bold"),
+    'brace': QSetStyles(255,255,255),
+    'string': QSetStyles(255, 238, 0),
+    'comment': QSetStyles(90,90,90),
+    'numbers': QSetStyles(132, 0, 255),
+}
+
+# Palavras resevadas
+keywords = [
+    'and', 'assert', 'break', 'class', 'continue', 'def',
+    'del', 'elif', 'else', 'except', 'exec', 'finally',
+    'for', 'from', 'global', 'if', 'import', 'in',
+    'is', 'lambda', 'not', 'or', 'pass', 'with',
+    'raise', 'return', 'try', 'while', 'yield',
+    'None', 'True', 'False',
+]
+
+# Python Operadores
+operators = [
+    '=',
+    # Comparadores
+    '==', '!=', '<', '<=', '>', '>=',
+    # Aritimeticos
+    '\+', '-', '\*', '/', '//', '\%', '\*\*',
+    # Outros
+    '\+=', '-=', '\*=', '/=', '\%=',
+    # Outros
+    '\^', '\|', '\&', '\~', '>>', '<<',
+]
+
+
+# Outros
+braces = [
+    '\{', '\}', '\(', '\)', '\[', '\]',
+]
+
+class PythonCodeEditor(QMainWindow):
+    def __init__(self):
+        super().__init__()
+        self.view = QCodeEdit(self,STYLES,keywords,operators,braces)
+        self.view.keywordColor.SetNewKeywordColor("self",SetStyles(255,0,255,"bold")) # Colorca um cor em um keyword
+        self.setCentralWidget(self.view)
+
+
+App = QApplication([])
+editor = PythonCodeEditor()
+editor.show()
+App.exec()
+```
