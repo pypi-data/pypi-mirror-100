@@ -1,0 +1,10 @@
+scvr/__init__.py,sha256=btfamKXw53yntn80PZYEfpmzZEwBWBHMuKI3aeKjO9Y,45
+scvr/command_line.py,sha256=mO-xUIWNdhnXXGWQJH9K4u06k-A_-WFnDGpDW2m3vN0,4809
+scvr/converters.py,sha256=BpLXNzKmqfBczpf_AsTgo76S9E1qngIwPPreBZxB8tQ,14725
+scvr/palettes.py,sha256=bU3u_SE4GdjD2R7qw0CTrnY6H9gQGZFkHCn4qd1JrUs,3107
+scvr-1.1.dist-info/LICENSE,sha256=qB-PziR_uyZWp8spy8tLJmszgGLAZwG5Qu36NFmUigk,1081
+scvr-1.1.dist-info/METADATA,sha256=_uSJr0A_brXCL2s9Xo4TBvMPxKxvCB12ytlDsAUrGys,4843
+scvr-1.1.dist-info/WHEEL,sha256=OqRkF0eY5GHssMorFjlbTIq072vpHpF60fIQA6lS9xA,92
+scvr-1.1.dist-info/entry_points.txt,sha256=HF0aNvvvMF2-KLjiP0LLqqi9vnWh0YT1kAIEBHaE41s,49
+scvr-1.1.dist-info/top_level.txt,sha256=jKaqRs88CBe43uQY5n-N9mXUCvPJWTaboFG0-yHCqhI,5
+scvr-1.1.dist-info/RECORD,,
