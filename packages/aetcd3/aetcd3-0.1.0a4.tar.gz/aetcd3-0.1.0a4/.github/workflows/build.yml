@@ -1,0 +1,40 @@
+name: build
+
+on:
+  push:
+    branches:
+      - master
+    tags:
+      - 'v*'
+
+jobs:
+  test:
+    runs-on: ${{ matrix.os }}
+    strategy:
+      fail-fast: false
+      matrix:
+        python_version: ['3.8', '3.9']
+        os: [ubuntu-latest]
+    steps:
+      - uses: actions/checkout@v2
+      - name: Set up Python ${{ matrix.python_version }}
+        uses: actions/setup-python@v2
+        with:
+          python-version: ${{ matrix.python_version }}
+      - name: Setup dependencies
+        run: |
+          sudo apt install etcd
+          sudo systemctl stop etcd
+          make deps
+      - name: Run lint
+        run: |
+          make lint
+      - name: Run tests
+        run: |
+          make testcluster
+      - name: Run genproto
+        run: |
+          make genproto
+      - name: Upload coverage report
+        uses: codecov/codecov-action@v1
+        if: matrix.python_version == '3.9'
