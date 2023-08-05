@@ -1,0 +1,17 @@
+sotaai/__init__.py,sha256=nIuYRWxN4QyBRekI7zmw_TWmEEPm2qDRQeoRCLxuHF0,266
+sotaai/cv/__init__.py,sha256=lQQ88ShSYgIt7Y7DkYZNyEksqFGeuFnEuTgtlgnCLZQ,10920
+sotaai/cv/abstractions.py,sha256=2KcvAdP7n4RxyicBQrx9REygl4yB2UfOqHjaL143fpc,7244
+sotaai/cv/fastai_wrapper.py,sha256=4ZvOJ9Eosa-4z1EcgopRAhVC7gzrXwTp4CvrkylereM,1410
+sotaai/cv/keras_wrapper.py,sha256=MSIGH2FuWfZOyMlr5GtC7fFZRJ9dGEgRgikLvudZf7I,13046
+sotaai/cv/metadata.py,sha256=gCsb-l6PSFFn0yBhusamEVT2QvF-CW-NH6iLvJgijrk,7111
+sotaai/cv/mmf_wrapper.py,sha256=r5UdmpTZz-oeo87QJhuv_HiLqeb6AqwxlA3CaQtMsTo,808
+sotaai/cv/mxnet_wrapper.py,sha256=ynBKNDsV2YzMXJ8XhZB-dpswT27WQU6eYJBmZkMC-3c,1298
+sotaai/cv/pretrainedmodels_wrapper.py,sha256=uI24RLhwXJgMSsb27peDAOytaEFNK6bbgYWOiMB0sUQ,917
+sotaai/cv/tensorflow_wrapper.py,sha256=eRLDhz5DH5nAi3_iPjevBREXMfcZc1gUXx4bLwZuDdc,6137
+sotaai/cv/torch_wrapper.py,sha256=VRhGOG97RMk-lQM8O53HpgCzJaDU4uINW8vp3d8lOIk,21260
+sotaai/cv/utils.py,sha256=k17XLfmwj0T8QVeiIT-6AuxF1TjUv4RRDOU53_ECLo8,29534
+sotaai-0.0.7.dist-info/LICENSE,sha256=FootDCR1Km3QyWpq6lQrEInGKYKUM9wn9u2PkghuVlw,28
+sotaai-0.0.7.dist-info/METADATA,sha256=nj42CU8n04aVEokhbeEWz9m49x9UA2JUaa6vyXkrTJI,762
+sotaai-0.0.7.dist-info/WHEEL,sha256=OqRkF0eY5GHssMorFjlbTIq072vpHpF60fIQA6lS9xA,92
+sotaai-0.0.7.dist-info/top_level.txt,sha256=SOIJaAWjlP0CC2IB95lue3RDDH6u_fULs-XuDrxHvtM,7
+sotaai-0.0.7.dist-info/RECORD,,
