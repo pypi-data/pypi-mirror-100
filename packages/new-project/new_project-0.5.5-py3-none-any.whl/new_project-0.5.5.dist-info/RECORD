@@ -1,0 +1,14 @@
+new/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+new/__main__.py,sha256=mOZaXvouL-lDB8oax16dO3vBEOu-HARUyCMYB_8IJqM,1533
+new/replace.py,sha256=aYm3j7HP0xg0Nl86UdzwUE3wqjdoy7GMDBEDyFfD_ec,1104
+new/repo.py,sha256=aSIEC1r8tc6QcCZelFJx93kcA_rqC-wJrmAMn28hZxM,490
+new/template.py,sha256=mywAUFUgT17alquYsPJXWTsRvc1i3IPetn4tcx6aFn4,828
+tests/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+tests/replace_test.py,sha256=8QFaXasI7j4_lURDpfNf6iSInZfqPkIyqr52_bLes6I,508
+tests/repo_test.py,sha256=3dtG1O6Eh7X2u2HTRu3LZQ8xzIrKAt_N5YhCwZVhr3o,379
+tests/template_test.py,sha256=4fjQIDk15rqZvocknHXsfAcAJt4HGQVibGwU_Uv2Ab8,1568
+new_project-0.5.5.dist-info/METADATA,sha256=_KpgCYzEVpplRaBRx8t1pJ_XnRT6GIDJzzuMIVtLnWU,3015
+new_project-0.5.5.dist-info/WHEEL,sha256=OqRkF0eY5GHssMorFjlbTIq072vpHpF60fIQA6lS9xA,92
+new_project-0.5.5.dist-info/entry_points.txt,sha256=iMGanZV78KztElmJCXkWIFyOPw2BPxUGpcdN-BADHNA,43
+new_project-0.5.5.dist-info/top_level.txt,sha256=hczaD_5V3WS9IhKqFbWio_0c3G1yvi48sxj6E3BIxxg,10
+new_project-0.5.5.dist-info/RECORD,,
