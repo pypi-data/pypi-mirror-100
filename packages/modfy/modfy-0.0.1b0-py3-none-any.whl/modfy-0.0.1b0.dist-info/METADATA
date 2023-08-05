@@ -1,0 +1,30 @@
+Metadata-Version: 2.1
+Name: modfy
+Version: 0.0.1b0
+Summary: Video processing package
+Home-page: UNKNOWN
+Author: Modfy Inc
+Author-email: <hello@modfy.video>
+License: UNKNOWN
+Keywords: python,video,processing,converting,trimming,transcode,compress
+Platform: UNKNOWN
+Classifier: Development Status :: 1 - Planning
+Classifier: Intended Audience :: Developers
+Classifier: Programming Language :: Python :: 3
+Classifier: Operating System :: Unix
+Classifier: Operating System :: MacOS :: MacOS X
+Classifier: Operating System :: Microsoft :: Windows
+Description-Content-Type: text/markdown
+Requires-Dist: pycryptodome
+Requires-Dist: python-decouple
+Requires-Dist: requests
+
+
+# Modfy
+
+Modfy API Python Client
+
+Client Wrapper for https://api.modfy.video
+
+Full Docs at https://docs.modfy.video
+
