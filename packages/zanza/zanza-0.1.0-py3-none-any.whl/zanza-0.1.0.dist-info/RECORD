@@ -1,0 +1,14 @@
+dezanza/__init__.py,sha256=rKnfYx7eku6KQmDOv073Gv5FZq_BGolrNzmp_8mv4aw,1211
+dezanza/__main__.py,sha256=GPUAX_cB9f-ridRc0pocYtj6CgP8KEluyPDz6s-Fh3U,698
+dezanza/tests/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+dezanza/tests/tests_dezanza.py,sha256=B2N9No55Abkx4IMKEr3jsS-KOgvur1mZH__tY6OYNiU,597
+zanza/__init__.py,sha256=GhGAGLRAW9-qOBj0Hy2c7z6qjfh9irq86CD7cGfxgjg,999
+zanza/__main__.py,sha256=x98qGVoglRT0hfJVCYfonbK__dbtqtZ1DgxLeadPzHY,669
+zanza/tests/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+zanza/tests/tests_zanza.py,sha256=TKNR15J0F1cL9oEDOEjbw7-BiY4mz3r6WT07L8eNo3A,445
+zanza-0.1.0.dist-info/LICENSE,sha256=Qf4h3UtITbfb7rQDKqZT3PtEMErBfQxlGqrholzUMNQ,1450
+zanza-0.1.0.dist-info/METADATA,sha256=mmpLJoVsv0cJLHqVTEykw3CqhtDS1X8gwUE87gZ7ZLw,1962
+zanza-0.1.0.dist-info/WHEEL,sha256=OqRkF0eY5GHssMorFjlbTIq072vpHpF60fIQA6lS9xA,92
+zanza-0.1.0.dist-info/entry_points.txt,sha256=P62fxAOuPhbG25LThi9HLH50baVRDFs_dir7XcWwx0Y,79
+zanza-0.1.0.dist-info/top_level.txt,sha256=OCz3o7R1H4KW9tydcZyunU5p-YCH0QlHCrhwT-XZIxk,14
+zanza-0.1.0.dist-info/RECORD,,
