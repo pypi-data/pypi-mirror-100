@@ -1,0 +1,14 @@
+onednn_cpu_tbb-2021.2.0.data/data/lib/libdnnl.2.2.dylib,sha256=p0TG1MqobJOkmHR8SZ3Fp5gmFL93McVp-EfFQjxzqhI,179226944
+onednn_cpu_tbb-2021.2.0.data/data/lib/libdnnl.2.dylib,sha256=p0TG1MqobJOkmHR8SZ3Fp5gmFL93McVp-EfFQjxzqhI,179226944
+onednn_cpu_tbb-2021.2.0.data/data/lib/libdnnl.dylib,sha256=p0TG1MqobJOkmHR8SZ3Fp5gmFL93McVp-EfFQjxzqhI,179226944
+onednn_cpu_tbb-2021.2.0.data/data/lib/libmkldnn.2.2.dylib,sha256=p0TG1MqobJOkmHR8SZ3Fp5gmFL93McVp-EfFQjxzqhI,179226944
+onednn_cpu_tbb-2021.2.0.data/data/lib/libmkldnn.2.dylib,sha256=p0TG1MqobJOkmHR8SZ3Fp5gmFL93McVp-EfFQjxzqhI,179226944
+onednn_cpu_tbb-2021.2.0.data/data/lib/libmkldnn.dylib,sha256=p0TG1MqobJOkmHR8SZ3Fp5gmFL93McVp-EfFQjxzqhI,179226944
+onednn_cpu_tbb-2021.2.0.data/data/share/doc/onednn/LICENSE,sha256=BNs0pI3wf2e75oeBhvbIT197IEvPHlxR6eSEzMreQqY,11488
+onednn_cpu_tbb-2021.2.0.data/data/share/doc/onednn/README,sha256=9Fpk6_1qwex6l5uDwaqFFblbfBQuMmEzwpg3KSYV1IM,6463
+onednn_cpu_tbb-2021.2.0.data/data/share/doc/onednn/THIRD-PARTY-PROGRAMS,sha256=CaGlK7mtfT8aEQnLGEhD3TOl16TVIf54L08A48ZShJE,27937
+onednn_cpu_tbb-2021.2.0.dist-info/LICENSE.txt,sha256=7micbUpzQXphq9e_2oL7PpZcvoXzPuQHIDEXyKXC81s,10797
+onednn_cpu_tbb-2021.2.0.dist-info/METADATA,sha256=lrQh6-ekAlGXOvlcR1jMshxgbymkQFKfl-MoihlW-9M,1239
+onednn_cpu_tbb-2021.2.0.dist-info/WHEEL,sha256=jkfr80i2ZOBVY8MXKAZYUU6PpWN2ESsdf2qU9UFlEVI,142
+onednn_cpu_tbb-2021.2.0.dist-info/top_level.txt,sha256=AbpHGcgLb-kRsJGnwFEktk7uzpZOCcBY74-YBdrKVGs,1
+onednn_cpu_tbb-2021.2.0.dist-info/RECORD,,
