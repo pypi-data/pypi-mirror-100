@@ -1,0 +1,13 @@
+sentsplit/__init__.py,sha256=E0-b-rWGC4nQ0jLjgCTnZObMUgT97h0ez5JdIKfMEUA,4596
+sentsplit/cli.py,sha256=-CGUaidqzDzNtW5X8kebEYeJe_gEj1rYpKrlUEiO-pw,2364
+sentsplit/config.py,sha256=mK1poR321WQAAom0zAtOF9Hhw5Keq3kJ8k7DM9skOmI,1605
+sentsplit/meta_data.py,sha256=RM1reMadKOo_Rn3r9qEbChLuJI70GYmSMDDQyOFEKJw,214
+sentsplit/regexes.py,sha256=Is-lJ6Gl_a6HGZYCxMzBHRm8yNLKc6ykzMqCG5KBhoM,820
+sentsplit/segment.py,sha256=YKYck7lXe0cOCZ-0vnI0uwPem0lO0Bqosf1cRnFx9NE,13638
+sentsplit/train.py,sha256=bcIbLolqfHkfQ4aCRO0Fa3z8CzK7gLGn5GnnaP8BWjU,4149
+sentsplit/utils.py,sha256=tS4Flmj9i9DVn9Nb-orGgWwLJ9hUyXuteioutxwoa-o,1031
+sentsplit-1.0.0.dist-info/METADATA,sha256=vo7dGPLKJhJEAEo1I5IThpAHa2WscHVx0FvsDsWjrkE,412
+sentsplit-1.0.0.dist-info/WHEEL,sha256=OqRkF0eY5GHssMorFjlbTIq072vpHpF60fIQA6lS9xA,92
+sentsplit-1.0.0.dist-info/entry_points.txt,sha256=I9YalWIsPibX7trRRoe4Fmuj0hPAYvcBzZpgNmCoEPg,46
+sentsplit-1.0.0.dist-info/top_level.txt,sha256=2vF95awECKQqTRLj__ICUac1vidSEFs3sctnyNSyyIo,10
+sentsplit-1.0.0.dist-info/RECORD,,
