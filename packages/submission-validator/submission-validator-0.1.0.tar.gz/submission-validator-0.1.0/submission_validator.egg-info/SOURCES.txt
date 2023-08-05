@@ -1,0 +1,7 @@
+README.md
+setup.py
+submission_validator.egg-info/PKG-INFO
+submission_validator.egg-info/SOURCES.txt
+submission_validator.egg-info/dependency_links.txt
+submission_validator.egg-info/requires.txt
+submission_validator.egg-info/top_level.txt
