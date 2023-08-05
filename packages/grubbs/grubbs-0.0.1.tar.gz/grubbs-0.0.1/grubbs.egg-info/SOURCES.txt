@@ -1,0 +1,10 @@
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+grubbs/__init__.py
+grubbs.egg-info/PKG-INFO
+grubbs.egg-info/SOURCES.txt
+grubbs.egg-info/dependency_links.txt
+grubbs.egg-info/requires.txt
+grubbs.egg-info/top_level.txt
