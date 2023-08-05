@@ -1,0 +1,9 @@
+README.md
+setup.py
+gpuparallel/__init__.py
+gpuparallel/gpuparallel.py
+gpuparallel.egg-info/PKG-INFO
+gpuparallel.egg-info/SOURCES.txt
+gpuparallel.egg-info/dependency_links.txt
+gpuparallel.egg-info/requires.txt
+gpuparallel.egg-info/top_level.txt
