@@ -1,0 +1,9 @@
+pytorch_pqrnn/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+pytorch_pqrnn/dataset.py,sha256=yVkH917HVSQiQeP5K5cfVhAQQTUvqioDM51tM1dSrLw,8052
+pytorch_pqrnn/model.py,sha256=zSn7NuwRQqlKXCZnoB3LSxiJmI1mr1BZfNIAJko3GJI,7370
+pytorch_pqrnn/utils.py,sha256=60rIOUR5usM1F5FJ-VvUYyGJfob5-a5q18z-xaVUrnU,1134
+pytorch_pqrnn-0.1.0.dist-info/entry_points.txt,sha256=yL6aFf3MoC8ZgsjGtv_xXiYN_MgiKxPyhiNDh2v6IR4,60
+pytorch_pqrnn-0.1.0.dist-info/LICENSE,sha256=lq7PW2WYqZdNwVtNeQRpimaoYm5bmtSdc6U1QDOIymg,1069
+pytorch_pqrnn-0.1.0.dist-info/WHEEL,sha256=SrtnPGVTMeYWttls9xnWA01eUhCZ3ufFdJUYb1J3r-U,83
+pytorch_pqrnn-0.1.0.dist-info/METADATA,sha256=ToVwD6D1233QsR44t9I7obehdIv98cFttQR3sz-K8iM,4967
+pytorch_pqrnn-0.1.0.dist-info/RECORD,,

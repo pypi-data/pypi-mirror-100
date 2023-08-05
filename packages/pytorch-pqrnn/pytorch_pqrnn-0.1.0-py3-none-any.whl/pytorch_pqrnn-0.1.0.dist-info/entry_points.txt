@@ -1,0 +1,3 @@
+[console_scripts]
+pytorch-pqrnn=pytorch_pqrnn.__main__:app
+
