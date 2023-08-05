@@ -1,0 +1,8 @@
+pyttsx3
+playsound
+pywin32
+gtts
+kivy
+importlib
+pandas
+pathlib
