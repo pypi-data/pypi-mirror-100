@@ -1,0 +1,9 @@
+wheel
+google-cloud-pubsub
+google-cloud-storage
+requests
+aiohttp
+websockets
+loguru==0.2.4
+leadguru-data
+pydantic==1.8.1
