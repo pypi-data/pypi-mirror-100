@@ -1,0 +1,6 @@
+README.md
+kinnairdutils.egg-info/PKG-INFO
+kinnairdutils.egg-info/SOURCES.txt
+kinnairdutils.egg-info/dependency_links.txt
+kinnairdutils.egg-info/top_level.txt
+kinnairdutils.egg-info/zip-safe
