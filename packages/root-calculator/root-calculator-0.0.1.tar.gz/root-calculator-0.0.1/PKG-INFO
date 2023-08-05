@@ -1,0 +1,18 @@
+Metadata-Version: 2.1
+Name: root-calculator
+Version: 0.0.1
+Summary: An Example on Packaging
+Home-page: https://github.com/robustics/Packaging
+Author: Princeton
+Author-email: mprinceton@primerobustics.com
+License: UNKNOWN
+Description: # Example packages
+        
+        This is just a simple program to calculate the squareroot of any number
+        
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown

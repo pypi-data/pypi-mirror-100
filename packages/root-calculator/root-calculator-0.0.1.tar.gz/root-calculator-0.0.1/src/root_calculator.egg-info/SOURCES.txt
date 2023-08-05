@@ -1,0 +1,8 @@
+README.md
+setup.py
+src/libry/__init__.py
+src/libry/squareroot.py
+src/root_calculator.egg-info/PKG-INFO
+src/root_calculator.egg-info/SOURCES.txt
+src/root_calculator.egg-info/dependency_links.txt
+src/root_calculator.egg-info/top_level.txt
