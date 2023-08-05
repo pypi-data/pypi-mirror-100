@@ -1,0 +1,49 @@
+Metadata-Version: 2.1
+Name: jyk-timer
+Version: 0.2.0
+Summary: jyk timer utils
+Home-page: https://git.kongkongss.com/jyk/jyk-timer
+Author: Yongkang Jiang
+Author-email: jyk.kongkong@gmail.com
+License: MIT
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3.7
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.7
+Description-Content-Type: text/markdown
+
+# jyk-timer
+
+jyk time utils
+
+
+## Installation
+```
+$ pip install jyk-timer
+```
+
+## Running the tests
+
+```shell
+$ cd jyk-timer
+$ pytest -s
+```
+
+## Changelog
+
+## 0.2.0
+> 2021-03-26 change api
+## 0.1.0
+> 2020-07-15 release
+
+
+## Authors
+
+* **kongkong Jiang** - *Initial work* - [jyker](https://git.kongkongss.com/jyker)
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
+
+
