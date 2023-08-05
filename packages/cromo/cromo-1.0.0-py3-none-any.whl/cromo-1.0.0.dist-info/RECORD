@@ -1,0 +1,9 @@
+cromo/__init__.py,sha256=Aj77VL1d5Mdku7sgCgKQmPuYavPpAHuZuJcy6bygQZE,21
+cromo/__main__.py,sha256=VoR3iH9wx29aHM0Duv86_8WWZPdlTUA7N4VALS-epQs,1995
+cromo/_utils.py,sha256=g6zvGXyZQ6KXN5wNzvKz7BbgnYH3lX9N8NIF6lLeL50,3823
+cromo/constants.py,sha256=Gy0AFgrqTHRd7jyOtzZFyxDiwKoqmHawR_thPeqjtB0,270
+cromo-1.0.0.dist-info/METADATA,sha256=zjmB02ZgrpwpbDRlr0ADpLXg0OFHR2qHyG8w0dqy3tE,774
+cromo-1.0.0.dist-info/WHEEL,sha256=EVRjI69F5qVjm_YgqcTXPnTAv3BfSUr0WVAHuSP3Xoo,92
+cromo-1.0.0.dist-info/entry_points.txt,sha256=HKktEZj_vq1zuVnlClzqFYHDkdEg-7J0IWQYwxN-mWE,46
+cromo-1.0.0.dist-info/top_level.txt,sha256=GKkrr0bDAfq3GWFEEH-KvJrrWNBKTpIGHlvm8wGdhnM,6
+cromo-1.0.0.dist-info/RECORD,,
