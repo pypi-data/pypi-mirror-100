@@ -1,0 +1,15 @@
+easytensor/__init__.py,sha256=tp1O_mc7u3tSkI39CQU3Aq5K9Mxcgddyjzd-2C_ZLDM,264
+easytensor/auth.py,sha256=gFCKVwl4EqKiNNWS6ir2K56I_AJCJ4uTb1SWX5cezXI,3563
+easytensor/config.py,sha256=BCa5NMM-7--vcniQAP4hJeb9xxl_iLzQXGzgAdgrEyw,2111
+easytensor/constants.py,sha256=gJBH6WZYPJIPni6sSoINyGE65muioR-yYtuU5qppWBA,240
+easytensor/upload.py,sha256=gROpEv0n-9ca66XT8bSC8Gmb1t4VTwQ42VKtAEsQ_I0,2905
+easytensor/urls.py,sha256=MwlD5dh-4pVYLjuZ0-TD8A54Ga8U-L3C4xbs3NwL6YE,1159
+easytensor/pytorch/__init__.py,sha256=b4pr_SShpwN7XY0yXAv5cWU3P7w3ofsa-ultCVBKZew,94
+easytensor/pytorch/upload.py,sha256=KWrGIBIBi4VA-kwbJFlEyDDuZl2puWIB24mOO9jLicA,5179
+easytensor/tensorflow/__init__.py,sha256=NcTUjal3aPl3ntJQvHEJO3-pl1_ASky7VBvVuA33jYw,100
+easytensor/tensorflow/upload.py,sha256=1N5yjA7dr1T6w3RxqO9GjT6_yuUM-NVmPnBAS977ab0,1262
+easytensor-0.0.5.dist-info/LICENSE,sha256=7EI8xVBu6h_7_JlVw-yPhhOZlpY9hP8wal7kHtqKT_E,1074
+easytensor-0.0.5.dist-info/METADATA,sha256=uOHC-3i2rafBXZdoaiRo47RQ2SwG0soZXOVAn5v8xR8,2859
+easytensor-0.0.5.dist-info/WHEEL,sha256=OqRkF0eY5GHssMorFjlbTIq072vpHpF60fIQA6lS9xA,92
+easytensor-0.0.5.dist-info/top_level.txt,sha256=vw1S2aBMDajhVwfl_X6JmbdKZjffqtk79OHesMH42QI,11
+easytensor-0.0.5.dist-info/RECORD,,
