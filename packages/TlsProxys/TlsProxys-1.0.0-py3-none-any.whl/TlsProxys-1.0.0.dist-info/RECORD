@@ -1,0 +1,12 @@
+TlsProxy/__init__.py,sha256=z-JfRsiMLSA05RSNHD2_Q7LTKq5rTbK8ksRzVZo9dXs,49
+TlsProxy/client.py,sha256=qcV7urRgMRxbUf4s9B0DTicWGD6CMdNO-uiMPQxZK84,3084
+TlsProxy/config.py,sha256=DqoMKpwRNh8yxtdJT0SHlxHeX5RUmbwUFlIseEQ8TKA,3615
+TlsProxy/flags.py,sha256=7u67iZMCrSPc2v-KBiLGKu8uNI2CZVPVFz6PupqlFkM,1910
+TlsProxy/server.py,sha256=IlVyBrHFVtrny8rDW14hvhgLX9c2L_DNkqi7IhW6Hbk,2834
+TlsProxy/utils.py,sha256=I2HXQSU_Vz99V3iSUOaQBDF4sokUlWla3xpu-hfrQ8M,1980
+TlsProxys-1.0.0.dist-info/LICENSE,sha256=gcuuhKKc5-dwvyvHsXjlC9oM6N5gZ6umYbC8ewW1Yvg,35821
+TlsProxys-1.0.0.dist-info/METADATA,sha256=kZWTzoWcKoFJoscvjd1gbtlSyYh9MRieCs1hrPtlKT4,2739
+TlsProxys-1.0.0.dist-info/WHEEL,sha256=OqRkF0eY5GHssMorFjlbTIq072vpHpF60fIQA6lS9xA,92
+TlsProxys-1.0.0.dist-info/entry_points.txt,sha256=CC-pDzwZUeUsb4nhII1AAFMXJ-vfau6YELdWopVvT-I,85
+TlsProxys-1.0.0.dist-info/top_level.txt,sha256=HxBGeW3mV-2kcy00AGtBMNKZ14mSCjoAyWdcRAMlecQ,9
+TlsProxys-1.0.0.dist-info/RECORD,,
