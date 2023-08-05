@@ -1,0 +1,61 @@
+# Zanza
+
+Dead-simple string obfuscation algorithm.
+
+Obfuscation works by identifying the Unicode code points (character codes) of
+each character in the input string. The return value is a *list*, in which the
+first element is also a list containing the first character's code point digits.
+The rest of the elements are the code point delta values, where each element is
+compared to the previous one.
+
+As the project supports **Python 3.0 and up**, all Unicode strings should work.
+
+## Installation
+
+To install as a **project-dependency**, execute the following command in the
+project's directory:
+
+    pip install zanza
+
+To use as a standalone **command-line utility**, add the `--user` flag to the
+previous command:
+
+    pip install --user zanza
+
+## Usage
+
+This package contains scripts for both string _obfuscation_ (`zanza`) and
+_deobfuscation_ (`dezanza`)
+
+### Obfuscation
+
+```python
+>>> from zanza import zanza
+
+>>> zanza("I am awesome!")
+[[7, 3], -41, 65, 12, -77, 65, 22, -18, 14, -4, -2, -8, -68]
+
+>>> zanza("Emojis will work, too: 💪")
+[[6, 9], 40, 2, -5, -1, 10, -83, 87, -14, 3, 0, -76, 87, -8, 3, -7, -63, -12, 84, -5, 0, -53, -26, 65501]
+
+>>> zanza("""Another
+... fancy
+... stuff""")
+[[6, 5], 45, 1, 5, -12, -3, 13, -104, 92, -5, 13, -11, 22, -111, 105, 1, 1, -15, 0]
+```
+
+### Deobfuscation
+
+```python
+>>> from dezanza import dezanza
+
+>>> dezanza([[8, 3], 18, -2, 15, -13, 15, -84, 83, 1, -2, -9, 5, -7, -71, 82, -13, 17, -17, -4, 11, -7, -1])
+'Secret string revealed'
+
+>>> dezanza([[7, 8], 33, -101, 98, 3, -1, -7, -2, 13, -104, 101, -13, 4, 15, -2, -16, -2, 19, -15, -1])
+'No\nlonger\nobfuscated'
+```
+
+## License
+
+[BSD-3-Clause](https://opensource.org/licenses/BSD-3-Clause)
