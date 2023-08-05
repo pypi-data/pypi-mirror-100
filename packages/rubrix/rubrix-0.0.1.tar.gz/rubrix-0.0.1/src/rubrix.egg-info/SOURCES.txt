@@ -1,0 +1,16 @@
+.gitignore
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+docs/Makefile
+docs/conf.py
+docs/index.rst
+docs/make.bat
+src/rubrix/__init__.py
+src/rubrix/version.py
+src/rubrix.egg-info/PKG-INFO
+src/rubrix.egg-info/SOURCES.txt
+src/rubrix.egg-info/dependency_links.txt
+src/rubrix.egg-info/requires.txt
+src/rubrix.egg-info/top_level.txt
