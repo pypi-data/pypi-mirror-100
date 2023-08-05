@@ -1,0 +1,11 @@
+theconcierge/__init__.py,sha256=b0Cr97Or9oaWK9c8ODj8HcPqbbq55YjHWXa6mfPJVFs,234
+theconcierge/listener/handlers.py,sha256=XlLPkkJLpa21b9O6qaUgtXAd0NaE4LiigHhTY4QNPrw,389
+theconcierge/listener/listener.py,sha256=lhgjfrlUxFAAWg15_3yeYxyM_47pMa_5oCSiKB3OZL8,185
+theconcierge/main/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+theconcierge/main/theconcierge.py,sha256=pETEdli6dSM9d8DhObitYgrzJZvZEAG-nAAtrjUXH7E,581
+theconcierge/settings/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+theconcierge/settings/config.py,sha256=FnxFvtj8xDXwbTCJs6NUKl8bVC2DdR_fo-AETo4w8W4,1826
+theconcierge-0.0.2.dist-info/LICENSE,sha256=YF6QR6Vjxcg5b_sYIyqkME7FZYau5TfEUGTG-0JeRK0,35129
+theconcierge-0.0.2.dist-info/WHEEL,sha256=SrtnPGVTMeYWttls9xnWA01eUhCZ3ufFdJUYb1J3r-U,83
+theconcierge-0.0.2.dist-info/METADATA,sha256=9IH8PwhYUg8Bo-qf5dDIjOlyMDHBoKl6Dv5evtXoJpg,4490
+theconcierge-0.0.2.dist-info/RECORD,,
