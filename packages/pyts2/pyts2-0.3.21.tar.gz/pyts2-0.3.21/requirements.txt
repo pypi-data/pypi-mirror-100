@@ -1,0 +1,16 @@
+click
+imageio
+inotify
+msgpack
+numpy
+opencv-python-headless
+piexif
+pillow
+pytelegraf
+pytz
+rawpy
+requests
+scikit-image
+tqdm
+influxdb-client[ciso]
+b2sdk
