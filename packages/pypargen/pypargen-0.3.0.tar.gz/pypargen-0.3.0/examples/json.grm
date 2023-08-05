@@ -1,0 +1,28 @@
+value -> string
+value -> number
+value -> object
+value -> array
+value -> "true"
+value -> "false"
+value -> "null"
+
+kvpair -> string ":" value
+kvpairs -> kvpairs "," kvpair
+kvpairs -> kvpair
+object -> "{" "}"
+object -> "{" kvpairs "}"
+
+vals -> vals "," value
+vals -> value
+array -> "\[" "\]"
+array -> "\[" vals "\]"
+
+hex -> "[0-9a-fA-F][0-9a-fA-F][0-9a-fA-F][0-9a-fA-F]"
+chr -> "\\" "[\"\\/bfnrt]"
+chr -> "\\" "u" hex
+chr -> "[ !#$%&'\(\)\*+,-./0-9:;<=>?@A-Z\[\]^_`a-z{\|}~]"
+chrs -> chrs chr
+chrs -> ϵ
+string -> "\"" chrs "\""
+
+number -> "(-|())([1-9][0-9]*|0)((.[0-9][0-9]*)|())([Ee]([-+]|())[0-9][0-9]*|())"
