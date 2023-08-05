@@ -1,0 +1,7 @@
+Metadata-Version: 1.1
+Name: stdlibs
+Version: 0
+Summary: List of packages in the stdlib
+Home-page: https://github.com/jreese/stdlibs
+Author: John Reese
+Author-email: john@noswap.com
