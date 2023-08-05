@@ -1,0 +1,13 @@
+mypy_boto3_appflow/__init__.py,sha256=6eEj4F0RbeTMA952ia47QpgxKf8-t0lb3v4aSbQjffY,437
+mypy_boto3_appflow/__init__.pyi,sha256=hUjJ8ndAAPbW18pQ6z4mAVJxISJlLpP7_RKnJLPO05M,436
+mypy_boto3_appflow/__main__.py,sha256=jw4eMFuMr5Ks_KaVqj9vWj3Oi2_YNv0LNO12r8A5VBE,394
+mypy_boto3_appflow/client.py,sha256=kcXouavzQ9FLksq7MMrZKT329L1YZHPnO_fqMplTJ7Q,12222
+mypy_boto3_appflow/client.pyi,sha256=P6q-LFqxDuvaAIEyap9XbMYhJ-BUxc--c7QRtVvgmRg,12197
+mypy_boto3_appflow/py.typed,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+mypy_boto3_appflow/type_defs.py,sha256=2Ur0_mN-GE-BwaRGGurFKxdXei7eccTHOV37FDiuOgg,46892
+mypy_boto3_appflow/type_defs.pyi,sha256=iDsfMrIoPgjxufgsPktJK5ah5xP8tcEVURNlPvyEIdI,46841
+mypy_boto3_appflow/version.py,sha256=GVwXy5X10E-wBBPHismbMC7M4zGIwwmOF248OY2LoDU,57
+mypy_boto3_appflow-1.17.39.0.dist-info/METADATA,sha256=08rjW0f3fMgW-iUqChC0QI0d5tY9n0_r8pu2wPO7NBs,9869
+mypy_boto3_appflow-1.17.39.0.dist-info/WHEEL,sha256=OqRkF0eY5GHssMorFjlbTIq072vpHpF60fIQA6lS9xA,92
+mypy_boto3_appflow-1.17.39.0.dist-info/top_level.txt,sha256=VWsEbcXvsiT_YzaeKS05xSA3nPGQXWhdlxx_7o74KDA,19
+mypy_boto3_appflow-1.17.39.0.dist-info/RECORD,,
