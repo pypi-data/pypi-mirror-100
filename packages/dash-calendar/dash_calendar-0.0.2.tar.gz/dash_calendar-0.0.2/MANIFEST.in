@@ -1,0 +1,7 @@
+include dash_calendar/dash_calendar.min.js
+include dash_calendar/dash_calendar.min.js.map
+include dash_calendar/metadata.json
+include dash_calendar/package-info.json
+include README.md
+include LICENSE
+include package.json
