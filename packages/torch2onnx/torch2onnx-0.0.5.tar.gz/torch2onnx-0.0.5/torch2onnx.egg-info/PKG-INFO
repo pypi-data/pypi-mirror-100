@@ -1,0 +1,14 @@
+Metadata-Version: 2.1
+Name: torch2onnx
+Version: 0.0.5
+Summary: convertor tool for pytorch format to onnx and torchscript
+Home-page: https://github.com/ooooona/model_tools.git
+Author: maojiangyun
+Author-email: maojiangyun@163.com
+License: NU General Public License v3.0
+Description: torch2onnx
+        
+Platform: darwin
+Platform: linux
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
