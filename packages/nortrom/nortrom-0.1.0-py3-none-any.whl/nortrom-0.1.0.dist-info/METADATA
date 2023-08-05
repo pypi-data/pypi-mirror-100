@@ -1,0 +1,11 @@
+Metadata-Version: 2.1
+Name: nortrom
+Version: 0.1.0
+Summary: A Discord bot to mute/deafen people
+Author: Stefano Pigozzi
+Author-email: me@steffo.eu
+Requires-Python: >=3.9,<4.0
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.9
+Requires-Dist: discord-py-slash-command (>=1.1.0,<2.0.0)
+Requires-Dist: discord.py (>=1.6.0,<2.0.0)
