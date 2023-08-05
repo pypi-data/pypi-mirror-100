@@ -1,0 +1,8 @@
+README.md
+pyproject.toml
+setup.cfg
+src/fastpivot/__init__.py
+src/fastpivot.egg-info/PKG-INFO
+src/fastpivot.egg-info/SOURCES.txt
+src/fastpivot.egg-info/dependency_links.txt
+src/fastpivot.egg-info/top_level.txt
