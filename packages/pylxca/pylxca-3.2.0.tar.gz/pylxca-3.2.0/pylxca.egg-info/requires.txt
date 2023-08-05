@@ -1,0 +1,3 @@
+requests-toolbelt>=0.8.0
+requests>=2.7.0
+unittest2
