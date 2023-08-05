@@ -1,0 +1,15 @@
+shirkhan/__init__.py,sha256=QX_EesUzGV6ZYcX-BRchRZLIm-iP6nz93XPKdZxRjHg,358
+shirkhan/shir_csv.py,sha256=isTp-GFT5zd2V3V8VrRfu6KmjZbnyl1SnbrYUIPChLM,848
+shirkhan/shir_encode_decode.py,sha256=hb6frL4Jar8U7XHUZGQ8tZWkSdlZaeLaSxPbfTJql_s,1352
+shirkhan/shir_encryption.py,sha256=3SEWM2cn6zB_GVmFwbvjYo4eImL2jFEUIXozV94kIrA,2173
+shirkhan/shir_file.py,sha256=Hyj7_x2aBmQhEYJ0WDXN7qgkxNJDs4KdzRztaHKQBME,730
+shirkhan/shir_string.py,sha256=1Vf_25v7-ljRwpyPsPSZVnFbknQoxh9hc0GhoU-OyJM,709
+shirkhan/shir_syllable.py,sha256=7Xo9w3_Baq5MfaQXNBRR_FLuMu5tCWJgXrCxA_ymaBM,15748
+shirkhan/shir_excel/__init__.py,sha256=aP9P0s64d68KGtpvH17pmWFlLlOp4AHC8ZQcM25HqrU,2327
+shirkhan/shir_excel/xls.py,sha256=9LzidRK5JpUcax9KOalkr7UUZzUeEq7FV1Yv_M7e_cQ,4298
+shirkhan/shir_excel/xlsx.py,sha256=V68XYH9vSTeMJqDyVSDcqK36oX4RdjkNQVKnBXWDyGk,5207
+shirkhan-0.0.14.dist-info/LICENSE,sha256=C9SlOcHy6dFw3V5opvYUSkU4MrydFqDa6FxlbNtfGhY,1066
+shirkhan-0.0.14.dist-info/METADATA,sha256=xHRfEHrqtpgKIZrVH6PSd3bvh6pF_e4OHAJ8wVFdkBw,3317
+shirkhan-0.0.14.dist-info/WHEEL,sha256=OqRkF0eY5GHssMorFjlbTIq072vpHpF60fIQA6lS9xA,92
+shirkhan-0.0.14.dist-info/top_level.txt,sha256=RwAXFDqNOEhvUaEhscRRrvmM_Itx4NpLwfdNAszPBaA,9
+shirkhan-0.0.14.dist-info/RECORD,,
