@@ -1,0 +1,10 @@
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+timedeltafmt/__init__.py
+timedeltafmt.egg-info/PKG-INFO
+timedeltafmt.egg-info/SOURCES.txt
+timedeltafmt.egg-info/dependency_links.txt
+timedeltafmt.egg-info/entry_points.txt
+timedeltafmt.egg-info/top_level.txt
