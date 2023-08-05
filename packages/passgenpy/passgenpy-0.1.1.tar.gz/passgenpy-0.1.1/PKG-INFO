@@ -1,0 +1,20 @@
+Metadata-Version: 1.1
+Name: passgenpy
+Version: 0.1.1
+Summary: A password generator written in Python 3.x
+Home-page: https://github.com/Pavlos-Efstathiou/Password-Generator/
+Author: Pavlos Efstathiou
+Author-email: paulefstathiou@gmail.com
+License: MIT
+Download-URL: https://github.com/Pavlos-Efstathiou/Password-Generator/archive/v_011.tar.gz
+Description: UNKNOWN
+Keywords: random,password,generator
+Platform: UNKNOWN
+Classifier: Development Status :: 3 - Alpha
+Classifier: Intended Audience :: Developers
+Classifier: Topic :: Software Development :: Build Tools
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.4
+Classifier: Programming Language :: Python :: 3.5
+Classifier: Programming Language :: Python :: 3.6
