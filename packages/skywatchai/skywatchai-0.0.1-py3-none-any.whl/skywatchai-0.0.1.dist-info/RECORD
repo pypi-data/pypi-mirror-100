@@ -1,0 +1,10 @@
+skywatchai/SkywatchAI.py,sha256=MXrQR37oYmdr4FkGrsQnB1-wWvzGuocyZfC5iDJE1ro,7298
+skywatchai/SkywatchDB.py,sha256=Con0P0bRlAdN7e1euHRhq32XRrEElVRkIJ10l1rs1xc,2758
+skywatchai/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+skywatchai/utils.py,sha256=mgfpE-YYTHl6PHYpVt30RUW2GrvgaR_zG7Sb-JRQKIA,757
+skywatchai/model/FaceNet.py,sha256=TUNehn9HNuwzsxXul0EvLpotV05Fcww-F4K0D11w0k0,49556
+skywatchai/model/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+skywatchai-0.0.1.dist-info/METADATA,sha256=3KhdDK3IXov-n96YCv05FI89Gyms-E1M_GEA2QdAhBU,3042
+skywatchai-0.0.1.dist-info/WHEEL,sha256=OqRkF0eY5GHssMorFjlbTIq072vpHpF60fIQA6lS9xA,92
+skywatchai-0.0.1.dist-info/top_level.txt,sha256=zPz4sgjE1j4GFcfpxGDXNpFsvynYCEq5ytfsK6wPWkE,11
+skywatchai-0.0.1.dist-info/RECORD,,
