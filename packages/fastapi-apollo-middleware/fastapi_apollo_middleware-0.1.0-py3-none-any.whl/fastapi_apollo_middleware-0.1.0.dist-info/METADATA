@@ -1,0 +1,26 @@
+Metadata-Version: 2.1
+Name: fastapi-apollo-middleware
+Version: 0.1.0
+Summary: A FastAPI Middleware of Apollo(Config Server By CtripCorp) to get server config in every request.
+Home-page: https://github.com/sunhailin-Leo/fastapi_apollo_middleware
+Author: sunhailin-Leo
+Author-email: 379978424@qq.com
+License: MIT
+Keywords: fastapi,apollo,config server,middleware
+Platform: UNKNOWN
+Classifier: Development Status :: 4 - Beta
+Classifier: Environment :: Console
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Topic :: Software Development :: Libraries
+Requires-Dist: fastapi
+Requires-Dist: requests
+
+UNKNOWN
+
+
