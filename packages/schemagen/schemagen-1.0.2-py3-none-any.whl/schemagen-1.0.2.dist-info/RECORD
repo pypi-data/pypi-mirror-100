@@ -1,0 +1,12 @@
+schemagen/__init__.py,sha256=nPXJpHCTcouhrfr1m9r0clifZhB2yEajtsrdeYhsNPw,909
+schemagen/__main__.py,sha256=5BjNuyet8AY-POwoF5rGt722rHQ7tJ0Vf0UFUfzzi-I,58
+schemagen/schemagen.py,sha256=3TKr4QF1KwsA_RAgqnImjReeTuju5YZt7W9JfgUFErI,18594
+schemagen/codegen/__init__.py,sha256=jG0FdOPjg2KeMEmPDc9ERxGJV7iKREpgSz8KZl-RnI8,15695
+schemagen/errors/__init__.py,sha256=PH8L_pRoAquHaKscCuQD32jwd0xeXqs1_-Vy1SXheIs,499
+schemagen/utils/__init__.py,sha256=InO5Yj2fCqbt0DmXVa6zIy9fthgxI7em9QecSJfz4xM,2744
+schemagen-1.0.2.dist-info/LICENSE,sha256=nKqQCuPWN99_dZernpdhOCx67AmvJsi-MFy9rQNH5Sk,1069
+schemagen-1.0.2.dist-info/METADATA,sha256=HFCh9wr0Yub5dAejuhsSxB6d7YHS77tVL1R96YlYJ9k,2821
+schemagen-1.0.2.dist-info/WHEEL,sha256=OqRkF0eY5GHssMorFjlbTIq072vpHpF60fIQA6lS9xA,92
+schemagen-1.0.2.dist-info/entry_points.txt,sha256=EtcF44fJG6A3qXJu4KLPee7C9fCF0SbGMtZpl6wjn_c,46
+schemagen-1.0.2.dist-info/top_level.txt,sha256=VJMa_2gqFgESulclTt47t0cXdFtuPstcZFwqzC_y3D8,10
+schemagen-1.0.2.dist-info/RECORD,,
