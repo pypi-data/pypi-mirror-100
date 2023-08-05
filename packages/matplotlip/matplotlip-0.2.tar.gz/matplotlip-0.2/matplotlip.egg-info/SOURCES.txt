@@ -1,0 +1,11 @@
+README.md
+setup.cfg
+setup.py
+matplotlip/__init__.py
+matplotlip/test_fn.py
+matplotlip/test_fn2.py
+matplotlip.egg-info/PKG-INFO
+matplotlip.egg-info/SOURCES.txt
+matplotlip.egg-info/dependency_links.txt
+matplotlip.egg-info/not-zip-safe
+matplotlip.egg-info/top_level.txt
