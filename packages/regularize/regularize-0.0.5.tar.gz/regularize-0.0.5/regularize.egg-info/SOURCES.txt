@@ -1,0 +1,15 @@
+README.md
+setup.cfg
+setup.py
+./regularize/__init__.py
+./regularize/exceptions.py
+./regularize/expression.py
+./regularize/find.py
+./regularize/flag.py
+./regularize/replace.py
+regularize.egg-info/PKG-INFO
+regularize.egg-info/SOURCES.txt
+regularize.egg-info/dependency_links.txt
+regularize.egg-info/not-zip-safe
+regularize.egg-info/requires.txt
+regularize.egg-info/top_level.txt
