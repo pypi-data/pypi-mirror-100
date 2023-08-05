@@ -1,0 +1,9 @@
+audbackend/__init__.py,sha256=Ab2DtyrcgiWBMhD1EphTYiuM3tHuMqWuEL7OT2eu-b0,432
+audbackend/core/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+audbackend/core/backend.py,sha256=PYl395_t06Q8-8-6hnZWRqJ7O28UgUmSukBAfNUPbOY,17742
+audbackend/core/utils.py,sha256=u9g3UZRpLYBZqzMnJmCVu1skLHXrkpeIKhKO4JJ-tF4,555
+audbackend-0.3.1.dist-info/LICENSE,sha256=NR2XYchUq9pZEHC5e92UaW8PxjLowxGhW2T9SvwKS5Q,1138
+audbackend-0.3.1.dist-info/METADATA,sha256=BzMAvdTA4hy8O_tKyx0Xcrg4RjtRKPswNkWfgY2X9b4,3602
+audbackend-0.3.1.dist-info/WHEEL,sha256=OqRkF0eY5GHssMorFjlbTIq072vpHpF60fIQA6lS9xA,92
+audbackend-0.3.1.dist-info/top_level.txt,sha256=qIlC2TyyvCnlq6_eIiJ2Ngy4XhoZqgIErB9Le-2Ofyc,11
+audbackend-0.3.1.dist-info/RECORD,,
