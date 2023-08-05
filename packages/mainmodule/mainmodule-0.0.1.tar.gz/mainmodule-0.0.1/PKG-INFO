@@ -1,0 +1,17 @@
+Metadata-Version: 1.1
+Name: mainmodule
+Version: 0.0.1
+Summary: This is my first package that will be uploaded on pip
+Home-page: UNKNOWN
+Author: amit
+Author-email: fulldev101@gmail.com
+License: UNKNOWN
+Description: This is just a long description 
+Keywords: amit,amit-package-tutorial,tutorial
+Platform: UNKNOWN
+Classifier: Development Status :: 3 - Alpha
+Classifier: Intended Audience :: Education
+Classifier: Programming Language :: Python :: 2
+Classifier: Programming Language :: Python :: 3
+Classifier: Operating System :: MacOS :: MacOS X
+Classifier: Operating System :: Microsoft :: Windows
