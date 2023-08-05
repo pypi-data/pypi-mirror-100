@@ -1,0 +1,16 @@
+datcat/__init__.py,sha256=g-HowAZB2cZ5Hkg7BrfKcJ1TqiN78YQE5TfIZc35TcQ,120
+datcat/adapters/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+datcat/adapters/repository.py,sha256=xg-vec1gy9FYJ05K1NiwkREVAyySOOy9B3Sx8qVsxZU,2588
+datcat/domain/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+datcat/domain/model.py,sha256=Fk1kkr_wbVTBKpAHnFiKDlaJ_kOEOS0yldOPWf7oqVY,1975
+datcat/domain/types.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+datcat/entrypoints/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+datcat/entrypoints/app.py,sha256=bMTt-fdN6Y4z8nAsh5n2XPm907aVoL_EyfVokvzYT7Y,3681
+datcat/entrypoints/flask_app.py,sha256=gfDNA1rlrISqcUeXo379NBnpUmC2vbLwbi1GbhZIwLE,2325
+datcat/service_layer/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+datcat/service_layer/mappings.py,sha256=FcweUSxyISiM9zE8Ptrl5bhqRXKgbPm2byztjivyueg,1014
+datcat/settings.py,sha256=HPPXEpRAvZjcE5DrOGAyOcRDX8YjKFh9SHWlJLdmpJs,385
+datcat-0.1.4.dist-info/entry_points.txt,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+datcat-0.1.4.dist-info/WHEEL,sha256=VN2eEg4PHbTOniXb-cCYQPc6zUTS4dAcATjlgU3q-Lo,83
+datcat-0.1.4.dist-info/METADATA,sha256=SgMnzq0ngdq-ek7R0J9r19gCYHAnSMM_azGFGGnzsKE,3223
+datcat-0.1.4.dist-info/RECORD,,
