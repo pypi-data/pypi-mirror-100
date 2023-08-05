@@ -1,0 +1,6 @@
+[console_scripts]
+analyze = analyze:main
+create_data = data.generate_vectors.create_data:main
+evaluate_sample = main.evaluate_sample:main
+mi_msi_train_test = main.mi_msi_train_test:main
+
