@@ -1,0 +1,12 @@
+Metadata-Version: 1.0
+Name: gtodo
+Version: 0.1
+Summary: Simple note taking CLI app
+Home-page: UNKNOWN
+Author: Samuel Ján Mucha
+Author-email: samueljanmucha1@gmail.com
+License: MIT
+Description: # pytodo
+        Command line todo interface using pure python and click framework for easy track of your future progress.
+        
+Platform: UNKNOWN
