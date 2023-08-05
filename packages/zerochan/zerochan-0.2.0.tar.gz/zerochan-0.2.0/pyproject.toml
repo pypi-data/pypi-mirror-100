@@ -1,0 +1,32 @@
+[tool.poetry]
+name = "zerochan"
+version = "0.2.0"
+description = "Python library and download cli util for https://www.zerochan.net"
+readme = "README.md"
+keywords = ["zerochan", "booru", "parser", "util", "pics "]
+homepage = "https://github.com/kiriharu/zerochan"
+repository = "https://github.com/kiriharu/zerochan"
+authors = ["kiriharu <kiriharu@yandex.ru>"]
+license = "MIT"
+packages = [
+    { include = "zerochan" },
+]
+classifiers = [
+    "Development Status :: 5 - Production/Stable",
+    "Programming Language :: Python :: 3",
+    "Environment :: Console",
+    "Natural Language :: Russian",
+    "Typing :: Typed",
+    "Topic :: Utilities"
+]
+
+[tool.poetry.dependencies]
+python = "^3.9"
+requests = "^2.25.1"
+beautifulsoup4 = "^4.9.3"
+
+[tool.poetry.dev-dependencies]
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"

@@ -1,0 +1,77 @@
+Metadata-Version: 2.1
+Name: zerochan
+Version: 0.2.0
+Summary: Python library and download cli util for https://www.zerochan.net
+Home-page: https://github.com/kiriharu/zerochan
+License: MIT
+Keywords: zerochan,booru,parser,util,pics 
+Author: kiriharu
+Author-email: kiriharu@yandex.ru
+Requires-Python: >=3.9,<4.0
+Classifier: Development Status :: 5 - Production/Stable
+Classifier: Environment :: Console
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Natural Language :: Russian
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Topic :: Utilities
+Classifier: Typing :: Typed
+Requires-Dist: beautifulsoup4 (>=4.9.3,<5.0.0)
+Requires-Dist: requests (>=2.25.1,<3.0.0)
+Project-URL: Repository, https://github.com/kiriharu/zerochan
+Description-Content-Type: text/markdown
+
+# Zerochan
+
+Library for Zerochan.net with pics parsing and downloader included!
+
+## Features
+* CLI utility for pics downloading from zerochan.net
+* Library for create custom downloader (you can write own) or data analyze.
+* Strong typed!
+
+## Installation:
+
+### Using pip
+`pip install zerochan`
+### Using poetry
+`poetry add zerochan`
+
+## Using as library: 
+
+First, you should create `Zerochan` instance:
+```python
+from zerochan import ZeroChan
+
+zerochan_instance = ZeroChan()
+```
+
+Now, you can set some args for request
+
+```python
+from zerochan import ZeroChan, PictureSize, SortBy
+
+zerochan = ZeroChan()
+
+zerochan.search("Spain")  # Set title to search
+zerochan.size(PictureSize.BIGGER_AND_BETTER) # Set quality and pic size
+zerochan.sort(SortBy.POPULAR) # Set sorting (now only popular)
+zerochan.page(1) # Page to parse
+zerochan.authorize("hjsaf7afkjsaf78", "127364") # Authorize by z_hash and z_id in cookies
+```
+
+...or set args like this:
+
+```python
+zerochan.search("Spain")\
+    .size(PictureSize.BIGGER_AND_BETTER)\
+    .sort(SortBy.POPULAR)
+```
+
+After all settings, you should call `.pics()` to get pics:
+
+```python
+data = zerochan.pics()
+for img in data.images:
+    print(img.url)
+```
