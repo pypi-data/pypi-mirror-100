@@ -1,0 +1,3 @@
+[console_scripts]
+infer_gender = infer_gender.__main__:main
+
