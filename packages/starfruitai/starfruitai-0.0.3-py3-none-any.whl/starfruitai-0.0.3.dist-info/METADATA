@@ -1,0 +1,107 @@
+Metadata-Version: 2.1
+Name: starfruitai
+Version: 0.0.3
+Summary: Starfruit AI - Deep Learning Deployments Made Simple
+Home-page: UNKNOWN
+Author: Harris Rothaermel
+Author-email: harris.rothaermel@gmail.com
+License: UNKNOWN
+Keywords: python,pytorch,deployment
+Platform: UNKNOWN
+Classifier: Development Status :: 1 - Planning
+Classifier: Intended Audience :: Developers
+Classifier: Programming Language :: Python :: 3
+Classifier: Operating System :: Unix
+Classifier: Operating System :: MacOS :: MacOS X
+Classifier: Operating System :: Microsoft :: Windows
+Description-Content-Type: text/markdown
+Requires-Dist: EasySettings
+Requires-Dist: torch
+Requires-Dist: requests
+
+# Starfruit AI
+***
+
+### Starfruit AI: Deep Learning Deployments Made Simple
+
+ Starfruit AI allows you to deploy deep learning models with one line of code.
+ We handle all the deployment setup, maintenance, auto-scaling and regionalization. You just pay per call.
+
+[Installation](#installation)<br>
+[Create an account](#create-an-account)<br>
+[API Key](#get-an-api-key)<br>
+[Usage](#example-usage)<br>
+
+## Installation
+***
+
+- Starfruit AI can be installed via PIP:
+
+`python -m pip install starfruitai`
+
+- Then used in your code with an import:
+
+`import starfruit as sf`
+
+## Create an account
+***
+
+- Go to https://starfruitai.com and create an account.
+![](https://github.com/DeveloperHarris/starfruit_pip/blob/main/img_1.png)
+
+## Get an API key
+***
+
+- After creating your account, your API key will be displayed at the top of the screen.
+![](https://github.com/DeveloperHarris/starfruit_pip/blob/main/img_3.png)
+![](https://github.com/DeveloperHarris/starfruit_pip/blob/main/img_2.png)
+
+## Example Usage
+***
+
+- Download a sample densenet model
+
+  ```python
+    import torch
+
+    model = torch.hub.load('pytorch/vision:v0.6.0', 'densenet121', pretrained=True)
+  ```
+
+- Use Starfruit AI to deploy the model
+
+  ```python
+    import starfruit as sf
+
+    # Authenticate with your API key
+    sf.auth('API KEY GOES HERE')
+
+    # Deploy your model to Starfruit AI's servers
+    sf.pt_deploy(model, 'modelName', 'image_classifier')
+
+    # Sucessfully Uploaded!: modelName
+    # Timestamp: 1616644525649
+  ```
+
+- Use the returned timestamp to make prediction; we'll be using [this](https://www.google.com/search?q=cute+kitten&tbm=isch&hl=en&cr=&safe=images) image of a cat. <br>
+  ![](https://github.com/DeveloperHarris/starfruit_pip/blob/main/img.png)
+
+  ```python
+    # Make a prediction
+    sf.predict('modelName', '1616644525649', 'cat.jpg')
+  ```
+
+- Get back a prediction in JSON format
+  ```json
+  {
+    "data": 
+    {
+      "Egyptian_cat": 0.7224083542823792,
+      "tabby": 0.17468667030334473,
+      "Siamese_cat": 0.02608460746705532,
+      "lynx": 0.02026565931737423,
+      "tiger_cat": 0.01653680019080639
+    }
+  }
+  ```
+
+
