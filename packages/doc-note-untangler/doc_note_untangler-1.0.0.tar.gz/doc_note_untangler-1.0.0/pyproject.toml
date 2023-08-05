@@ -1,0 +1,52 @@
+[tool.poetry]
+name = "doc_note_untangler"
+version = "1.0.0"
+description = "Untangle special markdown blocks from docstrings and assemble them into a static webpage."
+authors = ["msladecek <martin.sladecek@gmail.com>"]
+license = "Unlicense"
+homepage = "https://github.com/msladecek/doc_note_untangler"
+readme = "README.md"
+repository = "https://github.com/msladecek/doc_note_untangler"
+keywords = ["markdown", "documentation", "static page"]
+classifiers = [
+    "License :: OSI Approved :: The Unlicense (Unlicense)"
+]
+
+[tool.poetry.dependencies]
+python = "^3.8"
+Markdown = "^3.3.4"
+md-mermaid = "^0.1.1"
+Pygments = "^2.8.1"
+
+[tool.poetry.dev-dependencies]
+pre-commit = "^2.11.1"
+pdbpp = "^0.10.2"
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
+
+[tool.black]
+   py36 = true
+   line_length = 100
+   include = '\.pyi?$'
+   exclude = '''
+   /(
+       \.git
+     | \.hg
+     | \.mypy_cache
+     | \.tox
+     | \.venv
+     | _build
+     | buck-out
+     | build
+     | dist
+   )/
+   '''
+
+[tool.isort]
+# config compatible with Black
+line_length = 100
+multi_line_output = 3
+default_section = "THIRDPARTY"
+include_trailing_comma = true
