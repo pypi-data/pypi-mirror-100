@@ -1,0 +1,20 @@
+Metadata-Version: 2.1
+Name: omni-ai
+Version: 0.0.1
+Summary: Python library for Automated Data Cleaning, Automated Preprocessing, Automated Visualization and Automated Modelling.
+Home-page: UNKNOWN
+Author: Abhishek Manilal Gupta
+Author-email: abhig0209@gmail.com
+License: MIT
+Description: # Omni-AI
+        
+        ## Python library for Automated Data Cleaning, Automated Preprocessing, Automated Visualization and Automated Modelling.
+Keywords: automated data cleaning preprocessing visualization modelling
+Platform: UNKNOWN
+Classifier: Development Status :: 2 - Pre-Alpha
+Classifier: Intended Audience :: Developers
+Classifier: Topic :: Software Development :: Libraries :: Python Modules
+Classifier: Operating System :: Microsoft :: Windows :: Windows 10
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3.8
+Description-Content-Type: text/markdown
