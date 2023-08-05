@@ -1,0 +1,19 @@
+Metadata-Version: 2.1
+Name: Ash-printer
+Version: 1.0.0
+Summary: Finds words easily
+Home-page: UNKNOWN
+Author: Asher Thomas Abraham
+Author-email: achutomonline@gmail.com
+License: UNKNOWN
+Description: 
+        This very simple word printer this package includes 15 words 
+Keywords: word1,word2,word3,word4,word5,word6..
+Platform: UNKNOWN
+Classifier: Development Status :: 1 - Planning
+Classifier: Intended Audience :: Developers
+Classifier: Programming Language :: Python :: 3
+Classifier: Operating System :: Unix
+Classifier: Operating System :: MacOS :: MacOS X
+Classifier: Operating System :: Microsoft :: Windows
+Description-Content-Type: text/markdown

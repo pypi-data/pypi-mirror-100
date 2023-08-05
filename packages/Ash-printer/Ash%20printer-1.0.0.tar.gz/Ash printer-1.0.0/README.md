@@ -1,0 +1,1 @@
+This very simple word printer this package includes 15 words 
