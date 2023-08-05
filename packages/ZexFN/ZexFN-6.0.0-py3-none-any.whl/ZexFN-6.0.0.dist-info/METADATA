@@ -1,0 +1,23 @@
+Metadata-Version: 2.1
+Name: ZexFN
+Version: 6.0.0
+Summary: A Python package to get a old coding for fortnite
+Home-page: UNKNOWN
+Author: gummy.pts
+Author-email: primalgummy@gmail.com
+License: MIT
+Platform: UNKNOWN
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.7
+Description-Content-Type: text/markdown
+Requires-Dist: requests
+
+# Welcome 🥳
+
+GummyFN is a free Fortnite Lobbybot which allows you to see all Fortnite cosmetics.
+
+# Get Help
+
+[Join my Discord](https://discord.gg/ugUTsaz)
+
