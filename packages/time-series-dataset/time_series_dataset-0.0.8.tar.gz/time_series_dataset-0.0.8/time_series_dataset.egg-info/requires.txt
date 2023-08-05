@@ -1,0 +1,13 @@
+torch==1.8.0+cu111
+numpy
+
+[dev]
+bumpversion
+twine
+wheel
+
+[test]
+pytest
+pytest-cov
+pandas
+seaborn
