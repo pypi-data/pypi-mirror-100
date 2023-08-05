@@ -1,0 +1,1 @@
+from QSimpleWidgets.QEditor import QCodeColors,QCodeEdit,QCodeCompleter,QSetStyles
