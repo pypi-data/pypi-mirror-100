@@ -1,0 +1,51 @@
+Metadata-Version: 2.1
+Name: eazynlp
+Version: 0.0.5
+Summary: NLP made easy for researchers
+Home-page: https://github.com/tumeri/eazynlp
+Author: Info CodeBrew
+Author-email: info.codebrew@gmail.com
+License: UNKNOWN
+Description: # eazynlp
+        NLP made easy for researchers
+        
+        ## What is it?
+        
+        **eazynlp** is a Python package aimed at qualitative researchers, especially in the social sciences, that wish to take advantage of natural language processing to complement traditional qualitative research methods. 
+        In particular, **eazynlp** is unique in that commonly used entities of qualitative research, such as interview transcripts, are treated as first-class objects.
+        This gives the researcher the opportunity to directly express NLP procedures in the analysis of such entities.
+        
+        ## Main Features:
+          - Construction of data pipelines
+          - Feature engineering
+          - Cluster analysis, e.g., topic modeling
+          - Visualization
+        
+        ## Where to get it
+        The latest released version is available at the [Python
+        Package Index (PyPI)](https://pypi.org/project/eazynlp).
+        
+        ```sh
+        pip install eazynlp
+        ```
+        
+        ## Dependencies
+          - [matplotlib](https://matplotlib.org/)
+          - [nltk](https://www.nltk.org/)
+          - [pandas](https://pandas.pydata.org/)
+          - [wordcloud](https://amueller.github.io/word_cloud/)
+        
+        ## License
+        [GNU GENERAL PUBLIC LICENSE, Version 3](LICENSE)
+        
+        Note that where the below libraries are used, the corresponding licenses apply as follows:
+          - [matplotlib](https://github.com/matplotlib/matplotlib/blob/master/LICENSE/LICENSE)
+          - [nltk](https://github.com/nltk/nltk/blob/develop/LICENSE.txt)
+          - [pandas](https://github.com/pandas-dev/pandas/blob/master/LICENSE)
+          - [wordcloud](https://github.com/amueller/word_cloud/blob/master/LICENSE)
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: GNU General Public License v3 or later (GPLv3+)
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
