@@ -1,0 +1,12 @@
+Metadata-Version: 2.1
+Name: pydactory
+Version: 0.1.0
+Summary: 
+Author: Richard Howard
+Author-email: richard@howard.io
+Requires-Python: >=3.8,<4.0
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Requires-Dist: faker (>=4.15.0,<5.0.0)
+Requires-Dist: pydantic (>=1.7.2,<2.0.0)
