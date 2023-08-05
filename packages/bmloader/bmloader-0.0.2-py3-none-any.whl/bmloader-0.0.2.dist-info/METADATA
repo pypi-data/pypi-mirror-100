@@ -1,0 +1,22 @@
+Metadata-Version: 2.1
+Name: bmloader
+Version: 0.0.2
+Summary: Blackrock Microsystem Data Loader for Python
+Home-page: UNKNOWN
+Author: SungHo Lee
+Author-email: shlee@unc.edu
+License: GNLv3
+Platform: UNKNOWN
+Classifier: Development Status :: 4 - Beta
+Classifier: Framework :: Jupyter
+Classifier: Intended Audience :: Science/Research
+Classifier: Topic :: Scientific/Engineering
+Classifier: Natural Language :: English
+Classifier: Programming Language :: Python :: 3.7
+Requires-Dist: shleeh
+Requires-Dist: requests
+Requires-Dist: pandas
+
+UNKNOWN
+
+
