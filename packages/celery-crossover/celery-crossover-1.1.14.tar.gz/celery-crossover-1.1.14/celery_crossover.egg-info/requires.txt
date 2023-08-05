@@ -1,0 +1,17 @@
+celery[redis]>=3.1.20
+requests-celery-adapters>=2.0.14
+six>=1.11.0
+
+[ci]
+python-coveralls
+
+[dev]
+pytest
+pytest-cov
+tox
+black
+
+[test]
+pytest
+pytest-cov
+tox
