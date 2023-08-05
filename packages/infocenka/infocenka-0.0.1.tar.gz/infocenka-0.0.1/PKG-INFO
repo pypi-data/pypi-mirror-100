@@ -1,0 +1,13 @@
+Metadata-Version: 2.1
+Name: infocenka
+Version: 0.0.1
+Summary: A package to convert your Jupyter Notebook
+Home-page: https://github.com/inform-ocenka/infocenka.git
+Author: Arman Hakobyan
+Author-email: armhakobyan1997@mail.ru
+License: UNKNOWN
+Description: # infocenka
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3.7
+Classifier: License :: OSI Approved :: GNU General Public License v3 (GPLv3)
+Description-Content-Type: text/markdown
