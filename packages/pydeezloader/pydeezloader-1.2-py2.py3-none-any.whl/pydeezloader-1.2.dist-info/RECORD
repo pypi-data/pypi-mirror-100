@@ -1,0 +1,17 @@
+pydeezloader/__init__.py,sha256=sf-M_O2GB3ZaufO9Suro2wgLtb9Is7-oBMJoUMsvEkI,20869
+pydeezloader/deezer_settings.py,sha256=nD-EGfmSlqPAitDfJm-waT2oJqj0_7bT_1w4aEdwhU8,821
+pydeezloader/deezweb_utils.py,sha256=Nxt4dERnVzDpAW9Ape5YXoaUBNSOcleE228HNcAOPIA,574839
+pydeezloader/download_utils.py,sha256=jPqsOwYnfiWLWK1iGAxdJg8Zk-tP_emYsk0PCZNVdzg,1202
+pydeezloader/exceptions.py,sha256=sXLPaqZy_nDnpftopBcvv8ZjnikH0oFvTugHP4TKyas,723
+pydeezloader/methods.py,sha256=PTwDliKHF5CVYfh5r0LKgnoNpYiBrVRG81IJjzMZzj0,361
+pydeezloader/others_settings.py,sha256=MufspLOQxLCfFd8eMwt4-kMd0b4syeP8m2JbdUyNTEw,174
+pydeezloader/utils.py,sha256=SyG7vVkn9dmDIssEOUGmLgCLfKkVsu_MooAcvjcOH6o,6247
+pydeezloader/bin/deez-dw.py,sha256=eQjifp8PseHXQ0jsNXUnK0blksXtZx-ilH-sbgXJtg0,3867
+pydeezloader/bin/deez-web.py,sha256=0H7rlc2IvqPPDcFFIkYSigyO0xf5f5iYvCi2YAqHvhw,7969
+pydeezloader-1.2.data/scripts/deez-dw.py,sha256=UT9Ep5OK9dhDrkZ15_Jx-_gEigsfSoZEFbQiI6Nku88,3857
+pydeezloader-1.2.data/scripts/deez-web.py,sha256=knCeX72VPfMgfzT6HDoyfqP9nHfM_rysJvnWgrAP3jo,7959
+pydeezloader-1.2.dist-info/LICENSE,sha256=OXLcl0T2SZ8Pmy2_dmlvKuetivmyPd5m1q-Gyd-zaYY,35149
+pydeezloader-1.2.dist-info/METADATA,sha256=c85gWeV1wZvpCkV9oNIwMflozait5NlNBZFkb_03Qkk,7646
+pydeezloader-1.2.dist-info/WHEEL,sha256=Z-nyYpwrcSqxfdux5Mbn_DQ525iP7J2DG3JgGvOYyTQ,110
+pydeezloader-1.2.dist-info/top_level.txt,sha256=kkNwnOufmCTyoMHl5Tlgmtmgp3CeqHEIbCXXuj0C1X8,13
+pydeezloader-1.2.dist-info/RECORD,,
