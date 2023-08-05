@@ -1,0 +1,22 @@
+Metadata-Version: 2.1
+Name: dutycalls_sdk
+Version: 0.1.0
+Summary: DutyCalls.me SDK
+Home-page: https://github.com/transceptor-technology/python-dutycalls-sdk
+Author: Jeroen van der Heijden
+Author-email: jeroen@transceptor.technology
+License: MIT
+Description: # python-dutycalls-sdk
+        DutyCalls.me SDK for the Python language
+        
+Keywords: sdk connector
+Platform: UNKNOWN
+Classifier: Development Status :: 4 - Beta
+Classifier: Intended Audience :: Developers
+Classifier: Topic :: Software Development :: Build Tools
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Description-Content-Type: text/markdown
