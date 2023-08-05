@@ -1,0 +1,6 @@
+README.md
+setup.py
+src/helloworld_nagarjun_appleguy.egg-info/PKG-INFO
+src/helloworld_nagarjun_appleguy.egg-info/SOURCES.txt
+src/helloworld_nagarjun_appleguy.egg-info/dependency_links.txt
+src/helloworld_nagarjun_appleguy.egg-info/top_level.txt

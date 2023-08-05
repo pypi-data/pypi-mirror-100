@@ -1,0 +1,29 @@
+Metadata-Version: 2.1
+Name: helloworld-nagarjun-appleguy
+Version: 0.0.1
+Summary: Hello World Functionality
+Home-page: UNKNOWN
+Author: Nagarjun
+Author-email: abc@gmail.com
+License: UNKNOWN
+Description: ## Hello World
+        This is an example
+        
+        ## Installation
+        
+        Run the following to install:
+        
+        ```python
+        pip install helloworld
+        ```
+        
+        ## Usage
+        
+        ```python
+        from helloworld import say_hello()
+        
+        # Generate Hello World!
+        say_hello()
+        ```
+Platform: UNKNOWN
+Description-Content-Type: text/markdown
