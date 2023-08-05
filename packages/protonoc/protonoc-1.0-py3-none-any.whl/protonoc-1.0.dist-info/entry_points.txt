@@ -1,0 +1,3 @@
+[console_scripts]
+protonoc = protonoc.main:mode
+
