@@ -1,0 +1,10 @@
+Metadata-Version: 1.2
+Name: pb-amarder
+Version: 0.0.1
+Summary: Custom progress status, primarily for iterators.
+Home-page: https://github.com/alexmarder/pb-amarder
+Author: Alex Marder
+License: UNKNOWN
+Description: UNKNOWN
+Platform: UNKNOWN
+Requires-Python: >3.6
