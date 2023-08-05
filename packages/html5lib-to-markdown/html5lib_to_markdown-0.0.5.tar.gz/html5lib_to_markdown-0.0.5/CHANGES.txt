@@ -1,0 +1,17 @@
+0.0.5
+	packaging layout
+
+0.0.4
+	packaging fix
+
+0.0.3
+	* upgraded black
+	* integrated with pre-commit
+	* github actions
+	* dropped py35 testing
+
+0.0.2
+	black formatting
+
+0.0.1
+	initial
