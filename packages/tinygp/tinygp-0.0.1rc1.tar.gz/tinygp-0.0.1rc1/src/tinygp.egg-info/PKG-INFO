@@ -1,0 +1,25 @@
+Metadata-Version: 2.1
+Name: tinygp
+Version: 0.0.1rc1
+Summary: The tiniest of Gaussian Process libraries
+Home-page: https://github.com/dfm/tinygp
+Author: Dan Foreman-Mackey
+Author-email: foreman.mackey@gmail.com
+Maintainer: Dan Foreman-Mackey
+Maintainer-email: foreman.mackey@gmail.com
+License: MIT
+Description: # tinygp
+        
+        The tiniest of Gaussian Process libraries
+        
+Platform: UNKNOWN
+Classifier: Intended Audience :: Developers
+Classifier: Intended Audience :: Science/Research
+Classifier: License :: OSI Approved :: BSD License
+Classifier: Operating System :: OS Independent
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 3
+Description-Content-Type: text/markdown
+Provides-Extra: test
+Provides-Extra: docs
+Provides-Extra: coverage
