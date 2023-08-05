@@ -1,0 +1,3 @@
+pycryptodome
+urllib3
+requests
