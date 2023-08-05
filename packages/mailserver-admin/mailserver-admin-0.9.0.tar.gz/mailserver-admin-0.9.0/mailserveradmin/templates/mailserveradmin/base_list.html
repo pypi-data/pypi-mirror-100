@@ -1,0 +1,97 @@
+{% extends "./base_crud.html" %}{% load i18n static %}
+{% block content-actions %}
+<a class="action-new btn btn-primary" href="{% url "mailserveradmin:"|add:model_name|add:"-add" %}">Add {{ model_name|capfirst }}</a>
+{% endblock %}
+{% block content-extra %}
+<div class="content-search">
+    <div class="form-action form-action-search">
+        <form method="get" id="searchsort-form">
+            <div class="form-group">
+                <div class="form-widget">
+                    <input type="hidden" name="sort" id="sort-input" value="{{ request.GET.sort }}">
+                    <input class="form-control" type="search" name="query" id="search-input"
+                           value="{{ request.GET.query }}" placeholder="Search" autocomplete="off">
+                </div>
+            </div>
+        </form>
+    </div>
+</div>
+<script>
+window.addEventListener('load', (event) => {
+    initSearchByKeyPressEvent(
+        'searchsort-form',
+        'search-input',
+    );
+});
+</script>
+{% endblock %}
+{% block content-panel %}
+<div class="content-panel-body">
+    {% block content-panel-body %}
+    <table id="table-list">
+        <thead>
+            <tr>
+                {% block content-table-head-row %}
+                {% endblock %}
+            </tr>
+        </thead>
+        <tbody>
+            {% for object in object_list %}
+            <tr>
+                {% block content-table-row %}
+                {% endblock %}
+            </tr>
+            {% empty %}
+            <tr>
+                {% block content-table-empty %}
+                {% endblock %}
+            </tr>
+            {% endfor %}
+        </tbody>
+    </table>
+    <script>
+window.addEventListener('load', (event) => {
+    const tableElement = document.getElementById('table-list');
+    tableElement.querySelectorAll("th > span.sort").forEach(spanSort => {
+        initTableSortColumnEvent(
+            'searchsort-form',
+            'sort-input',
+            spanSort,
+        );
+    });
+});
+    </script>
+    {% endblock %}
+</div>
+<div class="content-panel-footer">
+    {% block content-panel-footer %}
+    {% if object_list|length %}
+    <div class="list-pagination">
+        <div class="list-pagination-counter">
+            <strong>{{ paginator.count }}</strong> result{{ paginator.count|pluralize }}
+        </div>
+        <div class="current-page">
+            {% if is_paginated %}
+            Page {{ page_obj.number }} of {{ paginator.num_pages }}
+            {% endif %}
+        </div>
+        <ul class="pagination">
+            {% if is_paginated %}
+            <li class="page-item{% if not page_obj.has_previous %} disabled{% endif %}">
+                <a class="page-link" href="{% if page_obj.has_previous %}?page={{ page_obj.previous_page_number }}{% else %}javascript:void(0);{% endif %}">
+                    <i class="fa fa-angle-left"></i> <span class="btn-label">Previous</span>
+                </a>
+            </li>
+            <li class="page-item{% if not page_obj.has_next %} disabled{% endif %}">
+                <a class="page-link" href="{% if page_obj.has_next %}?page={{ page_obj.next_page_number }}{% else %}javascript:void(0);{% endif %}">
+                    <span class="btn-label">Next</span> <i class="fa fa-angle-right"></i>
+                </a>
+            </li>
+            {% endif %}
+        </ul>
+    </div>
+    {% endif %}
+    {% endblock %}
+</div>
+{% endblock %}
+{# vim: set ft=htmldjango: #}

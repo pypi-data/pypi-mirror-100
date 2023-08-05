@@ -1,0 +1,20 @@
+{% extends "./base_list.html" %}{% load i18n static %}
+{% block content-table-head-row %}
+{% include "./column_header.html" with label="Source" align="left" sort_name="source" %}
+{% include "./column_header.html" with label="Destination" align="left" sort_name="destination" %}
+{% include "./column_header.html" with type="actions" %}
+{% endblock %}
+{% block content-table-row %}
+{% include "./column_data.html" with data=object.source align="left"
+    detail_url_base="mailserveradmin:alias-detail"
+%}
+{% include "./column_data.html" with data=object.destination align="left" %}
+{% include "./column_data.html" with type="actions"
+    edit_url_base="mailserveradmin:alias-update"
+    delete_url_base="mailserveradmin:alias-delete"
+%}
+{% endblock %}
+{% block content-table-empty %}
+{% include "./column_data.html" with data="No alias yet" colspan="3" %}
+{% endblock %}
+{# vim: set ft=htmldjango: #}

@@ -1,0 +1,11 @@
+{% extends "./base_detail.html" %}{% load i18n static %}
+{% block detail-extra %}
+<div class="dkim-dns-record">
+    <span>Here is the entry you should add to you DNS records:</span>
+    <pre id="dns-record">{{ dns_record }}</pre>
+</div>
+{% include "./field_detail.html" with field_name="Dkim valid" field_type="bool" field_value=domain.dkim_validated %}
+{% include "./field_detail.html" with field_name="Users" field_type="num" field_value=domain.users.count %}
+{% include "./field_detail.html" with field_name="Aliases" field_type="num" field_value=domain.aliases.count %}
+{% endblock %}
+{# vim: set ft=htmldjango: #}

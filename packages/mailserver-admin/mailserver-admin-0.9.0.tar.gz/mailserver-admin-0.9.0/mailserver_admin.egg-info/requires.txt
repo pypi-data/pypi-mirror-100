@@ -1,0 +1,10 @@
+django~=3.1
+fontawesome-free~=5.14
+pycryptodome~=3.0
+dnspython~=1.0
+
+[mysql]
+mysqlclient~=2.0
+
+[postgresql]
+psycopg2-binary~=2.8
