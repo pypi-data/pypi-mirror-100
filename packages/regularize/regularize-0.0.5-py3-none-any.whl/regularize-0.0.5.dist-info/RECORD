@@ -1,0 +1,11 @@
+regularize/__init__.py,sha256=HhFa1IzkgFFJ_oZOwjnjynyNiajEIAiSV1fHoFfq8ZE,163
+regularize/exceptions.py,sha256=XTII0pE5rmgNMEPEEdfaitEkf6bVPaSHJeL-FTwvyCE,96
+regularize/expression.py,sha256=pnOVAewVgvsIQB4L97fKA4DVfHF87lRVFKgUfA3CPy0,13599
+regularize/find.py,sha256=ejzP27RRGwvRs3BIkvhHNs3lVl2KDkrpvOgsVQNgCAk,3446
+regularize/flag.py,sha256=mvxMckHWRnqwuMxOlgvOcr0Jy2byzGZ-gbYFTs2Ubws,2073
+regularize/replace.py,sha256=b7nEFisltIAZZh4X-3I4ugGOsG3ia7lne7NJQDaD41s,972
+regularize-0.0.5.dist-info/LICENSE,sha256=qd8FKaE5obH7rHp5sAlpnli5pz1Z7m_MmyBixG8Tao4,1072
+regularize-0.0.5.dist-info/METADATA,sha256=E6Qwo9v_KqeN850lVUTVsMTph70XM4CFPybr-aj4o94,9035
+regularize-0.0.5.dist-info/WHEEL,sha256=OqRkF0eY5GHssMorFjlbTIq072vpHpF60fIQA6lS9xA,92
+regularize-0.0.5.dist-info/top_level.txt,sha256=tp_RWBhP1zzYGplrGZuAV6F_Vta7FFmofoD2Gb7_COI,11
+regularize-0.0.5.dist-info/RECORD,,
