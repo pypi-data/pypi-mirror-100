@@ -1,0 +1,14 @@
+[build-system]
+requires = ["flit_core >=2,<4"]
+build-backend = "flit_core.buildapi"
+
+[tool.flit.metadata]
+module = "mima"
+author = "Qiangning Hong"
+author-email = "hongqn@gmail.com"
+home-page = "https://github.com/hongqn"
+classifiers = [
+	"License :: OSI Approved :: MIT License",
+	"Development Status :: 1 - Planning",
+]
+

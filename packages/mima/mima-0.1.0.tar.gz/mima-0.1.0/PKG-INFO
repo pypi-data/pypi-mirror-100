@@ -1,0 +1,7 @@
+Metadata-Version: 1.1
+Name: mima
+Version: 0.1.0
+Summary: Actor as a Service, in Python.
+Home-page: https://github.com/hongqn
+Author: Qiangning Hong
+Author-email: hongqn@gmail.com
