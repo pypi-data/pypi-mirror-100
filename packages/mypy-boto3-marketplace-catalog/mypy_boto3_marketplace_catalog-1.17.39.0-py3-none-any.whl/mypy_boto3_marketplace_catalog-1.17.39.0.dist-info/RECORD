@@ -1,0 +1,13 @@
+mypy_boto3_marketplace_catalog/__init__.py,sha256=FxvU7kg60ip-PssdnH-BMLNRlCrDhlTde7yO0lb9Xf8,563
+mypy_boto3_marketplace_catalog/__init__.pyi,sha256=dZEfK590eTp6E9RHB0d74WkV3djyHxESl6zpQW-BfCc,562
+mypy_boto3_marketplace_catalog/__main__.py,sha256=rLUAKCPqHJ0fqoKG5MJ2AElrPVdM75k8X3XFOY6bkOM,417
+mypy_boto3_marketplace_catalog/client.py,sha256=1rUCrRATARE2Ppn-fmDQCRU5vQjwx0ppOhjANlxmBrA,4743
+mypy_boto3_marketplace_catalog/client.pyi,sha256=gt6Njbs9jUNBTPeAGmBfwb3w7cMlTqjWVeCz7hcimUM,4731
+mypy_boto3_marketplace_catalog/py.typed,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+mypy_boto3_marketplace_catalog/type_defs.py,sha256=7FV7XSJa4PU0ZwTtpefEX7W7j_2KA2QkJyLYgpzzTTQ,3969
+mypy_boto3_marketplace_catalog/type_defs.pyi,sha256=51wfwnyAGNpI2mEi1TxJT23EFckDbGVNN5vGmIi3zk0,3966
+mypy_boto3_marketplace_catalog/version.py,sha256=GVwXy5X10E-wBBPHismbMC7M4zGIwwmOF248OY2LoDU,57
+mypy_boto3_marketplace_catalog-1.17.39.0.dist-info/METADATA,sha256=iGg88D-OsovfJK2i-cm82Bkh_TL_haTSh6o1x4d9m1I,6791
+mypy_boto3_marketplace_catalog-1.17.39.0.dist-info/WHEEL,sha256=OqRkF0eY5GHssMorFjlbTIq072vpHpF60fIQA6lS9xA,92
+mypy_boto3_marketplace_catalog-1.17.39.0.dist-info/top_level.txt,sha256=AAerS-vbxGONvnCg0vBEu4Lm7y0s_bLY_o4Xp1XWkgo,31
+mypy_boto3_marketplace_catalog-1.17.39.0.dist-info/RECORD,,
