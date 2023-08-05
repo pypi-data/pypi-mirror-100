@@ -1,0 +1,6 @@
+mpi4py
+scipy
+numpy
+click
+twine
+
