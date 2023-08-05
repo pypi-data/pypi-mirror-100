@@ -1,0 +1,13 @@
+README.md
+setup.py
+skywatchai/SkywatchAI.py
+skywatchai/SkywatchDB.py
+skywatchai/__init__.py
+skywatchai/utils.py
+skywatchai.egg-info/PKG-INFO
+skywatchai.egg-info/SOURCES.txt
+skywatchai.egg-info/dependency_links.txt
+skywatchai.egg-info/requires.txt
+skywatchai.egg-info/top_level.txt
+skywatchai/model/FaceNet.py
+skywatchai/model/__init__.py
