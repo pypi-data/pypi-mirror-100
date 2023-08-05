@@ -1,0 +1,7 @@
+README.md
+setup.py
+unzip_rename/__init__.py
+unzip_rename.egg-info/PKG-INFO
+unzip_rename.egg-info/SOURCES.txt
+unzip_rename.egg-info/dependency_links.txt
+unzip_rename.egg-info/top_level.txt
