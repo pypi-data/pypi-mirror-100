@@ -1,0 +1,10 @@
+bucket_dir/__init__.py,sha256=lAuNis7vBnCTNDZWENpucTbzSUo-yBWMpN08o--MC_0,1192
+bucket_dir/generator.py,sha256=prx17_bHL-CuvWdp01FoQ9B9sBUQFLnF30WIxt4g6Hs,3539
+bucket_dir/index.py,sha256=CrMsFBQrEteD57ZJ5uvhquOsuXwNYu9ZC53tHF_yF88,1292
+bucket_dir/item.py,sha256=lD5MTAKGs2H2gsxNY0nqNtifBIW-b-uAaBfGHchdwYc,701
+bucket_dir/templates/index.html.j2,sha256=wsESyGEzI8XIwq6V21_qASs4Ts4_RJyzbBdfj_hdBMw,672
+bucket_dir-1.5.0.dist-info/entry_points.txt,sha256=5cONSHYan3C0kd9WLNQXYOPbMdoKeJB4RLp11Y3kAXk,49
+bucket_dir-1.5.0.dist-info/LICENSE,sha256=xx0jnfkXJvxRnG63LTGOxlggYnIysveWIZ6H3PNdCrQ,11357
+bucket_dir-1.5.0.dist-info/WHEEL,sha256=VN2eEg4PHbTOniXb-cCYQPc6zUTS4dAcATjlgU3q-Lo,83
+bucket_dir-1.5.0.dist-info/METADATA,sha256=Lelya5jKDdmNFK6DepFs4iCFCR6KSZCV9JmXggLQfqU,6326
+bucket_dir-1.5.0.dist-info/RECORD,,
