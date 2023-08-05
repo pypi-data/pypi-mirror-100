@@ -1,0 +1,3 @@
+[console_scripts]
+dheeraj-softprodigy = square.__main__:main
+
