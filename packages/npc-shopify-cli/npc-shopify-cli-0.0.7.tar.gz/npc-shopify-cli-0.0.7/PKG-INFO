@@ -1,0 +1,18 @@
+Metadata-Version: 2.1
+Name: npc-shopify-cli
+Version: 0.0.7
+Summary: A cli for working with Shopify
+Home-page: https://github.com/newspaperclub/npc-shop-cli
+Author: Newspaper Club Ltd
+Author-email: services@newspaperclub.com
+License: UNKNOWN
+Project-URL: Bug Tracker, https://github.com/newspaperclub/npc-shop-cli/issues
+Description: # npc-shopify-cli
+        CLI for working with Shopify
+        
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.9
+Description-Content-Type: text/markdown
