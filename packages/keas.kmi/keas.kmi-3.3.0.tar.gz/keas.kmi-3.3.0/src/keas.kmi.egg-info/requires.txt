@@ -1,0 +1,12 @@
+pycryptodome
+pyramid
+pyramid_zcml
+setuptools
+six
+transaction
+zope.interface
+zope.schema
+
+[test]
+zope.app.testing
+zope.testing
