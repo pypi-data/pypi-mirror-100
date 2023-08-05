@@ -1,0 +1,4 @@
+[console_scripts]
+awstrace-play = awstracer.player:main
+awstrace-rec = awstracer.recorder:main
+
