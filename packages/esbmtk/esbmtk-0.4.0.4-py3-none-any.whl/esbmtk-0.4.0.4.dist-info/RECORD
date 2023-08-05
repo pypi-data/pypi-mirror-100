@@ -1,0 +1,11 @@
+esbmtk/__init__.py,sha256=hshGxzLYYlAZDifafNSTc2AzY2i-ad4W7u6b6wycGe0,512
+esbmtk/carbonate_chemistry.py,sha256=Zni0YkFrJd4ke-xh-FKaCQsm5Q9J76ieoC6uWWTC8h4,14146
+esbmtk/connections.py,sha256=AAJkZLh-yYtgTye5iTWR2TNmvj7ZR5Ob-R-4FI19Nfg,43872
+esbmtk/esbmtk.py,sha256=SsF1fFf8-A9NGcNARQqYQpP7KtoNjzp6tf4vxsYvQI0,103134
+esbmtk/processes.py,sha256=OQfghJ2oB6r_7mCLOzwUXTvOFsdQG2TZBmht96fsd4s,41713
+esbmtk/species_definitions.py,sha256=IuDg_2PGMl2k-OjPE_wUvwYUI6Plgt3dt_2JWaroPfE,6586
+esbmtk/utility_functions.py,sha256=VYdz1bKdVlci7KONKF_CaaFsWirXVY1auzmd-Z3Ad18,17052
+esbmtk-0.4.0.4.dist-info/METADATA,sha256=z1ukHbUVy4n3qOALdQp-swqZtOrQeLdozHsFbxUBnqU,9820
+esbmtk-0.4.0.4.dist-info/WHEEL,sha256=OqRkF0eY5GHssMorFjlbTIq072vpHpF60fIQA6lS9xA,92
+esbmtk-0.4.0.4.dist-info/top_level.txt,sha256=hkMeTpqKL93s_qt1KNCG250Fj7Sm2uXXuT_7DNSSyV0,7
+esbmtk-0.4.0.4.dist-info/RECORD,,
