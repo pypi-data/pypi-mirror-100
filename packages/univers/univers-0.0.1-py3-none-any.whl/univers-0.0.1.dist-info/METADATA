@@ -1,0 +1,20 @@
+Metadata-Version: 2.1
+Name: univers
+Version: 0.0.1
+Summary: Universal version parsing and comparison
+Home-page: https://aboutcode.org
+Author: AboutCode
+Author-email: info@aboutcode.org
+License: Apache-2.0
+Keywords: open source,version
+Platform: UNKNOWN
+Classifier: Development Status :: 5 - Production/Stable
+Classifier: Intended Audience :: Developers
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 3 :: Only
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Topic :: Utilities
+
+Universal version parsing and comparison
+
+
