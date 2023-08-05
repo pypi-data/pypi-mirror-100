@@ -1,0 +1,15 @@
+Metadata-Version: 2.1
+Name: drf-pretty-exception-handler
+Version: 0.1.2
+Summary: Django Rest Framework pretty exception handler
+License: MIT
+Author: Denis Ivlev
+Author-email: di-erz@yandex.ru
+Requires-Python: >=3.6,<4.0
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Requires-Dist: djangorestframework (>=3.10,<4.0)
