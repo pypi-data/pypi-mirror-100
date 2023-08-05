@@ -1,0 +1,9 @@
+opentelemetry/instrumentation/sqlalchemy/__init__.py,sha256=Zzo4E8vgq-gfAVX2R4To2vHESdk4AgPEFox2v0YHTY4,2690
+opentelemetry/instrumentation/sqlalchemy/engine.py,sha256=PY5ARUD4nOgPLqB1Aiemj_EYo1a5ISKmVwldpV_Vjr4,6041
+opentelemetry/instrumentation/sqlalchemy/version.py,sha256=M8oO7JkYeOve_BKsWw34ugDfiyML_ban4Bo-yw4l9Tw,608
+opentelemetry_instrumentation_sqlalchemy-0.19b0.dist-info/LICENSE,sha256=xx0jnfkXJvxRnG63LTGOxlggYnIysveWIZ6H3PNdCrQ,11357
+opentelemetry_instrumentation_sqlalchemy-0.19b0.dist-info/METADATA,sha256=2FQclghTWux8fhaaRENKJilsZn4a_7zrZ-AncYrVByk,1828
+opentelemetry_instrumentation_sqlalchemy-0.19b0.dist-info/WHEEL,sha256=OqRkF0eY5GHssMorFjlbTIq072vpHpF60fIQA6lS9xA,92
+opentelemetry_instrumentation_sqlalchemy-0.19b0.dist-info/entry_points.txt,sha256=oLDFEdoIVX-dsPdPxphP3EP46lhdZsrHISf1n76nI6s,107
+opentelemetry_instrumentation_sqlalchemy-0.19b0.dist-info/top_level.txt,sha256=5p97iTMneNm1LAKDalzEVpYhvPZsaqJZzdLuD_upSaQ,14
+opentelemetry_instrumentation_sqlalchemy-0.19b0.dist-info/RECORD,,
