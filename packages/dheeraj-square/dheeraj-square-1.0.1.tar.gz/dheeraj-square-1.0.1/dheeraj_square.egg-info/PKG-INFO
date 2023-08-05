@@ -1,0 +1,28 @@
+Metadata-Version: 2.1
+Name: dheeraj-square
+Version: 1.0.1
+Summary: It squares the number
+Home-page: UNKNOWN
+Author: Dheeraj Rajput
+Author-email: kumardheeraj9701@gmail.com
+License: MIT
+Description: Dheeraj Square
+        
+        It takes an integer as an input and prints it square.
+        Installation
+        
+        pip install dheeraj-square
+        How to use it?
+        ##how to use it 
+        Open terminal and type square and then input the integer
+        ##License
+        
+        © 2021 dheeraj rajput
+        
+        This repository is licensed under the MIT license. See LICENSE for details.
+Platform: UNKNOWN
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Description-Content-Type: text/markdown
