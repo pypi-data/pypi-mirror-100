@@ -1,0 +1,16 @@
+PPDyn/__init__.py,sha256=laoTD53JxXknF3XZ35FH5C1JmdaBETyMP7ZH1jKu0y0,209
+PPDyn/animate.py,sha256=OFTqw9juKFBe9g2bqQAgXQmlUPaTH7rFtNINJ0LvDJo,2350
+PPDyn/diagn.py,sha256=LcqzhJKIOJcrqlGkyuW6tmln_yVoJa_L0VZsFjCeEEU,544
+PPDyn/initial.py,sha256=g_5cilTc0E0FbJni4gNgPNNtWln4_e7_qR7lYF2-cR0,2172
+PPDyn/input.ini,sha256=11lNPsZhx7U2Jsm6LN_VQ3Ij_NMYxuUQt15927PaJg8,729
+PPDyn/main.py,sha256=jLXsWJiJ-vzTm6yj4N5l0tkRlc7PHcaS6hcrToX92R8,3195
+PPDyn/ppdplot.py,sha256=ozuOfQtWSSH9OiTygToyaQjAJQS82T6lKtVfCm60NMU,2590
+PPDyn/ppdyn.py,sha256=dDYXXSuWihfkdRp8gMH4yPhI-p5LQA4HgOIBrHHiBkI,3882
+PPDyn/pusher_parallel.py,sha256=b1uUPt5CJuwgW-wzepLxcULCHgiuOIgoaaDO6gBwf-8,1527
+PPDyn/pusher_serial.py,sha256=lnWuSNSqda3L8XWOBGlQAgHrmQmzeEMmNvGpalxSyDw,1501
+PPDyn/thermostat.py,sha256=VLovGCoP5WZVkpiHAjv-uh7GRaNPT112L8dkWEcvsgs,443
+PPDyn-0.0.2.dist-info/LICENSE,sha256=eSevv3ksgNpZxvaLrwyd8l0foKLnFH4qr1Y7_ju_RTc,1071
+PPDyn-0.0.2.dist-info/METADATA,sha256=XLXFHWWJ2mFNZdTqm9aniIokqD9895tXD9aMQkZeCPg,3634
+PPDyn-0.0.2.dist-info/WHEEL,sha256=OqRkF0eY5GHssMorFjlbTIq072vpHpF60fIQA6lS9xA,92
+PPDyn-0.0.2.dist-info/top_level.txt,sha256=Y1TlVAbC0U8LvFnQUhRymZkCVIKhMff_X3Lk8W62tIU,6
+PPDyn-0.0.2.dist-info/RECORD,,
