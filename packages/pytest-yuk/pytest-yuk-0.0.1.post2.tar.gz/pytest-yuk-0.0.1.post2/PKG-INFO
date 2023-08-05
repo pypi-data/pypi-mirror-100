@@ -1,0 +1,7 @@
+Metadata-Version: 1.1
+Name: pytest-yuk
+Version: 0.0.1.post2
+Summary: Display tests you are uneasy with, using 🤢/🤮 for pass/fail of tests marked with yuk.
+Home-page: https://github.com/okken/pytest-yuk
+Author: Brian Okken
+Author-email: brian+pypi@pythontest.com
