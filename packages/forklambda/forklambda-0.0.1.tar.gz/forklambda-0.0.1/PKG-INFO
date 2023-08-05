@@ -1,0 +1,13 @@
+Metadata-Version: 2.1
+Name: forklambda
+Version: 0.0.1
+Summary: A lambda function implementation with variable argument ordering.
+Home-page: http://pypi.python.org/pypi/forklambda/
+Author: Zachary Lefin
+Author-email: zachlefin@gmail.com
+License: LICENSE
+Description: # forklambda
+        A lambda function implementation with variable argument ordering.
+        
+Platform: UNKNOWN
+Description-Content-Type: text/markdown

@@ -1,0 +1,8 @@
+README.md
+setup.py
+forklambda/__init__.py
+forklambda/forklambda.py
+forklambda.egg-info/PKG-INFO
+forklambda.egg-info/SOURCES.txt
+forklambda.egg-info/dependency_links.txt
+forklambda.egg-info/top_level.txt
