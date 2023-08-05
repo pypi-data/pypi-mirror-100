@@ -1,0 +1,6 @@
+sentinelsat
+eodag>=2.2.0
+
+[dev]
+pre-commit
+tox
