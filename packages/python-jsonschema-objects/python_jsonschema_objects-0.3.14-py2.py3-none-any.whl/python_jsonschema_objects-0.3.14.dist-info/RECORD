@@ -1,0 +1,17 @@
+python_jsonschema_objects/__init__.py,sha256=aAO82L8dJ8J6SMODTSniVuP1cQQQGh6S44sHtl0MDUw,5692
+python_jsonschema_objects/_version.py,sha256=PUg2-yhYfIlaI_CunG5hpK3Z-B3GIIYtoKGkTftuqUs,472
+python_jsonschema_objects/classbuilder.py,sha256=yEAUWsi7eCOyDakC2S0QIOIPL_k_Osz7ctStURLNpMw,27211
+python_jsonschema_objects/descriptors.py,sha256=BjGabMyRBxBI5a7qUZXC_r-mYf6WrNjXL0XKsMsRvZ4,4764
+python_jsonschema_objects/literals.py,sha256=gW9ia8AGeqDRAzSL4LtYywc-7MK3L7_zU4-gUlWC354,4129
+python_jsonschema_objects/markdown_support.py,sha256=VqqLAR-UZ-n5IGYCLHJH-Vn9Rtt5lc7q_RFlv5Xm2pM,3119
+python_jsonschema_objects/pattern_properties.py,sha256=XyNPY5_Bso-cMnxnKk3gOFtQGd9NkwP9BGAj-wX4kTk,3417
+python_jsonschema_objects/util.py,sha256=zgAN8Oq3L6nQ3GIa-b0zJEOS1-Hzme21t_8IVoFsy4I,6181
+python_jsonschema_objects/validators.py,sha256=RHp91e-m-G_rUPOaHoGdU9jlXcHywLKT103us48k2aI,4566
+python_jsonschema_objects/wrapper_types.py,sha256=e2p23AY0t0YMY9ppSKGVyOrEeqY349qYYwx_aBFnq3c,11522
+python_jsonschema_objects/examples/README.md,sha256=AEzErY_C6p9CgNlPZYJSTXSxRoThQgQq7K_LuVDHazc,13198
+python_jsonschema_objects/examples/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+python_jsonschema_objects-0.3.14.dist-info/LICENSE,sha256=ait4RPDZYbHzpXcxGEBUwlcmLJO0myaNoIpiC8XPAPo,1078
+python_jsonschema_objects-0.3.14.dist-info/METADATA,sha256=e1xJS0azjrYUJmD7678HKCyhNwTxBcaBF2jOUQaZHDg,889
+python_jsonschema_objects-0.3.14.dist-info/WHEEL,sha256=Z-nyYpwrcSqxfdux5Mbn_DQ525iP7J2DG3JgGvOYyTQ,110
+python_jsonschema_objects-0.3.14.dist-info/top_level.txt,sha256=ybASl2Tqink5djAhF-GHXuJaKaintHWktFBoF7pxZiY,26
+python_jsonschema_objects-0.3.14.dist-info/RECORD,,
