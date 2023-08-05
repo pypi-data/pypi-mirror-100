@@ -1,0 +1,7 @@
+Metadata-Version: 1.1
+Name: log_decorator
+Version: 0.1
+Summary: A simple execution time logger implemented as a python decorator. Available under the terms of the MIT license.
+Home-page: None
+Author: Helge Boeschen
+Author-email: helgeboeschen@gmail.com

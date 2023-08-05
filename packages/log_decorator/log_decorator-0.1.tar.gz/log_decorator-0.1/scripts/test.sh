@@ -1,0 +1,1 @@
+pytest --cov=log_decorator
