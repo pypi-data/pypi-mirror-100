@@ -1,0 +1,14 @@
+README.md
+pyproject.toml
+setup.cfg
+src/fastpivot/__init__.py
+src/fastpivot.egg-info/PKG-INFO
+src/fastpivot.egg-info/SOURCES.txt
+src/fastpivot.egg-info/dependency_links.txt
+src/fastpivot.egg-info/top_level.txt
+src/fastpivot/pivot/__init__.py
+src/fastpivot/pivot/benchmarks.py
+src/fastpivot/pivot/example.py
+src/fastpivot/pivot/pivot_sparse.py
+src/fastpivot/pivot/test_pivot.py
+src/fastpivot/pivot/test_sparse.py
