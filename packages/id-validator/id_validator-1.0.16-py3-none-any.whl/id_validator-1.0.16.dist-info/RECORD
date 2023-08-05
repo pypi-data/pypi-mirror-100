@@ -1,0 +1,11 @@
+id_validator/__init__.py,sha256=TECrG8V2eVh8NjzNzKi4ece9CDaIKVlvY2_-jOPN36k,47
+id_validator/data.py,sha256=cJ-fLS9mNASRMTnmCuKDtBasXbdSQ6_rui_0m6FMkWc,639835
+id_validator/func.py,sha256=Eksy_Fpwdua_EqtHhmy98HiqDcrctVJBJrCTKzjxrIE,1073
+id_validator/helper.py,sha256=1izJCshaEG7HuXNuRkdb_1t98EpvELfeLS3cmhSY4L8,9327
+id_validator/utils.py,sha256=EjSwPrJFnF2BUk6dlglHh7e_YRoWpzXXD5rja5-0uWI,935
+id_validator/validator.py,sha256=xcFF7yav6fQyg24cc0vG-20XUx1wy6JB0_tea-9E-M0,3448
+id_validator-1.0.16.dist-info/LICENSE,sha256=HMcidXRtLSvEZx9lw6eLl4pwJzuIUo9a-r3Jbaz3sQg,1079
+id_validator-1.0.16.dist-info/METADATA,sha256=Y3DraAuRH1vn5M9XS_wBWcFjdEdGZMIGR9H1yefjQkQ,273
+id_validator-1.0.16.dist-info/WHEEL,sha256=OqRkF0eY5GHssMorFjlbTIq072vpHpF60fIQA6lS9xA,92
+id_validator-1.0.16.dist-info/top_level.txt,sha256=J_37l9n7PwbOHEmwal8foy2AkXKnsUNWJ34Y3_3i6GU,13
+id_validator-1.0.16.dist-info/RECORD,,
