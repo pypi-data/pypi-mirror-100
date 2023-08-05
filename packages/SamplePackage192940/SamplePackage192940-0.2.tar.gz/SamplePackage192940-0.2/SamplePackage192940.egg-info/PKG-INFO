@@ -1,0 +1,15 @@
+Metadata-Version: 1.1
+Name: SamplePackage192940
+Version: 0.2
+Summary: Sample functions
+Home-page: http://vk.com/red.snail
+Author: Me
+Author-email: rsanddrs-company@yandex.ru
+License: MIT
+Description: Really, the sampliest functions.
+Keywords: idk
+Platform: UNKNOWN
+Classifier: Development Status :: 3 - Alpha
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 2.7
+Classifier: Topic :: Text Processing :: Linguistic
