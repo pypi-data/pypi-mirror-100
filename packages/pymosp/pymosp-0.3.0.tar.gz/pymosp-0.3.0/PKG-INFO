@@ -1,0 +1,65 @@
+Metadata-Version: 2.1
+Name: pymosp
+Version: 0.3.0
+Summary: Python Library to access MOSP.
+Home-page: https://github.com/CASES-LU/PyMOSP
+License: GPL-3.0-or-later
+Keywords: json,mosp,security
+Author: Cédric Bonhomme
+Author-email: cedric@cedricbonhomme.org
+Requires-Python: >=3.9,<4.0
+Classifier: Development Status :: 5 - Production/Stable
+Classifier: Environment :: Console
+Classifier: Intended Audience :: Information Technology
+Classifier: License :: OSI Approved :: BSD License
+Classifier: License :: OSI Approved :: GNU General Public License v3 or later (GPLv3+)
+Classifier: Operating System :: POSIX :: Linux
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Topic :: Internet
+Classifier: Topic :: Security
+Requires-Dist: requests (>=2.25.1,<3.0.0)
+Project-URL: Bug Tracker, https://github.com/CASES-LU/PyMOSP/issues
+Project-URL: Repository, https://github.com/CASES-LU/PyMOSP
+Project-URL: Source, https://github.com/CASES-LU/PyMOSP
+Description-Content-Type: text/markdown
+
+# PyMOSP
+
+PyMOSP is a Python library to access [MOSP](https://github.com/CASES-LU/MOSP).
+
+
+## Installation
+
+```bash
+$ pipx install PyMOSP
+✨🐍✨
+```
+
+or via the Git repository:
+
+```bash
+$ git clone https://github.com/CASES-LU/PyMOSP
+$ cd PyMOSP
+$ poetry install
+$ poetry run nose2 -v --pretty-assert
+```
+
+
+## Examples
+
+See the examples in the file [example.py](example.py) or in the tests folder.
+
+
+## License
+
+This software is licensed under
+[GNU General Public License version 3](https://www.gnu.org/licenses/gpl-3.0.html).
+
+* Copyright (C) 2019-2021 Cédric Bonhomme
+* Copyright (C) 2019-2021 SMILE gie securitymadein.lu
+
+For more information, [the list of authors and contributors](AUTHORS.md)
+is available.
+
