@@ -1,0 +1,13 @@
+gpxplotter/__init__.py,sha256=L-J7xYr0pOJwh8CScrxC7LFEqmshwT8Np3rJemFW_zo,1533
+gpxplotter/common.py,sha256=riITtODt8Q0JcZ4LwPYEWcoLOYA_KK3phuIlcH9feGw,4393
+gpxplotter/folium_map.py,sha256=fkwrxbdvyPvaA-fKwu2r6nKXz-olSPMkyea9zA1Q1I0,8081
+gpxplotter/gpxread.py,sha256=oNrn-mO-V576TxGFyRfQ21hgE1O_vGCl7X_2rKhCifw,10465
+gpxplotter/mplplotting.py,sha256=EPtZPpU5C8BJfpCIe7hpX104yB_S1eYooYWg9_gSAxU,16687
+gpxplotter/version.py,sha256=lyWwczF2PnUUGtDf7Ikw5gap84du93YwWgwoGlT-INI,415
+gpxplotter-0.2.3.dist-info/COPYING,sha256=s6pACsptK6HwvQO9mNA9H-dImju7JpadcgFjYK-KXJ0,24478
+gpxplotter-0.2.3.dist-info/COPYING.LESSER,sha256=s6pACsptK6HwvQO9mNA9H-dImju7JpadcgFjYK-KXJ0,24478
+gpxplotter-0.2.3.dist-info/LICENSE,sha256=AdUb8aZTaS7r81cIlHSUo0bsU1-ES9oYVq7RbCR-378,1278
+gpxplotter-0.2.3.dist-info/METADATA,sha256=_pPaenBWsrqIZ5wTV98n7uMG0EZn-_q4IJJVA_kZhP8,1653
+gpxplotter-0.2.3.dist-info/WHEEL,sha256=g4nMs7d-Xl9-xC9XovUrsDHGXt-FT0E17Yqo92DEfvY,92
+gpxplotter-0.2.3.dist-info/top_level.txt,sha256=AuGBR8-GbmDTT4KPb10hXuQAvnezSL35UBnS0vQgWSs,11
+gpxplotter-0.2.3.dist-info/RECORD,,
