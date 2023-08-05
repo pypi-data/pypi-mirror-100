@@ -1,0 +1,7 @@
+Metadata-Version: 1.1
+Name: pymacsay
+Version: 1.0.0
+Summary: pymacsay is a wrapper for the command-line tool `say` in macOS
+Home-page: https://github.com/amkdg/pymacsay
+Author: amkdg
+Author-email: amkdg@protonmail.com
