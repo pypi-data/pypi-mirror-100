@@ -1,0 +1,11 @@
+configparserc/__init__.py,sha256=gkSzWCZHmxZBlRahXcvhIl9lP_98e8K3ji7ArGizfmQ,674
+configparserc/py.typed,sha256=zlBhTdAQBRfJxeJXD-QnlXiZYsiAJYYkr3mbEsmwSac,64
+configparserc/tools.pyi,sha256=ypu5xeoTg80pfOS9BfoMhd0puDJIbzIPsFnagSYwAnY,776
+configparserc/tools.cpython-38-x86_64-linux-gnu.so,sha256=uNVDOcNZ7JoP28WTe2LoIYJqV62E1eF84AeMKk0qLcM,102440
+configparserc/config.cpython-38-x86_64-linux-gnu.so,sha256=On2hC5VeCfeWOc46b8-9oSfLfZRhooUNGFk441rEewo,421280
+configparserc/config.pyi,sha256=wfdONZjqrmho_QoltKIiVfvzP8det2PdiHQVRpzhZGo,2813
+configparserc/include/_config.h,sha256=CBmlNJgHPBnXhykUzj8l0wg1Ybwdx_VxLMkL83nALSA,480
+configparserc-1.2.3.dist-info/RECORD,,
+configparserc-1.2.3.dist-info/WHEEL,sha256=VEyGcIFAmk_1KbI6gaZGw_mMiT-pdGweASQLX-DzYaY,108
+configparserc-1.2.3.dist-info/METADATA,sha256=ruCyWciAebJS6AXum3C4ujgzpUcLy0Dud42f6CuzeEY,5201
+configparserc-1.2.3.dist-info/top_level.txt,sha256=HeCyLRRE7cKZLhO7wIqBXGIJIn9SNc45PEx_um2vlio,14
