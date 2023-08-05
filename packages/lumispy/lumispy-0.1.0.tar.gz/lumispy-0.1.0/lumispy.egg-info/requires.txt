@@ -1,0 +1,11 @@
+numpy
+scipy
+hyperspy>=1.5.2
+
+[coverage]
+pytest-cov>=2.8.1
+coveralls>=1.10
+coverage>=5.0
+
+[tests]
+pytest>=5.0
