@@ -1,0 +1,21 @@
+Metadata-Version: 2.1
+Name: super-puper-python-package
+Version: 0.0.1.1
+Summary:  So, I hope you leave this repo, it's for test. 
+Home-page: https://github.com/DanilaCharushin/super-puper-python-package
+Author: DanilaCharushin
+Author-email: charushin2000@gmail.com
+License: MIT License
+Download-URL: https://github.com/DanilaCharushin/super-puper-python-package/archive/master.zip
+Description: # super-puper-python-package
+        My super puper python package :)
+        
+Platform: UNKNOWN
+Classifier: Operating System :: OS Independent
+Classifier: Intended Audience :: End Users/Desktop
+Classifier: Intended Audience :: Developers
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: Implementation :: CPython
+Description-Content-Type: text/markdown
