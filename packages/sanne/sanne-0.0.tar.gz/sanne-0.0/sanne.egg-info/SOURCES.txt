@@ -1,0 +1,9 @@
+setup.cfg
+setup.py
+sanne/__init__.py
+sanne/sanne.py
+sanne.egg-info/PKG-INFO
+sanne.egg-info/SOURCES.txt
+sanne.egg-info/dependency_links.txt
+sanne.egg-info/not-zip-safe
+sanne.egg-info/top_level.txt
