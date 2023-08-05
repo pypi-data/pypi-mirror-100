@@ -1,0 +1,14 @@
+.gitignore
+LICENSE
+README.rst
+setup.cfg
+setup.py
+doc/Makefile
+doc/conf.py
+doc/index.rst
+doc/make.bat
+iec60063/__init__.py
+iec60063.egg-info/PKG-INFO
+iec60063.egg-info/SOURCES.txt
+iec60063.egg-info/dependency_links.txt
+iec60063.egg-info/top_level.txt
