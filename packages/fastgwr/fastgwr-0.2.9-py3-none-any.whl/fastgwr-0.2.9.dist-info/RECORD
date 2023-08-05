@@ -1,0 +1,12 @@
+fastgwr/FastGWR.py,sha256=a69jUq8phhCOn7jfUU5RyQqkGOzmaqPeQz3Tv1PZgss,12868
+fastgwr/FastMGWR.py,sha256=Kuf2Qj0S1-R_7vFFcuUuY3aXBG8e-neJpdZgqgnxm0E,8877
+fastgwr/__init__.py,sha256=AbpHGcgLb-kRsJGnwFEktk7uzpZOCcBY74-YBdrKVGs,1
+fastgwr/__main__.py,sha256=rsGvuD20iTxFaWv4r3SkkLD-iTKAfIQs6oehVJowLVc,2996
+fastgwr/fastgwr_mpi.py,sha256=zDiaEy2LBw7LsGQIZ5KppYhg1AoSB70ayEvo_NyNB4U,1688
+fastgwr-0.2.9.dist-info/LICENSE.md,sha256=8hWt1p8qRcU0S3-JK30LzaAeTkGijnfQVU51keHtl8A,1064
+fastgwr-0.2.9.dist-info/METADATA,sha256=alz9L5av8j-ur8RdyGqjbaREZrKOLl_Pmj8xe785wfg,649
+fastgwr-0.2.9.dist-info/WHEEL,sha256=g4nMs7d-Xl9-xC9XovUrsDHGXt-FT0E17Yqo92DEfvY,92
+fastgwr-0.2.9.dist-info/dependency_links.txt,sha256=SIshJ3zC0IGLy5Xa89rZTBSwhZcr-nawTV6e98J9fm0,32
+fastgwr-0.2.9.dist-info/entry_points.txt,sha256=RxXvD-UPeihEtHMehW-ZF4FnEqJpIUjmFMkEt9SnQ1E,51
+fastgwr-0.2.9.dist-info/top_level.txt,sha256=9pX4WvRxRhML42TholIL6Kv1FZn_vjuTrTEyF23b7ME,8
+fastgwr-0.2.9.dist-info/RECORD,,
