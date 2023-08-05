@@ -1,0 +1,16 @@
+Metadata-Version: 1.1
+Name: tgam-com
+Version: 0.1
+Summary: The Globe and Mail
+Home-page: https://github.com/globeandmail/tgam-com
+Author: Aras Azimipanah
+Author-email: aazimipanah@globeandmail.com
+License: UNKNOWN
+Download-URL: https://github.com/joelbarmettlerUZH/Scrapeasy/archive/pypi-0_1_3.tar.gz
+Description: UNKNOWN
+Keywords: aws,s3
+Platform: UNKNOWN
+Classifier: Development Status :: 3 - Alpha
+Classifier: Intended Audience :: Developers
+Classifier: Topic :: Software Development :: Build Tools
+Classifier: Programming Language :: Python :: 3.7
