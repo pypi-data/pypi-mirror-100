@@ -1,0 +1,7 @@
+tess_ephem/__init__.py,sha256=T2xiA1zk8b7rr98FkUt6r_E0vQBt6_OX5HrgXqfXGQM,217
+tess_ephem/angle.py,sha256=QkIFHnlzGuONPxOZywGlf4KbutPC1Ga-T8DVOolyDAA,1592
+tess_ephem/ephem.py,sha256=UH6WWwU-n-OSEpED7EK-TrAU-YYnJNrRoV9iRqPkTeo,5828
+tess_ephem-0.2.0.dist-info/LICENSE,sha256=YIurXE5uHFo-DHYozgDPSlhTHedYReVaCkffFMkuumQ,1105
+tess_ephem-0.2.0.dist-info/WHEEL,sha256=SrtnPGVTMeYWttls9xnWA01eUhCZ3ufFdJUYb1J3r-U,83
+tess_ephem-0.2.0.dist-info/METADATA,sha256=1dpQdbcXWQDga1HoIWtwAcuMf7wzDe3S1GQ7mcuZGdM,3532
+tess_ephem-0.2.0.dist-info/RECORD,,
