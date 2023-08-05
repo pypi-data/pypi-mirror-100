@@ -1,0 +1,154 @@
+axes.prop_cycle: cycler('color', ['9D0D15', '4472C4', 'ED7D31', '70AD47', "564794", 'FFC000'])
+
+# orange bavaria
+#['E1876C','FFAE6C','35405E','6C8599','506B4C','290D86','856FBA','FCDF57'])
+
+#bright colors
+#['fc0800','be1bff','ffd412','49c940','1e13bf','23e8d1'])
+
+# bright colors 2
+#['c23100','640199','ffcc00','5db802','0fa2eb','e80582'])
+
+#default w gray
+#['c71b00','711396','ffcc00','8498b5','2ee8d9','d868de'])
+
+#default w black
+#['c23636', "564794", "ffb803", "3fb002", "474247", "03cbd9"])
+
+# divergent blue-red
+#['004a99', '4577af', '71a7c4', 'a4d7d7', 'ffffe0', 'ffbfaf', 'f77b7a', 'd63c49', '9d0d15']) 
+
+# default
+#['9D0D15', "474247", '4472C4', 'FFC000', 'ED7D31', '70AD47'])
+
+
+# LINES
+lines.linewidth   : 0.75
+lines.markersize  : 2.0
+
+# PATCHES
+patch.linewidth        : 1.0
+hatch.linewidth        : 1.0
+
+## FONTS
+
+font.size           : 7 
+font.family         : sans-serif
+font.stretch        : condensed
+text.color          : 555555
+
+font.serif     : Liberation Serif, Times New Roman, New Century Schoolbook, Century Schoolbook L, Utopia, ITC Bookman, Bookman, Nimbus Roman No9 L, Palatino, Charter, serif
+font.sans-serif: Helvetica, Arial, Liberation Sans, Nimbus Sans L, Lucida Grande, Verdana, Geneva, Lucid, sans-serif
+
+
+# AXES
+axes.edgecolor: 555555
+axes.linewidth      : 0.5
+axes.titlepad       : 2.0     
+axes.labelpad       : 2.0     # space between label and axis
+axes.titlesize      : medium
+axes.labelweight    : normal  # weight of the x and y labels
+axes.labelcolor     : 555555
+axes.axisbelow      : True   # whether axis gridlines and ticks are below
+                              # the axes elements (lines, text, etc)
+axes.spines.top : False
+axes.spines.right: False 
+
+axes.formatter.use_mathtext : True
+axes.formatter.limits : -3, 3 # limits when to start use scientific notation
+axes.autolimit_mode : data
+
+# TICKS
+xtick.major.size     : 2.5
+xtick.minor.size     : 1.5
+xtick.major.width    : 0.5
+xtick.minor.width    : 0.5   
+xtick.direction: in
+xtick.major.pad      : 1.5   
+xtick.minor.pad      : 1.5   
+xtick.color          : 555555
+
+ytick.major.size     : 2.5
+ytick.minor.size     : 1.5
+ytick.major.width    : 0.5
+ytick.minor.width    : 0.5   
+ytick.direction: in
+ytick.major.pad      : 1.5   
+ytick.minor.pad      : 1.5   
+ytick.color          : 555555
+
+# GRIDS
+grid.color       :   555555  # grid color
+grid.linestyle   :   -       # dotted
+grid.linewidth   :   0.5     # in points
+grid.alpha       :   0.3     # transparency, between 0.0 and 1.0
+
+
+# LEGEND
+legend.fontsize      : medium
+legend.borderpad     : 0.2
+legend.markerscale   : 0.75
+
+# FIGURE
+figure.facecolor: white
+figure.figsize: 3.25, 2.4
+figure.dpi       : 120 
+figure.frameon: False
+
+
+# IMAGE
+#image.cmap   : quantjetuniform
+image.cmap  : quantplasma
+
+# BOXPLOT
+boxplot.boxprops.color: 555555
+boxplot.boxprops.linestyle: -
+boxplot.boxprops.linewidth: 0.4
+
+boxplot.capprops.color: 555555
+boxplot.capprops.linestyle: -
+boxplot.capprops.linewidth: 0.5
+
+boxplot.flierprops.color: 555555
+boxplot.flierprops.linestyle: none
+boxplot.flierprops.linewidth: 0.5
+boxplot.flierprops.marker: x
+boxplot.flierprops.markeredgecolor: 555555
+boxplot.flierprops.markerfacecolor: auto
+boxplot.flierprops.markersize: 2.0
+
+boxplot.meanline: False
+boxplot.meanprops.color: 9D0D15
+boxplot.meanprops.linestyle: -
+boxplot.meanprops.linewidth: 0.5
+
+boxplot.meanprops.marker: s
+boxplot.meanprops.markerfacecolor: 9D0D15
+boxplot.meanprops.markeredgecolor: 555555
+boxplot.meanprops.markersize: 2.0
+
+boxplot.medianprops.color: 9D0D15
+boxplot.medianprops.linestyle: -
+boxplot.medianprops.linewidth: 1.0
+
+boxplot.showbox: True
+boxplot.showcaps: True
+boxplot.showfliers: True
+boxplot.showmeans: False
+boxplot.vertical: True
+boxplot.whiskerprops.color: 555555
+boxplot.whiskerprops.linestyle: --
+boxplot.whiskerprops.linewidth: 0.75
+boxplot.whiskers: 0.75
+
+boxplot.notch: True
+
+# SAVING
+savefig.dpi: 500
+savefig.pad_inches : 0.02
+savefig.bbox        : tight
+
+# ETC
+
+svg.fonttype: none # keep texts editable, assumes 
+                   # fonts are installed
