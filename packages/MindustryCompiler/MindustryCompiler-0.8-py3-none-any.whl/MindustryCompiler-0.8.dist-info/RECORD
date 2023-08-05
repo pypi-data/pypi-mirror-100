@@ -1,0 +1,13 @@
+compiler/__init__.py,sha256=5Kkujelv9_KQhVlXIpf0jxe04v2h1fp0n7C1GILHwvo,140
+compiler/__main__.py,sha256=wjk1uAkt5idfSw-0mWdpaZZnVkLeCBpFQcs0LDlfsEI,2559
+compiler/lex/__init__.py,sha256=c-46i_VDqxCtgwqXxvxv-d_NyobBmDDLclD1TkB5Kc0,64
+compiler/lex/mainLex.py,sha256=weOOqKpvpMNbR2A1v2nvLrR7sY92jf4wgQ7zW9GrxQo,3204
+compiler/yacc/__init__.py,sha256=1IOOV5lf9ZzjNECJ2hdswYwzuLhYaa1rdT9nNwQf52c,59
+compiler/yacc/mainYacc.py,sha256=h9NYLCCU9Sl76HVQy8CcG7mRk8LOwdJLnAHpvAMOAks,4415
+compiler/yacc/parsetab.py,sha256=hJVBEjRxopl7xu53JN032UCwLbec-5H7JjBvqX4fs38,3780
+MindustryCompiler-0.8.dist-info/LICENSE,sha256=OXLcl0T2SZ8Pmy2_dmlvKuetivmyPd5m1q-Gyd-zaYY,35149
+MindustryCompiler-0.8.dist-info/METADATA,sha256=6y99NTyaWhkRd0q8ysfxanMRtm9RG--Ua2tBQUbmpII,2450
+MindustryCompiler-0.8.dist-info/WHEEL,sha256=OqRkF0eY5GHssMorFjlbTIq072vpHpF60fIQA6lS9xA,92
+MindustryCompiler-0.8.dist-info/entry_points.txt,sha256=kO9VeTxfvSE9uQRJWO45dceUkRmCSRwvCvuuE6W9-d8,50
+MindustryCompiler-0.8.dist-info/top_level.txt,sha256=hQ2TcdDOLLCD1AddfuxJ8vbzwr7ltY0CJrNgKK6E7-A,9
+MindustryCompiler-0.8.dist-info/RECORD,,

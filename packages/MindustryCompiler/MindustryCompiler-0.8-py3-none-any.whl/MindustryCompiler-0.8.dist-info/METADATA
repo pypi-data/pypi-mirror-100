@@ -1,0 +1,125 @@
+Metadata-Version: 2.1
+Name: MindustryCompiler
+Version: 0.8
+Summary: compile code to ASM Mindusty, jump instruction can use ref instead of line number
+Home-page: https://github.com/Pythux/MindustryCompiler
+Author: Pythux
+License: ('GNU3',)
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: Operating System :: OS Independent
+Classifier: Intended Audience :: Education
+Classifier: License :: OSI Approved :: GNU General Public License v3 or later (GPLv3+)
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
+
+
+# MindustryCompiler
+
+a langage that compile to mindustry asm code,
+
+What's mindustry asm ? Here is a nice starting guide with in game screenshots:
+[How To Use Procesors in 6.0](https://steamcommunity.com/sharedfiles/filedetails/?id=2268059244)
+
+The language created here is a subset of what I call mindustry asm code [named Mindustry Logic by it's creator](https://github.com/MindustryGame/wiki/blob/master/docs/logic/0-introduction.md)
+
+## features
+
+- all mindustry asm code are valide as it
+
+- jump to a reference:
+
+    ```plain
+    ...
+    jump bottom always true true  <--- jump to #ref bottom
+    ...
+    #ref bottom  <--- set ref anywhere
+    ...
+    ```
+
+- comments:
+
+    ```plain
+    // this is a comment
+
+    #ref loop // another comment after some blank lines
+    ```
+
+## coming soon
+
+- improve jump conition:
+
+- if condition:
+
+- else, else if:
+
+- multiple condition:
+
+- function:
+
+## current usage
+
+- compile a file :
+
+    ```sh
+    > mindc fileName
+    ```
+
+    exemple, in this folder:
+
+    ```sh
+    > mindc tests/identicalCode/3-comments.code
+    ```
+
+- get the result in clipboard to just past it in mindustry :
+
+    ```sh
+    > mindc --ctrlC tests/identicalCode/3-comments.code
+    ```
+
+- run interactive to play with it :
+
+    ```sh
+    > mindc --interactive
+    ```
+
+## Installation
+
+### you need python to run this software
+
+- check that you have it
+
+    type in your shell/terminal :
+
+    ```sh
+    python3 --version
+    ```
+
+    must give you something like: `Python 3._._`
+
+- if you don't have it, install it :
+
+    you could dowload python from [here](https://www.python.org/downloads/release)
+
+### install mindustry compiler
+
+- with python package manager:
+
+    ```sh
+    python3 -m pip install ___
+    ```
+
+    to run it, type:
+
+    ```sh
+    mindc
+    ```
+
+- or download this git and run `__main__.py` file
+    to run it:
+
+    ```sh
+    python3 compiler/__main__.py
+    ```
+
+
