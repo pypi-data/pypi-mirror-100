@@ -1,0 +1,65 @@
+Metadata-Version: 2.1
+Name: songsdownload
+Version: 1.0.4
+Summary: Download Sinhala Songs and Lyrics Easily
+Home-page: UNKNOWN
+Author: Ashen Ranaweera
+Author-email: ashen8810@gmail.com
+License: MIT
+Keywords: python,songs,sinhala,lyrics,download,internet
+Platform: UNKNOWN
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Description-Content-Type: text/markdown
+Requires-Dist: google
+Requires-Dist: bs4
+Requires-Dist: tqdm
+
+![Python 3.5, 3.6, 3.7](https://img.shields.io/pypi/pyversions/vk_songs.svg)
+
+# Songsdownload
+songsdownload is written in Python that downloads sinhala songs and lyrics files.
+
+## Features
+--------
+- Download Sinhala MP3 songs
+- Download Lyrics Files
+- Download Array of Songs
+--------
+## Installation
+```pip install songsdownload```
+
+## How to use it?
+```python 
+from songsdownload import Songsdetails
+
+songs = Songsdetails("query","location") #default location is cwd
+
+songs.downloadsongs("Your Query")
+songs.downloadlyrics("Your Query")
+
+```
+<br />
+
+
+``` python
+from songsdownload import Songsdetails
+
+listofsongs = ["song1","song2"]
+downloadsongarray(listofsongs)
+
+```
+<br />
+
+![Result](https://raw.githubusercontent.com/ashen8810/images/main/image.png)
+
+
+## License
+
+Â© 2021 Ashen Ranaweera
+
+This repository is licensed under the MIT license. See LICENSE for details.
+
+
