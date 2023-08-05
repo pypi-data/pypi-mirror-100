@@ -1,0 +1,3 @@
+[console_scripts]
+parlaiment = parlaiment.__main__:main
+
