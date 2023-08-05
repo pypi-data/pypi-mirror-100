@@ -1,0 +1,45 @@
+Metadata-Version: 2.1
+Name: django-custom-logging
+Version: 0.0.1b1
+Summary: A small example package
+Home-page: https://github.com/sh-cho/django-custom-logging
+Author: Seonghyeon Cho
+Author-email: seonghyeoncho96@gmail.com
+License: UNKNOWN
+Project-URL: Bug Tracker, https://github.com/sh-cho/django-custom-logging/issues
+Project-URL: Source Code, https://github.com/sh-cho/django-custom-logging
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Programming Language :: Python :: 3 :: Only
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
+
+# django-custom-logging
+Django middleware for custom logging
+
+## Installation
+1. Install the package
+    ```sh
+    python -m pip install django-custom-logging
+    ```
+1. Add middleware to `MIDDLEWARE` in setting file
+    ```python
+    MIDDLEWARE = (
+        # other middlewares ...
+        "django-custom-logging.middleware.request_info_middleware",
+    )
+    ```
+1. Finally, add `custom_logging.filters.UserIdFilter` to `LOGGING` in setting file and update formatter
+
+(TBD)
+
+## Examples
+(TBD)
+
+
