@@ -1,0 +1,10 @@
+dddpy/__init__.py,sha256=ImuHcdQaehpDnj37x6WRt9JoPcbf8BJ_cb7ERJQiQwc,252
+dddpy/bases/__init__.py,sha256=jVdhlOLDS_l4HtoJc_MvqTefNj294nooq2UUWVb_7Co,44
+dddpy/bases/common/__init__.py,sha256=txcc7ZPpi2TQsHM2De6LvWUeaSqXizB8_AKge16Y7s0,3444
+dddpy/bases/common/abstract.py,sha256=oKw2dzc8WgXswRe0v5fiW9mzrV8XgZaW2QvWMLCn9RI,1396
+dddpy/bases/common/primitive.py,sha256=zRfJ694CdoJDocESzGjv5QDg9z49BICuP4WS04w-oQk,1538
+dddpy/bases/domain/__init__.py,sha256=81hzgtohIhMyPiAN41mZWxvmLC9jmxW5nSXfDvQgqyk,1172
+dddpy-0.4.0.dist-info/LICENSE,sha256=xx0jnfkXJvxRnG63LTGOxlggYnIysveWIZ6H3PNdCrQ,11357
+dddpy-0.4.0.dist-info/WHEEL,sha256=SrtnPGVTMeYWttls9xnWA01eUhCZ3ufFdJUYb1J3r-U,83
+dddpy-0.4.0.dist-info/METADATA,sha256=oQuFkg83ZG_BA9RRBmXERSndfcrnahbqCADOrpdMXEs,1814
+dddpy-0.4.0.dist-info/RECORD,,
