@@ -1,0 +1,10 @@
+PyAutoMakerFace/__init__.py,sha256=vja6tdnBNHdiD27zaiFs6ycfaXKT1L6bBY-WxcskUuI,7131
+PyAutoMakerFace-0.0.5.data/data/lib/site-packages/PyAutoMakerFace/models/deploy.prototxt,sha256=9iYhyskj1vN71mkpjEKLt-5yIztfjDOJu4k-Neu895U,28092
+PyAutoMakerFace-0.0.5.data/data/lib/site-packages/PyAutoMakerFace/models/mask_detector.model,sha256=g3hZtk1V2rqzsLkRiiJmoDezinxa9PrQhKhfu7xzYUY,11489032
+PyAutoMakerFace-0.0.5.data/data/lib/site-packages/PyAutoMakerFace/models/openface_nn4.small2.v1.t7,sha256=m3LVSuskpkqBNdyo55L3zGdcmaiEppQDUKbO3Pe3ugg,31510785
+PyAutoMakerFace-0.0.5.data/data/lib/site-packages/PyAutoMakerFace/models/res10_300x300_ssd_iter_140000.caffemodel,sha256=KlahGlekopWVawZgtKPXa73KIgbElhzqjv59lcfLLy0,10666211
+PyAutoMakerFace-0.0.5.dist-info/LICENSE,sha256=6kbiFSfobTZ7beWiKnHpN902HgBx-Jzgcme0SvKqhKY,1091
+PyAutoMakerFace-0.0.5.dist-info/METADATA,sha256=FG_Oa7NpviE7sktJfvi5x4cIgwXZM6Uw_3v9kXMN5xM,640
+PyAutoMakerFace-0.0.5.dist-info/WHEEL,sha256=OqRkF0eY5GHssMorFjlbTIq072vpHpF60fIQA6lS9xA,92
+PyAutoMakerFace-0.0.5.dist-info/top_level.txt,sha256=6jUY-CLk2wb4TNUXN-Nu7slXlK6XPGFvrILbHShBM7k,16
+PyAutoMakerFace-0.0.5.dist-info/RECORD,,
