@@ -1,0 +1,14 @@
+Metadata-Version: 1.1
+Name: sayjira
+Version: 0.1.0
+Summary: Adds a jira ticket from branch name to the beginning of a commit message
+Home-page: https://github.com/strangesphagnum/sayjira
+Author: strangesphagnum
+Author-email: UNKNOWN
+License: UNKNOWN
+Description: UNKNOWN
+Keywords: git commit pre-commit hook commit msg message python
+Platform: Any
+Classifier: Development Status :: 3 - Alpha
+Classifier: Operating System :: OS Independent
+Classifier: Programming Language :: Python
