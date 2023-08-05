@@ -1,0 +1,3 @@
+include quantstyles/colormaps/*
+include quantstyles/stylelib/*
+include quantstyles/style_installed.flag
