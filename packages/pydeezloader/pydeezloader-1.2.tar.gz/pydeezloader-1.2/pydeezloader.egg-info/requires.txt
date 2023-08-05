@@ -1,0 +1,9 @@
+Flask
+flask-cors
+stagger
+mutagen
+pycryptodome
+requests>=2.25.0
+spotipy
+tqdm
+six>=1.15.0
