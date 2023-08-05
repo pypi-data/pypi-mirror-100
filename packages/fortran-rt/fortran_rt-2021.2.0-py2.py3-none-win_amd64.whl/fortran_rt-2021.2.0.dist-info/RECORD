@@ -1,0 +1,14 @@
+fortran_rt-2021.2.0.data/data/Library/bin/ifdlg100.dll,sha256=Yfb5fjNoZ4nrnmfGlMeC-33mSRnm6W9Hl-VNNIx-8DI,493936
+fortran_rt-2021.2.0.data/data/Library/bin/libicaf.dll,sha256=TvGIxfcQCGExSolgBiX0kll-SbcrV_khWu37oqcnMoM,706416
+fortran_rt-2021.2.0.data/data/Library/bin/libifcoremd.dll,sha256=94KOm68d9-J5fCRtBRmkXsqi77KLZiMqczEmqNtiPOE,1866608
+fortran_rt-2021.2.0.data/data/Library/bin/libifcoremdd.dll,sha256=MVOiNf2-MsjVLWjyNmD-X284as9AooYdbaM8XT6fqKs,1866608
+fortran_rt-2021.2.0.data/data/Library/bin/libifcorert.dll,sha256=fUjaO1QsLceLUc2LMXwiL_-zVxKBPZo5ODlEAUyMi9E,1854832
+fortran_rt-2021.2.0.data/data/Library/bin/libifcorertd.dll,sha256=UieYjCM7ouvMyG_-Um8EZkVr0DirA_D1CYvdil9pDsk,1854832
+fortran_rt-2021.2.0.data/data/Library/bin/libifportmd.dll,sha256=S9aUZV0YUVYikmk2EkKsVNzRNsKxIuMc_pzLLk6V1Dw,424816
+fortran_rt-2021.2.0.data/data/licensing/fredist.txt,sha256=pT6W8vMPHY75jZUF0XAlp70Ftlpf5ytlL6zcvhqrOGo,1987
+fortran_rt-2021.2.0.data/data/licensing/compiler/fortran/third-party-programs.txt,sha256=odFJKvjoGnQplC3pe4DEM3Cj8ypWkIGpNVo0sjEC3jM,69501
+fortran_rt-2021.2.0.dist-info/LICENSE.txt,sha256=rC4Sj1Honhsc9UnOXr_ywlXx5UL1HbyhVwkyqJgP8xs,34478
+fortran_rt-2021.2.0.dist-info/METADATA,sha256=aAh8cfEp19OqzDGiidytwIsGdA1tCh4tZAtjA5v02GU,1348
+fortran_rt-2021.2.0.dist-info/WHEEL,sha256=8LoR7XFRBQAclYSv48VVSgW4Rfczh8dfa-4Q4WIotnk,128
+fortran_rt-2021.2.0.dist-info/top_level.txt,sha256=AbpHGcgLb-kRsJGnwFEktk7uzpZOCcBY74-YBdrKVGs,1
+fortran_rt-2021.2.0.dist-info/RECORD,,
