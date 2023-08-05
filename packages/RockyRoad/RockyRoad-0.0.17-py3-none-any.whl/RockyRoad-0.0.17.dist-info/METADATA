@@ -1,0 +1,67 @@
+Metadata-Version: 2.1
+Name: RockyRoad
+Version: 0.0.17
+Summary: Python wrapper for the RockyRoad API
+Home-page: https://github.com/pypa/sampleproject
+License: UNKNOWN
+Project-URL: Bug Tracker, https://github.com/pypa/sampleproject/issues
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
+Requires-Dist: uplink
+
+# RockyRoad
+
+This package provides a Python wrapper for the RockyRoad API.
+
+RockyRoad is a part of the PyPi repository and can be installed via
+
+    pip install RockyRoad
+
+    export OCP_APIM_SUBSCRIPTION_KEY="INSERT_YOUR_SUBSCRIPTION_KEY"
+
+
+Usage Example:
+
+        from rockyroad.rockyroad import RockyRoad
+
+        rr = RockyRoad(base_url='INSERT_URL_FOR_API')
+
+        api_response = rr.get_hello_world()
+        print(api_response)
+
+        api_response = rr.get_alert_requests()
+        print(api_response)
+
+        api_response = rr.get_alert_requests(creator_email='user@acme.com')
+        print(api_response)
+
+        api_response = rr.add_alert_request(new_alert_request_json)
+        print(api_response)
+
+        api_response = rr.delete_alert_requests(brand=brand, alert_request_id=alert_request_id)
+        print(api_response)
+
+        api_response = rr.get_alert_reports()
+        print(api_response)
+
+        api_response = rr.get_alert_reports(creator_email='user@acme.com')
+        print(api_response)
+
+        api_response = rr.get_utildata(brand=brand, time_period='today')
+        print(api_response)
+
+        api_response = rr.get_utildata_stats()
+        print(api_response)
+
+        api_response = rr.get_dealers()
+        print(api_response)
+
+        api_response = rr.get_customers_and_machines(dealer_name)
+        print(api_response)
+
+
+
