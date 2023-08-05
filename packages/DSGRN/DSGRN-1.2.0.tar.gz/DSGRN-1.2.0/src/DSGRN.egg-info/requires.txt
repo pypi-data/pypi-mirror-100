@@ -1,0 +1,8 @@
+scipy
+matplotlib
+numpy
+graphviz
+pychomp2
+
+[MPI]
+mpi4py
