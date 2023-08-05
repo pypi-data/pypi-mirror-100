@@ -1,0 +1,33 @@
+Metadata-Version: 2.1
+Name: PyRKHSstats
+Version: 1.0.0
+Summary: A Python package for kernel methods in Statistics/ML.
+Home-page: https://github.com/Black-Swan-ICL/PyRKHSstats
+Author: K. M-H
+Author-email: kmh.pro@protonmail.com
+License: GNU General Public License v3.0
+Platform: UNKNOWN
+Classifier: License :: OSI Approved :: GNU General Public License v3 (GPLv3)
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.8
+Description-Content-Type: text/markdown
+Requires-Dist: numpy
+Requires-Dist: scipy
+Requires-Dist: scikit-learn
+Requires-Dist: pytest
+
+# PyRKHSstats
+A Python package implementing a variety of statistical/machine learning methods 
+that rely on kernels (e.g. HSIC for independence testing).
+
+## Implemented
+- Independence testing with HSIC using the Gamma approximation, as introduced in
+  'A Kernel Statistical Test of Independence', A. Gretton, K. Fukumizu, C. Hui 
+  Teo, L. Song, B. Scholkopf, A. J. Smola (2007).
+
+## In development
+- Two-sample testing with MMD.
+- Goodness-of-fit testing.
+- Methods for time series models.
+- Bayesian statistical kernel methods.
+
