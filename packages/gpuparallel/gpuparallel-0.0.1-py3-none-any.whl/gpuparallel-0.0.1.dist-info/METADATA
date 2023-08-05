@@ -1,0 +1,14 @@
+Metadata-Version: 2.1
+Name: gpuparallel
+Version: 0.0.1
+Summary: Joblib-like interface for parallel GPU computations (e.g. data preprocessing)
+Home-page: UNKNOWN
+Author: Vladimir Ivashkin
+Author-email: illusionww@gmail.com
+License: MIT
+Platform: UNKNOWN
+Requires-Dist: tqdm
+
+UNKNOWN
+
+
