@@ -1,0 +1,31 @@
+Metadata-Version: 2.1
+Name: configpy-file
+Version: 1.0
+Summary: Create config.py or config.h file
+Home-page: UNKNOWN
+Author: Vadim Simakin
+Author-email: sima.vad@yandex.com
+License: UNKNOWN
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.7
+Description-Content-Type: text/markdown
+
+
+Create config file.  
+Supports: config.c, config.h, config.cpp, config.hpp, config.py and config.pyc
+Use it as this:
+```
+#!/usr/bin/env python3
+
+from config_py import ConfigPy
+config = ConfigPy()
+config['number'] = 42.5
+config['string'] = 'hello'
+config['none'] = None
+config['boolean'] = True
+config.save('./config.py')
+```
+
+
