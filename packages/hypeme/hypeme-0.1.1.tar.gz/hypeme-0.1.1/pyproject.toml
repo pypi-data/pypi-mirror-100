@@ -1,0 +1,18 @@
+[tool.poetry]
+name = "hypeme"
+version = "0.1.1"
+description = "hype yourself up!"
+authors = ["sneakers-the-rat"]
+license = "Unlicense"
+readme = "README.md"
+homepage = "https://github.com/sneakers-the-rat/hypeme/"
+repository = "https://github.com/sneakers-the-rat/hypeme/"
+
+[tool.poetry.dependencies]
+python = ">=3.3"
+
+[tool.poetry.dev-dependencies]
+
+[build-system]
+requires = ["poetry>=0.12"]
+build-backend = "poetry.masonry.api"
