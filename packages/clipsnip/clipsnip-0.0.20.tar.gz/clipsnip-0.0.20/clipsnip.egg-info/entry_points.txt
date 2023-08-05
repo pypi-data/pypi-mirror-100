@@ -1,0 +1,3 @@
+[console_scripts]
+snip = clipsnip.__main__:main
+

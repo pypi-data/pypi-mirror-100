@@ -1,0 +1,8 @@
+pysubs2
+python-opensubtitles
+whoosh
+tmdbsimple
+scenedetect[opencv-headless]
+ffsubsync
+wheel
+syllables
