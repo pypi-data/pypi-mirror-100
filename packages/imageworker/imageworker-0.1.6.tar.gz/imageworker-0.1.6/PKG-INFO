@@ -1,0 +1,48 @@
+Metadata-Version: 2.1
+Name: imageworker
+Version: 0.1.6
+Summary: Lightweight image library
+Author: kula
+Author-email: kula@live.com
+Requires-Python: >=3.6,<4.0
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Requires-Dist: Pillow (>=8.1.2,<9.0.0)
+Requires-Dist: keras_preprocessing (>=1.1.2,<2.0.0)
+Requires-Dist: numpy (>=1.15.4,<2.0.0)
+Requires-Dist: qiniu (>=7.3.1,<8.0.0)
+Requires-Dist: requests (>=2.25.1,<3.0.0)
+Description-Content-Type: text/markdown
+
+## Usage
+
+
+### file to ndarray
+
+```pycon
+>>> from imageworker import file_to_array
+>>> data = file_to_array("test.jpg")
+```
+
+### url to ndarray
+
+```pycon
+>>> from imageworker import url_to_array
+>>> data = url_to_array("https://n.sinaimg.cn/spider2021326/106/w1024h682/20210326/5927-kmvwsvy1040641.jpg")
+```
+
+### upload ndarray to qiniu cdn
+
+```pycon
+>>> key = QINIU_KEY
+>>> secret = QINIU_SECRET
+>>> domain = HOST
+>>> bucket = QINIU_BUCKET
+>>> url = put_qiniu(data,key,secret,domain,bucket) 
+```
+
+
+
+
