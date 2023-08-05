@@ -1,0 +1,5 @@
+opencv-contrib-python
+numpy
+imutils
+scikit-learn
+tensorflow==2.3.0
