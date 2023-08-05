@@ -1,0 +1,9 @@
+airflow_waterdrop_plugin/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+airflow_waterdrop_plugin/_version.py,sha256=Of2inSlOBu4ss6ejVCULagIeQLQyopowD7yyTbzbVrA,51
+airflow_waterdrop_plugin/operators/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+airflow_waterdrop_plugin/operators/waterdrop_operator.py,sha256=bWTtG3pvyQZiQ-lpGrSHQUV2fwueTVOZAcnXKu2GPZc,7119
+airflow_waterdrop_plugin-0.1.0.dist-info/LICENSE,sha256=RaSWVPkz-k0ReOj9qhViuryAL18XBBOevQ6goIXFyEo,1063
+airflow_waterdrop_plugin-0.1.0.dist-info/METADATA,sha256=2n-4f2W2JCGt-htUoCTz_uIbOjKnMAzl7Cs23lffFso,877
+airflow_waterdrop_plugin-0.1.0.dist-info/WHEEL,sha256=g4nMs7d-Xl9-xC9XovUrsDHGXt-FT0E17Yqo92DEfvY,92
+airflow_waterdrop_plugin-0.1.0.dist-info/top_level.txt,sha256=PNIR24mnOYdtHSvgUBa1ajhLRgZI_rl_NNZ0cnrHias,25
+airflow_waterdrop_plugin-0.1.0.dist-info/RECORD,,
