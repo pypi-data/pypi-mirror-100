@@ -1,0 +1,8 @@
+nuvolos/__init__.py,sha256=ePWo49YLX8dF2iRjoUDmbJFddTCDDyaMssp7R-hc_mk,10085
+nuvolos/sql_utils.py,sha256=PhRWFxuHgyPneCb1j3uWUP1E4HuUutg8JjTHgEjo1Mc,16468
+tests/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+tests/test_to_sql.py,sha256=rhZiYyM0TvuKhoO7hZ78bSCpG5Yb6YZRu9KtSkQAuDo,3586
+nuvolos_odbc-0.4.0.dist-info/METADATA,sha256=1XzDRWe7N2t-LrAonDTzNzu-ZqyAoxvtPD7tX1IJMvI,3718
+nuvolos_odbc-0.4.0.dist-info/WHEEL,sha256=OqRkF0eY5GHssMorFjlbTIq072vpHpF60fIQA6lS9xA,92
+nuvolos_odbc-0.4.0.dist-info/top_level.txt,sha256=PjiyDJZfCuygwXSM4XS_TLKQ8CvQK74_iFSf3UL6h_Q,8
+nuvolos_odbc-0.4.0.dist-info/RECORD,,
