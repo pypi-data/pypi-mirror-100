@@ -1,0 +1,12 @@
+BeautifulSoup4
+aiohttp
+
+[all]
+BeautifulSoup4
+aiohttp
+
+[test]
+FastAPI
+uvicorn
+pytest-asyncio
+pytest-xdist
