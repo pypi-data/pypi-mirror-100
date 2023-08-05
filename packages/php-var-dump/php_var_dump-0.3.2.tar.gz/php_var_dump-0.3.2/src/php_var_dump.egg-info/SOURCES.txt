@@ -1,0 +1,15 @@
+MANIFEST.in
+README.rst
+pyproject.toml
+setup.cfg
+setup.py
+tox.ini
+src/php_var_dump/__init__.py
+src/php_var_dump.egg-info/PKG-INFO
+src/php_var_dump.egg-info/SOURCES.txt
+src/php_var_dump.egg-info/dependency_links.txt
+src/php_var_dump.egg-info/not-zip-safe
+src/php_var_dump.egg-info/requires.txt
+src/php_var_dump.egg-info/top_level.txt
+tests/__init__.py
+tests/test_core.py
