@@ -1,0 +1,9 @@
+Metadata-Version: 2.1
+Name: pymaxwell5
+Version: 2.0.0
+Summary: 
+Author: seghier
+Author-email: seghierdesign@gmail.com
+Requires-Python: >=3.9,<4.0
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.9
