@@ -1,0 +1,9 @@
+README.md
+setup.cfg
+setup.py
+logging_splunk_hec/__init__.py
+logging_splunk_hec.egg-info/PKG-INFO
+logging_splunk_hec.egg-info/SOURCES.txt
+logging_splunk_hec.egg-info/dependency_links.txt
+logging_splunk_hec.egg-info/requires.txt
+logging_splunk_hec.egg-info/top_level.txt
