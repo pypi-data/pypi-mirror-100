@@ -1,0 +1,23 @@
+Metadata-Version: 2.1
+Name: dd_jinja_renderer
+Version: 1.0.4
+Summary: A command line tool to generate jinja templates
+Home-page: https://bitbucket.org/dataductus/jinja-renderer
+Author: Calle Holst
+Author-email: dummy@dataductus.se
+License: MIT
+Download-URL: https://bitbucket.org/dataductus/jinja-renderer/1.0.0.tar.gz
+Description: Command line tool to generate output from a jinja template
+        
+        | short | Name            | Description                                                                                                                                                                                                                                                         |
+        |-------|-----------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+        | -t    | --template      | Path to the jinja template                                                                                                                                                                                                                                          |
+        | -v    | --variables     | JSON string or JSON File.<br>Example (must be on this format; note the double-quotes):<br>-v '{\"VERSION\": \"1.0\"}'<br>May also be a path to a JSON file. |
+        | -d    | --destination   | Path to where the rendered template will go                                                                                                                                                                                                                         |
+Platform: UNKNOWN
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 2.7
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.7
+Requires-Python: >=3.4
+Description-Content-Type: text/markdown
