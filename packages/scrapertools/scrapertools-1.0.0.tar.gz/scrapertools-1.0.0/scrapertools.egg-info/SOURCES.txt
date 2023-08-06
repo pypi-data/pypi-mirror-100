@@ -1,0 +1,12 @@
+README.md
+setup.py
+scraper/__init__.py
+scraper/_parser.py
+scraper/_session.py
+scraper/_ua.py
+scraper/_util.py
+scrapertools.egg-info/PKG-INFO
+scrapertools.egg-info/SOURCES.txt
+scrapertools.egg-info/dependency_links.txt
+scrapertools.egg-info/requires.txt
+scrapertools.egg-info/top_level.txt
