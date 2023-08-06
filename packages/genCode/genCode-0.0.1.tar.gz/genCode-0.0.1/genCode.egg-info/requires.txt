@@ -1,0 +1,4 @@
+pydantic
+db-hammer
+PyMySQL
+cx_Oracle
