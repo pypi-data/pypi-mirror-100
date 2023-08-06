@@ -1,0 +1,3 @@
+[console_scripts]
+trackdownchanges=geant-tcs-client.main:main
+
