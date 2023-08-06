@@ -1,0 +1,12 @@
+fetch_data/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+fetch_data/_version.py,sha256=rqyZtt1djmoU2vxYGslRgV4TaBWrxK8uesP_Xai_8-U,19
+fetch_data/catalog.py,sha256=tCG6HGOlEQltVluX9wiXKQQtszrig9UzM8uHgDBv68I,1102
+fetch_data/download.py,sha256=VfNOjlnWGWxwgo1XRDY9PB5ufkR42NmWasaE_9oggOU,13097
+fetch_data/utils.py,sha256=hbDrKdouxmm7aE1xy9hrcV-CQZ2U-TpCf7Glfrj8BHk,5426
+tests/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+tests/test_download.py,sha256=4FggtQT7-OdO5gO7SAs68XeIqTvLkcjYu4RG7Y_hBG8,3700
+fetch_data-0.1.dist-info/LICENSE.txt,sha256=5zGOj4s4lughpR-262zYDN0hM8mrclPRZB4wrKS6bKc,1080
+fetch_data-0.1.dist-info/METADATA,sha256=NaoxYZzcs_NLKydStjiZIDRU5cXm3zS85ZDIBsGoLs8,3196
+fetch_data-0.1.dist-info/WHEEL,sha256=OqRkF0eY5GHssMorFjlbTIq072vpHpF60fIQA6lS9xA,92
+fetch_data-0.1.dist-info/top_level.txt,sha256=O2UsIH6t8Ls7xvcqeZ46Ly5LvhMae7pRihvin7CtT3c,17
+fetch_data-0.1.dist-info/RECORD,,
