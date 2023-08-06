@@ -1,0 +1,13 @@
+README.md
+setup.py
+Amsync/__init__.py
+Amsync/bot.py
+Amsync/db.py
+Amsync/exceptions.py
+Amsync/obj.py
+Amsync/ws.py
+Amsync.egg-info/PKG-INFO
+Amsync.egg-info/SOURCES.txt
+Amsync.egg-info/dependency_links.txt
+Amsync.egg-info/requires.txt
+Amsync.egg-info/top_level.txt
