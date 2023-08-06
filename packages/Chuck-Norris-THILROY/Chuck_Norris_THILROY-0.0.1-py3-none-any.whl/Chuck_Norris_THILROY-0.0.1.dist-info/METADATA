@@ -1,0 +1,46 @@
+Metadata-Version: 2.1
+Name: Chuck-Norris-THILROY
+Version: 0.0.1
+Summary: Chuck Norris Facts Test Package
+Home-page: https://github.com/Thilroy/Chuck_Norris
+Author: Thierry Noël
+Author-email: thierry@linuxfan.be
+License: UNKNOWN
+Project-URL: Bug Tracker, https://github.com/Thilroy/Chuck_Norris/issues
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
+
+# Chuck_Norris Package
+
+## Purpose
+
+The purpose of this package is purely educational - selfstudy. Its goal is to learn how to develop and publish a Python Package.
+
+## What does it do ?
+
+This package just contains two test functions (contained in **facts.py**) : 
+
+**joke()** : returns a random Chuck Norris fact.
+**printAsciiArt()** : prints ascii art contained in the './data/ascii.txt' file.
+
+## Package structure
+
+```
+chuck_norris/
+ |
+ +-- setup.py
+ +-- README.md
+ +-- /chuck_norris
+    |
+    + __init__.py
+    + facts.py
+    +-- /data
+        |
+        + ascii.txt
+```
+
+
