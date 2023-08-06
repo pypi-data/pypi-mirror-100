@@ -1,0 +1,9 @@
+aladdin/EMA.py,sha256=kuabRpqM_AV8ZK_Svq0l6NhlxSjg3A5meTC3MUDGcAc,1758
+aladdin/__init__.py,sha256=hu7Av99lsit5Znp9VkK_eSekqwHau50XSFC6FBboFUo,119
+aladdin/check_accuracy.py,sha256=ylqF5ZwuzABdxzurULnnhkVeztg9pPTPBg0zYOo7A14,1870
+aladdin/find_optimal_workers.py,sha256=QYcQsVbdyDNQhyGSJyUckK9cGPDcbOsaFwQvJSDcDDM,2699
+aladdin-0.0.3.dist-info/LICENSE,sha256=PAcASY5S8F-NEC_UJ0_hXr5SHnunEW5_WoAxCsbGXXI,1093
+aladdin-0.0.3.dist-info/METADATA,sha256=gmaCeUc6kvQVN4693fpaefQBHVHPJmBu3bbnvvl9Iw4,572
+aladdin-0.0.3.dist-info/WHEEL,sha256=OqRkF0eY5GHssMorFjlbTIq072vpHpF60fIQA6lS9xA,92
+aladdin-0.0.3.dist-info/top_level.txt,sha256=UhfC6FBW4edmm0zSOJZC_pWv2rZgQcRTKRYsLrBzVPg,8
+aladdin-0.0.3.dist-info/RECORD,,
