@@ -1,0 +1,14 @@
+proxyid/__init__.py,sha256=e3S0EcDGJlWIp2hddSFjvt633jfeZ4W7VyAeLpfTWVM,37
+proxyid/__version__.py,sha256=kUR5RAFc7HCeiqdlX36dZOHkUI5wI6V_43RpEcD8b-0,22
+proxyid/decorators.py,sha256=Uyod2Gzaoq884bvgCx44zBBCMZN5rszAjDBLjFjgfZw,413
+proxyid/encoding.py,sha256=i2EIJqEx1oR40f--jhYhKLyANR2-7Sbn5uzTPCmC1tE,1213
+proxyid/exceptions.py,sha256=Lv3xHqsdEKVQe48rctGm3h86KH8jqOui_XRPiZGsQK8,778
+proxyid/mixins.py,sha256=dLSZ1JQKOdDWI8pWxBC2NE4NpoFzDdZi6AOOkLZnw7k,409
+proxyid/utils/__init__.py,sha256=cIKgz9HK9W1kuZu6MZ_LFo463urBsAZD1onERzYcwx4,37
+proxyid/utils/factory.py,sha256=I-SZpnOIXUFu5At1WnK8rR2tWmd1Dgb07zHLe26IllI,1190
+proxyid/utils/helpers.py,sha256=RNIYYVWG7046JZDniiDXJcAjAN0cj5RnMzeFRRfkkVQ,301
+proxyid-0.1.0.dist-info/LICENSE,sha256=b3gxChGzITxLy1jGX5Nr-rGJSyKULemYZcT55hkTrzk,1293
+proxyid-0.1.0.dist-info/METADATA,sha256=F5Os03f_6Foh1jiylVzFtv9AHVqS9-PNvAgHXwairSg,5898
+proxyid-0.1.0.dist-info/WHEEL,sha256=OqRkF0eY5GHssMorFjlbTIq072vpHpF60fIQA6lS9xA,92
+proxyid-0.1.0.dist-info/top_level.txt,sha256=w2tsuS4r8lC0TiRSxe8ACLcvxichSCfNYGTxFZVW9tg,8
+proxyid-0.1.0.dist-info/RECORD,,
