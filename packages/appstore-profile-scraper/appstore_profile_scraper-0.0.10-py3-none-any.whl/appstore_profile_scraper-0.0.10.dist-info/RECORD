@@ -1,0 +1,8 @@
+appstore_profile_scraper/__init__.py,sha256=us6tCAE75MRRfDG0OpOKM28UR0aDJjnixtiSEoDuMak,215
+appstore_profile_scraper/__version__.py,sha256=_1rJv6B3Wjt-phdEGRJqjYVu5iqMjclScVUMs78OERM,396
+appstore_profile_scraper/app_store_base.py,sha256=dBkivCmTg2xZsysju0JFP4ZZzoJ18q_EPM_BM9Xjo_k,5495
+appstore_profile_scraper/app_store_profile.py,sha256=oeFOayv4EbTjypMHQD1QnHkMiV1OAloUvDucafp_3v4,746
+appstore_profile_scraper-0.0.10.dist-info/METADATA,sha256=iG1h-MgrsAaHqvN6lr8bsrFOYkAAzU6UyKfxtq2IsVk,991
+appstore_profile_scraper-0.0.10.dist-info/WHEEL,sha256=OqRkF0eY5GHssMorFjlbTIq072vpHpF60fIQA6lS9xA,92
+appstore_profile_scraper-0.0.10.dist-info/top_level.txt,sha256=UyQFuKar54MgniF0R2R3yRghAsgpnIu3TyFatn1Nrwk,25
+appstore_profile_scraper-0.0.10.dist-info/RECORD,,
