@@ -1,0 +1,12 @@
+tests/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+tests/test_extract.py,sha256=wbmX2dYlkGU1hbIUfbFOzKPCALPGCT-BVToicOlY054,899
+tests/test_extract_init.py,sha256=wN-CpAGG1w2PcQgYl6Ucvs2j1-SSQniLjoeAjn1dwW4,646
+tests/resources/__init__.py,sha256=qCQ0GpUR39AV6doljwXADxEiTQDkCLoyPhHzb-5aXhQ,246
+tests/resources/empty.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+version_extractor/__init__.py,sha256=5is_u3EV5gHMQZE96juAvSvzcQ2sKTu0XeGkcfOIVUw,351
+version_extractor/extractor.py,sha256=2YTqEaJ5HkZhEMKY4tiDergrWyws2esIbPg_YmA3rs8,1463
+bernardomg.version_extractor-1.1.0.dist-info/LICENSE,sha256=xmzLGwgAmpvboORVRMI85bj_1UlVlDolD2YuXVXK_tM,1097
+bernardomg.version_extractor-1.1.0.dist-info/METADATA,sha256=j-8LazYIQJ_ugzbm2HXmdrdpx7NQ7xvdJdXRaOhwtuQ,4645
+bernardomg.version_extractor-1.1.0.dist-info/WHEEL,sha256=Z-nyYpwrcSqxfdux5Mbn_DQ525iP7J2DG3JgGvOYyTQ,110
+bernardomg.version_extractor-1.1.0.dist-info/top_level.txt,sha256=qzfbZ2WggZku-mznfII9qKvs8nWcX3zCfaV33z0sttk,24
+bernardomg.version_extractor-1.1.0.dist-info/RECORD,,
