@@ -1,0 +1,30 @@
+{
+    "mysql": {
+        "inserts": [
+            "INSERT INTO actions VALUES(NULL,'ActionCheckTimers','RUNNING',NULL,1)",
+            "INSERT INTO actions VALUES(NULL,'ActionConfirmReadyToRun','STARTING',NULL,1)",
+            "INSERT INTO actions VALUES(NULL,'ActionNormalShutdown','ALL',NULL,0)",
+            "INSERT INTO actions VALUES(NULL,'ActionEmergencyShutdown','ALL',NULL,0)",
+            "INSERT INTO actions VALUES(NULL,'ActionConfirmReadyToStop','NORMAL_SHUTDOWN',NULL,0)",
+            "INSERT INTO phases VALUES(NULL,0,'EMERGENCY_SHUTDOWN','Phase is emergency shutdown')",
+            "INSERT INTO phases VALUES(NULL,0,'NORMAL_SHUTDOWN','Phase is shutting down normally')",
+            "INSERT INTO phases VALUES(NULL,0,'RUNNING','Phase is running')",
+            "INSERT INTO phases VALUES(NULL,1,'STARTING','Phase is starting')",
+            "INSERT INTO phases VALUES(NULL,0,'STOPPED','Phase is stopped')"
+        ]
+    },
+    "sqlite3": {
+        "inserts": [
+            "INSERT INTO actions VALUES(NULL,'ActionCheckTimers','RUNNING',NULL,1)",
+            "INSERT INTO actions VALUES(NULL,'ActionConfirmReadyToRun','STARTING',NULL,1)",
+            "INSERT INTO actions VALUES(NULL,'ActionNormalShutdown','ALL',NULL,0)",
+            "INSERT INTO actions VALUES(NULL,'ActionEmergencyShutdown','ALL',NULL,0)",
+            "INSERT INTO actions VALUES(NULL,'ActionConfirmReadyToStop','NORMAL_SHUTDOWN',NULL,0)",
+            "INSERT INTO phases VALUES(NULL,0,'EMERGENCY_SHUTDOWN','Phase is emergency shutdown')",
+            "INSERT INTO phases VALUES(NULL,0,'NORMAL_SHUTDOWN','Phase is shutting down normally')",
+            "INSERT INTO phases VALUES(NULL,0,'RUNNING','Phase is running')",
+            "INSERT INTO phases VALUES(NULL,1,'STARTING','Phase is starting')",
+            "INSERT INTO phases VALUES(NULL,0,'STOPPED','Phase is stopped')"
+        ]
+    }
+}
