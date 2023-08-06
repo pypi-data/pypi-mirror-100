@@ -1,0 +1,28 @@
+Metadata-Version: 2.1
+Name: squiral
+Version: 0.1.2
+Summary: squiral - square spiral
+License: MIT
+Author: SADIK KUZU
+Author-email: sadikkuzu@hotmail.com
+Requires-Python: >=3.7,<4.0
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Description-Content-Type: text/markdown
+
+# squiral
+
+**squ**are sp**iral**
+
+```
+Welcome to Squiral!
+Here is an example:
+21 22 23 24 25
+20  7  8  9 10
+19  6  1  2 11
+18  5  4  3 12
+17 16 15 14 13
+
