@@ -1,0 +1,10 @@
+README.md
+setup.py
+bin/dbt
+database2text/__init__.py
+database2text/oracle11.py
+database2text/tool.py
+db2text.egg-info/PKG-INFO
+db2text.egg-info/SOURCES.txt
+db2text.egg-info/dependency_links.txt
+db2text.egg-info/top_level.txt
