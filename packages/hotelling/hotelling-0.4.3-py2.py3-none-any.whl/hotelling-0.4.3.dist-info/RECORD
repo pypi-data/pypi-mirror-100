@@ -1,0 +1,12 @@
+hotelling/__init__.py,sha256=Z39wYKavErGi9cVz0GZic5hfkXQ0JLxBsn2__GwcsMc,160
+hotelling/cli.py,sha256=g9kq_sfxMo7ofrIDmXY-Dp3nftpI2c3AI0iVquQlGuI,1071
+hotelling/helpers.py,sha256=cofZV0i74ZVyEpWkvqJjuZc7NoRmEr4lXZfU-3Zcdfs,848
+hotelling/plots.py,sha256=LTXJsfLRGK1slFtPXDH6b-vIhuaGXJfXeaF9azuqMZQ,13888
+hotelling/stats.py,sha256=sgB7wI0LfgSvpC4OmxPe1xm7IAI4KgQj8RQPgS1qFn0,7719
+hotelling-0.4.3.dist-info/AUTHORS.rst,sha256=2gNj1q-YGjlGLJwM2KBxmgR2YRbVaamANWL32R93J4A,161
+hotelling-0.4.3.dist-info/LICENSE,sha256=s-WzVu-4I4V7eEjf6V01daUR4JvHx7L6IedNgKOl-Ms,1076
+hotelling-0.4.3.dist-info/METADATA,sha256=g6Ftzlzq9eH_bjRkLEA2MrAay7SR5V2Bg0qj95k7Gwg,3242
+hotelling-0.4.3.dist-info/WHEEL,sha256=Z-nyYpwrcSqxfdux5Mbn_DQ525iP7J2DG3JgGvOYyTQ,110
+hotelling-0.4.3.dist-info/entry_points.txt,sha256=dnEOqIN9FyGI2VZWv5hQzuT-TcttcbBt0JF-ez_biSI,50
+hotelling-0.4.3.dist-info/top_level.txt,sha256=K7xSv2eFkuG62hEnM7oGSzIqI2bVgHzb2nUqQzZEn9c,10
+hotelling-0.4.3.dist-info/RECORD,,
