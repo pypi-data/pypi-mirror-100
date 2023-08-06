@@ -1,0 +1,3 @@
+[console_scripts]
+coding-interview=code_challenge.main:main
+

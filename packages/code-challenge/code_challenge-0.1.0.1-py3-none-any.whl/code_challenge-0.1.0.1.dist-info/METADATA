@@ -1,0 +1,11 @@
+Metadata-Version: 2.1
+Name: code-challenge
+Version: 0.1.0.1
+Summary: Coding interview CLI that directs the user to answer timed coding interview questions in Python, JS, or C++
+Author: Andrew Peng
+Author-email: andrewpeng02@Gmail.com
+Requires-Python: >=3.9,<4.0
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.9
+Requires-Dist: colorama (>=0.4.4,<0.5.0)
+Requires-Dist: firebase (>=3.0.1,<4.0.0)
