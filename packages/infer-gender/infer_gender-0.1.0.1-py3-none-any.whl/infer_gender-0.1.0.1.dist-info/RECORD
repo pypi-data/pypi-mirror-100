@@ -1,0 +1,12 @@
+infer_gender/__init__.py,sha256=fCqcFy2iWLYtedAmovtmrt1AIBq-we5Oq349RiHNPqg,36
+infer_gender/predict.py,sha256=qoQCCPZ3GYMexORnUt1A4PYnX8z9yr4zX6x6eGO8fxs,2687
+infer_gender/data/model.h5,sha256=rOaTUwn15UfBQmfjBcabQIB8rPpC9EvQvz7VGoUKlXU,168856
+infer_gender/data/tokenizer.pickle,sha256=TMGbnnSY58PlCKj4E-YvhpDaSpuERphc47TGmvXlDhk,1184
+infer_gender/data/tokenizer_pickle5.pickle,sha256=TMGbnnSY58PlCKj4E-YvhpDaSpuERphc47TGmvXlDhk,1184
+tests/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+tests/main.py,sha256=W9v_KC8_sFLWd3dA0DzOdxLXjzbuRTWM_zmHWwVbzxw,146
+infer_gender-0.1.0.1.dist-info/LICENSE,sha256=4zq-P91Oa_-4TlciKbil7vZ4nWxHq7JyFtZHIjNzW7s,1085
+infer_gender-0.1.0.1.dist-info/METADATA,sha256=9fpWYYujxVYee2mb-VIlhkjcMaRQvv63sQB9ByFU_lA,1833
+infer_gender-0.1.0.1.dist-info/WHEEL,sha256=EVRjI69F5qVjm_YgqcTXPnTAv3BfSUr0WVAHuSP3Xoo,92
+infer_gender-0.1.0.1.dist-info/top_level.txt,sha256=R-S_Y7PZjLauoq0Coo9HG7yEKwlKJZZPlXsGDZuwE1g,19
+infer_gender-0.1.0.1.dist-info/RECORD,,
