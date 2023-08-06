@@ -1,0 +1,30 @@
+Metadata-Version: 2.1
+Name: flowsaber
+Version: 0.1
+Summary: Dataflow based workflow framework
+Home-page: UNKNOWN
+Author: 
+Author-email: 
+License: GPLv3
+Keywords: dataflow
+Platform: UNKNOWN
+Classifier: Development Status :: 3 - Alpha
+Classifier: Operating System :: POSIX
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.8
+Classifier: License :: OSI Approved :: GNU General Public License v3 (GPLv3)
+Classifier: Intended Audience :: Science/Research
+Requires-Python: >=3.8, <4
+Requires-Dist: makefun (~=1.10.0)
+Requires-Dist: graphviz (~=0.16)
+Requires-Dist: httpimport
+Requires-Dist: numpydoc
+Requires-Dist: cloudpickle (~=1.6.0)
+Requires-Dist: loky
+Requires-Dist: ray
+Requires-Dist: rich
+
+Dataflow based workflow framework
+
+
