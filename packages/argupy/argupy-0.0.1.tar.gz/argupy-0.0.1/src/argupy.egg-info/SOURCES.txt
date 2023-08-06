@@ -1,0 +1,7 @@
+README.md
+pyproject.toml
+setup.cfg
+src/argupy.egg-info/PKG-INFO
+src/argupy.egg-info/SOURCES.txt
+src/argupy.egg-info/dependency_links.txt
+src/argupy.egg-info/top_level.txt
