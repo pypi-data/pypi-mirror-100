@@ -1,0 +1,17 @@
+MANIFEST.in
+README.md
+setup.cfg
+setup.py
+versioneer.py
+src/kabaret/__init__.py
+src/kabaret.flow_entities.egg-info/PKG-INFO
+src/kabaret.flow_entities.egg-info/SOURCES.txt
+src/kabaret.flow_entities.egg-info/dependency_links.txt
+src/kabaret.flow_entities.egg-info/requires.txt
+src/kabaret.flow_entities.egg-info/top_level.txt
+src/kabaret/flow_entities/__init__.py
+src/kabaret/flow_entities/_version.py
+src/kabaret/flow_entities/demo.py
+src/kabaret/flow_entities/entities.py
+src/kabaret/flow_entities/store.py
+src/kabaret/flow_entities/utils.py
