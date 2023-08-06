@@ -1,0 +1,13 @@
+LICENSE.txt
+MANIFEST.in
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+stahp/stahp.py
+stahp/test.py
+stahp.egg-info/PKG-INFO
+stahp.egg-info/SOURCES.txt
+stahp.egg-info/dependency_links.txt
+stahp.egg-info/requires.txt
+stahp.egg-info/top_level.txt
