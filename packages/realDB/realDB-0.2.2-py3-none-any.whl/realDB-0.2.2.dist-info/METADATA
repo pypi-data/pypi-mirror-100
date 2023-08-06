@@ -1,0 +1,49 @@
+Metadata-Version: 2.1
+Name: realDB
+Version: 0.2.2
+Summary: A unified python interface for different DB (e.g. sqlite, pg).
+Home-page: https://e.coding.net/dataframe/real_py/PyPI_src_of_real.git
+Author: Real He
+Author-email: i874u@hotmail.com
+License: BSD
+Platform: UNKNOWN
+Classifier: Development Status :: 4 - Beta
+Classifier: Operating System :: OS Independent
+Classifier: License :: OSI Approved :: BSD License
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Programming Language :: Python :: Implementation :: CPython
+Requires-Python: >=3.6.0
+Description-Content-Type: text/markdown
+Requires-Dist: psycopg2-binary
+
+
+#realDB
+支持多个数据库的python统一封装
+
+###功能说明
+
+* 版本日志：
+  * 0.2.2
+    * 修改了一些发布方面信息不一致的小问题
+  * 0.2.1
+    * 将对psycopg2的依赖改为psycopg2-binary
+  * 0.2.0
+    * 能够完全正常的打包上传pypi
+    * 支持 all_tables 方法查询指定schema下面所有的表
+  * 0.1.1/2/3/4
+    * 与0.1.0没有区别，修改了导致上传失败的setup.py的一些问题
+  * 0.1.0
+    * 目前支持：sqlite、pg
+
+* 后续会支持 mysql、mariadb
+
+###关于作者
+Real He
+
+i874u@hotmail.com
+

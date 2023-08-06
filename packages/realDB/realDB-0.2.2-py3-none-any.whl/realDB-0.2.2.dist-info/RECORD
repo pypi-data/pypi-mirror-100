@@ -1,0 +1,8 @@
+realDB/__init__.py,sha256=WsLTfOv8gEFKm1hLh9hoMYZGP7-KCXrsd3QF2jKWdHI,135
+realDB/postgres.py,sha256=mVmVxk5cJZJ4cuJTpqKgEDueCVpcgURRPVh8miykBLo,11871
+realDB/sqlite.py,sha256=i8lbPDK5r1KF-IyMkru1GvTd7-SR_cy2MyDWdbyi-oA,10097
+realDB-0.2.2.dist-info/LICENSE,sha256=VJaVFJRfYkHMM2R5qKQaysP9MTOh1J_4_prlM52dqe4,1514
+realDB-0.2.2.dist-info/METADATA,sha256=-PzluHpqu3RxJKWgXoKeIz65FDekkX-x8Zbg-jcx5Gc,1436
+realDB-0.2.2.dist-info/WHEEL,sha256=OqRkF0eY5GHssMorFjlbTIq072vpHpF60fIQA6lS9xA,92
+realDB-0.2.2.dist-info/top_level.txt,sha256=84GL4_FNLkB-AzPstYjZCIRfB5s-fxzWp85AGT-47dA,7
+realDB-0.2.2.dist-info/RECORD,,
