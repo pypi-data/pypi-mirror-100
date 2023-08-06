@@ -1,0 +1,4 @@
+[console_scripts]
+git-plan=git_plan.__cli__:main
+gp=git_plan.__cli__:main
+
