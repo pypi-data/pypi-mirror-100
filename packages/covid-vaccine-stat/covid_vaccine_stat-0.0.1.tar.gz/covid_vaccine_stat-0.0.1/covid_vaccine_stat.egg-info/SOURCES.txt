@@ -1,0 +1,14 @@
+README.md
+setup.py
+covid_vaccine_stat/__init__.py
+covid_vaccine_stat/_conf.py
+covid_vaccine_stat/async_request.py
+covid_vaccine_stat/error.py
+covid_vaccine_stat/model.py
+covid_vaccine_stat/sync_request.py
+covid_vaccine_stat/util.py
+covid_vaccine_stat.egg-info/PKG-INFO
+covid_vaccine_stat.egg-info/SOURCES.txt
+covid_vaccine_stat.egg-info/dependency_links.txt
+covid_vaccine_stat.egg-info/requires.txt
+covid_vaccine_stat.egg-info/top_level.txt
