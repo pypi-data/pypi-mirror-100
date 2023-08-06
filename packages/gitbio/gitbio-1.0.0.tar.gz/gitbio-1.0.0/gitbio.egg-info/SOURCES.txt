@@ -1,0 +1,6 @@
+README.md
+setup.py
+gitbio.egg-info/PKG-INFO
+gitbio.egg-info/SOURCES.txt
+gitbio.egg-info/dependency_links.txt
+gitbio.egg-info/top_level.txt
