@@ -1,0 +1,17 @@
+numpy
+pandas
+mikeio>=0.6
+matplotlib
+
+[dev]
+pytest
+sphinx
+sphinx-rtd-theme
+black
+shapely
+plotly>=4.5
+jupyterlab
+
+[test]
+pytest
+shapely
