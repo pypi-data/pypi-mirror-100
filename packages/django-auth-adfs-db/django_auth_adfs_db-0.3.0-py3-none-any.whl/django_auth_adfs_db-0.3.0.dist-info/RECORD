@@ -1,0 +1,15 @@
+django_auth_adfs_db/__init__.py,sha256=oer7wSOlJZamwrdu4MS0ROMb7H2qQi-IE0Nogtxt2oU,71
+django_auth_adfs_db/admin.py,sha256=aimGBSR-3SXqDzJHMmm7OoBeXtDeDzZc8n09zohZ_1g,971
+django_auth_adfs_db/apps.py,sha256=q-SHHy5xVW3Zf-TUfazebbsiILS1WScAzkiv4EBX5wc,110
+django_auth_adfs_db/backends.py,sha256=Uog0efU-CABtOniMQaO_9Mc-HyOQfyG9-2l6nHTciaA,576
+django_auth_adfs_db/models.py,sha256=KAIJQrACjGiABT28rgYzQGgFcF3UYepxF2RKJfHDbf4,5516
+django_auth_adfs_db/settings.py,sha256=Ph17rcqd5zxQm1YKBj69wrivQauFAjY0mwNKjGnH_mw,1932
+django_auth_adfs_db/migrations/0001_initial.py,sha256=AJ9OwgcuCbLgY2oi-mOXeo1fKUppE6ZwatyLp04W9Ks,3383
+django_auth_adfs_db/migrations/0002_adfsconfig_sync_groups.py,sha256=Ebh3HQ0TISBDnFmFqQJGQqY5-S96LrhEMTzchmJDs1s,683
+django_auth_adfs_db/migrations/0003_auto_20210323_1441.py,sha256=zQjTaPvSTG-AdLH1ksdzrMiBA6Hi9NLkCjbXuXf6lE8,1708
+django_auth_adfs_db/migrations/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+django_auth_adfs_db-0.3.0.dist-info/LICENSE,sha256=KhNTGevqThZfFEC1ONiUS3TexPrgpJ7750e0Y3iGkEU,1061
+django_auth_adfs_db-0.3.0.dist-info/METADATA,sha256=NyKcQxJJILcUlO4p6-N0vMOQvcy5emVYDIi0BuLJv-M,5114
+django_auth_adfs_db-0.3.0.dist-info/WHEEL,sha256=OqRkF0eY5GHssMorFjlbTIq072vpHpF60fIQA6lS9xA,92
+django_auth_adfs_db-0.3.0.dist-info/top_level.txt,sha256=yhivSRashv2-yXWP2cHd-hoZ5XeNJTTsM0yrceNP_mE,20
+django_auth_adfs_db-0.3.0.dist-info/RECORD,,
