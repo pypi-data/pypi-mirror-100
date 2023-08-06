@@ -1,0 +1,3 @@
+[console_scripts]
+thegoat = thegoat.cli:main
+

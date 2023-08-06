@@ -1,0 +1,14 @@
+Metadata-Version: 1.2
+Name: thegoat
+Version: 0.1
+Summary: The Goat CLI
+Home-page: https://github.com/thegoat-ir/cli-py
+Author: thegoat.ir
+Author-email: we@thegoat.ir
+License: MIT
+Description: UNKNOWN
+Keywords: thegoat,whois,whois lookup,thegoat-cli
+Platform: UNKNOWN
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3.9
+Requires-Python: >=3
