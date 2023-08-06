@@ -1,0 +1,14 @@
+bipartitepandas/__init__.py,sha256=iLVMQGlGUvRi4XvHV6vLcXxayo56tmr7xVw3Z5AbbEE,484
+bipartitepandas/bipartitebase.py,sha256=lIIhLZ-EjKZ8jkdfZdOUmBmV08U2RAIod2HJmxjlLPc,42681
+bipartitepandas/bipartiteeventstudy.py,sha256=EXDmDCPaXt9JX7T_0YddKvjzzSX2YkKj68i7WgNPZ0M,1487
+bipartitepandas/bipartiteeventstudybase.py,sha256=BTo_BbWZYRA-AeoDJWIQHcUUVW7irKdds_EDV3C6rh8,9046
+bipartitepandas/bipartiteeventstudycollapsed.py,sha256=bmi_SwwekktqNfFGs6JOQDBMp3QSGLMtx6cvzeHs804,1929
+bipartitepandas/bipartitelong.py,sha256=VZMtHN_-yomemcu7xM19Fk11UEgUxgXPYOy7_rm_eSY,4242
+bipartitepandas/bipartitelongbase.py,sha256=UuPqvpGRZ2idS_bLkljOKt5v-wXCBrdX8Ok3y-Dz3BA,5048
+bipartitepandas/bipartitelongcollapsed.py,sha256=ozGwhAKqJERpiy-ozmn2-twowUv71VJDtJ_2700R_To,1583
+bipartitepandas/util.py,sha256=uqSelHg7_WP2YM1fgpSZUZEeQOkNk4UcJtTo2RQUmn4,6873
+bipartitepandas-0.0.17.dist-info/LICENSE,sha256=b3XJ69d7JtbkkkhpqASfLQH922aOKFn1Ig6mQ69rV1o,1058
+bipartitepandas-0.0.17.dist-info/METADATA,sha256=wJF2WbHIwW6AmLJCH9pV2UK9lz87f-RBIjtWGZUV6tw,2166
+bipartitepandas-0.0.17.dist-info/WHEEL,sha256=OqRkF0eY5GHssMorFjlbTIq072vpHpF60fIQA6lS9xA,92
+bipartitepandas-0.0.17.dist-info/top_level.txt,sha256=1Q3DxlSdvojKep3fajhuBraaRU-LHSAOLVX7zTZHBcU,16
+bipartitepandas-0.0.17.dist-info/RECORD,,
