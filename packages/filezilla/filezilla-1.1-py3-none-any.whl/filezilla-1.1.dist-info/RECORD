@@ -1,0 +1,10 @@
+filezilla/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+filezilla/__main__.py,sha256=dhaCbdSKaMbLtiw8Dxv_n44qu78oUsZ4w01M5M_xPcA,2252
+filezilla/file_utility.py,sha256=oWG70kMc9Vj8EdnUSqFAgbfROJyBAe411BxYyZMDOI8,1915
+filezilla/image_utility.py,sha256=ZLvIwTMQA_SdBTOCSV8JywRy9_fHyf78_cYDbPdaFI0,780
+filezilla/pdf_utility.py,sha256=MclDeu7JmLGX82vIk7Ty3E4ARcXA6N2nwQS6A3MUGZc,574
+filezilla-1.1.data/scripts/filezilla,sha256=I9Sd9ESk8pwTADxdRu1QxXLYemLdBZSGdIQ4Cg2bviI,102
+filezilla-1.1.dist-info/METADATA,sha256=VJbEbhrnGLZHEEetPUnKem4ZHOoVDXmXpYy8Vq5CcKg,2301
+filezilla-1.1.dist-info/WHEEL,sha256=g4nMs7d-Xl9-xC9XovUrsDHGXt-FT0E17Yqo92DEfvY,92
+filezilla-1.1.dist-info/top_level.txt,sha256=DVWXep1XCD15kQlW1eSDn816EUhDcDyS1rEaDPe-6vk,10
+filezilla-1.1.dist-info/RECORD,,
