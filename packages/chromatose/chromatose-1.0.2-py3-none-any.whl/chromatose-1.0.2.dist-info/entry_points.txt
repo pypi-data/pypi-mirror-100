@@ -1,0 +1,4 @@
+[console_scripts]
+chromatose = chromatose.chromatrieve:main
+extract = chromatose.chromextract:main
+
