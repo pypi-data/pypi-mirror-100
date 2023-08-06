@@ -1,0 +1,20 @@
+Metadata-Version: 2.1
+Name: GithubContributions
+Version: 0.3.0
+Summary: A Python interface for Github's user contribution system
+Home-page: https://github.com/bcongdon/github_contributions
+Author: Benjamin Congdon
+Author-email: me@bcon.gdn
+License: UNKNOWN
+Platform: UNKNOWN
+Requires-Dist: requests
+Requires-Dist: bs4
+Requires-Dist: python-dateutil
+Provides-Extra: dev
+Requires-Dist: pytest ; extra == 'dev'
+Requires-Dist: responses (==0.5.1) ; extra == 'dev'
+Requires-Dist: mock ; extra == 'dev'
+
+UNKNOWN
+
+
