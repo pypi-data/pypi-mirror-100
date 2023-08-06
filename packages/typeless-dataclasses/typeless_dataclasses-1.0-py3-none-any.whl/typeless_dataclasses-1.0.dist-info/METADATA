@@ -1,0 +1,138 @@
+Metadata-Version: 2.1
+Name: typeless-dataclasses
+Version: 1.0
+Summary: Use dataclasses without variable annotations.
+Home-page: https://github.com/lemon24/typeless-dataclasses
+Author: lemon24
+License: UNKNOWN
+Project-URL: Documentation, https://github.com/lemon24/typeless-dataclasses
+Project-URL: Source Code, https://github.com/lemon24/typeless-dataclasses
+Project-URL: Issue Tracker, https://github.com/lemon24/typeless-dataclasses/issues
+Keywords: dataclasses,development
+Platform: UNKNOWN
+Classifier: Development Status :: 4 - Beta
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: The Unlicense (Unlicense)
+Classifier: Operating System :: OS Independent
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3 :: Only
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Topic :: Software Development :: Libraries
+Classifier: Topic :: Software Development :: Libraries :: Python Modules
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
+Provides-Extra: dev
+Requires-Dist: twine ; extra == 'dev'
+Requires-Dist: build ; extra == 'dev'
+Requires-Dist: pre-commit ; extra == 'dev'
+Requires-Dist: tox ; extra == 'dev'
+Provides-Extra: tests
+Requires-Dist: pytest ; extra == 'tests'
+Requires-Dist: coverage ; extra == 'tests'
+Requires-Dist: pytest-cov ; extra == 'tests'
+Requires-Dist: dataclasses ; (python_version < "3.7") and extra == 'tests'
+
+**typeless-dataclasses**: use dataclasses without variable annotations
+
+
+[![build](https://github.com/lemon24/typeless-dataclasses/actions/workflows/build.yaml/badge.svg)](https://github.com/lemon24/typeless-dataclasses/actions/workflows/build.yaml) [![codecov](https://codecov.io/gh/lemon24/typeless-dataclasses/branch/master/graph/badge.svg?token=691LYGEIR4)](https://codecov.io/gh/lemon24/typeless-dataclasses) [![PyPI](https://img.shields.io/pypi/v/typeless-dataclasses)](https://pypi.org/project/typeless-dataclasses/) [![black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
+
+
+Have you ever wanted to use dataclasses, but don't like type annotations?
+
+```python
+@dataclass
+class Data:
+    one: Any
+    two: Any = 2
+```
+
+... and don't want to resort to any [ugly hacks][] like this one?
+
+```python
+@dataclass
+class Data:
+    one: ...
+    two: ... = 2
+```
+
+
+With the power of **typeless-dataclasses**, now you can!
+
+```python
+@dataclass
+@typeless
+class Data:
+    one = field()
+    two = field(default=2)
+```
+
+
+Compare with [attrs][]:
+
+```python
+@attr.s
+class Data:
+    one = attr.ib()
+    two = attr.ib(default=2)
+```
+
+
+[ugly hacks]: https://death.andgravity.com/dataclasses#if-not-type-hints-then-what
+[attrs]: https://www.attrs.org/
+
+
+## Installing
+
+Install and update using [pip][]:
+
+```console
+$ pip install --upgrade typeless-dataclasses
+```
+
+**typeless-dataclasses** offers a type-annotation-free experience for Python 3.6* and newer, and PyPy.
+
+(On 3.6, you also need to install the dataclasses [backport][].)
+
+
+[pip]: https://pip.pypa.io/en/stable/quickstart/
+[backport]: https://pypi.org/project/dataclasses/
+
+
+## A Simple Example
+
+Using **typeless-dataclasses** is easy!
+
+Just add @typeless to your class before [@dataclass][], and use [field()][] as you normally would; [field()][] attributes become instance variables, and all others remain class variables.
+
+```python
+>>> from dataclasses import dataclass, field
+>>> from typeless_dataclasses import typeless
+>>>
+>>> @dataclass
+... @typeless
+... class Data:
+...     one = field()
+...     two = field(default=2)
+...     three = 3
+...
+>>> Data(1)
+Data(one=1, two=2)
+```
+
+[@dataclass]: https://docs.python.org/3/library/dataclasses.html#dataclasses.dataclass
+[field()]: https://docs.python.org/3/library/dataclasses.html#dataclasses.field
+
+
+## Links
+
+* Documentation: https://github.com/lemon24/typeless-dataclasses/blob/master/README.md
+* Changes: https://github.com/lemon24/typeless-dataclasses/blob/master/CHANGES.md
+* PyPI Releases: https://pypi.org/project/typeless-dataclasses/
+* Source Code: https://github.com/lemon24/typeless-dataclasses
+* Issue Tracker: https://github.com/lemon24/typeless-dataclasses/issues
+
+
