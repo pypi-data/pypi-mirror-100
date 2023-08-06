@@ -1,0 +1,19 @@
+Metadata-Version: 2.1
+Name: cocorobo-ai-tool
+Version: 0.1.0
+Summary: CocoRobo AI Training Tools
+Home-page: https://git.cocorobo.hk/CocoRoboLabs/cocorobo-ai-training-pip
+Author: Tommy Jing-Tao Liu
+Author-email: tommy@cocorobo.cc
+License: UNKNOWN
+Project-URL: Bug Tracker, https://git.cocorobo.hk/CocoRoboLabs/cocorobo-ai-training-pip/issues
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.7
+Description-Content-Type: text/markdown
+
+Nothing's here to see yet.
+
+
