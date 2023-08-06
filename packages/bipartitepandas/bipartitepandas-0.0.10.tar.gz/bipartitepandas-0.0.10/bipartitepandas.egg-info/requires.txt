@@ -1,0 +1,7 @@
+numpy
+pandas
+numpy_groupies
+scipy
+scikit-learn
+qpsolvnetworkxers
+tqdm
