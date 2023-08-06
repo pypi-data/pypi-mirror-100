@@ -1,0 +1,10 @@
+singer-python==5.12.1
+jsonschema==2.6.0
+Mako==1.1.4
+
+[test]
+pytest==6.2.2
+pytest-cov==2.11.1
+pytest-mock==1.10.0
+testfixtures==6.3.0
+coverage==5.5
