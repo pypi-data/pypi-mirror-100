@@ -1,0 +1,14 @@
+docs/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+scrapista/__init__.py,sha256=OPULEByyHMYN-3fDCXMbubdbfRoYzT_6OeLID8rVz0U,177
+scrapista/amazon.py,sha256=Xb00Y8kfc-x3wFMWXMEBbC3L8QbbhND7h-iF81cvO58,12410
+scrapista/goodreads.py,sha256=Ak3Hq7FZNcreb-qps4B3oukSSGPQ8Ew7gs-AGeziB8E,9823
+scrapista/imdb.py,sha256=gQcqv4BUCSocAmgFdp2DyKMI-k27O9pDFrnXSXv4zw4,9876
+scrapista/wikipedia.py,sha256=x-lLVD6pJkS9qXe36he1OCMvDSQdQILY2pCpXWHGPlU,22189
+scrapista/helpers/__init__.py,sha256=a0LlaVaWfDFN8B5wXfFCEIJL3x31YEpmkj_zEW5jNCM,21
+scrapista/helpers/helpers.py,sha256=v_ZYNkwntUlFVaTmORFsyrU3u70KFy6gUpZ5Vbno65I,3946
+tests/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+scrapista-0.0.4.dist-info/LICENSE,sha256=qEb6o0W7xHcO4xDE7e09S8B7lz4AW4Bs-rMuM530APQ,1091
+scrapista-0.0.4.dist-info/METADATA,sha256=Ebrp0htyUZviCXL1u1xw-MrCl9fY1WxPlFGUHaKnSuo,1368
+scrapista-0.0.4.dist-info/WHEEL,sha256=OqRkF0eY5GHssMorFjlbTIq072vpHpF60fIQA6lS9xA,92
+scrapista-0.0.4.dist-info/top_level.txt,sha256=2x5Z_gAMDDCkBIkxvHhK56fo_7cZazp8rCVCRbaRKDU,21
+scrapista-0.0.4.dist-info/RECORD,,
