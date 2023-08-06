@@ -1,0 +1,5 @@
+setup.py
+src/xzhello.egg-info/PKG-INFO
+src/xzhello.egg-info/SOURCES.txt
+src/xzhello.egg-info/dependency_links.txt
+src/xzhello.egg-info/top_level.txt
