@@ -1,0 +1,8 @@
+README.md
+pyproject.toml
+setup.py
+src/marijbo/__init__.py
+src/marijbo.egg-info/PKG-INFO
+src/marijbo.egg-info/SOURCES.txt
+src/marijbo.egg-info/dependency_links.txt
+src/marijbo.egg-info/top_level.txt
