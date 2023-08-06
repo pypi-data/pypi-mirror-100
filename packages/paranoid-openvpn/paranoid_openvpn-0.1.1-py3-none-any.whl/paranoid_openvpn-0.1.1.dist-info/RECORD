@@ -1,0 +1,12 @@
+paranoid_openvpn/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+paranoid_openvpn/cli.py,sha256=c7AxZOrdEnjIclsjD1b0RrhoRsNMqKNUFBPrh8cMDa8,1713
+paranoid_openvpn/input_handlers.py,sha256=coj3jtpEC7D_wc0vkuKY52DPQoPy_pUIOf0K9vlf80o,4994
+paranoid_openvpn/main.py,sha256=OcB25W-EGpcibAcBv4M-CNoAT48mGesDVb9vYNW6KtU,4532
+paranoid_openvpn/profile_parser.py,sha256=wQoVeev_bK_wIukK0Hx2_zS_PasRkgepmIFE1ssb9lg,16294
+paranoid_openvpn/py.typed,sha256=ZSegze1ahS5tlaVlEVAF0HG-jTkkScOwTjUnglYQOS8,22
+paranoid_openvpn/types.py,sha256=bSa6V22HfQ2gL3ip1TGquZYkdqA1ON-LPzv709XnZ5U,554
+paranoid_openvpn-0.1.1.dist-info/entry_points.txt,sha256=flSKZ4iLY17-hb1kBWfoXk3DZ5ZhkC-xi_xG2F0NsjA,61
+paranoid_openvpn-0.1.1.dist-info/LICENSE,sha256=WhRT_UJt0azROjmgkdTFu4WEho7cAl6MToUWc5ioYrc,1068
+paranoid_openvpn-0.1.1.dist-info/WHEEL,sha256=VN2eEg4PHbTOniXb-cCYQPc6zUTS4dAcATjlgU3q-Lo,83
+paranoid_openvpn-0.1.1.dist-info/METADATA,sha256=1oIoFbxBpl4O5SAhUzXI7FOhcLuXOXnVr3CCqASEt4k,3882
+paranoid_openvpn-0.1.1.dist-info/RECORD,,
