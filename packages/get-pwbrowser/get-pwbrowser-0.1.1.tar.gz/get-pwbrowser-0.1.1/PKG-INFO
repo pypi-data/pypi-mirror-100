@@ -1,0 +1,15 @@
+Metadata-Version: 2.1
+Name: get-pwbrowser
+Version: 0.1.1
+Summary: instantiate a playwright chromium browser
+Author: freemt
+Requires-Python: >=3.7,<4.0
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Requires-Dist: logzero (>=1.6.3,<2.0.0)
+Requires-Dist: playwright (>=1.9.2,<2.0.0)
+Requires-Dist: pydantic[dotenv] (>=1.8.1,<2.0.0)
+Requires-Dist: pyquery (>=1.4.3,<2.0.0)
+Requires-Dist: tbump (>=6.3.1,<7.0.0)
