@@ -1,0 +1,21 @@
+Metadata-Version: 2.1
+Name: evalSemanticSeg
+Version: 0.0.2
+Summary: Evaluate semantic segmentation for cutomized data, for models trained on cityscapes
+Home-page: https://github.com/ddatta-DAC/evalSemanticSeg
+Author: Debanjan Datta
+Author-email: ddatta@cs.vt.com
+License: MIT
+Platform: UNKNOWN
+Requires-Python: >=3.5
+Requires-Dist: numpy
+Requires-Dist: pyyaml
+Requires-Dist: tensorflow (>=2.4)
+Requires-Dist: pandas
+Requires-Dist: opencv-python (>=3.4)
+Requires-Dist: scikit-image
+Requires-Dist: scikit-learn
+
+UNKNOWN
+
+
