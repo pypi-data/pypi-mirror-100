@@ -1,0 +1,19 @@
+Metadata-Version: 2.1
+Name: jxcrawl
+Version: 3.0
+Summary: QQ交流群：1001030977
+Home-page: https://github.com/xjxflyxx/jxcrawl
+Author: xjxfly
+Author-email: xjxfly@qq.com
+License: MIT
+Platform: UNKNOWN
+Requires-Dist: requests (>=0.0.1)
+Requires-Dist: selenium (>=0.0.1)
+Requires-Dist: beautifulsoup4 (>=0.0.1)
+Requires-Dist: fake-useragent (>=0.0.1)
+Requires-Dist: jxbase (>=3.0)
+Requires-Dist: cnstock (>=1.11)
+
+UNKNOWN
+
+
