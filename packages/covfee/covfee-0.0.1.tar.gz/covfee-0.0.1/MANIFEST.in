@@ -1,0 +1,6 @@
+include covfee/package.json
+include covfee/server/templates/*
+recursive-include covfee/client *
+recursive-include covfee/shared *
+
+global-exclude package-lock.json .DS_Store *.stories.mdx *.stories.tsx
