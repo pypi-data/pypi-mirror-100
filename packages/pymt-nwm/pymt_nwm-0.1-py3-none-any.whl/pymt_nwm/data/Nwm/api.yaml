@@ -1,0 +1,4 @@
+name: pymt_nwm
+language: python
+package: pymt_nwm
+class: Nwm

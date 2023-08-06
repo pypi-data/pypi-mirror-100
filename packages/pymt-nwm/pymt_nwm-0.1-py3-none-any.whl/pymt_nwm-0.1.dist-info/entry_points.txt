@@ -1,0 +1,3 @@
+[pymt.plugins]
+Nwm = pymt_nwm.bmi:Nwm
+

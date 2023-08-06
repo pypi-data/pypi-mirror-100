@@ -1,0 +1,12 @@
+bmi-nwm:
+  archive: {{archive}}
+  config: {{config}}
+  geom: {{geom}}
+  variable: {{variable}}
+#  comid: {{comid}}
+  init_time: {{init_time}}
+  time_lag: {{time_lag}}
+  start_date: {{start_date}}
+  end_date: {{end_date}}
+  output: {{output}}
+

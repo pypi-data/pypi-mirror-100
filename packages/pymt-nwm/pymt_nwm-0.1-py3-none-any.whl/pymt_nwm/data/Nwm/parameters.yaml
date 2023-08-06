@@ -1,0 +1,70 @@
+archive:
+  name: Archive
+  description: The archived data source of the forecast.
+  value:
+    type: string
+    default: harvey
+    units: 1
+config:
+  name: Configuration
+  description: The configuration option of the forecast.
+  value:
+    type: string
+    default: short_range
+    units: 1
+geom:
+  name: Geometry
+  description: The geometry of the forecast or model forcing.
+  value:
+    type: string
+    default: channel_rt
+    units: 1
+variable:
+  name: Variable
+  description: The variable of the forecast.
+  value:
+    type: string
+    default: streamflow
+    units: 1
+#comid:
+#  name: Identifier
+#  description: The identifier of the stream reach, reservoir, or grid cell for the forecast.
+#  value:
+#    type: list
+#    default: [5781915, 23982]
+#    units: 1
+init_time:
+  name: Initiation time
+  description: The UTC time of day at which the forecast is initialized.
+  value:
+    type: int
+    default: 0
+    units: 1
+time_lag:
+  name: Time lag
+  description: The time lag of the long range ensemble forecast.
+  value:
+    type: int
+    default: 0
+    units: 1
+start_date:
+  name: Start date
+  description: The start date of the forecast.
+  value:
+    type: string
+    default: '2017-08-23'
+    units: 1
+end_date:
+  name: End date
+  description: The end date of the forecast.
+  value:
+    type: string
+    default: '2017-09-06'
+    units: 1
+output:
+  name: Output
+  description: The file path of the WaterML file to store the downloaded data.
+  value:
+    type: string
+    default: ''
+    units: 1
