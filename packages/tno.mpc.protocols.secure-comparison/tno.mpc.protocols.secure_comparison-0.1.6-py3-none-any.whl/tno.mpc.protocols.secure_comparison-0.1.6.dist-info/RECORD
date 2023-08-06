@@ -1,0 +1,12 @@
+tno.mpc.protocols.secure_comparison-0.1.6-py3.8-nspkg.pth,sha256=gunU0Xle6ZECm9Lx7a00AqiACrfENrnkmbg2BbUaEvY,3405
+tno/mpc/protocols/secure_comparison/__init__.py,sha256=BCvuLVkyUsmFVe8hJX-aKElCQJ1D9_IwTnBxl6szSHk,1319
+tno/mpc/protocols/secure_comparison/py.typed,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+tno/mpc/protocols/secure_comparison/secure_comparison.py,sha256=tkJG4GC3lprZyujcEsu8l2euYzH1d0Zn2Y6OyqF277U,17228
+tno/mpc/protocols/secure_comparison/test/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+tno/mpc/protocols/secure_comparison/test/test_secure_comparison.py,sha256=yIik6n62KiBPUZchL305EHk1-AwXQ3lyclQ7Mu30geM,4364
+tno.mpc.protocols.secure_comparison-0.1.6.dist-info/LICENSE,sha256=z5Wve6x_v4PZT6ZnqeIaTbrsHk70BBV_lLaVRAtPU0Q,11396
+tno.mpc.protocols.secure_comparison-0.1.6.dist-info/METADATA,sha256=Ad_-KwADsozhDKaYBTM6WEHXs53--CDR2VpADTE2Xuk,3838
+tno.mpc.protocols.secure_comparison-0.1.6.dist-info/WHEEL,sha256=OqRkF0eY5GHssMorFjlbTIq072vpHpF60fIQA6lS9xA,92
+tno.mpc.protocols.secure_comparison-0.1.6.dist-info/namespace_packages.txt,sha256=8NcvSu2MFDf9A2zQmnXJCgzyktXpdoSrZnR3_a8GvAU,30
+tno.mpc.protocols.secure_comparison-0.1.6.dist-info/top_level.txt,sha256=7cHKx5j6ibiq14EYKPAhHk_NqB8u-nPUjh5R4TDqpHo,4
+tno.mpc.protocols.secure_comparison-0.1.6.dist-info/RECORD,,
