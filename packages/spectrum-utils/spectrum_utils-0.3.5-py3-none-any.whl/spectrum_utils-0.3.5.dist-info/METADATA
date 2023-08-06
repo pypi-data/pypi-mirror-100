@@ -1,0 +1,93 @@
+Metadata-Version: 2.1
+Name: spectrum-utils
+Version: 0.3.5
+Summary: Mass spectrometry utility functions
+Home-page: https://github.com/bittremieux/spectrum_utils
+Author: Wout Bittremieux
+Author-email: wbittremieux@health.ucsd.edu
+License: Apache 2.0
+Project-URL: Documentation, https://spectrum-utils.readthedocs.io/
+Project-URL: Bug Tracker, https://github.com/bittremieux/spectrum_utils/issues
+Platform: UNKNOWN
+Classifier: Intended Audience :: Science/Research
+Classifier: License :: OSI Approved :: Apache Software License
+Classifier: Operating System :: MacOS
+Classifier: Operating System :: Microsoft :: Windows
+Classifier: Operating System :: Unix
+Classifier: Programming Language :: Python :: 3
+Classifier: Topic :: Scientific/Engineering :: Bio-Informatics
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
+Requires-Dist: matplotlib
+Requires-Dist: numba (>=0.47)
+Requires-Dist: numpy
+Requires-Dist: pyteomics
+Provides-Extra: dev
+Requires-Dist: flake8 ; extra == 'dev'
+Provides-Extra: docs
+Requires-Dist: numpydoc (>=1.1.0) ; extra == 'docs'
+Requires-Dist: sphinx (>=3.5.3) ; extra == 'docs'
+Requires-Dist: sphinx-rtd-theme (>=0.5.1) ; extra == 'docs'
+Requires-Dist: recommonmark (>=0.7.1) ; extra == 'docs'
+Provides-Extra: iplot
+Requires-Dist: altair ; extra == 'iplot'
+Requires-Dist: pandas ; extra == 'iplot'
+
+# spectrum_utils
+
+[![conda](https://img.shields.io/conda/vn/bioconda/spectrum_utils?color=green)](http://bioconda.github.io/recipes/spectrum_utils/README.html)
+[![PyPI](https://img.shields.io/pypi/v/spectrum_utils?color=green)](https://pypi.org/project/spectrum_utils/)
+[![Build status](https://github.com/bittremieux/spectrum_utils/workflows/tests/badge.svg)](https://github.com/bittremieux/spectrum_utils/actions?query=workflow:tests)
+[![docs](https://readthedocs.org/projects/spectrum_utils/badge/?version=latest)](https://spectrum_utils.readthedocs.io/en/latest/?badge=latest)
+
+spectrum_utils is a Python package for efficient MS/MS spectrum processing and
+visualization.
+
+spectrum_utils contains the following features:
+
+- Spectrum processing
+    - Precursor & noise peak removal
+    - Intensity filtering
+    - Intensity scaling
+    - Peak annotations
+        - Modification-aware (static & variable) peptide fragments
+        - SMILES-based molecules
+        - Custom strings
+- Spectrum plotting
+    - Fully customizable individual spectrum plots
+    - Mirror plot of matching spectra
+    - Interactive spectrum plots
+
+![spectrum_utils](spectrum_utils.png)
+
+## Installation
+
+spectrum_utils requires Python version 3.6+ and can be installed with pip or
+conda.
+
+Using conda:
+
+    conda install -c bioconda spectrum_utils
+
+Using pip:
+
+    pip install spectrum_utils
+
+## Documentation
+
+Please see the [documentation](https://spectrum-utils.readthedocs.io/) for
+detailed installation instructions, usage examples, the API reference, and more
+information.
+
+## Citation
+
+spectrum_utils is freely available as open source under the
+[Apache 2.0 license](http://opensource.org/licenses/Apache-2.0).
+
+When using spectrum_utils please cite the following manuscript:
+
+Wout Bittremieux. "spectrum_utils: A Python package for mass spectrometry data
+processing and visualization." _Analytical Chemistry_ 92 (1) 659-661 (2020)
+doi:[10.1021/acs.analchem.9b04884](https://doi.org/10.1021/acs.analchem.9b04884).
+
+
