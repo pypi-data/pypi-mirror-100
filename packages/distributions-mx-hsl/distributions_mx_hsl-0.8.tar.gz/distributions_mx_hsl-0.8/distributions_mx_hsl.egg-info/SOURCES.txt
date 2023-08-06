@@ -1,0 +1,12 @@
+README.md
+licence.txt
+setup.cfg
+setup.py
+distributions_mx_hsl/Binomialdistribution.py
+distributions_mx_hsl/Gaussiandistribution.py
+distributions_mx_hsl/Generaldistribution.py
+distributions_mx_hsl/__init__.py
+distributions_mx_hsl.egg-info/PKG-INFO
+distributions_mx_hsl.egg-info/SOURCES.txt
+distributions_mx_hsl.egg-info/dependency_links.txt
+distributions_mx_hsl.egg-info/top_level.txt
