@@ -1,0 +1,15 @@
+LICENSE
+README.md
+setup.cfg
+setup.py
+src/json_parser/__init__.py
+src/json_parser/lexer.py
+src/json_parser/parser.py
+src/json_parser.egg-info/PKG-INFO
+src/json_parser.egg-info/SOURCES.txt
+src/json_parser.egg-info/dependency_links.txt
+src/json_parser.egg-info/requires.txt
+src/json_parser.egg-info/top_level.txt
+src/tests/__init__.py
+src/tests/json_lexer_test.py
+src/tests/json_parser_test.py
