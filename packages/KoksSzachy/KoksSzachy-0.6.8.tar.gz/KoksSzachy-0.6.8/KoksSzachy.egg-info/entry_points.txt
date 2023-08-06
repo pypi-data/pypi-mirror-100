@@ -1,0 +1,3 @@
+[console_scripts]
+koksszachy = koksszachy.__main__:main
+
