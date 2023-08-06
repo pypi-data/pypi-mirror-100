@@ -1,0 +1,52 @@
+Metadata-Version: 2.1
+Name: botify-telegram
+Version: 0.0.1
+Summary: Modern solution for telegram bots development
+Home-page: https://github.com/dmitriypaulov/botify
+Author: Dmitriy Paulov
+Author-email: dmitriy.paulov@gmail.com
+License: UNKNOWN
+Project-URL: Bug Tracker, https://github.com/dmitriypaulov/botify/issues
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.7
+Description-Content-Type: text/markdown
+
+# Botify
+
+### Getting started
+
+Install library via pip (Unavailable yet)
+
+```sh
+pip install botify
+```
+
+Create config folder in your project root directory
+with .yaml file (name doesn't matter)
+
+```yaml
+name: botify # Whatever you want, but don't use '.' character.
+token: <YOUR-BOT-API-TOKEN-HERE>
+db_uri: sqlite:///data.db
+```
+
+And then use it like this:
+
+```python
+from botify import botify
+
+@botify.start()
+async def start_handler(message):
+    await botify.send(
+        message.from_user.id, "Hello, {{ user.firstname }}. {% if user.id == 1 %}You are first!{% endif %}",
+        buttons = [("Github", "#https://github.com/dmitriypaulov/botify")]
+    )
+
+botify.run()
+```
+
+See more in [docs](docs/root.md)
+
