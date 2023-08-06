@@ -1,0 +1,11 @@
+split_layer/__init__.py,sha256=WZ0CXUvH7TbCWPB7hujLWx43mCwNLU5WAsARglLjO7Y,41
+split_layer/split_layer.py,sha256=h1UoGPEHP-K6SlyYvy-iMeRtjUl9z5c9OwlfkVljlRA,3791
+split_layer/split_layer/__init__.py,sha256=SMOLGZsPBBG02v0QMNnbaIkg5G4wLpQncmQjkWcWRPk,40
+split_layer/split_layer/split_layer.py,sha256=oGt5kc-GNw-ZzcBY5zMP4xpRTkiy_0rw3B9saRSEEUs,3794
+split_layer-0.0.10.dist-info/DESCRIPTION.rst,sha256=Qbjh_0KPZXRAYs5SJWYtUFqMWv6PhsZpMUgJ-wjcUVw,1024
+split_layer-0.0.10.dist-info/METADATA,sha256=T5y9CFlaTGkLl6RhsAS28atwJfnQWyv4ybHorWPMfTE,1399
+split_layer-0.0.10.dist-info/RECORD,,
+split_layer-0.0.10.dist-info/WHEEL,sha256=8Lm45v9gcYRm70DrgFGVe4WsUtUMi1_0Tso1hqPGMjA,92
+split_layer-0.0.10.dist-info/entry_points.txt,sha256=eqGnTHtEVMYwfXVk1Z9MhC8O2N8wuqAbr0lisLmrkxs,20
+split_layer-0.0.10.dist-info/metadata.json,sha256=TPC7GSngf2w_5CfZX4yCd65rfw3AgqW-YUc54WouRPo,591
+split_layer-0.0.10.dist-info/top_level.txt,sha256=sdPDkm5ZilNhx9cBIUlW0ypCC7YMmFsgmIx13v_ZdGk,12
