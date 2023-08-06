@@ -1,0 +1,4 @@
+
+        [console_scripts]
+        drupal-dockerizer=drupal_dockerizer.cli:cli
+    
