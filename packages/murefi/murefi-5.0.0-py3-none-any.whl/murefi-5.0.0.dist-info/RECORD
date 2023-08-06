@@ -1,0 +1,12 @@
+murefi/__init__.py,sha256=JGSOSblrefjiBcrFj0Xf5L3U3csHZ7glXYHrAiObmHQ,228
+murefi/core.py,sha256=7SuTo_FU8MSLlHjlebTflwNoJyEfHp2YV0hHKOQyRmQ,7940
+murefi/datastructures.py,sha256=9dK9lvNVRiTGhE2aXdxV00n0VJr8M8IaJzHI19ZSj6M,11857
+murefi/objectives.py,sha256=5aJ7khAhgQiJ6UilJbFd1J1DfcOnphTXh0-mn4EfhHk,2182
+murefi/ode.py,sha256=YsOEEiKs4OCBPegq951yGgYFByb-GvQKLiCYlrlAKNM,11084
+murefi/symbolic.py,sha256=8021-p6zIPJu41gSr5OPvojcZAsxp6_mxZZGdQOTu7Y,5036
+murefi/tests.py,sha256=mP426svr8gKKymkKW7Vw-093W8igH9YANNUGs2Wn3Ek,45866
+murefi-5.0.0.dist-info/LICENSE,sha256=zj-4LZ7oChyw5Uj5sFYOrVI3juK06Cb9lFm0rPcHXYk,32387
+murefi-5.0.0.dist-info/METADATA,sha256=wfXBOHRTybWeTqPXGo3BFMjQl6WhNw45x8do0CfZOwM,941
+murefi-5.0.0.dist-info/WHEEL,sha256=OqRkF0eY5GHssMorFjlbTIq072vpHpF60fIQA6lS9xA,92
+murefi-5.0.0.dist-info/top_level.txt,sha256=YrI29nHQVOtDehbnCwsDMSsy15C6NsEwMxaxnMUMv54,7
+murefi-5.0.0.dist-info/RECORD,,
