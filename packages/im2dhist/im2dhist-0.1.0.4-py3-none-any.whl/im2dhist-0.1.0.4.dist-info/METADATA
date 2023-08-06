@@ -1,0 +1,14 @@
+Metadata-Version: 2.1
+Name: im2dhist
+Version: 0.1.0.4
+Summary: Calculate two dimensional histogram of a given image.
+Home-page: https://github.com/Mamdasn/im2dhist
+Author: mamdasn s
+Author-email: <mamdassn@gmail.com>
+License: UNKNOWN
+Requires-Dist: numpy
+Requires-Dist: tqdm
+
+
+# im2dhist
+
