@@ -1,0 +1,43 @@
+
+[:python_version < "3.7"]
+dataclasses>=0.6
+
+[dev]
+isort
+black
+flake8
+twine
+keyrings.alt>=3.4.0
+featuretools
+pytest
+pytest-cov
+pytest-mock
+requests-mock>=1.8.0
+Sphinx==3.5.1
+sphinx-rtd-theme==0.5.1
+recommonmark==0.7.1
+sphinx-autodoc-typehints==1.11.1
+typed-ast==1.4.2
+sphinx-copybutton==0.3.1
+PyYAML>=4.2
+
+[dev:python_version < "3.7"]
+dataclasses>=0.6
+
+[docs]
+Sphinx==3.5.1
+sphinx-rtd-theme==0.5.1
+recommonmark==0.7.1
+sphinx-autodoc-typehints==1.11.1
+typed-ast==1.4.2
+sphinx-copybutton==0.3.1
+PyYAML>=4.2
+
+[docs:python_version < "3.7"]
+dataclasses>=0.6
+
+[optional]
+PyYAML>=4.2
+
+[optional:python_version < "3.7"]
+dataclasses>=0.6

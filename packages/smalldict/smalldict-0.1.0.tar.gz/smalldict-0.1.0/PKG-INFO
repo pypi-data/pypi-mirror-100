@@ -1,0 +1,23 @@
+Metadata-Version: 2.1
+Name: smalldict
+Version: 0.1.0
+Summary: SmallDict: Python package to slim down a dict read from JSON or YAML to check the contents
+Home-page: https://github.com/Minyus/smalldict
+Author: Yusuke Minami
+Author-email: me@minyus.github.com
+License: Apache Software License (Apache 2.0)
+Description: 
+        https://github.com/Minyus/smalldict
+        
+Keywords: dict,json,yaml,small,subset,sub,slim
+Platform: UNKNOWN
+Classifier: Development Status :: 3 - Alpha
+Classifier: Natural Language :: English
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Operating System :: OS Independent
+Description-Content-Type: text/markdown
+Provides-Extra: optional
+Provides-Extra: docs
+Provides-Extra: dev

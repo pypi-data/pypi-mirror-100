@@ -1,0 +1,10 @@
+README.md
+setup.py
+src/smalldict/__init__.py
+src/smalldict/smalldict.py
+src/smalldict.egg-info/PKG-INFO
+src/smalldict.egg-info/SOURCES.txt
+src/smalldict.egg-info/dependency_links.txt
+src/smalldict.egg-info/not-zip-safe
+src/smalldict.egg-info/requires.txt
+src/smalldict.egg-info/top_level.txt
