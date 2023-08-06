@@ -1,0 +1,12 @@
+nfnets/__init__.py,sha256=nocDcG1GRNRFWR7cQ0u5NZYFdPBiuQMeGivpSE9yh9g,154
+nfnets/agc.py,sha256=8pMH7-pHJxi_nLlrEeJ6wFvpCO9f-Y4e9v8GND6zrpU,4685
+nfnets/base.py,sha256=NsPZJVVTGSb9auS4V26X437aWT7Yi_s41QINqFYd1NE,24583
+nfnets/sgd_agc.py,sha256=9mgAALbNXiBu3-RiBBTEvWupPUJaeDePTKuFdfWHZmA,5733
+nfnets/utils.py,sha256=Pl8LaAsbvb493JXMPCK-vIoSKmV57cnT311xMrWnF7U,1341
+nfnets/models/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+nfnets/models/resnet.py,sha256=KG0UQv7_0phT101082z1bjVC0pP-7bCKdRFax_QPvR0,18527
+nfnets_pytorch-0.1.3.dist-info/LICENSE,sha256=hrM-xqIIZSAwun5oDwtNn0VOQialHjk1-c-2TjbmuAw,1071
+nfnets_pytorch-0.1.3.dist-info/METADATA,sha256=fDnAGParr85wXxBvhI1dTMY8ZvOn1hpkMZF_X4JjLN8,4346
+nfnets_pytorch-0.1.3.dist-info/WHEEL,sha256=OqRkF0eY5GHssMorFjlbTIq072vpHpF60fIQA6lS9xA,92
+nfnets_pytorch-0.1.3.dist-info/top_level.txt,sha256=QesitI49AqZcR6DdFQuCPuljj6BLkW-oLfInst-7k-8,7
+nfnets_pytorch-0.1.3.dist-info/RECORD,,
