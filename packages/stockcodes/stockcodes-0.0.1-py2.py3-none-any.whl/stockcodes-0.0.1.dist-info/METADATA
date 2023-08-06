@@ -1,0 +1,24 @@
+Metadata-Version: 2.1
+Name: stockcodes
+Version: 0.0.1
+Summary: get stock codes of open listed companies in China
+Home-page: UNKNOWN
+Author: jopil
+Author-email: jopil@163.com
+Maintainer: jopil
+Maintainer-email: jopil@163.com
+License: MIT
+Platform: UNKNOWN
+Classifier: Development Status :: 3 - Alpha
+Classifier: Intended Audience :: Developers
+Classifier: Topic :: Software Development :: Build Tools
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
+Requires-Python: >=3.6
+Requires-Dist: requests (>=2.25.0)
+Requires-Dist: pandas (>=1.2.0)
+
+UNKNOWN
+
+
