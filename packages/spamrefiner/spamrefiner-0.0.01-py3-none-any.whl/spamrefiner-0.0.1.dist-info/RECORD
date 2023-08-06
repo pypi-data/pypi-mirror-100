@@ -1,0 +1,11 @@
+spamrefiner/__init__.py,sha256=dgWrKG-0f_KqYOuh_D7Y8rDT0iW-GrRbA6s9jMO05k8,50
+spamrefiner/client.py,sha256=cW6MLnE13pDm_smbIvP4tZ8R22ihwFsHZ1-FOEakutU,1547
+spamrefiner/types.py,sha256=Eamd7PYAgWuViZZVr7DyPCOmg3KznQoCPMVS4g3wWkk,609
+spamrefiner/__pycache__/__init__.cpython-39.pyc,sha256=vj9YKVY2ChGWf9FKdy4h3QM5WCZstEb4KCBOD0maQYU,222
+spamrefiner/__pycache__/client.cpython-39.pyc,sha256=XzW3X8x6RdJUq4GNLgP8wk54Q_U6UBf-7VBmV7Cak88,1448
+spamrefiner/__pycache__/types.cpython-39.pyc,sha256=cFwknFfbsuC9qo38H-l5Pjr9ghIvCsw2qOkLsSVlN-4,1192
+spamrefiner-0.0.1.dist-info/LICENSE,sha256=46mU2C5kSwOnkqkw9XQAJlhBL2JAf1_uCD8lVcXyMRg,7652
+spamrefiner-0.0.1.dist-info/METADATA,sha256=DIZn0Svr5TrvJSr8uJtnqqZaP0jIJ50oBG_EYfnEFTo,908
+spamrefiner-0.0.1.dist-info/WHEEL,sha256=OqRkF0eY5GHssMorFjlbTIq072vpHpF60fIQA6lS9xA,92
+spamrefiner-0.0.1.dist-info/top_level.txt,sha256=TkqI-tyfL7zAZV6JjyLink9Pyn_6PPhU_Z2i60FZ4LA,12
+spamrefiner-0.0.1.dist-info/RECORD,,
