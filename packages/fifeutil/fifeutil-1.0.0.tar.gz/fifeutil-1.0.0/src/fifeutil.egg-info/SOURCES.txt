@@ -1,0 +1,17 @@
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+src/fifeutil/__init__.py
+src/fifeutil/dotdict.py
+src/fifeutil/interval.py
+src/fifeutil/intervalaccumulator.py
+src/fifeutil/intervalmgr.py
+src/fifeutil/sqlite_data_store.py
+src/fifeutil/timer.py
+src/fifeutil/timing.py
+src/fifeutil.egg-info/PKG-INFO
+src/fifeutil.egg-info/SOURCES.txt
+src/fifeutil.egg-info/dependency_links.txt
+src/fifeutil.egg-info/requires.txt
+src/fifeutil.egg-info/top_level.txt
