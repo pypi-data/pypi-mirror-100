@@ -1,0 +1,10 @@
+README.md
+setup.py
+src/wikiman/__init__.py
+src/wikiman/wikiman.py
+src/wikiman.egg-info/PKG-INFO
+src/wikiman.egg-info/SOURCES.txt
+src/wikiman.egg-info/dependency_links.txt
+src/wikiman.egg-info/entry_points.txt
+src/wikiman.egg-info/requires.txt
+src/wikiman.egg-info/top_level.txt
