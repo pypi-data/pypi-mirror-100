@@ -1,0 +1,8 @@
+setup.py
+hcfirstlib/__init__.py
+hcfirstlib/hccmd.py
+hcfirstlib/hcprint.py
+hcfirstlib.egg-info/PKG-INFO
+hcfirstlib.egg-info/SOURCES.txt
+hcfirstlib.egg-info/dependency_links.txt
+hcfirstlib.egg-info/top_level.txt
