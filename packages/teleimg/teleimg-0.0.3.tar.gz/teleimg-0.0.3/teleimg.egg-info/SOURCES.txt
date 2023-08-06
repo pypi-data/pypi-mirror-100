@@ -1,0 +1,6 @@
+README.md
+setup.py
+teleimg.egg-info/PKG-INFO
+teleimg.egg-info/SOURCES.txt
+teleimg.egg-info/dependency_links.txt
+teleimg.egg-info/top_level.txt

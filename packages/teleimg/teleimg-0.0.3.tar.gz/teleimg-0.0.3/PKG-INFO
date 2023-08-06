@@ -1,0 +1,21 @@
+Metadata-Version: 2.1
+Name: teleimg
+Version: 0.0.3
+Summary: Help you upload a image to telegraph server,then get an url for this image.
+Home-page: https://github.com/
+Author: NotMe
+Author-email: eichitang@gmail.com
+License: UNKNOWN
+Description: # Teleimg
+        
+        Help you upload a image to telegraph server,then get an url for this image.
+        (Using packages)
+        
+        [package](https://github.com)
+        
+        I will write it later.
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Description-Content-Type: text/markdown
