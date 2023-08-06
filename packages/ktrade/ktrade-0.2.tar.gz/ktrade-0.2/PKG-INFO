@@ -1,0 +1,18 @@
+Metadata-Version: 1.2
+Name: ktrade
+Version: 0.2
+Summary: KrossTrading Core Package
+Home-page: https://github.com/krosstrading/ktrade
+Author: KrossTrading
+Author-email: contacts@krosstrading.com
+License: Apache License 2.0
+Description: KrossTrading core package for multi-vendor, clients
+Platform: UNKNOWN
+Classifier: Development Status :: 1 - Planning
+Classifier: Environment :: Web Environment
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: Apache Software License
+Classifier: Operating System :: OS Independent
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Requires-Python: >=3.7
