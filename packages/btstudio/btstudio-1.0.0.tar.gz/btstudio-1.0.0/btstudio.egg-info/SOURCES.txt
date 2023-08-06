@@ -1,0 +1,13 @@
+README.md
+setup.py
+btstudio/DataKund.exe
+btstudio/GetData.py
+btstudio/Progress.py
+btstudio/__init__.py
+btstudio/btstudio.py
+btstudio/install.py
+btstudio.egg-info/PKG-INFO
+btstudio.egg-info/SOURCES.txt
+btstudio.egg-info/dependency_links.txt
+btstudio.egg-info/requires.txt
+btstudio.egg-info/top_level.txt
