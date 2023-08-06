@@ -1,0 +1,3 @@
+idf_component_manager
+idf_component_tools
+integration_tests
