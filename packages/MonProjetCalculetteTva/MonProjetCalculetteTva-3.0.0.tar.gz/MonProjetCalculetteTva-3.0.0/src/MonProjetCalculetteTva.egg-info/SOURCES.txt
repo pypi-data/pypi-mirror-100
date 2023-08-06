@@ -1,0 +1,7 @@
+README.md
+pyproject.toml
+setup.cfg
+src/MonProjetCalculetteTva.egg-info/PKG-INFO
+src/MonProjetCalculetteTva.egg-info/SOURCES.txt
+src/MonProjetCalculetteTva.egg-info/dependency_links.txt
+src/MonProjetCalculetteTva.egg-info/top_level.txt

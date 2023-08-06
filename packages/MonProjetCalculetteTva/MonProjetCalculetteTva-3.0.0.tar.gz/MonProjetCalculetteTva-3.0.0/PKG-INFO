@@ -1,0 +1,20 @@
+Metadata-Version: 2.1
+Name: MonProjetCalculetteTva
+Version: 3.0.0
+Summary: Calculs en matière de TVA
+Home-page: UNKNOWN
+Author: John Gerald
+Author-email: lrcompta@gmail.com
+License: LICENSE
+Description: # Lisez-moi !
+        
+        Cette application permet de calculer le montant HT, la TVA et le montant TTC selon l'une des 3 bases :
+        -> montant HT
+        -> montant de la TVA
+        -> montant TTC
+        À cela on peut choisir le taux de TVA à appliquer
+Platform: UNKNOWN
+Classifier: Natural Language :: French
+Classifier: Programming Language :: Python :: 3.9
+Requires-Python: >=3.7
+Description-Content-Type: text/markdown
