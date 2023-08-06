@@ -1,0 +1,62 @@
+Metadata-Version: 2.1
+Name: basiclive
+Version: 0.1.0.36
+Summary: A Framework for creating beamline LIMS
+Home-page: https://github.com/katyjg/basic-live
+Author: Kathryn Janzen, Michel Fodje
+Author-email: kathryn.janzen@lightsource.ca, michel.fodje@lightsource.ca
+License: MIT
+Platform: UNKNOWN
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 3.7
+Description-Content-Type: text/markdown
+Requires-Dist: Click
+Requires-Dist: Django
+Requires-Dist: Markdown
+Requires-Dist: Pillow
+Requires-Dist: asgiref
+Requires-Dist: asn1crypto
+Requires-Dist: certifi
+Requires-Dist: cffi
+Requires-Dist: chardet
+Requires-Dist: cryptography
+Requires-Dist: django-colorfield
+Requires-Dist: django-crispy-forms
+Requires-Dist: django-debug-toolbar
+Requires-Dist: django-debug-toolbar-request-history
+Requires-Dist: django-formtools
+Requires-Dist: django-itemlist (==0.2.10)
+Requires-Dist: django-memoize
+Requires-Dist: django-model-utils
+Requires-Dist: django-proxy
+Requires-Dist: django-python3-ldap
+Requires-Dist: geopy
+Requires-Dist: habanero
+Requires-Dist: idna
+Requires-Dist: jsonfield2
+Requires-Dist: ldap3
+Requires-Dist: msgpack
+Requires-Dist: numpy
+Requires-Dist: pip-chill
+Requires-Dist: psycopg2-binary
+Requires-Dist: pyasn1
+Requires-Dist: pycparser
+Requires-Dist: python-dateutil
+Requires-Dist: python-memcached
+Requires-Dist: pytz
+Requires-Dist: requests
+Requires-Dist: setuptools
+Requires-Dist: six
+Requires-Dist: sqlparse
+Requires-Dist: timezonefinder
+Requires-Dist: urllib3
+Requires-Dist: fastjsonschema
+
+BasicLIVE
+====
+Framework for creating Beamline Lab Information Virtual Environments
+
+
