@@ -1,0 +1,10 @@
+aiofiles
+argh
+asyncio
+huey
+itsdangerous
+markdown2
+python-dotenv
+python-json-logger
+requests
+sanic
