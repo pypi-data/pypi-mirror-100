@@ -1,0 +1,10 @@
+tootgroup.py-1.2.data/scripts/tootgroup.py,sha256=LpmTBkX2pl1OAxtUqPwS08QofTPwv7BkwsNgJBpo5Ts,13635
+tootgroup_tools/__init__.py,sha256=kKf2DeFxUy8RpGio-QWOnMBZ_cQebwx22qLwWyhdj7o,84
+tootgroup_tools/commandline_arguments.py,sha256=fvEJi5tPKdPkZC7Im_tlcYNb2KC_dN3F4-N4n7pWVQk,2876
+tootgroup_tools/configuration_management.py,sha256=FmNg4HivMPAKw7c0VW1Z_LWiAoOXMwKs25j_FUDfFB4,12255
+tootgroup_tools/version.py,sha256=HRWu4tI-zjbBoS7YbicEeWOg70eqiQtXo7WPUx7korg,199
+tootgroup.py-1.2.dist-info/LICENSE,sha256=jOtLnuWt7d5Hsx6XXB2QxzrSe2sWWh3NgMfFRetluQM,35147
+tootgroup.py-1.2.dist-info/METADATA,sha256=kx3LIvWXM0YgBP4v1qNVddj2D-4HjzqoYtQiETVqUiQ,5163
+tootgroup.py-1.2.dist-info/WHEEL,sha256=OqRkF0eY5GHssMorFjlbTIq072vpHpF60fIQA6lS9xA,92
+tootgroup.py-1.2.dist-info/top_level.txt,sha256=wchYRZy8TT-s1Cch2QMarLChgH0ctfKYNDXpmjA9aqk,16
+tootgroup.py-1.2.dist-info/RECORD,,
