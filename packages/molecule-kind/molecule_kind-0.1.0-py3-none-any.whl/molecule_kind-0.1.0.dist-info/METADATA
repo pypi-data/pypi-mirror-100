@@ -1,0 +1,64 @@
+Metadata-Version: 2.1
+Name: molecule-kind
+Version: 0.1.0
+Summary: molecule-kind - Molecule Kind Driver allows Molecule users to test Ansible code using Kind.
+Home-page: https://github.com/retr0h/molecule-kind
+Keywords: ansible,kind,k8s,kubernetes,testing,molecule
+Author: John Dewey
+Author-email: john@dewey.ws
+Maintainer: John Dewey
+Maintainer-email: john@dewey.ws
+Requires-Python: >=3.6,<4.0
+Classifier: Development Status :: 5 - Production/Stable
+Classifier: Environment :: Console
+Classifier: Intended Audience :: Developers
+Classifier: Intended Audience :: Information Technology
+Classifier: Intended Audience :: System Administrators
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Natural Language :: English
+Classifier: Operating System :: OS Independent
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Topic :: System :: Systems Administration
+Classifier: Topic :: Utilities
+Project-URL: Documentation, https://github.com/retr0h/molecule-kind
+Project-URL: Repository, https://github.com/retr0h/molecule-kind
+Description-Content-Type: text/markdown
+
+# molecule-kind
+
+[![Unit Test](https://github.com/retr0h/molecule-kind/actions/workflows/unit.yml/badge.svg)](https://github.com/retr0h/molecule-kind/actions/workflows/unit.yml)
+[![Lint](https://github.com/retr0h/molecule-kind/actions/workflows/lint.yml/badge.svg)](https://github.com/retr0h/molecule-kind/actions/workflows/lint.yml)
+
+molecule-kind - Molecule Kind Driver allows Molecule users to test Ansible code using Kind.
+
+## Dependencies
+
+* [kind][]
+
+## Installing
+
+    $ pip install molecule-kind
+
+## Usage
+
+    $ molecule init scenario -d kind
+    $ molecule test
+
+## Testing
+
+To execute unit tests.
+
+    $ make dep
+    $ make test
+
+## License
+
+The [MIT] License.
+
+[kind]: https://github.com/kubernetes-sigs/kind
+[MIT]: LICENSE
+
