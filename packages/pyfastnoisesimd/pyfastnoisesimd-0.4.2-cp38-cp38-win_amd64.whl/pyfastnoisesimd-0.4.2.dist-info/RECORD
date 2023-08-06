@@ -1,0 +1,10 @@
+pyfastnoisesimd/__init__.py,sha256=LV6UEc-DksQ5Zme2SzgnvQiq98-D87E7RV3r6tQD8Yw,808
+pyfastnoisesimd/extension.cp38-win_amd64.pyd,sha256=v_8k95zyftT4phnO_gp_TLDKGeIMVnGViqwgRUakE8w,1220096
+pyfastnoisesimd/helpers.py,sha256=0tGy_m6m5wa1BKsZQTcwxoSFSlYfjGLrTssFDukiMOs,30643
+pyfastnoisesimd/test_fns.py,sha256=XQ0KNS_mlxIZ4AGiJ_QYSHSNMO_W61EcEEoSK8GsECE,6107
+pyfastnoisesimd/version.py,sha256=6fbhlJpSCHhbEgnXa9Y3-1DhheoIUBV900vpMNv9wnw,23
+pyfastnoisesimd-0.4.2.dist-info/LICENSE,sha256=iO8AXdPm1Ymg6ZYklFU7kcFg_Q3tmU1e11417CpZeiI,1542
+pyfastnoisesimd-0.4.2.dist-info/METADATA,sha256=MFmcC9FyVFxzW6t9aFxkYRcVgrgN9aYKiQ2QLSdYUXQ,9604
+pyfastnoisesimd-0.4.2.dist-info/WHEEL,sha256=9MdUI0OzwjYaHl3jWlKFDIJ5MFBPjwppNgWNtexntqg,105
+pyfastnoisesimd-0.4.2.dist-info/top_level.txt,sha256=AEWqF5rj_AuWkyNcWprAmM9wr47whsdUU9VAt25ES6k,16
+pyfastnoisesimd-0.4.2.dist-info/RECORD,,
