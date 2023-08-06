@@ -1,0 +1,6 @@
+[console_scripts]
+fmt=scripts:fmt
+lint=scripts:lint
+target-avro=target_avro:main
+test=scripts:test
+
