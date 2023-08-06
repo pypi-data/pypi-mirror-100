@@ -1,0 +1,13 @@
+pyusb>=1.0.0
+
+[all]
+wxPython>=4.0.0
+Pillow>=7.0.0
+ezdxf>=0.13.0
+
+[dxf]
+ezdxf>=0.13.0
+
+[gui]
+wxPython>=4.0.0
+Pillow>=7.0.0
