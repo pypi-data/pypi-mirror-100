@@ -1,0 +1,7 @@
+README.md
+setup.py
+zebull.egg-info/PKG-INFO
+zebull.egg-info/SOURCES.txt
+zebull.egg-info/dependency_links.txt
+zebull.egg-info/top_level.txt
+zebullconnect/zebullapi.py
