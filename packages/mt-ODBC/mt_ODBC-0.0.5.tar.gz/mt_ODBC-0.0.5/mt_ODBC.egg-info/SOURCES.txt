@@ -1,0 +1,10 @@
+MANIFEST.in
+README.md
+setup.py
+mt_ODBC/__init__.py
+mt_ODBC/mt_ODBC.py
+mt_ODBC.egg-info/PKG-INFO
+mt_ODBC.egg-info/SOURCES.txt
+mt_ODBC.egg-info/dependency_links.txt
+mt_ODBC.egg-info/requires.txt
+mt_ODBC.egg-info/top_level.txt
