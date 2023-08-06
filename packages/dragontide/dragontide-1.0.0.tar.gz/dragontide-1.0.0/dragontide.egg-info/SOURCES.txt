@@ -1,0 +1,15 @@
+MANIFEST.in
+README.md
+setup.py
+dragontide/__init__.py
+dragontide/_decorators.py
+dragontide/_elements.py
+dragontide/_grammars.py
+dragontide/_rules.py
+dragontide/_specparsers.py
+dragontide/_support.py
+dragontide.egg-info/PKG-INFO
+dragontide.egg-info/SOURCES.txt
+dragontide.egg-info/dependency_links.txt
+dragontide.egg-info/requires.txt
+dragontide.egg-info/top_level.txt
