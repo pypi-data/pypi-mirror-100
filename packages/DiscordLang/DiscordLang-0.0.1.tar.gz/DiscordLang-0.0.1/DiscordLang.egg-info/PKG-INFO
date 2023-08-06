@@ -1,0 +1,25 @@
+Metadata-Version: 2.1
+Name: DiscordLang
+Version: 0.0.1
+Summary: A discord.py extension to make languages a bit easier to work with
+Home-page: https://github.com/AtaeKurri/discord-ext-DiscordLang
+Author: AtaeKurri
+License: Apache Software License
+Project-URL: Issue Tracker, https://github.com/AtaeKurri/discord-ext-DiscordLang/issues
+Project-URL: Source, https://github.com/AtaeKurri/discord-ext-DiscordLang
+Description: UNKNOWN
+Platform: UNKNOWN
+Classifier: Development Status :: 5 - Production/Stable
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: Apache Software License
+Classifier: Natural Language :: English
+Classifier: Operating System :: OS Independent
+Classifier: Programming Language :: Python :: 3.5
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Topic :: Internet
+Classifier: Topic :: Software Development
+Classifier: Topic :: Software Development :: Libraries
+Classifier: Topic :: Software Development :: Libraries :: Python Modules
+Requires-Python: >=3.5.3
+Provides-Extra: docs

@@ -1,0 +1,9 @@
+README.md
+setup.py
+DiscordLang.egg-info/PKG-INFO
+DiscordLang.egg-info/SOURCES.txt
+DiscordLang.egg-info/dependency_links.txt
+DiscordLang.egg-info/requires.txt
+DiscordLang.egg-info/top_level.txt
+discord/ext/DiscordLang/__init__.py
+discord/ext/DiscordLang/lang.py
