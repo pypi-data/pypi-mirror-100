@@ -1,0 +1,12 @@
+LICENSE
+README.md
+setup.cfg
+setup.py
+src/testopwatch/__init__.py
+src/testopwatch/_result.py
+src/testopwatch/_runner.py
+src/testopwatch.egg-info/PKG-INFO
+src/testopwatch.egg-info/SOURCES.txt
+src/testopwatch.egg-info/dependency_links.txt
+src/testopwatch.egg-info/requires.txt
+src/testopwatch.egg-info/top_level.txt
