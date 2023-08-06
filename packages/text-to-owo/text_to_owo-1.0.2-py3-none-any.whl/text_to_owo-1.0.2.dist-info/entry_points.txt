@@ -1,0 +1,6 @@
+
+        [console_scripts]
+        owo = owo:owo
+        substitute = owo:substitute
+        add_affixes = owo:add_affixes
+    
