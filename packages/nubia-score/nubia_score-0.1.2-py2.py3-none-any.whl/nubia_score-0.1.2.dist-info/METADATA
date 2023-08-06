@@ -1,0 +1,22 @@
+Metadata-Version: 2.1
+Name: nubia-score
+Version: 0.1.2
+Summary: NUBIA (NeUral Based Interchangeability Assessor) is a SoTA evaluation metric for text generation
+Home-page: https://github.com/wl-research/nubia
+Author: Ali Abdalla
+Author-email: ali.si3luwa@gmail.com
+License: MIT License
+Keywords: machine learning,nlp,text,evaluation,metrics
+Platform: UNKNOWN
+Requires-Dist: torch (>=1.4.0)
+Requires-Dist: fairseq
+Requires-Dist: pytorch-transformers
+Requires-Dist: numpy (>=1.18.2)
+Requires-Dist: joblib
+Requires-Dist: scikit-learn (>=0.22.2)
+Requires-Dist: wget
+Requires-Dist: gradio
+
+UNKNOWN
+
+
