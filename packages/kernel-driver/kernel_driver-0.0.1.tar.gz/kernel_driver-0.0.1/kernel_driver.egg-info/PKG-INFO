@@ -1,0 +1,11 @@
+Metadata-Version: 2.1
+Name: kernel-driver
+Version: 0.0.1
+Summary: A Jupyter kernel driver
+Home-page: https://github.com/davidbrochart/kernel_driver.git
+Author: David Brochart
+Author-email: david.brochart@gmail.com
+License: UNKNOWN
+Description: UNKNOWN
+Platform: UNKNOWN
+Provides-Extra: test
