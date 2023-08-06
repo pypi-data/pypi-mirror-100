@@ -1,0 +1,14 @@
+README.md
+pyproject.toml
+setup.cfg
+src/numformat/__init__.py
+src/numformat/formatter.py
+src/numformat/numformat.py
+src/numformat/utils.py
+src/numformat.egg-info/PKG-INFO
+src/numformat.egg-info/SOURCES.txt
+src/numformat.egg-info/dependency_links.txt
+src/numformat.egg-info/top_level.txt
+test/test_autoformat_with_max_sigfigs.py
+test/test_autoformat_with_max_str_length.py
+test/test_get_sigfigs.py
