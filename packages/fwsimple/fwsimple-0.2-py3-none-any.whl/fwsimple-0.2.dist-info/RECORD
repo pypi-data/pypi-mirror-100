@@ -1,0 +1,17 @@
+etc/fwsimple/fwsimple.cfg,sha256=xl96kM5EAjuS-wQVhHC8iekzwu164g0QXRNAiZPng00,963
+etc/fwsimple/rules/README.md,sha256=9ue7aUMljHoOBSbv0S9u8En37IYfUm0Jen5TbCqMclg,2796
+etc/systemd/system/fwsimple.service,sha256=EQCB0IhKQScxYaYD0Pd7jeAi0UFCAfk-v8OEHnFV8Yg,306
+fwsimple/__init__.py,sha256=ykFsB6ntLo3D_yZGLp8B5t7VnGF5XVBhXBTGYUmulX0,451
+fwsimple/constants.py,sha256=noen4oDpVotYb-ULptNJXe3T6WPdQSpI_43uebuqN6I,2961
+fwsimple/firewall.py,sha256=3nuDPN3p5GKcfLVmGB5vKhjGXbNRDf_YMp8aOgy6BEQ,6664
+fwsimple/lib.py,sha256=OcDX1vtc1YmrAAS9Zixerxl2I1D8K3cNUqh7MLxCIWs,1149
+fwsimple/zone.py,sha256=GfSDhZ5BmEPjTUZX1kK1XXArCy0Hu2zLOhkJPSnvxd8,4286
+fwsimple/engines/__init__.py,sha256=Q2lwcoMogDBJS-XfxzVnFbpcYe-SKOrG0bZfREkKdIQ,3379
+fwsimple/engines/iptables.py,sha256=BelnmAWFgHjyCD6bmT1BFtemmhTnutQrtye7rOYIo1k,5451
+fwsimple/rules/__init__.py,sha256=qqcxEZzEjl4GZ7YK8b2b0BpKdoDfEH6TpFZ6BqeMHLc,125
+fwsimple/rules/filter.py,sha256=RfDi2DF1AoZKFxqGpljjvYQxZfdpHBw0ketswWx7SOg,3638
+fwsimple-0.2.dist-info/METADATA,sha256=1orUVBlfY1h8V6Q-HvcrS2uvL8KmyEyD5ZirXagwG3w,214
+fwsimple-0.2.dist-info/WHEEL,sha256=OqRkF0eY5GHssMorFjlbTIq072vpHpF60fIQA6lS9xA,92
+fwsimple-0.2.dist-info/entry_points.txt,sha256=LEgZ1cH03clCHfdU5OR2KLz2D84-zehIBsnoPPipY6M,44
+fwsimple-0.2.dist-info/top_level.txt,sha256=0apENKmhYVClH0qEqc6AU9K1yz3YRQrP7ytD3kYraNs,9
+fwsimple-0.2.dist-info/RECORD,,
