@@ -1,0 +1,13 @@
+simplesockets/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+simplesockets/ipv6.py,sha256=Dr9yj3DIEd71pN3hSm1taRUBEMXazT8w9dI8qsQUVco,1935
+simplesockets/securesocket.py,sha256=6FYtqb5mfMuseGXeIS0ZfXxw8ACTAz_8k7jNuEK_M-8,14392
+simplesockets/simplesockets.py,sha256=au912dLH2qMMzelwr8F-BIOFCFS3JUQvtV0JTSia_EI,8776
+simplesockets/example/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+simplesockets/example/echo_client.py,sha256=ZL_NlthQIZFfF-TyFtKhR7mRDTdGkVqzmM6WGosg5QA,741
+simplesockets/example/echo_server.py,sha256=H3ajavc7VIx_d52tWU3c_bC1ltXVcqL2aufRx6egfhE,587
+simplesockets/support_files/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+simplesockets/support_files/cipher.py,sha256=tEY6iQKDkDAVU3-oGkpVSLTefxlIvxOHh1TTNLsPpJs,4747
+simplesockets-0.0.2.dist-info/METADATA,sha256=l42V3XM8Lom6lmq_0QqNohY-n12u6bvZwyL8Bh5SP38,2733
+simplesockets-0.0.2.dist-info/WHEEL,sha256=OqRkF0eY5GHssMorFjlbTIq072vpHpF60fIQA6lS9xA,92
+simplesockets-0.0.2.dist-info/top_level.txt,sha256=e1Itth1IZvlQ_m7-wruWUdwz07iBiri4A8rj34Hx1Fw,14
+simplesockets-0.0.2.dist-info/RECORD,,
