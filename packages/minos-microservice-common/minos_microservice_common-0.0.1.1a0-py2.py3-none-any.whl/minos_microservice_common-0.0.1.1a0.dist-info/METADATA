@@ -1,0 +1,61 @@
+Metadata-Version: 2.1
+Name: minos-microservice-common
+Version: 0.0.1.1a0
+Summary: Python Package with common Classes and Utilities used in Minos Microservices
+Home-page: UNKNOWN
+Author: Andrea Mucci
+Author-email: andrea@clariteia.com
+License: UNKNOWN
+Keywords: minos_microservice_common
+Platform: UNKNOWN
+Classifier: Development Status :: 2 - Pre-Alpha
+Classifier: Intended Audience :: Developers
+Classifier: Natural Language :: English
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.5
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Requires-Python: >=3.5
+Requires-Dist: aiomisc
+Requires-Dist: six
+Requires-Dist: avro
+Requires-Dist: orjson
+Requires-Dist: lmdb
+
+=========================
+Minos Microservice Common
+=========================
+
+.. image:: https://codecov.io/gh/Clariteia/minos_microservice_common/branch/main/graph/badge.svg
+  :target: https://codecov.io/gh/Clariteia/minos_microservice_common
+
+.. image:: https://github.com/Clariteia/minos_microservice_common/actions/workflows/python-test.yml/badge.svg
+
+
+Python Package with common Classes and Utilities used in Minos Microservices
+
+Features
+--------
+
+* TODO
+
+Credits
+-------
+
+This package was created with Cookiecutter_  and the `clariteia/minos-pypackage`_ project template.
+
+.. _Cookiecutter: https://github.com/audreyr/cookiecutter
+.. _`clariteia/minos-pypackage`: https://bitbucket.org/clariteia-devs/minos-pypackage/src/master/
+
+
+=======
+History
+=======
+
+0.0.1 (2021-03-28)
+------------------
+
+* First release on PyPI.
+
+
