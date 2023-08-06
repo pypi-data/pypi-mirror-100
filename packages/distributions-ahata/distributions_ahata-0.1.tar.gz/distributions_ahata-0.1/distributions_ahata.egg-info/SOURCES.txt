@@ -1,0 +1,12 @@
+README.md
+setup.cfg
+setup.py
+distributions_ahata/Binomialdistribution.py
+distributions_ahata/Gaussiandistribution.py
+distributions_ahata/Generaldistribution.py
+distributions_ahata/__init__.py
+distributions_ahata.egg-info/PKG-INFO
+distributions_ahata.egg-info/SOURCES.txt
+distributions_ahata.egg-info/dependency_links.txt
+distributions_ahata.egg-info/not-zip-safe
+distributions_ahata.egg-info/top_level.txt
