@@ -1,0 +1,25 @@
+[tool.poetry]
+name = "sqla_client"
+version = "0.0.1"
+description = "SQL Analytics API client and tools to manage your instance."
+authors = ["Databricks Engineering"]
+license = "BSD-2-Clause"
+
+packages = [
+    { include = "sqla_client" }
+]
+
+[tool.poetry.dependencies]
+python = "^3.6"
+requests = "^2.22.0"
+click = "^7.0"
+
+[tool.poetry.dev-dependencies]
+
+[tool.poetry.scripts]
+clone-dashboard-and-queries = "sqla_client.examples.clone_dashboard_and_queries:main"
+export-queries = "sqla_client.examples.query_export:main"
+
+[build-system]
+requires = ["poetry>=0.12"]
+build-backend = "poetry.masonry.api"
