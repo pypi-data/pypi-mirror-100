@@ -1,0 +1,3 @@
+[console_scripts]
+xnode=xray_node.main:main
+
