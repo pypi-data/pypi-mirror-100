@@ -1,0 +1,198 @@
+info:
+  contact:
+    email: TODO
+  description: REST API for calculator.Calculator
+  license:
+    name: TODO
+  title: Calculator
+  version: TODO
+openapi: 3.0.0
+paths:
+  /power/{base}:
+    get:
+      operationId: power
+      parameters:
+        - in: path
+          name: base
+          required: true
+          x-zserio-request-part: base.value
+          schema:
+            format: string
+            type: string
+        - in: query
+          name: exponent
+          required: true
+          x-zserio-request-part: exponent.value
+          schema:
+            format: string
+            type: string
+      responses:
+        '200':
+          description: ''
+          content:
+            application/octet-stream:
+              schema:
+                type: string
+      summary: ''
+      x-openapi-router-controller: zswag.test.calc.server._service
+  /isum:
+    get:
+      operationId: isum
+      parameters:
+        - in: query
+          name: values
+          required: true
+          explode: true
+          x-zserio-request-part: values
+          schema:
+            format: hex
+            type: array
+            items:
+              type: string
+      responses:
+        '200':
+          description: ''
+          content:
+            application/octet-stream:
+              schema:
+                format: binary
+                type: string
+      summary: ''
+      x-openapi-router-controller: zswag.test.calc.server._service
+  /bsum/{values}:
+    get:
+      operationId: bsum
+      parameters:
+        - in: path
+          name: values
+          required: true
+          x-zserio-request-part: values
+          schema:
+            format: base64url
+            type: array
+            items:
+              type: string
+      responses:
+        '200':
+          description: ''
+          content:
+            application/octet-stream:
+              schema:
+                format: binary
+                type: string
+      summary: ''
+      x-openapi-router-controller: zswag.test.calc.server._service
+  /imul/{values}:
+    get:
+      operationId: imul
+      parameters:
+        - in: path
+          name: values
+          required: true
+          style: simple
+          x-zserio-request-part: values
+          schema:
+            format: base64
+            type: array
+            items:
+              type: string
+      responses:
+        '200':
+          description: ''
+          content:
+            application/octet-stream:
+              schema:
+                format: binary
+                type: string
+      summary: ''
+      x-openapi-router-controller: zswag.test.calc.server._service
+  /fmul:
+    get:
+      operationId: fmul
+      parameters:
+        - in: query
+          name: values
+          required: true
+          explode: false
+          x-zserio-request-part: values
+          schema:
+            format: string
+            type: array
+            items:
+              type: string
+      responses:
+        '200':
+          description: ''
+          content:
+            application/octet-stream:
+              schema:
+                format: binary
+                type: string
+      summary: ''
+      x-openapi-router-controller: zswag.test.calc.server._service
+  /bmul:
+    get:
+      operationId: bmul
+      parameters:
+        - in: query
+          name: values
+          required: true
+          x-zserio-request-part: values
+          schema:
+            format: string
+            type: array
+            items:
+              type: string
+      responses:
+        '200':
+          description: ''
+          content:
+            application/octet-stream:
+              schema:
+                format: binary
+                type: string
+      summary: ''
+      x-openapi-router-controller: zswag.test.calc.server._service
+  /identity:
+    post:
+      operationId: identity
+      requestBody:
+        content:
+          application/x-zserio-object:
+            schema:
+              type: string
+      responses:
+        '200':
+          description: ''
+          content:
+            application/octet-stream:
+              schema:
+                format: binary
+                type: string
+      summary: ''
+      x-openapi-router-controller: zswag.test.calc.server._service
+  /concat:
+    get:
+      operationId: concat
+      parameters:
+        - in: query
+          name: values
+          required: true
+          x-zserio-request-part: values
+          schema:
+            format: base64
+            type: array
+            items:
+              type: string
+      responses:
+        '200':
+          description: ''
+          content:
+            application/octet-stream:
+              schema:
+                format: binary
+                type: string
+      summary: ''
+      x-openapi-router-controller: zswag.test.calc.server._service
+
+servers: []
