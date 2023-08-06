@@ -1,0 +1,13 @@
+setup.py
+/home/treebeard/Projects/lischon-vipextract/pypi_upload/wengmack_project/__init__.py
+/home/treebeard/Projects/lischon-vipextract/pypi_upload/wengmack_project/data.py
+/home/treebeard/Projects/lischon-vipextract/pypi_upload/wengmack_project.egg-info/PKG-INFO
+/home/treebeard/Projects/lischon-vipextract/pypi_upload/wengmack_project.egg-info/SOURCES.txt
+/home/treebeard/Projects/lischon-vipextract/pypi_upload/wengmack_project.egg-info/dependency_links.txt
+/home/treebeard/Projects/lischon-vipextract/pypi_upload/wengmack_project.egg-info/top_level.txt
+wengmack_project/__init__.py
+wengmack_project/data.py
+wengmack_project.egg-info/PKG-INFO
+wengmack_project.egg-info/SOURCES.txt
+wengmack_project.egg-info/dependency_links.txt
+wengmack_project.egg-info/top_level.txt
