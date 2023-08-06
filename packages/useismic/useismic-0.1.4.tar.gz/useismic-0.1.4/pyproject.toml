@@ -1,0 +1,18 @@
+[tool.poetry]
+name = "useismic"
+version = "0.1.4"
+description = ""
+authors = ["jpmercier <jpmercier01@gmail.com>"]
+license = "MIT"
+
+[tool.poetry.dependencies]
+python = "^3.8"
+#"uquake" = { path = "libraries/uquake" }
+uquake = "^0.4.31"
+dynaconf = "^3.1.4"
+
+[tool.poetry.dev-dependencies]
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
