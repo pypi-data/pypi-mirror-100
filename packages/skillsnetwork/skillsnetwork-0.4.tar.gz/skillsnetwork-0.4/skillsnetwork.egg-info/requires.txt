@@ -1,0 +1,5 @@
+requests
+ibm-cos-sdk==2.0.1
+tqdm
+pandas
+torch
