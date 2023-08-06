@@ -1,0 +1,3 @@
+[console_scripts]
+jour-ouvre = jour_ouvre:main
+
