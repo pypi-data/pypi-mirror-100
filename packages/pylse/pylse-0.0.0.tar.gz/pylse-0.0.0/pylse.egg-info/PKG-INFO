@@ -1,0 +1,22 @@
+Metadata-Version: 1.1
+Name: pylse
+Version: 0.0.0
+Summary: Pulse-Transfer Level eDSL for the design, simulation, and verification of superconducting electronics
+Home-page: UNKNOWN
+Author: UCSBarchlab
+Author-email: mchristensen@ucsb.edu
+License: UNKNOWN
+Description: UNKNOWN
+Platform: UNKNOWN
+Classifier: Development Status :: 1 - Planning
+Classifier: Environment :: Console
+Classifier: Intended Audience :: Developers
+Classifier: Intended Audience :: Education
+Classifier: Intended Audience :: Science/Research
+Classifier: License :: OSI Approved :: BSD License
+Classifier: Natural Language :: English
+Classifier: Operating System :: OS Independent
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Topic :: Scientific/Engineering :: Electronic Design Automation (EDA)
+Classifier: Topic :: System :: Hardware

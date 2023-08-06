@@ -1,0 +1,6 @@
+README.md
+setup.py
+pylse.egg-info/PKG-INFO
+pylse.egg-info/SOURCES.txt
+pylse.egg-info/dependency_links.txt
+pylse.egg-info/top_level.txt
