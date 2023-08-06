@@ -1,0 +1,10 @@
+README.md
+setup.py
+src/cloudio/__init__.py
+src/cloudio/client/__init__.py
+src/cloudio/client/version.py
+src/cloudio_client_python.egg-info/PKG-INFO
+src/cloudio_client_python.egg-info/SOURCES.txt
+src/cloudio_client_python.egg-info/dependency_links.txt
+src/cloudio_client_python.egg-info/requires.txt
+src/cloudio_client_python.egg-info/top_level.txt
