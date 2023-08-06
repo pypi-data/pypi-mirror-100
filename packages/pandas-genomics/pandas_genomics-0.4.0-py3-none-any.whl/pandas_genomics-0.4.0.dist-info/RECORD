@@ -1,0 +1,12 @@
+pandas_genomics/__init__.py,sha256=-ZaAPmkVfI6gFiBvACUOoTIZNaiziHTcdPmV3pxcQbo,306
+pandas_genomics/accessors.py,sha256=IhaAx4Jv0rlQk46PJtAe2hbj9qPgHQarRFx6mspazEY,3254
+pandas_genomics/arrays/__init__.py,sha256=0pPbWco0mJAwE3K_SsIeM3cAxBJMiUCZpSIZ-ed69NY,286
+pandas_genomics/arrays/genotype_array.py,sha256=e5D2xsFb-Ero8qhtsnRgFaVYsZiNHuG1EbuTC4RNprg,29850
+pandas_genomics/io/__init__.py,sha256=uYQKRJMTpzRHtW_QPTbfwwnOP7BcTz4GN66fergVRrU,295
+pandas_genomics/io/plink.py,sha256=y3QqPab0PrmnD1TBXQv3Pv7VlWo7MB_wOMttwTjVILg,6147
+pandas_genomics/io/vcf.py,sha256=5V6pN8JwpMO2KiNqIjosdJcNof4RNpRsxTTOKkbtZVk,2719
+pandas_genomics/scalars.py,sha256=GI15X9n2jnmluxQ1f5IGNOHFvQ0g-RBK5zEbORsQpXw,15556
+pandas_genomics-0.4.0.dist-info/LICENSE,sha256=ypJ1AVaTOJF10tR0aEesjuA1826ubjkczYl1G1XpdgE,1516
+pandas_genomics-0.4.0.dist-info/WHEEL,sha256=SrtnPGVTMeYWttls9xnWA01eUhCZ3ufFdJUYb1J3r-U,83
+pandas_genomics-0.4.0.dist-info/METADATA,sha256=1yCY6mEGOrdglfIDytjN4Lr44xccsBGRZ6236bbsrUY,4563
+pandas_genomics-0.4.0.dist-info/RECORD,,
