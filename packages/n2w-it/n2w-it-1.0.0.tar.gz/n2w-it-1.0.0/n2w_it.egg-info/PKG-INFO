@@ -1,0 +1,40 @@
+Metadata-Version: 1.2
+Name: n2w-it
+Version: 1.0.0
+Summary: Converts numbers to italian words.
+Home-page: https://github.com/IlGalvo/N2W-IT
+Author: Andrea Galvani
+Author-email: Andrea.Galvani96@outlook.com
+License: MIT license
+Description: # N2W-IT
+        
+        ToDo
+        
+        
+        =======
+        History
+        =======
+        
+        1.0.0 (2021-03-30)
+        ------------------
+        
+        * First release on PyPI.
+Keywords: n2w-it,n2w_it,italian number words converter
+Platform: UNKNOWN
+Classifier: Development Status :: 5 - Production/Stable
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Natural Language :: English
+Classifier: Natural Language :: Italian
+Classifier: Environment :: Console
+Classifier: Operating System :: OS Independent
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.5
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Topic :: Software Development :: Internationalization
+Classifier: Topic :: Software Development :: Libraries :: Python Modules
+Classifier: Topic :: Software Development :: Localization
+Classifier: Topic :: Text Processing :: Linguistic
+Requires-Python: >=3.5
