@@ -1,0 +1,22 @@
+Metadata-Version: 2.1
+Name: shellit
+Version: 0.0.2
+Summary: Run shell commands with python and get outputs
+Home-page: UNKNOWN
+Author: amit
+Author-email: fulldev101@gmail.com
+License: UNKNOWN
+Keywords: shellit,autoshell,shell,run shell in python,amitdev101,amit,amit-package-tutorial,tutorial
+Platform: UNKNOWN
+Classifier: Development Status :: 3 - Alpha
+Classifier: Intended Audience :: Education
+Classifier: Programming Language :: Python :: 2
+Classifier: Programming Language :: Python :: 3
+Classifier: Operating System :: MacOS :: MacOS X
+Classifier: Operating System :: Microsoft :: Windows
+
+As a developer I need to run shell commands and check the output and based on the outputI make the decision.
+So to help developers who just want to run some shell commands with python here is the simple module :)
+Just install and run shell commands
+
+
