@@ -1,0 +1,15 @@
+MANIFEST.in
+README.md
+pyproject.toml
+setup.py
+Hawkes/Hawkes_C.pyx
+Hawkes/__init__.py
+Hawkes/model.py
+Hawkes/tools/BasisFunction.py
+Hawkes/tools/Quasi_Newton.py
+Hawkes/tools/__init__.py
+hawkes.egg-info/PKG-INFO
+hawkes.egg-info/SOURCES.txt
+hawkes.egg-info/dependency_links.txt
+hawkes.egg-info/requires.txt
+hawkes.egg-info/top_level.txt

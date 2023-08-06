@@ -1,0 +1,45 @@
+Metadata-Version: 2.1
+Name: hawkes
+Version: 1.0.0
+Summary: a python package for simulation and inference of Hawkes processeses
+Home-page: https://github.com/omitakahiro/Hawkes
+Author: Takahiro Omi
+Author-email: takahiro.omi.em@gmail.com
+License: UNKNOWN
+Project-URL: Bug Tracker, https://github.com/omitakahiro/Hawkes/issues
+Description: # Hawkes
+        a python package for simulation and inference (maximum likelihood estimation) of Hawkes processes.
+        
+        # Install
+        ```
+        pip install hawkes
+        ```
+        
+        # Tutorial
+        https://colab.research.google.com/github/omitakahiro/Hawkes/blob/master/notebooks/tutorial.ipynb
+        
+        # Feature
+        This package provides the following kernel functions:
+        - exponential function  
+        - sum of multiple exponential functions  
+        - power-law function
+        - non-parametric function
+        
+        This package provides the following classes of a baseline intensity:
+        - constant baseline
+        - piecewise constant baseline model
+        - piecewise linear baseline model
+        - log-linear baseline model
+        - custom baseline function
+        
+        # Contact
+        Takahiro Omi  
+        https://sites.google.com/view/omitakahiro/home-english  
+        takahiro.omi.em[at]gmail.com
+        
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
