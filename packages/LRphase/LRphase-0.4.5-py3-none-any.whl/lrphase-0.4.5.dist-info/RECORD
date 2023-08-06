@@ -1,0 +1,17 @@
+lrphase/HeterozygousSites.py,sha256=xkfl3tMPC3Rqm7RPVGTgornrfCcBeNTyP3iVKFi9qYQ,21347
+lrphase/InputData.py,sha256=nat1WaZIwFbpreUGSeNPnZWVpT5unBblqNFsH14de74,50100
+lrphase/PhasableSample.py,sha256=h5k95tUTT2qVXdpZg3bsU62o8FHsrQn0hxCDPxaiwJ8,13892
+lrphase/PhaseSet.py,sha256=yAgbiFZNrXjtkzBaYM_PfP6B9HwW8W6SGNb4COxONSo,27957
+lrphase/PhasedAlignment.py,sha256=rNtuJToW8P8B0-ifPV6PJ7ATURtFsECba6S_SEFRJ0s,50459
+lrphase/SimulatePhasedData.py,sha256=DZ6m_9APKvq--KZ6458ZqZoLvsMKvl1WUF0FedCCgIM,22044
+lrphase/__init__.py,sha256=udnlByVnFcZDwWir50pEbTU0bIwgBrpNtAiVExFEzu0,21
+lrphase/__main__.py,sha256=SZF0t-uN1AB0ApB5NWOet1aTd7kX9z6YH05-10h7El8,53
+lrphase/cli.py,sha256=HhTGfyx5VeXIQ4sqfTdxQ7v09PrE5J7uUitdJrKpEpQ,1744
+lrphase/config.py,sha256=P6eVIrlYrlpvzoGsp3Kt8otUP6aBDsp581KzlFfzUv4,2775
+lrphase/urls.py,sha256=cb3oum6MQ_rdvzlCi-TQmDTt0RGUkdsRGx7hnBgvc1o,4391
+lrphase/utils/GetMetadata.py,sha256=q93DgOuK140vGwMUoi9kGGJilolejI6f23l2RR2PgYI,1098
+lrphase/utils/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+lrphase-0.4.5.dist-info/entry_points.txt,sha256=c7wtKH6jir7Ajw7efX2WaEKgIvHppH75j-p30IULaLI,79
+lrphase-0.4.5.dist-info/WHEEL,sha256=VN2eEg4PHbTOniXb-cCYQPc6zUTS4dAcATjlgU3q-Lo,83
+lrphase-0.4.5.dist-info/METADATA,sha256=FmRPVOe7QTHf0T_Bzii6RsWI3u2hoQU1bzL2l9-fsIo,576
+lrphase-0.4.5.dist-info/RECORD,,
