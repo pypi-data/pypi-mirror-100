@@ -1,0 +1,20 @@
+Metadata-Version: 2.1
+Name: ros2setup
+Version: 1.0
+Summary: Python library for the ROS2 module setup
+Home-page: https://github.com/Frederic98/ros2_setup
+Author: Frederic
+License: UNKNOWN
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.5
+Description-Content-Type: text/markdown
+
+# Ros2Setup
+
+This project is a tiny python library made for ROS2 modules to simplify the packaging process.
+Instead of having two files -`setup.py` and `package.xml`- with the same duplicated information, this module makes it easy dynamically import the information from the `package.xml` into the python setup file.
+
+
