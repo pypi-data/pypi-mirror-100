@@ -1,0 +1,120 @@
+Metadata-Version: 1.1
+Name: riso-banking
+Version: 0.1.0
+Summary: Riso Banking System
+Home-page: https://github.com/riso-tech/riso-banking
+Author: Bin Nguyen
+Author-email: support@risotech.vn
+License: MIT
+Description: =============================
+        Riso Banking System
+        =============================
+        
+        .. image:: https://badge.fury.io/py/riso-banking.svg
+            :target: https://badge.fury.io/py/riso-banking
+        
+        .. image:: https://travis-ci.org/riso-tech/riso-banking.svg?branch=master
+            :target: https://travis-ci.org/riso-tech/riso-banking
+        
+        .. image:: https://codecov.io/gh/riso-tech/riso-banking/branch/master/graph/badge.svg
+            :target: https://codecov.io/gh/riso-tech/riso-banking
+        
+        Riso Banking System
+        
+        Documentation
+        -------------
+        
+        The full documentation is at https://riso-banking.readthedocs.io.
+        
+        Quickstart
+        ----------
+        
+        Install Riso Banking System::
+        
+            pip install riso-banking
+        
+        Add it to your `INSTALLED_APPS`:
+        
+        .. code-block:: python
+        
+            INSTALLED_APPS = (
+                ...
+                'riso_banking.apps.RisoBankingConfig',
+                ...
+            )
+        
+        Add Riso Banking System's URL patterns:
+        
+        .. code-block:: python
+        
+            from riso_banking import urls as riso_banking_urls
+        
+        
+            urlpatterns = [
+                ...
+                url(r'^', include(riso_banking_urls)),
+                ...
+            ]
+        
+        Features
+        --------
+        
+        * TODO
+        
+        Running Tests
+        -------------
+        
+        Does the code actually work?
+        
+        ::
+        
+            source <YOURVIRTUALENV>/bin/activate
+            (myenv) $ pip install tox
+            (myenv) $ tox
+        
+        
+        Development commands
+        ---------------------
+        
+        ::
+        
+            pip install -r requirements_dev.txt
+            invoke -l
+        
+        
+        Credits
+        -------
+        
+        Tools used in rendering this package:
+        
+        *  Cookiecutter_
+        *  `cookiecutter-djangopackage`_
+        
+        .. _Cookiecutter: https://github.com/audreyr/cookiecutter
+        .. _`cookiecutter-djangopackage`: https://github.com/pydanny/cookiecutter-djangopackage
+        
+        
+        
+        
+        History
+        -------
+        
+        0.1.0 (2021-03-27)
+        ++++++++++++++++++
+        
+        * First release on PyPI.
+        
+Keywords: riso-banking
+Platform: UNKNOWN
+Classifier: Development Status :: 3 - Alpha
+Classifier: Framework :: Django :: 3.1
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: BSD License
+Classifier: Natural Language :: English
+Classifier: Programming Language :: Python :: 2
+Classifier: Programming Language :: Python :: 2.7
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.5
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
