@@ -1,0 +1,3 @@
+[plover.command]
+trayicon = plover_trayicon:main
+
