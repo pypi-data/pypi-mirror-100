@@ -1,0 +1,7 @@
+README.md
+setup.py
+model/nickffs_transliteration.egg-info/PKG-INFO
+model/nickffs_transliteration.egg-info/SOURCES.txt
+model/nickffs_transliteration.egg-info/dependency_links.txt
+model/nickffs_transliteration.egg-info/requires.txt
+model/nickffs_transliteration.egg-info/top_level.txt
