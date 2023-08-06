@@ -1,0 +1,8 @@
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+src/python_whatsapp.egg-info/PKG-INFO
+src/python_whatsapp.egg-info/SOURCES.txt
+src/python_whatsapp.egg-info/dependency_links.txt
+src/python_whatsapp.egg-info/top_level.txt
