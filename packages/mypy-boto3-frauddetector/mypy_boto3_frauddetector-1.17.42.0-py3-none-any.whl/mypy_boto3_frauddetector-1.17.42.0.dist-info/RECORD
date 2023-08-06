@@ -1,0 +1,13 @@
+mypy_boto3_frauddetector/__init__.py,sha256=yAhpF2O28tvMK01Qw8LdTXUDhj8F4PpHuEstm0ZcsdU,503
+mypy_boto3_frauddetector/__init__.pyi,sha256=PLFTqfuxiGEnloAypigqcoiGSBXbAbhCtHnJu2GkFc4,502
+mypy_boto3_frauddetector/__main__.py,sha256=PdubaicB8-7qwVWtNnqI-gEc9gpdexgtDu6tCBTTiFI,406
+mypy_boto3_frauddetector/client.py,sha256=ah0iBn-7ngrjDTsN3EjC4XumTZ0fEpkNqF4tCeiuN8U,24803
+mypy_boto3_frauddetector/client.pyi,sha256=EMBJ4agT6tEQjkpx6XN1522nVxYiTNo_gvRBF4RqweU,24739
+mypy_boto3_frauddetector/py.typed,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+mypy_boto3_frauddetector/type_defs.py,sha256=6SKOysuNA6IvG8bN8Fvr1ZkO52FDHLKTafxQYjdEWGE,15533
+mypy_boto3_frauddetector/type_defs.pyi,sha256=ZZFe25A6-p-bITflk_lF-BrBfLgfoIuoBJ8jp1ykAY4,15526
+mypy_boto3_frauddetector/version.py,sha256=iQdsnNQpFOtc_32Id4PEpThNYj-_75FrjZV8RsLvnG0,57
+mypy_boto3_frauddetector-1.17.42.0.dist-info/METADATA,sha256=4MwJCbd5V248ByT_s3FzdwjAKzXOrrtgvs5eIckE8Ko,7911
+mypy_boto3_frauddetector-1.17.42.0.dist-info/WHEEL,sha256=OqRkF0eY5GHssMorFjlbTIq072vpHpF60fIQA6lS9xA,92
+mypy_boto3_frauddetector-1.17.42.0.dist-info/top_level.txt,sha256=BJDVVIBavEQdgAcvtwINcifUCwsGjBO-AjLrinuJCCw,25
+mypy_boto3_frauddetector-1.17.42.0.dist-info/RECORD,,
