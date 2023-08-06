@@ -1,0 +1,3 @@
+[console_scripts]
+copier-templates-extensions=copier_templates_extensions.cli:main
+

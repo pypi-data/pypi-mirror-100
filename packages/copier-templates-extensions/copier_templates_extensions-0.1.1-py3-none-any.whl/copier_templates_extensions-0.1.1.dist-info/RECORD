@@ -1,0 +1,9 @@
+copier_templates_extensions/__init__.py,sha256=hFKYbzpOzuL3HFRbz0FpiQdkB5F3ZX9Kk05QMV8xvUc,483
+copier_templates_extensions/extensions/__init__.py,sha256=hhs8nKNYZEc1-yUclB-MVe4_s3MqcIdk-DTOhuwKWi8,26
+copier_templates_extensions/extensions/context.py,sha256=-I6cO4NVsZlt8A5m_tyqZ5jEurF-o2-okEuy3rSQkaM,1515
+copier_templates_extensions/extensions/loader.py,sha256=pcVimpSFVHqEm8m86NXkLs1mWZ2mF31qyk0OxHKhhw8,3146
+copier_templates_extensions-0.1.1.dist-info/entry_points.txt,sha256=xZf23U8xkjwH2o8XUi0BXGDwCY83lLkHhYMOmsUa3v8,84
+copier_templates_extensions-0.1.1.dist-info/LICENSE,sha256=JGb4pdPEM8TTjjhr-uNCO7oXkiVrwG5Pz0JamcjNF_s,754
+copier_templates_extensions-0.1.1.dist-info/WHEEL,sha256=VN2eEg4PHbTOniXb-cCYQPc6zUTS4dAcATjlgU3q-Lo,83
+copier_templates_extensions-0.1.1.dist-info/METADATA,sha256=CBZjBSiWCD45jQPlmFpNV3bAPfrAnadCfIHr5K0a9yU,4233
+copier_templates_extensions-0.1.1.dist-info/RECORD,,
