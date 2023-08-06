@@ -1,0 +1,14 @@
+hydra_plugins/hydra_ray_launcher/__init__.py,sha256=HSiTdfls_41txv31CgfPTMSdUFL-2crvDNpt6Otq6Mw,99
+hydra_plugins/hydra_ray_launcher/_config.py,sha256=8Pl9m7LNSEliCwspH6tmK5WusDmlMMxk_CO9vjr5WL0,8588
+hydra_plugins/hydra_ray_launcher/_core.py,sha256=-z9yAJj4EtSMmOZwuHEuS2BiVzQnfH8Ql9AKq5Ub5vo,2222
+hydra_plugins/hydra_ray_launcher/_core_aws.py,sha256=da4jvMXnCUU_ufox0_xOYVFtaQxax2yhIvRU8X2dvL4,7297
+hydra_plugins/hydra_ray_launcher/_launcher_util.py,sha256=7wOamC_KNMIeqcF9xn7YrB1onTFnfQkdaNIKf7RDiv0,5162
+hydra_plugins/hydra_ray_launcher/_remote_invoke.py,sha256=1qKCqDp3EBWEX6sI6tikIcVLvFhnU00HNUHd34nNPlE,2683
+hydra_plugins/hydra_ray_launcher/ray_aws_launcher.py,sha256=DPktveymxeQG8M7BNpu5OO9XFM9s_2vIO4EAhs7taRs,1622
+hydra_plugins/hydra_ray_launcher/ray_launcher.py,sha256=jzEjFzaTsZYvi2n4AEg0eouS-zjFV8_Y1hgRaPwn1JU,1125
+hydra_plugins/hydra_ray_launcher/conf/__init__.py,sha256=8nLfgnE6ZnxK4XGG4t4jhZqee2QfAyt3_BDnpe3PmAU,8246
+hydra_plugins/hydra_ray_launcher/conf/hydra/launcher/ray_aws.yaml,sha256=OE58FxIt04SBCpF7ymZga4G2Rixu7P_jdlKGVjl3RjA,704
+hydra_ray_launcher-1.1.0.dev1.dist-info/METADATA,sha256=ymDPYFiIri7vp2FQPRfq2OCYRibOElwdWoXHia8tRQM,890
+hydra_ray_launcher-1.1.0.dev1.dist-info/WHEEL,sha256=OqRkF0eY5GHssMorFjlbTIq072vpHpF60fIQA6lS9xA,92
+hydra_ray_launcher-1.1.0.dev1.dist-info/top_level.txt,sha256=0-LcYpEmzatUy2K5F7jmqcMfBL2RdB7k9nM_8zGFzhI,14
+hydra_ray_launcher-1.1.0.dev1.dist-info/RECORD,,
