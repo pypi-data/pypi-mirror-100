@@ -1,0 +1,12 @@
+fastpivot/test_sparse.py,sha256=OhlgW3Jm6vRrdCBNR2h4oNd-0QwPRW_2XLyJ6AYW7GI,13786
+fastpivot/pivot_sparse.py,sha256=tutk1KOXqQIX_dBZKuBd3xcMmFjz-g54UsSZOi75kg0,4698
+fastpivot/__init__.py,sha256=rI0JMrtKKelSX8cEAOgrGc8IOv1SHbXnpGkECQ0tP5g,87
+fastpivot/example.py,sha256=17dpTaTDDXKmK2CeSEnPyWM9Oh7Fm1CRERFFvtPWEbU,1290
+fastpivot/pivot.cpython-37m-x86_64-linux-gnu.so,sha256=s7YYl2QUUgdo1QwxK5OatPG51SXu0VbfIpRMS7Dtfe8,1798792
+fastpivot/benchmarks.py,sha256=1BUKEXiyCUSG_lc2AO6SVnRd5PstfMG4cGnxrWe39KQ,12121
+fastpivot/test_pivot.py,sha256=CeH6bQKWDCH47wHU9Pwm4X32uSM2L8aaL7XwdpmRogU,68436
+fastpivot-0.1.12.dist-info/LICENSE,sha256=vIP1gILpNyLQFSxwAAy_5nuAdqPXS__MRuFKqfsm8DM,1055
+fastpivot-0.1.12.dist-info/METADATA,sha256=5cCgvevdRcODQ2d9aXna4xTt1TZV8lrv9Dz2JS5YTXU,12672
+fastpivot-0.1.12.dist-info/WHEEL,sha256=TKoK3EG1NKvyd3_YA_rYeDC8HnGMJuv4wICdN8vTjlM,113
+fastpivot-0.1.12.dist-info/top_level.txt,sha256=D7FYA2eIKh3PfqnNvFH1V986UrHa0NPLjkkpNGX3rj4,10
+fastpivot-0.1.12.dist-info/RECORD,,
