@@ -1,0 +1,7 @@
+setuptools
+eventlet
+archetypes.schemaextender
+eea.jquery
+eea.alchemy
+eea.geolocation
+collective.taxonomy<2.0.0
