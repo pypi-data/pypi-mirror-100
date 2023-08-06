@@ -1,0 +1,12 @@
+simple_ddl_parser/__init__.py,sha256=PlZ02DBlFxZqGA3ombcknwuAF94hedCpYQqqtrYMFX0,113
+simple_ddl_parser/cli.py,sha256=aYJePRS-GPwRfJbByOD0ZYFgT5PYEoOH4Hc_43Zuf6k,2159
+simple_ddl_parser/ddl_parser.py,sha256=TC8h6BwNEwAQFxQ8nFXY_eKRi8UXc6l5rMyytYFEwgs,17447
+simple_ddl_parser/output.py,sha256=uIkZJ-mUORXf5ys4Al-WHuUs8fFfsOZb33BnMrcjbKA,5871
+simple_ddl_parser/parser.py,sha256=XSH1eO2y9oDnu8w4jMnct9wCNVHRTT5UVpPfOBWz290,3507
+simple_ddl_parser/test.ddl,sha256=6seFS_lA_TggALDeAVsigmuxai0HNo55ZyVwFMRI_Fc,407
+simple_ddl_parser/test.py,sha256=6oswxA70aQddGX-QrbXPJKLf6ZfvMx4Qkbt7Ey8oBNQ,565
+simple_ddl_parser-0.8.0a1.dist-info/entry_points.txt,sha256=BVUrH1edSC-ZdCGef7tDrovA_5NO4Q2UOk51zBXlK4A,50
+simple_ddl_parser-0.8.0a1.dist-info/LICENSE,sha256=F7Lnfq5TMUS5ic1Ax7_kRc5hB23kqM61CV6ueLQkkW4,1093
+simple_ddl_parser-0.8.0a1.dist-info/WHEEL,sha256=SrtnPGVTMeYWttls9xnWA01eUhCZ3ufFdJUYb1J3r-U,83
+simple_ddl_parser-0.8.0a1.dist-info/METADATA,sha256=YtL8Zx4hkh3KOv3jPJaiP-HsbJzR2Cu-rbbBoDzilzU,17059
+simple_ddl_parser-0.8.0a1.dist-info/RECORD,,
