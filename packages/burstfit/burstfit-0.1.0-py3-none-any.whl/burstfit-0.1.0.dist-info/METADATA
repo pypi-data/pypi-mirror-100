@@ -1,0 +1,51 @@
+Metadata-Version: 2.1
+Name: burstfit
+Version: 0.1.0
+Summary: Spectro-temporal modeling of FRBs
+Home-page: https://github.com/thepetabyteproject/burstfit
+Author: Kshitij Aggarwal, Devansh Agarwal
+Author-email: ka0064@mix.wvu.edu, da0017@mix.wvu.edu
+License: UNKNOWN
+Platform: UNKNOWN
+Classifier: Natural Language :: English
+Classifier: Intended Audience :: Science/Research
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: License :: OSI Approved :: GNU General Public License v3 (GPLv3)
+Classifier: Topic :: Scientific/Engineering :: Astronomy
+Description-Content-Type: text/markdown
+Requires-Dist: your (>=0.6.3)
+Requires-Dist: matplotlib (>=3.3.1)
+Requires-Dist: scipy (>=1.5.2)
+Requires-Dist: numpy (>=1.19.2)
+Requires-Dist: pytest (>=6.2.2)
+Requires-Dist: corner (>=2.0.1)
+Requires-Dist: scikit-image (>=0.17.2)
+Requires-Dist: emcee (>=3.0.2)
+Requires-Dist: setuptools (>=50.3.0)
+
+# burstfit
+Spectro-temporal modeling of FRBs
+
+# Installation
+```bash
+git clone https://github.com/thepetabyteproject/burstfit
+cd burstfit
+pip install -r requirements.txt
+python setup.py install
+``` 
+
+# Documentation
+Have a look at our [docs](https://thepetabyteproject.github.io/burstfit/) for the documentation.
+
+# Tutorials
+Here are some [tutorial notebooks](https://github.com/thepetabyteproject/burstfit/tree/main/examples) to get you started.
+
+**Note**:
+To run the tutorial notebooks you would need to install `jupyter`.
+
+# Citation
+
