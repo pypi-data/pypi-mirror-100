@@ -1,0 +1,10 @@
+contflame/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+contflame/internals.py,sha256=oWbvSzhysXQs0hPGdU58HIqSXpJBEaQcGykP9TygNoo,512
+contflame/data/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+contflame/data/datasets.py,sha256=vDPqxRDSd85ZPQoQbQms4OcHlLM77nHvDAvTYSb_iJA,28315
+contflame/data/utils.py,sha256=5VHRuAneApSsvlTM-unTTJVw3ZNedrDlGYvYC6eZgOg,3986
+continual_flame-1.0.dist-info/LICENSE,sha256=OXLcl0T2SZ8Pmy2_dmlvKuetivmyPd5m1q-Gyd-zaYY,35149
+continual_flame-1.0.dist-info/METADATA,sha256=ULHPDqRxnYtMBYDT7kl5cnGblxWoHQegCAP1gZrh3b8,3068
+continual_flame-1.0.dist-info/WHEEL,sha256=OqRkF0eY5GHssMorFjlbTIq072vpHpF60fIQA6lS9xA,92
+continual_flame-1.0.dist-info/top_level.txt,sha256=L9EBcF78xFRwsLIMGi2GnEhF0XmhvakDPoeuRSmNnu8,10
+continual_flame-1.0.dist-info/RECORD,,
