@@ -1,0 +1,1 @@
+This is a libary that will help you, using the Emotiv Insight Five Channel EEG.

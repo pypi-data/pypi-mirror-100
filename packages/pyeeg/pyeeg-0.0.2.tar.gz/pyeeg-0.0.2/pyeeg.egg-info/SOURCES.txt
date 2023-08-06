@@ -1,0 +1,11 @@
+CHANGELOG.txt
+LICENCE.txt
+MANIFEST.in
+README.txt
+setup.py
+pyeeg.egg-info/PKG-INFO
+pyeeg.egg-info/SOURCES.txt
+pyeeg.egg-info/dependency_links.txt
+pyeeg.egg-info/requires.txt
+pyeeg.egg-info/top_level.txt
+src/__init__.py
