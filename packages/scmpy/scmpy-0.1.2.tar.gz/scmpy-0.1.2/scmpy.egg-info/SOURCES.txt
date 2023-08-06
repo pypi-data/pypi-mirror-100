@@ -1,0 +1,10 @@
+README.md
+setup.cfg
+setup.py
+scmpy/SCM.py
+scmpy/__init__.py
+scmpy.egg-info/PKG-INFO
+scmpy.egg-info/SOURCES.txt
+scmpy.egg-info/dependency_links.txt
+scmpy.egg-info/requires.txt
+scmpy.egg-info/top_level.txt
