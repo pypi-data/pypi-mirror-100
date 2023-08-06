@@ -1,0 +1,15 @@
+MANIFEST.in
+README.md
+setup.cfg
+setup.py
+nuvolos/__init__.py
+nuvolos/sql_utils.py
+nuvolos/version.py
+nuvolos_odbc.egg-info/PKG-INFO
+nuvolos_odbc.egg-info/SOURCES.txt
+nuvolos_odbc.egg-info/dependency_links.txt
+nuvolos_odbc.egg-info/not-zip-safe
+nuvolos_odbc.egg-info/requires.txt
+nuvolos_odbc.egg-info/top_level.txt
+tests/__init__.py
+tests/test_to_sql.py
