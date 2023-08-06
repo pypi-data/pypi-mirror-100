@@ -1,0 +1,22 @@
+Metadata-Version: 2.1
+Name: odoo8-addon-l10n-es-aeat-mod340-type0
+Version: 8.0.1.0.0.99.dev10
+Summary: Generación de fichero modelo 340. Registro tipo 0
+Home-page: https://www.acysos.com/
+Author: Acysos S.L.,Odoo Community Association (OCA)
+Author-email: support@odoo-community.org
+License: AGPL-3
+Platform: UNKNOWN
+Classifier: Programming Language :: Python
+Classifier: Framework :: Odoo
+Classifier: License :: OSI Approved :: GNU Affero General Public License v3
+Requires-Python: ~=2.7
+Requires-Dist: odoo8-addon-base-location
+Requires-Dist: odoo8-addon-l10n-es-aeat-mod340
+Requires-Dist: odoo (<9.0a,>=8.0a)
+
+
+Exporta el registro de tipo 0 del Modelo 340.
+Actualmente solo obligatorio para la Comunidad Foral de Navarra.
+
+
