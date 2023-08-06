@@ -1,0 +1,20 @@
+Metadata-Version: 2.1
+Name: github-deploy
+Version: 0.0.1
+Summary: Deploy yaml files to a large number of repositories in seconds.
+Home-page: https://github.com/tj-python/github-deploy
+Author: Tonye Jack
+Author-email: jtonye@ymail.com
+License: MIT
+Keywords: yaml,deploy,poly repository,github,single configuration
+Platform: UNKNOWN
+Requires-Dist: asyncclick
+Requires-Dist: asyncio
+Requires-Dist: aiohttp
+Requires-Dist: certifi
+Requires-Dist: colorama
+Requires-Dist: aiofiles
+
+UNKNOWN
+
+
