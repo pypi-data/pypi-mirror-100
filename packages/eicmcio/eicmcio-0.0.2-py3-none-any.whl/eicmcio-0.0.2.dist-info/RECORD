@@ -1,0 +1,11 @@
+eicmcio/__init__.py,sha256=4TMOQlMScT4kEiAEAryPN60fZh7ZaAv6m2LkAWI0dXs,281
+eicmcio/detect.py,sha256=EBbJNZp3UMH6iTS9msPcBiRX_fMd0UaredlmhDHNGvk,1090
+eicmcio/file_types.py,sha256=fpYqEXl1-hKPAA8jkyxHbtEJWiPoNSpaFctbTnrcJco,581
+eicmcio/generic_reader.py,sha256=8f9Jk0g7ZMO4e8WdM5KfDKnEI3H1Jz5h7VNAbnDJt50,5070
+eicmcio/version.py,sha256=wfuCLrLm7z80VHFb3CkHI4V0-k2BhIXkXEoliWu_ac4,187
+eicmcio-0.0.2.dist-info/LICENSE,sha256=6kbiFSfobTZ7beWiKnHpN902HgBx-Jzgcme0SvKqhKY,1091
+eicmcio-0.0.2.dist-info/METADATA,sha256=Yvz3tYDB3puVye68MrUpA2dRqowx-zpcqxZ_CZH9Yhw,6688
+eicmcio-0.0.2.dist-info/WHEEL,sha256=OqRkF0eY5GHssMorFjlbTIq072vpHpF60fIQA6lS9xA,92
+eicmcio-0.0.2.dist-info/entry_points.txt,sha256=L6q3AJnzAIh8E9o_MRx4ixWi3oA4f8u0aWCR87MhzuU,48
+eicmcio-0.0.2.dist-info/top_level.txt,sha256=uJYAaEclwcPn2Sj9fHPN-_Mywai_7C3_QEFE2p92plw,8
+eicmcio-0.0.2.dist-info/RECORD,,

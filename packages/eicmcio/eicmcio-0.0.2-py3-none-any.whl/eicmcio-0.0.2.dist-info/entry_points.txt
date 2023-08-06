@@ -1,0 +1,3 @@
+[console_scripts]
+eic2hepmc = eicmcio:ejpm_cli
+
