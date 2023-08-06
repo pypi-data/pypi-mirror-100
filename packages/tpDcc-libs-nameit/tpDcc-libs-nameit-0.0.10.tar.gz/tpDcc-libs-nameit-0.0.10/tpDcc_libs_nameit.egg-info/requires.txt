@@ -1,0 +1,8 @@
+pyyaml==5.4.1
+tpDcc-libs-python
+
+[dev]
+wheel
+
+[test]
+pytest
