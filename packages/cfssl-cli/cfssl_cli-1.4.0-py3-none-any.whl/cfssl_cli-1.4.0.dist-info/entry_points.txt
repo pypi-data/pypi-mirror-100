@@ -1,0 +1,3 @@
+[console_scripts]
+cfssl-cli=cfssl_cli.__main__:main
+
