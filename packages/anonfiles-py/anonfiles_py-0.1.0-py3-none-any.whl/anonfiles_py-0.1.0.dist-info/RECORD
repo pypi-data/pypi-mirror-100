@@ -1,0 +1,11 @@
+anonfiles/__init__.py,sha256=aUG50FCXD0B9PqRi7GPFgaDlgzzHGD10t0PO-beUFgs,55
+anonfiles/anonfiles.py,sha256=yKHNfvtRqLgcxrErkxPk32VVyvP9USm1UTxcCjfP6f4,1825
+anonfiles/resp.py,sha256=rYhibA82sMZ9mlhSMmQaVQ0nHrFGbu7PKgZX0ouRu6c,1216
+src/__init__.py,sha256=aUG50FCXD0B9PqRi7GPFgaDlgzzHGD10t0PO-beUFgs,55
+src/anonfiles.py,sha256=zlqlAgYYvJyDMOHwGlLVmntk4X-8K32XW6XJ2UQfVbo,1828
+src/resp.py,sha256=rYhibA82sMZ9mlhSMmQaVQ0nHrFGbu7PKgZX0ouRu6c,1216
+anonfiles_py-0.1.0.dist-info/LICENSE,sha256=0CHR2WdDSUANdeo6bSyrduMdDsYsynUbryTsnir2bpg,1070
+anonfiles_py-0.1.0.dist-info/METADATA,sha256=GppzCwn4yEvhHb9kmUAoJuvqKZCrDQUsnYModp0sc_Q,904
+anonfiles_py-0.1.0.dist-info/WHEEL,sha256=OqRkF0eY5GHssMorFjlbTIq072vpHpF60fIQA6lS9xA,92
+anonfiles_py-0.1.0.dist-info/top_level.txt,sha256=kfGOl_uiN757GyTN1goVVGpWBzhTdiR60MEC4zqofEQ,10
+anonfiles_py-0.1.0.dist-info/RECORD,,
