@@ -1,0 +1,13 @@
+ffptutils/__init__.py,sha256=WGe2EgKasfzkZJUGWSmUXt4i0JFOy6m6QqNOOeeLKyg,55
+ffptutils/ffptutils.py,sha256=T1pNj5I74svHUAK5NMSxrqt08W8epfmJmZEKhShShR8,7482
+ffptutils/scripts/__init__.py,sha256=ZvNI-BwOZYa3HBWBmswnrkfStpkav1G8Et5KJuacqSU,34
+ffptutils/scripts/csv2ffpt.py,sha256=URa_wf_XhzIVyZD7REkFP4wsmEqqUsxjRnoTKwvKr5M,204
+ffptutils/scripts/ffpt2csv.py,sha256=m1eN7zbW6WzkcVB0Pxl5-nZBmFQJlSJ2tpHHvQkElco,204
+tests/__init__.py,sha256=v75S0O05RP-Lz76FLFD_BBx2j3IiRBsnvZh1HPGeK4c,7
+tests/test_ffptutils.py,sha256=6htCIeAwbJ7ILbfQUA935udzzTYI5XGCcrhffNUAcVY,3887
+ffptutils-0.1.1.dist-info/LICENSE,sha256=EFqOYjGO4nEHWgNKN7LUpa8VgNxNG---vAMALThmHEo,1070
+ffptutils-0.1.1.dist-info/METADATA,sha256=AkMY4dbFDlUrsuL0a7NVHW1nmWz1-_I2PeZxwcVly2c,2067
+ffptutils-0.1.1.dist-info/WHEEL,sha256=OqRkF0eY5GHssMorFjlbTIq072vpHpF60fIQA6lS9xA,92
+ffptutils-0.1.1.dist-info/entry_points.txt,sha256=RZhHqKCdh0vXASGfNeQzR6_o5fhlFRoxfzftXzqXfbM,105
+ffptutils-0.1.1.dist-info/top_level.txt,sha256=PsG8Dt0IflY8RLDfZ3pReBSzLogKVZbGjH0W2vZjJck,16
+ffptutils-0.1.1.dist-info/RECORD,,

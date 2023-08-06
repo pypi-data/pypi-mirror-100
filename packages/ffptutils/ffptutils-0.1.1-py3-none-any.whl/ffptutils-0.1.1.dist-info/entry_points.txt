@@ -1,0 +1,4 @@
+[console_scripts]
+csv2ffpt = ffptutils.scripts.csv2ffpt:main
+ffpt2csv = ffptutils.scripts.ffpt2csv:main
+
