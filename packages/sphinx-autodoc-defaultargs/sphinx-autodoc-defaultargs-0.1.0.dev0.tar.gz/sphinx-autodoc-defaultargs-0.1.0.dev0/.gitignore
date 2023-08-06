@@ -1,0 +1,11 @@
+*.pyc
+__pycache__
+*.old
+*~
+*tmp.*
+*.swp
+.tox
+*.egg-info/
+_build
+
+.dummy*.py
