@@ -1,0 +1,7 @@
+README.rst
+setup.py
+KGs/__init__.py
+KGs.egg-info/PKG-INFO
+KGs.egg-info/SOURCES.txt
+KGs.egg-info/dependency_links.txt
+KGs.egg-info/top_level.txt
