@@ -1,0 +1,5 @@
+setup.py
+dashactyl.py.egg-info/PKG-INFO
+dashactyl.py.egg-info/SOURCES.txt
+dashactyl.py.egg-info/dependency_links.txt
+dashactyl.py.egg-info/top_level.txt
