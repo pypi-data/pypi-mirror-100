@@ -1,0 +1,29 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+pydantic = "*"
+starlette = "*"
+fastapi = "*"
+msal = "*"
+fastapi-msal = {git = "https://github.com/dudil/fastapi_msal.git"}
+
+[dev-packages]
+itsdangerous = "*"
+python-dotenv = "*"
+python-multipart = "*"
+uvicorn = "*"
+black = "*"
+pylint = "*"
+setuptools = "*"
+mypy = "*"
+flit = "*"
+pre-commit = "*"
+
+[requires]
+python_version = "3.9"
+
+[pipenv]
+allow_prereleases = true
