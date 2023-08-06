@@ -1,0 +1,44 @@
+Metadata-Version: 2.1
+Name: solitairenet
+Version: 0.0.4
+Summary: Solitaire deep learning library
+Home-page: https://github.com/thecharlieblake/solitairenet/tree/master/
+Author: thecharlieblake
+Author-email: thecharlieblake@gmail.com
+License: Apache Software License 2.0
+Description: # solitairenet
+        > Solitaire deep graph learning library.
+        
+        
+        This is currently a dummy project which I'm hoping to roll-out into something more substantial!
+        
+        ## Install
+        
+        `pip install solitairenet`
+        
+        ## How to use
+        
+        Fill me in please! Don't forget code examples:
+        
+        ```
+        win("Charlie")
+        ```
+        
+        
+        
+        
+            'Charlie has won!'
+        
+        
+        
+Keywords: solitaire patience deep-learning graph-neural-network gnn
+Platform: UNKNOWN
+Classifier: Development Status :: 3 - Alpha
+Classifier: Intended Audience :: Developers
+Classifier: Natural Language :: English
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: License :: OSI Approved :: Apache Software License
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
