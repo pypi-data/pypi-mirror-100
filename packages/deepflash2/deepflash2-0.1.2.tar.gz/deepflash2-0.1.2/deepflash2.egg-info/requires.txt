@@ -1,0 +1,9 @@
+pip
+packaging
+fastai>=2.1.7
+zarr>=2.0
+scikit-image
+imageio
+ipywidgets
+openpyxl
+opencv-python>=4.0
