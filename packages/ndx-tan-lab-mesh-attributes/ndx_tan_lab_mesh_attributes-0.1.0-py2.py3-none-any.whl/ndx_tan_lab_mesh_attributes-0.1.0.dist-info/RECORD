@@ -1,0 +1,10 @@
+ndx_tan_lab_mesh_attributes/__init__.py,sha256=QxRsF6TAb7H7pJjdvB8HvQS5maDrUxALcamS4iC5OTE,1025
+ndx_tan_lab_mesh_attributes/spec/ndx-tan-lab-mesh-attributes.extensions.yaml,sha256=sj6LfpwhVcOHz_YBceq5Y9Ecpust5Tjx6l-7bj7kdsk,941
+ndx_tan_lab_mesh_attributes/spec/ndx-tan-lab-mesh-attributes.namespace.yaml,sha256=I7YJoH2w8wR3mvP5zTSUnW7KKBZFKuxw4aFMNhmoQGk,564
+tests/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+tests/test_mesh_attributes.py,sha256=mLnJRemnSSD2lrnbxBUEl7e-7xQ9hJWHvjBZl93FFzo,5386
+ndx_tan_lab_mesh_attributes-0.1.0.dist-info/LICENSE.txt,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+ndx_tan_lab_mesh_attributes-0.1.0.dist-info/METADATA,sha256=SsgCNfz-AWjN2kEcfz0EE8PyhghYBZcNfr3S1RsugMg,603
+ndx_tan_lab_mesh_attributes-0.1.0.dist-info/WHEEL,sha256=Z-nyYpwrcSqxfdux5Mbn_DQ525iP7J2DG3JgGvOYyTQ,110
+ndx_tan_lab_mesh_attributes-0.1.0.dist-info/top_level.txt,sha256=YqCR8mdEpjoUFTT4dY1XY5y1Qm8IdrsC62MjWpXCmjk,34
+ndx_tan_lab_mesh_attributes-0.1.0.dist-info/RECORD,,
