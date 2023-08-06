@@ -1,0 +1,21 @@
+Metadata-Version: 2.1
+Name: streaming-anomaly-detection
+Version: 0.0.7
+Summary: A pure python implementation of https://github.com/twitter/AnomalyDetection
+Home-page: UNKNOWN
+Author: UNKNOWN
+Author-email: UNKNOWN
+License: UNKNOWN
+Platform: UNKNOWN
+Requires-Dist: scipy
+Requires-Dist: pandas (==1.1.0)
+Requires-Dist: dask (==2.9.0)
+Requires-Dist: distributed (==2.21.0)
+Requires-Dist: toolz (==0.10.0)
+Requires-Dist: cloudpickle (==1.6.0)
+Requires-Dist: statsmodels (==0.12.1)
+Requires-Dist: asn1crypto
+
+UNKNOWN
+
+
