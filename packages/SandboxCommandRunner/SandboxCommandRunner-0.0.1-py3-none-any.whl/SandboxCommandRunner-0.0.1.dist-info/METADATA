@@ -1,0 +1,15 @@
+Metadata-Version: 2.1
+Name: SandboxCommandRunner
+Version: 0.0.1
+Summary: Sandbox Command Runner for online judge
+Home-page: https://github.com/SJ-Kheiru/SandboxCommandRunner
+Author: Amir Kheiru
+Author-email: heiruamir@gmail.com
+License: UNKNOWN
+Platform: UNKNOWN
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
+
+Python package excuting and running program file
+
+
