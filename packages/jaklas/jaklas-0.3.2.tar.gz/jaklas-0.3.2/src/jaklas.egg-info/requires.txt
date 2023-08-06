@@ -1,0 +1,4 @@
+numpy
+pyproj
+pylas~=0.4.3
+lazperf
