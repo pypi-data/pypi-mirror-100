@@ -1,0 +1,8 @@
+beautifulsoup4
+html5lib
+lxml
+measurement
+numpy
+pandas
+pyhelpers>=1.2.14
+requests
