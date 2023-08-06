@@ -1,0 +1,25 @@
+Metadata-Version: 2.1
+Name: ssa
+Version: 0.0.3
+Summary: Stochastic Simulation Algorithms
+Home-page: https://github.com/yannikschaelte/ssa
+Author: The SSA developers
+Author-email: yannik.schaelte@gmail.com
+Maintainer: The SSA developers
+Maintainer-email: yannik.schaelte@gmail.com
+License: BSD-3-Clause
+Download-URL: https://github.com/yannikschaelte/ssa/releases
+Project-URL: Bug Tracker, https://github.com/yannikschaelte/ssa/issues
+Description: SSA
+        ===
+        
+        Stochastic Simulation Algorithms.
+        
+        Note: This package has been developed primarily for internal use and
+        is neither properly tested nor documented.
+        If you would like to use it or have questions, please let us know,
+        happy to improve it!
+        
+Platform: UNKNOWN
+Requires-Python: >=3.6
+Description-Content-Type: text/x-rst
