@@ -1,0 +1,8 @@
+awscm/__init__.py,sha256=LYcj9M1dYu3C9QOCCVCI-llLLK5ipINMkKwI-u8H_C8,34
+awscm/aws_client.py,sha256=S1CLp-xJ9Ydd5YXvfp7CZ0UC6QurkFTWE8W4yn9eWBY,253
+awscm/glue_tools.py,sha256=8s37bDzpt4fqe90iSkPQKOL9HNA-Y70ACQtvEh3cWr4,4699
+awscm-0.1a0.dist-info/LICENSE,sha256=WBji6XrqTKqMPRoJxN7f25_ems4m0NwOmcMP8cxRftI,1070
+awscm-0.1a0.dist-info/METADATA,sha256=OXNLJR2YLJy9CWxZG1gJXxWbWNXWUfHK94Ed4mn6PXc,771
+awscm-0.1a0.dist-info/WHEEL,sha256=g4nMs7d-Xl9-xC9XovUrsDHGXt-FT0E17Yqo92DEfvY,92
+awscm-0.1a0.dist-info/top_level.txt,sha256=RJnLrSFKsKpJGbeIAvTFiofpXren_n_X4X0j6Pz42hk,6
+awscm-0.1a0.dist-info/RECORD,,
