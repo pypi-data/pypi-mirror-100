@@ -1,0 +1,11 @@
+CHANGELOG.md
+LICENSE.txt
+README.rst
+nskipgrams.py
+setup.cfg
+setup.py
+nskipgrams.egg-info/PKG-INFO
+nskipgrams.egg-info/SOURCES.txt
+nskipgrams.egg-info/dependency_links.txt
+nskipgrams.egg-info/not-zip-safe
+nskipgrams.egg-info/top_level.txt
