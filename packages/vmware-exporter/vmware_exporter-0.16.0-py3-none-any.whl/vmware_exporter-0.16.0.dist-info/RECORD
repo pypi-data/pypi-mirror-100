@@ -1,0 +1,10 @@
+vmware_exporter/__init__.py,sha256=tzEWQ_5g-ZCLQ3ZYpaXFet-D7M0T_t-aKz5qy4QE_m8,88
+vmware_exporter/defer.py,sha256=OIQaIaGa1t8n2HRsnh62EYh3yQaw83XyNoWqsI-PdXU,3172
+vmware_exporter/helpers.py,sha256=4lPSr5sUNKnruYuMFN3icxeR2Fc1puQ9hv0hLJscSyQ,5248
+vmware_exporter/vmware_exporter.py,sha256=Z4F4crrtuDWMQhn5bnoe76KLWSkA7OrADDzvoS4gDUw,80015
+vmware_exporter-0.16.0.dist-info/LICENSE,sha256=Xphk-Zr2J6zkItieCxdiBMLckwILYlpG4VCbVwuKJqM,1513
+vmware_exporter-0.16.0.dist-info/METADATA,sha256=c4O7IlomicolEyC10y5GLXiNLrEsmiRG8C5jMDs83fY,13699
+vmware_exporter-0.16.0.dist-info/WHEEL,sha256=OqRkF0eY5GHssMorFjlbTIq072vpHpF60fIQA6lS9xA,92
+vmware_exporter-0.16.0.dist-info/entry_points.txt,sha256=xwC5LCPfI2YsIUSGTZuPD68J4qPGo_7zh8958Hd7b38,74
+vmware_exporter-0.16.0.dist-info/top_level.txt,sha256=Tt5QH1R19IgoaMzEwDI8SccCCi14jT8lDsZRKaQAfWY,16
+vmware_exporter-0.16.0.dist-info/RECORD,,
