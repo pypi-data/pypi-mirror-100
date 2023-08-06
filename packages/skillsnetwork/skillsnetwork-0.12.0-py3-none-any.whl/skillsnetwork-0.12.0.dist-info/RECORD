@@ -1,0 +1,12 @@
+skillsnetwork/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+skillsnetwork/cvstudio.py,sha256=Iz3N8G6Z2l_QxJiYIoq9dSr7KRO7_D_DyrnutTHaVZI,13010
+skillsnetwork-0.12.0.data/scripts/cvstudio,sha256=v-AlmT8EH5uWvz-glozAxfw6Q5Yp73t5jeovgu_7ud4,137
+skillsnetwork-0.12.0.data/scripts/cvstudio_download_all,sha256=x7Bn-h7JeDBdEzfVPFKSfELFiMC92fOwKB8Giv2BXg0,488
+skillsnetwork-0.12.0.data/scripts/cvstudio_download_model,sha256=TE2tFFBeSvRqD2drkvGzq-rxWKQDkftfmdVZpsluSmc,551
+skillsnetwork-0.12.0.data/scripts/cvstudio_ping,sha256=Dk9iDZYL031b4qDm-91G6XqZPWxIo8t3gAhfmtFS6zQ,871
+skillsnetwork-0.12.0.data/scripts/cvstudio_report,sha256=E6FwYDmLLCZoCobuRIpcb3Dnc1yzKNmYVV153DhCEsI,890
+skillsnetwork-0.12.0.data/scripts/cvstudio_upload_model,sha256=eStcWCefFpTeDKiWGgD9mAEyk1hxRCVYJtB3i1W0p6U,1076
+skillsnetwork-0.12.0.dist-info/METADATA,sha256=xyVyqV0CglVbk-Rp5mtUqQ7K-Nw1jLqgOLUnDdp_8XM,298
+skillsnetwork-0.12.0.dist-info/WHEEL,sha256=U88EhGIw8Sj2_phqajeu_EAi3RAo8-C6zV3REsWbWbs,92
+skillsnetwork-0.12.0.dist-info/top_level.txt,sha256=XvM1ZxfcAn-D_v1Yw1OiVjJCp6pOYXDfGNNN2Zjvumo,14
+skillsnetwork-0.12.0.dist-info/RECORD,,
