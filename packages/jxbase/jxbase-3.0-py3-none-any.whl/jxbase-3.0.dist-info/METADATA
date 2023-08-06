@@ -1,0 +1,20 @@
+Metadata-Version: 2.1
+Name: jxbase
+Version: 3.0
+Summary: QQ交流群：1001030977
+Home-page: UNKNOWN
+Author: xjxfly
+Author-email: xjxfly@qq.com
+License: MIT
+Platform: UNKNOWN
+Requires-Dist: rsa (>=0.0.1)
+Requires-Dist: configobj (>=0.0.1)
+Requires-Dist: numpy (>=0.0.1)
+Requires-Dist: pandas (>=0.0.1)
+Requires-Dist: pytesseract (>=0.0.1)
+Requires-Dist: pywinauto (>=0.0.1)
+Requires-Dist: pycryptodome (>=0.0.1)
+
+UNKNOWN
+
+
