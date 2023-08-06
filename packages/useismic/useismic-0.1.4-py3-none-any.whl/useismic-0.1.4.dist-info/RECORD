@@ -1,0 +1,17 @@
+useismic/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+useismic/clients/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+useismic/clients/old_api_client/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+useismic/clients/old_api_client/api_client.py,sha256=yiOSOsgrLFGmXD3ZjF6NcdKRo0PX5or22FEE0bRHKcQ,25605
+useismic/core/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+useismic/core/project_manager.py,sha256=2uv9CZR4pF2jO0jHtRI3hF2Veb7G0CbFJBx9lJlrzLU,20023
+useismic/processors/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+useismic/processors/nlloc.py,sha256=hPcBtKJeOjXwZ03fjIlyXN0Y8H-f1_sFvJM4STtIiek,14923
+useismic/settings/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+useismic/settings/nlloc_settings_template.toml,sha256=OqKcV_98FLsQFFMuhIiZ5LDHTvQuuH5sgohPJCPA8jI,398
+useismic/settings/services_settings_template.toml,sha256=-N9NM-x_gOKb5Sp_-8NGL1D_Qe82esZeCUSIeBL7IzI,46
+useismic/settings/settings.py,sha256=-Hj2fDz6NAS2H2w6GGPENXvmfgdSCHXHXqKZm4FVgLg,880
+useismic/settings/settings_template.toml,sha256=eu-WAEbgQJgqhH0tcotn81tTmc_cgQZsHFiPKPCpn88,11620
+useismic-0.1.4.dist-info/LICENSE,sha256=wFpJQ0hDb8-0nAD3q8iPyIY53RRdSnjbVRlLzrjU8NY,1076
+useismic-0.1.4.dist-info/WHEEL,sha256=VN2eEg4PHbTOniXb-cCYQPc6zUTS4dAcATjlgU3q-Lo,83
+useismic-0.1.4.dist-info/METADATA,sha256=RxjtUmifSe-BqMEJH0mMXHJ-rV4YmdUsDxuCgvhQRRc,437
+useismic-0.1.4.dist-info/RECORD,,
