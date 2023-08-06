@@ -1,0 +1,10 @@
+MANIFEST.in
+README.md
+pyproject.toml
+requirements.txt
+setup.py
+piscola/piscola.egg-info/PKG-INFO
+piscola/piscola.egg-info/SOURCES.txt
+piscola/piscola.egg-info/dependency_links.txt
+piscola/piscola.egg-info/requires.txt
+piscola/piscola.egg-info/top_level.txt
