@@ -1,0 +1,7 @@
+README.rst
+setup.py
+GNNs/__init__.py
+GNNs.egg-info/PKG-INFO
+GNNs.egg-info/SOURCES.txt
+GNNs.egg-info/dependency_links.txt
+GNNs.egg-info/top_level.txt
