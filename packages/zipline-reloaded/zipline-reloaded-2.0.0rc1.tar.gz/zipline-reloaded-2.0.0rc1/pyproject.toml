@@ -1,0 +1,26 @@
+[build-system]
+requires = [
+    "setuptools>=38.6.0",
+    "setuptools-scm",
+    "wheel>=0.31.0",
+    "versioneer-518",
+    "bcolz-zipline>=1.2.2",
+    "Cython>=0.29.21,<3",
+    "oldest-supported-numpy; python_version>='3.7'",
+]
+build-backend = "setuptools.build_meta"
+
+[tool.black]
+target-version = ['py37', 'py38']
+exclude = '''
+(
+    asv_bench/env
+  | \.egg
+  | \.git
+  | \.hg
+  | _build
+  | build
+  | dist
+  | setup.py
+)
+'''
