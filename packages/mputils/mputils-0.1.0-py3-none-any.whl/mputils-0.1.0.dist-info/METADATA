@@ -1,0 +1,13 @@
+Metadata-Version: 2.1
+Name: mputils
+Version: 0.1.0
+Summary: Multiprocessing move/copy
+Author: Panos Mavrogiorgos
+Author-email: pmav99@gmail.com
+Requires-Python: >=3.6.2,<4.0.0
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Requires-Dist: pydantic (>=1.8.1,<2.0.0)
+Requires-Dist: typer (>=0.3.2,<0.4.0)
