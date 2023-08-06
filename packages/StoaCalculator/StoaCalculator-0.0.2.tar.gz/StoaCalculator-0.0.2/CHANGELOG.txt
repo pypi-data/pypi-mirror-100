@@ -1,0 +1,10 @@
+Change Log
+==========
+
+0.0.1 (27/03/21)
+----------------
+- First Release (Addition, Substraction, Multiplication, Division)
+
+0.0.2 (27/03/21)
+----------------
+- Second Release (Powers/Exponents)
