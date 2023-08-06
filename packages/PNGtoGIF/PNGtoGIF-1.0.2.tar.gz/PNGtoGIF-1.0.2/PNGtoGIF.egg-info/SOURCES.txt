@@ -1,0 +1,14 @@
+LICENSE
+MANIFEST.in
+README.md
+requirements.txt
+setup.cfg
+setup.py
+PNGtoGIF/__init__.py
+PNGtoGIF/converter.py
+PNGtoGIF.egg-info/PKG-INFO
+PNGtoGIF.egg-info/SOURCES.txt
+PNGtoGIF.egg-info/dependency_links.txt
+PNGtoGIF.egg-info/not-zip-safe
+PNGtoGIF.egg-info/requires.txt
+PNGtoGIF.egg-info/top_level.txt
