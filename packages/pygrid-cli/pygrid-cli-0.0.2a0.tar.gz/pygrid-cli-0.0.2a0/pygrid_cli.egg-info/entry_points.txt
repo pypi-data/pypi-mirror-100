@@ -1,0 +1,4 @@
+
+        [console_scripts]
+        pygrid=apps.domain.src.main.core.infrastructure.cli:cli
+    
