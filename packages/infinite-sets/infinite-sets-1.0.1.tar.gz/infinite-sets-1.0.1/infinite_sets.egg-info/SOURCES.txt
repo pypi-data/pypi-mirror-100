@@ -1,0 +1,13 @@
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+infinite_sets/__init__.py
+infinite_sets/infinite_sets.py
+infinite_sets/py.typed
+infinite_sets.egg-info/PKG-INFO
+infinite_sets.egg-info/SOURCES.txt
+infinite_sets.egg-info/dependency_links.txt
+infinite_sets.egg-info/not-zip-safe
+infinite_sets.egg-info/requires.txt
+infinite_sets.egg-info/top_level.txt
