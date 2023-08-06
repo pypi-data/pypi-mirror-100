@@ -1,0 +1,5 @@
+{
+  "load_extensions": {
+    "xai_tabular_widget/extension": true
+  }
+}
