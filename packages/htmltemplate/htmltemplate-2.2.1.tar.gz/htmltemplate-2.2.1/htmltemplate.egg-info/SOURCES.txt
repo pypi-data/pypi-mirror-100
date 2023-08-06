@@ -1,0 +1,48 @@
+LICENSE
+MANIFEST.in
+README
+htmltemplate.py
+pyproject.toml
+setup.py
+doc/class_definitions.html
+doc/full.css
+doc/getting_started.html
+doc/html_templates.html
+doc/index.html
+doc/notes_and_credits.html
+doc/template_object_model.html
+doc/tips_and_tricks.html
+doc/tutorial_1.html
+doc/tutorial_2.html
+htmltemplate.egg-info/PKG-INFO
+htmltemplate.egg-info/SOURCES.txt
+htmltemplate.egg-info/dependency_links.txt
+htmltemplate.egg-info/top_level.txt
+sample/demo1_quote.py
+sample/demo1alt_quote.py
+sample/demo2_table.py
+sample/demo3_links.py
+sample/demo4_simple_calendar.py
+sample/demo5_alternating_row_colors.py
+sample/demo6_user_list.py
+sample/demo7_simple_interpolation.py
+sample/demo8_multi_step_rendering.py
+sample/demo9_recursive_list.py
+sample/tutorial1.py
+sample/tutorial2.py
+sample/docgen/docgen.py
+sample/docgen/source/1 getting_started.md
+sample/docgen/source/2 tutorial_1.md
+sample/docgen/source/3 html_templates.md
+sample/docgen/source/4 template_object_model.md
+sample/docgen/source/5 class_definitions.md
+sample/docgen/source/6 tutorial_2.md
+sample/docgen/source/7 tips_and_tricks.md
+sample/docgen/source/8 notes_and_credits.md
+sample/docgen/templates/full.css
+sample/docgen/templates/page_template.html
+sample/docgen/templates/toc_template.html
+sample/htmlcalendar/htmlcalendar.py
+sample/htmlcalendar/templates/grid_template.html
+sample/htmlcalendar/templates/month_template.html
+sample/htmlcalendar/templates/page_template.html
