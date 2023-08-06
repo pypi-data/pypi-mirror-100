@@ -1,0 +1,7 @@
+editdistance
+networkx
+scipy>=1.5
+numpy>=1.15.0
+
+[:python_version < "3.7"]
+dataclasses<1.0,>=0.6
