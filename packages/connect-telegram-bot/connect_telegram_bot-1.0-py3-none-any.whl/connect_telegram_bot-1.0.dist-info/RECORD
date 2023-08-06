@@ -1,0 +1,16 @@
+connect/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+connect/telegram_bot/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+connect/telegram_bot/bot.py,sha256=sklyHdQrqOCBckK8PS8byog-Zwx91Mtd_c1UIay-MJQ,2977
+connect/telegram_bot/constants.py,sha256=5NxKM8I1pUJAYRIVNGjrBZXR5WJJiiEMENgja3o8wRY,240
+connect/telegram_bot/decorators/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+connect/telegram_bot/decorators/chat_context.py,sha256=YNNgn3kYZZmhEc_uEVII8m1lSISSsSofE6fMIse67uw,275
+connect/telegram_bot/decorators/log_args.py,sha256=giPy0xMpOUj2Ie807XQzBdTjL_imKGXB8avIxuqOUAM,333
+connect/telegram_bot/errors/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+connect/telegram_bot/errors/saved_filter_not_found.py,sha256=cJr3DHQazYHpd6offdIrF98w1_pXXI-RfdBplyHDu7U,47
+connect/telegram_bot/renderers/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+connect/telegram_bot/renderers/qs2md.py,sha256=39FwM1Ff_ElAUS0oGKoxntaEVjqe6WQLV7IwtLpWkj4,567
+connect/telegram_bot/telegram_conversation.py,sha256=XjITL-aRu4kzo5LsD7S5vNAJIf5-Kau8uMhSWMx6rqU,17689
+connect_telegram_bot-1.0.dist-info/LICENSE,sha256=QwcOLU5TJoTeUhuIXzhdCEEDDvorGiC6-3YTOl4TecE,11356
+connect_telegram_bot-1.0.dist-info/WHEEL,sha256=VN2eEg4PHbTOniXb-cCYQPc6zUTS4dAcATjlgU3q-Lo,83
+connect_telegram_bot-1.0.dist-info/METADATA,sha256=QJfQ__qRjXLT--5iUXhrPOFs3yrdoJlbTto3808rUdE,4732
+connect_telegram_bot-1.0.dist-info/RECORD,,
