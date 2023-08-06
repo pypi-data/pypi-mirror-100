@@ -1,0 +1,15 @@
+orthanc_ext/__init__.py,sha256=60KRv-JhAINwgf8ArL62d53fmuhxuilUro3ZpuFCGXc,133
+orthanc_ext/event_dispatcher.py,sha256=mQnjdLdqLiIcE3oV3bXeOH7d36Um83ExChpfNQqklAE,1957
+orthanc_ext/logging_configurator.py,sha256=90tozXc2eR2QfYx0f7RWYJK068XuerCJufVRuuZYJTc,1658
+orthanc_ext/orthanc.py,sha256=iCd9LOFr6LujXiOxgYUwTvBZ_aRpFJ0AFqaYSLn7vBw,1747
+orthanc_ext/orthanc_utilities.py,sha256=KI7u9OA6EuVGG9AqptrRTCTYtjPEKFoJpI-1ROMcInk,433
+orthanc_ext/python_utilities.py,sha256=bPhOKuG9EpRwtbyFq5J_aMdQMCVy2MYQD0-VESnzeyE,308
+orthanc_ext/requests_utilities.py,sha256=GLr80zoG7X3inUuJGo0qQ7eE6rDu3MafISfYu_WnfaU,512
+orthanc_ext/scripts/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+orthanc_ext/scripts/auto_forward.py,sha256=3XfDkCTQykZMgc-lJn6hgujMgxqhGf9bFLXSN5_NSMc,948
+orthanc_ext/scripts/auto_retries.py,sha256=tOAM9fItufcRSulqjKn_beBWUkDnv3b9lHrSOzB4aa0,1387
+orthanc_server_extensions-3.1.7.dist-info/LICENSE,sha256=V8j_M8nAz8PvAOZQocyRDX7keai8UJ9skgmnwqETmdY,34520
+orthanc_server_extensions-3.1.7.dist-info/METADATA,sha256=TPGbFlqQ6IfGKXujEnNArPRt59QamI_IrdmVfT3n6J0,3665
+orthanc_server_extensions-3.1.7.dist-info/WHEEL,sha256=Z-nyYpwrcSqxfdux5Mbn_DQ525iP7J2DG3JgGvOYyTQ,110
+orthanc_server_extensions-3.1.7.dist-info/top_level.txt,sha256=krJ1em9I04xnAtkmJFrq0VynbJpHSP-7vARoGeHI3iE,12
+orthanc_server_extensions-3.1.7.dist-info/RECORD,,
