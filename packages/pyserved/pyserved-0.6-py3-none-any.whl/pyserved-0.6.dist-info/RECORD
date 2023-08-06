@@ -1,0 +1,10 @@
+pyserved/__init__.py,sha256=rUAPHS214M3ZjUYOrbG3_R6MtWaVgcObceRjw4wBp00,3607
+pyserved/client.py,sha256=_JZ9lhuTwJq1dUnDIeXw1lSES3yxeUe2FfNO2JiEWKg,1885
+pyserved/server.py,sha256=qx6Y2GXQEr72XKE3eVMxSD1ZnZeGXQy1SgICivxERWM,3125
+pyserved-0.6.data/scripts/pyserved,sha256=gOwoNrvDA0K2MlVR6JLNveAIF-mMhDBqEaTI6o-Uww4,411
+pyserved-0.6.data/scripts/pyserved-c,sha256=494yN9ZLN0EwVo2l96uNO-2gnekB2aq4ldoHn_YUPb0,34
+pyserved-0.6.dist-info/LICENSE.txt,sha256=LcDNVUpu1sPq7OKHvk6wz3d7z-L-r8cvzJ9GopNPpFI,1076
+pyserved-0.6.dist-info/METADATA,sha256=cg_YH47-4u5CD0RJ0XAzO5bc0p009pe6qYWIl5ahGhY,3940
+pyserved-0.6.dist-info/WHEEL,sha256=EVRjI69F5qVjm_YgqcTXPnTAv3BfSUr0WVAHuSP3Xoo,92
+pyserved-0.6.dist-info/top_level.txt,sha256=QAUDn8dqxPpy4IxRAZjEOwxa9juRnjRaEV37IWqOEp0,9
+pyserved-0.6.dist-info/RECORD,,
