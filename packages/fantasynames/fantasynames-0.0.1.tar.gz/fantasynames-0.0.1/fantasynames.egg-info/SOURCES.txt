@@ -1,0 +1,15 @@
+README.md
+setup.py
+fantasynames/__init__.py
+fantasynames/anglo.py
+fantasynames/data.py
+fantasynames/dwarf.py
+fantasynames/elf.py
+fantasynames/french.py
+fantasynames/helpers.py
+fantasynames/hobbit.py
+fantasynames/human_diverse.py
+fantasynames.egg-info/PKG-INFO
+fantasynames.egg-info/SOURCES.txt
+fantasynames.egg-info/dependency_links.txt
+fantasynames.egg-info/top_level.txt
