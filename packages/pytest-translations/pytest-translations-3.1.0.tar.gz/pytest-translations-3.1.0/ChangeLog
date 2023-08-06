@@ -1,0 +1,7 @@
+CHANGES
+=======
+
+3.1.0
+-----
+
+* Ignore &shy; entity because it's only meant for optional word breaks
