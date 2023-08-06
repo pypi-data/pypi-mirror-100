@@ -1,0 +1,16 @@
+Metadata-Version: 1.1
+Name: ncaa-select-picks
+Version: 0.0.5
+Summary: NCAA March Madness Men's Basketball Bracket Selection Tool
+Home-page: https://github.com/The-Geology-Guy/ncaa_select_picks
+Author: Luke Pajer
+Author-email: luke.pajer@gmail.com
+License: MIT
+Download-URL: https://github.com/The-Geology-Guy/ncaa_select_picks/archive/refs/tags/v0.0.5.tar.gz
+Description: This python package serves to provide a fun selection tool for March Madness Men's Basketball bracket selections. This uses a simple algorithm to help those who want to complete a bracket.
+Platform: UNKNOWN
+Classifier: Topic :: Games/Entertainment
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8

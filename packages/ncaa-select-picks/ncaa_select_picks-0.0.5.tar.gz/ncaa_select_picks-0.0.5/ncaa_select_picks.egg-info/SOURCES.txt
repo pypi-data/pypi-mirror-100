@@ -1,0 +1,11 @@
+README.md
+setup.cfg
+setup.py
+ncaa_select_picks/__init__.py
+ncaa_select_picks/ncaa_select_picks.py
+ncaa_select_picks/version.py
+ncaa_select_picks.egg-info/PKG-INFO
+ncaa_select_picks.egg-info/SOURCES.txt
+ncaa_select_picks.egg-info/dependency_links.txt
+ncaa_select_picks.egg-info/requires.txt
+ncaa_select_picks.egg-info/top_level.txt
