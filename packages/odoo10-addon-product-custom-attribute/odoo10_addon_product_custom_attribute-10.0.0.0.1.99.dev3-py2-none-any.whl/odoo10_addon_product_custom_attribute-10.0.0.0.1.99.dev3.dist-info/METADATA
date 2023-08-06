@@ -1,0 +1,33 @@
+Metadata-Version: 2.1
+Name: odoo10-addon-product-custom-attribute
+Version: 10.0.0.0.1.99.dev3
+Summary: Product Custom Attributes
+Home-page: https://akretion.com
+Author: Akretion
+License: AGPL-3
+Platform: UNKNOWN
+Classifier: Programming Language :: Python
+Classifier: Framework :: Odoo
+Classifier: License :: OSI Approved :: GNU Affero General Public License v3
+Requires-Python: ~=2.7
+Requires-Dist: odoo10-addon-base-custom-attribute
+Requires-Dist: odoo (<10.1dev,>=10.0)
+
+Product Custom Attributes
+=========================
+
+This module adds the possibility to easily create custom fields on products.
+Each product can be linked to an attribute set (like camera, fridge...).
+Each attribute has custom fields (for example, you don't need the same field for a frigde and a camera).
+In particular it's used by the Magento Magentoerpconnect module to match the EAV flexibility of Magento.
+
+Credits
+=======
+
+Contributors
+------------
+* Benoît Guillot <benoit.guillot@akretion.com>
+* David Dufresne <david.dufresne@savoirfairelinux.com>
+* El Hadji Dem <elhadji.dem@savoirfairelinux.com>
+
+
