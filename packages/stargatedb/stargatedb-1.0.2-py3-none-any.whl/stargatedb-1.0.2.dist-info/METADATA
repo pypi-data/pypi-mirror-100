@@ -1,0 +1,19 @@
+Metadata-Version: 2.1
+Name: stargatedb
+Version: 1.0.2
+Summary: stargatedb is a microcomputer database developed by Chongqing Yangpai Information Technology Co., Ltd., which supports Chinese and English characters and multimedia data storage. It is mainly used in Internet of things, robot, intelligent hardware, industrial automation and other fields
+Home-page: http://www.stargatedb.com
+Author: yangpai
+Author-email: wumeng@mail.yangpai.co
+License: UNKNOWN
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 2
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=2.7
+Description-Content-Type: text/markdown
+
+stargatedb is a microcomputer database developed by Chongqing Yangpai Information Technology Co., Ltd., which supports Chinese and English characters and multimedia data storage. It is mainly used in Internet of things, robot, intelligent hardware, industrial automation and other fields
+
+
