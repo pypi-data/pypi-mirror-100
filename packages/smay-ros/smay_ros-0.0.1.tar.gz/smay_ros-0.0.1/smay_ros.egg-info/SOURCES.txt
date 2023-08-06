@@ -1,0 +1,7 @@
+setup.py
+smay_ros/__init__.py
+smay_ros.egg-info/PKG-INFO
+smay_ros.egg-info/SOURCES.txt
+smay_ros.egg-info/dependency_links.txt
+smay_ros.egg-info/requires.txt
+smay_ros.egg-info/top_level.txt

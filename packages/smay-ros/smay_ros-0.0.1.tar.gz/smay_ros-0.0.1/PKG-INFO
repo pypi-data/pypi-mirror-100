@@ -1,0 +1,11 @@
+Metadata-Version: 1.0
+Name: smay_ros
+Version: 0.0.1
+Summary: A ROS manager based on smay
+Home-page: https://github.com/xkgeng/smay_ros
+Author: Geng Xinkuang
+Author-email: UNKNOWN
+License: MIT Licence
+Description: A ROS manager based on smay
+Keywords: pip,smay,ros,smay_ros
+Platform: any
