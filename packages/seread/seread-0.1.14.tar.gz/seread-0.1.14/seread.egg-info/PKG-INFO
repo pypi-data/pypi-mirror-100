@@ -1,0 +1,146 @@
+Metadata-Version: 2.1
+Name: seread
+Version: 0.1.14
+Summary: Script to read serial port and store to file/influxdb
+Home-page: http://gitlab.com/jaromrax/seread
+Author: jaromrax
+Author-email: jaromrax@gmail.com
+License: GPL2
+Description: * Project seread
+         *IN CONSTRUCTION NOW - WAIT FOR THE 1ST VERSION*
+        
+         /the first goal is to read serial ports and save the data to file and influxdb/
+        
+         This code managed to read (in the past):
+          - ORTEC COUNTER (raw numbes)
+          - arduino analog pins A0-An (json going out from arduino)
+          - arduino DHT sensor (with json output coded)
+          - arduino I2C pressure sensor
+          - arduino NTC temperature sensors (preprogrammed)
+        
+        ** Installation
+        
+          The project still develops, changes can be made anytime. The actual
+         dependencies can be installed by running ~./pipall.py~.
+        
+          The code should be run by ~seread~
+        
+        ** Basic usage
+        
+        
+        ** Input/Output files
+        
+         *INPUT*
+         - ~/.seread.calib
+         - ~/.myservice_discover8086
+         - ~/.myservice_permanent8086
+         - ~/.influx_userpassdb
+         - ~/.sng2_udp
+         - script
+        *OUTPUT*
+         - ~/serial_NG2_udp
+         - ~/serial_NG2_jso
+        
+        ** Options
+        
+          - ~-i~ ~-influxyes [true|false]~ : send to influx on ~-i~
+        
+        
+        ** APPENDIX
+        
+        ***  Adding dialout group to be able to work with USB
+        ~sudo usermod -a -G dialout $USER~ then either
+        reboot of logout/login or try `newgrp dialout` in terminal.
+        
+        
+        *** Calibration after readout
+        It is possible to make a calibration after reading the serial values
+        in json.  Check the file ~~/.seread.calib~
+        
+        Example:
+        #+BEGIN_SRC
+        {
+        "valuea0":{"a":0.21699,"b":-61.111},
+        "valuea1":{"a":0.1861328,"b":-40.2}
+        }
+        #+END_SRC
+        
+        Pay attention to commas and double quotes. =valuea0= is the same name
+        of the analog value exctracted from the arduino, =a= =b= are linear
+        coefficients.
+        
+        *** Arduino-mode
+        
+        
+        **** Arduino programming remarks
+          Different types need different settings in the original IDE.
+        
+          - Chineese NANO
+              - Tools/ArduinoNano/ATmega328P(old)/ttyUSB0
+        
+          - UNO with shield
+              - Tools/ArduinoUNO/__/ACM0 with programmer AVRISM mkII
+        
+        **** Straight installer in emacs is fast
+         - go to (https://github.com/raxod502/straight.el and prepend
+         the code to the ~~/.emacs~ to use ~straight-use-package~
+         - say M-x ~straight-use-package~ ~arduino-mode~
+         - install ~auto-minor-mode~
+         - install somehow ~arduino-cli~ from https://github.com/arduino/arduino-cli) and  [package](https://arduino.github.io/arduino-cli/installation/
+        
+        **** emacs setting
+        
+         - copy ~arduino-cli.el~ file from
+         https://github.com/motform/arduino-cli-mode to ~~/.emacs.d/lisp/~ and
+        add ~(add-to-list 'load-path "~/.emacs.d/lisp/")~
+        and ~(load "arduino-cli.el")~ to ~~/.emacs~.
+        
+        BUT as now, I cannot compile, as ~--fqbn~ is needed and
+         not given automatically.
+         - IN EMACS say M-x ~arduino-cli-mode~
+        
+        
+        The ~~/.emacs~ contents:
+        
+        #+BEGIN_SRC lisp
+        (defvar bootstrap-version)
+        (let ((bootstrap-file
+               (expand-file-name "straight/repos/straight.el/bootstrap.el" user-emacs-directory))
+              (bootstrap-version 5))
+          (unless (file-exists-p bootstrap-file)
+            (with-current-buffer
+                (url-retrieve-synchronously
+                 "https://raw.githubusercontent.com/raxod502/straight.el/develop/install.el"
+                 'silent 'inhibit-cookies)
+              (goto-char (point-max))
+              (eval-print-last-sexp)))
+          (load bootstrap-file nil 'nomessage))
+        ;;
+        ;;
+        (straight-use-package 'arduino-mode)
+        (add-to-list 'auto-minor-mode-alist '("\\.ino\\'" . arduino-cli-mode))
+        ;;
+        (add-to-list 'load-path "~/.emacs.d/lisp/")
+        (load "arduino-cli.el")
+        
+        #+END_SRC
+        
+        
+        
+        
+        **** Arduino-cli commandline
+         - ~arduino-cli config init~
+         - ~arduino-cli core update-index~
+         - ~arduino-cli board list~
+         - ~arduino-cli core install arduino:samd~
+         - ~arduino-cli core install arduino:avr~
+         - ~arduino-cli core list~
+         - ~arduino-cli core listall~
+         - ~arduino-cli core --fqbn arduino:avr:diecimila  test.ino~
+        
+         - ~arduino-cli compile 20200411-logoled-ser1sd0.ino --fqbn arduino:avr:nano~
+         and ~arduino-cli upload --fqbn arduino:avr:nano -i 20200411-logoled-ser1sd0.ino.arduino.avr.nano.hex -p /dev/ttyUSB0~
+        should work
+        
+Platform: UNKNOWN
+Description-Content-Type: text/plain
