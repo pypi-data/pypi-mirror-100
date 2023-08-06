@@ -1,0 +1,16 @@
+help.txt,sha256=-2M0FAUtlfTfhs_2fPW1mGA8fE4Vvyd_H40DHQ8tfyQ,1141
+helps.py,sha256=mjx88u4gMQu_1AD6olSBnii_rE5DP7AVl7_md-UH4Pg,1153
+mesconduit.py,sha256=Tkd9NQJxD7Qv3zutOAJDaCaiBgIESP7ATQNf5sKgsU4,6418
+supports.py,sha256=DmtV94FUS_I8CJub8ZE8jE7Z3ODe__cPXAONkOyzBmE,3383
+conduit/help.txt,sha256=-2M0FAUtlfTfhs_2fPW1mGA8fE4Vvyd_H40DHQ8tfyQ,1141
+conduit/mesconduit.py,sha256=8hKYt-pp0SULoonmxhSHGiS6YRlt2QNRb2wC93unlso,5317
+mesconduit.egg-info/PKG-INFO,sha256=9rrQ2RvjbnaeUzYJv2pN2dmsB1NyUzn6cQ5rXCyBfms,3810
+mesconduit.egg-info/SOURCES.txt,sha256=TaqlFa8p0eLHx8CgTSZScUOLRL05SHdSga7ddhQPx1c,279
+mesconduit.egg-info/dependency_links.txt,sha256=AbpHGcgLb-kRsJGnwFEktk7uzpZOCcBY74-YBdrKVGs,1
+mesconduit.egg-info/requires.txt,sha256=HHcT4vVjrvPSbEXydDwcRLJOA-s6eGEYgoGLHSLNd0I,25
+mesconduit.egg-info/top_level.txt,sha256=xuXbs5NTdC9W54N173W91FPS-ODDvnThIyecUIgbUWc,12
+mesconduit-1.1.2.dist-info/LICENSE,sha256=Qv2ilebwoUtMJnRsZwRy729xS5JZQzLauJ0tQzkAkTA,1088
+mesconduit-1.1.2.dist-info/METADATA,sha256=1MT5zTpgs3GtJESG0zG2WKh4IYvN8XTi7dGM2xurf3g,2950
+mesconduit-1.1.2.dist-info/WHEEL,sha256=OqRkF0eY5GHssMorFjlbTIq072vpHpF60fIQA6lS9xA,92
+mesconduit-1.1.2.dist-info/top_level.txt,sha256=xuXbs5NTdC9W54N173W91FPS-ODDvnThIyecUIgbUWc,12
+mesconduit-1.1.2.dist-info/RECORD,,
