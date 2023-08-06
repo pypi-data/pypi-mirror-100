@@ -1,0 +1,12 @@
+hassapi/__init__.py,sha256=vIIZE25aAo-es-PoxxaSght7y5CyvVkmkxCaNcXZebA,85
+hassapi/__main__.py,sha256=QwYIEaphl7-L8r4fGZq7wmadsNuAjClEFpR4m90UXWE,27
+hassapi/exceptions.py,sha256=jw6Qk4EYZaqpddT0pcLa9nApJO2zQrJsfb7IaZHFVEQ,1403
+hassapi/client/__init__.py,sha256=BY-uubhsvp_TsijA9ScBgtIJc7aHCzjb0A-DRNqaLDs,145
+hassapi/client/auth.py,sha256=f7nGxVrwC4vYFO6YA-uGtZCWNiO9bBjee4I7Wlcl7qk,880
+hassapi/client/base.py,sha256=3c-rxorXWNHZtSEb5uuj2cE_UaXp-1E-TpHcBzt6Nlg,2679
+hassapi/client/services.py,sha256=R_s4Ct6F-e7KJ_ZZguAqlQvs9sLtIyWgbOH7kjcZe5Y,2751
+hassapi-0.0.1.dist-info/LICENSE,sha256=eIQXzCmKuzD-PcdI1Iu7Qt8cZu8CvvlUB4sce1Z2Or0,1065
+hassapi-0.0.1.dist-info/METADATA,sha256=YsGVDXS8kf60xCEB52DizNSFTvwUwvRbVIJOgEYPpEU,1135
+hassapi-0.0.1.dist-info/WHEEL,sha256=OqRkF0eY5GHssMorFjlbTIq072vpHpF60fIQA6lS9xA,92
+hassapi-0.0.1.dist-info/top_level.txt,sha256=m6Xsa8_RYZixOR5oyLBdJEVcQg0_M-_skyRn5KQ64BU,8
+hassapi-0.0.1.dist-info/RECORD,,
