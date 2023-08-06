@@ -1,0 +1,5 @@
+
+        [console_scripts]
+        compass=compass.frontend:command_line
+        compass-builder=compass.frontend:compass_builder
+        
