@@ -1,0 +1,15 @@
+pdappend/__init__.py,sha256=De7PJYUawP-frgDHp8qZB0Jtkcj2zXB-hbEkR-eEckM,62
+pdappend/cli.py,sha256=lSQqIkJppfnJ8j62lIgPLCgbZtlrl2yE9cYj9IRBcuc,7814
+pdappend/dtypes.py,sha256=c_R-BtcfZn3b8YbH_DfMyPyieSRx1jbr_A1gCdTQFF8,964
+pdappend/gui.py,sha256=PC-oom66HMSkll6LrNSuDHk_wUHJUPNK7wsXgs8J6y8,429
+pdappend/pdappend.py,sha256=BkeXrwT4Xi-IiSDPq4zS3s9Ynb4W7_wfO6TT4IIZxuo,2891
+pdappend/utils.py,sha256=kgMHUQ3b1YtNc5wljjZEY_SXvz5w4L2OyHhr1Ghb1b8,118
+tests/__init__.py,sha256=F_bjgR8aPyBaocoh3Q5cni6e4iUUcPObOpWzHBjTZG4,350
+tests/test_commands.py,sha256=NI_U1DirEUktm6dxJeFS0qPybX945Hy_UZaAkNCraTk,2273
+tests/test_package.py,sha256=LAX56TCpkEXOqeK49OWd0ID1-kkokL3_w8geYpU4Gi4,152
+pdappend-0.0.15.dist-info/LICENSE,sha256=250tAYNB8SjNXSlU4mqexEepfJSiNGorz9fJDUqpj90,1093
+pdappend-0.0.15.dist-info/METADATA,sha256=FvTCkAjiWZ2IwhhngWVElbKgN69EaeXmKIu38Bx_DiQ,2729
+pdappend-0.0.15.dist-info/WHEEL,sha256=YUYzQ6UQdoqxXjimOitTqynltBCkwY6qlTfTh2IzqQU,97
+pdappend-0.0.15.dist-info/entry_points.txt,sha256=LDLr1rT3-x2M1293CBqBvHFRifoz1_Q8uSIjl8vZDNs,81
+pdappend-0.0.15.dist-info/top_level.txt,sha256=7vweb-wVwK_vuluzTaFqPIA7gaQctZPRV6UOLOZz_dE,15
+pdappend-0.0.15.dist-info/RECORD,,
