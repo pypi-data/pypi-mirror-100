@@ -1,0 +1,18 @@
+Metadata-Version: 2.1
+Name: nonebot-plugin-nodice
+Version: 2.0.0a1
+Summary: Dicebot Pulgin for Nonebot
+License: AGPL-3.0
+Author: Jigsaw
+Author-email: j1g5aw@foxmail.com
+Requires-Python: >=3.7.3,<4.0.0
+Classifier: License :: OSI Approved :: GNU Affero General Public License v3
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Provides-Extra: nb1
+Provides-Extra: nb2
+Requires-Dist: hjson (>=3.0.2,<4.0.0)
+Requires-Dist: nonebot (>=1.8.2,<2.0.0); extra == "nb1"
+Requires-Dist: nonebot-adapter-cqhttp (>=2.0.0a11.post2,<3.0.0)
+Requires-Dist: nonebot2 (>=2.0.0-alpha.11,<3.0.0); extra == "nb2"
