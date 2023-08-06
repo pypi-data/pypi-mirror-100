@@ -1,0 +1,30 @@
+Metadata-Version: 2.1
+Name: yt-searcher-for-py
+Version: 0.0.2
+Summary: Searches youtube for videos and returns the link of the first result
+Home-page: UNKNOWN
+Author: MST_Creator_Dev
+Author-email: tssab.creator@gmail.com
+License: UNKNOWN
+Keywords: python,youtube,searcher,video
+Platform: UNKNOWN
+Classifier: Development Status :: 1 - Planning
+Classifier: Intended Audience :: Developers
+Classifier: Programming Language :: Python :: 3
+Classifier: Operating System :: Unix
+Classifier: Operating System :: MacOS :: MacOS X
+Classifier: Operating System :: Microsoft :: Windows
+Description-Content-Type: text/markdown
+
+
+DEPENDENCIES: urllib and re (both are default and come with python)
+
+USE:
+
+```
+from YT_Searcher import yt_searcher as yt
+
+print(yt.watch('python'))
+```
+
+
