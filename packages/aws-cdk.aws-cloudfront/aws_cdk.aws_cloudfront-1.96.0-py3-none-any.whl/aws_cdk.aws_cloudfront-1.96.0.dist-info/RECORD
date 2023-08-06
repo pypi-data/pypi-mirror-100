@@ -1,0 +1,11 @@
+aws_cdk/aws_cloudfront/__init__.py,sha256=Etw5vdygfq274nfNk-IrSb0suvC70fk2CjNDlTJzSkw,473886
+aws_cdk/aws_cloudfront/py.typed,sha256=AbpHGcgLb-kRsJGnwFEktk7uzpZOCcBY74-YBdrKVGs,1
+aws_cdk/aws_cloudfront/_jsii/__init__.py,sha256=FSgklVYYGzP8yyH_3vdF670eihuMNRjHJH5Ob5Z6Wg0,646
+aws_cdk/aws_cloudfront/_jsii/aws-cloudfront@1.96.0.jsii.tgz,sha256=II7jsiqIAHsUkzbZTw99FQTXOGKHFEAI7Sz-Dcxcnak,218023
+aws_cdk/aws_cloudfront/experimental/__init__.py,sha256=RnT3yqRZ9jAB58-KJZXf7C-tCSb5m-0kgMR9ymVVdd4,79317
+aws_cdk.aws_cloudfront-1.96.0.dist-info/LICENSE,sha256=PPdRlpoLCV1CRrCV1eKpp3m0lNjchFAP4a9zfc8tRLo,11391
+aws_cdk.aws_cloudfront-1.96.0.dist-info/METADATA,sha256=6Hzlxx1c7u3PC0Lsrk6yhhVv12Nvlar5MVeL4mDzbG0,29660
+aws_cdk.aws_cloudfront-1.96.0.dist-info/NOTICE,sha256=xo56krus2e5ShfXqz_B7vuvGcMn_D0F7TjjpfTz8YMw,113
+aws_cdk.aws_cloudfront-1.96.0.dist-info/WHEEL,sha256=OqRkF0eY5GHssMorFjlbTIq072vpHpF60fIQA6lS9xA,92
+aws_cdk.aws_cloudfront-1.96.0.dist-info/top_level.txt,sha256=1TALAKbuUGsMSrfKWEf268lySCmcqSEO6cDYe_XlLHM,8
+aws_cdk.aws_cloudfront-1.96.0.dist-info/RECORD,,
