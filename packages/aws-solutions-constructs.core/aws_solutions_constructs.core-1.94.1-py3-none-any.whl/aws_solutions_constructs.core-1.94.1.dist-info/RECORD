@@ -1,0 +1,9 @@
+aws_solutions_constructs/core/__init__.py,sha256=zul0VC0P1rClLLYupomxYigREYbBP453cq0h9IWJGdw,66703
+aws_solutions_constructs/core/py.typed,sha256=AbpHGcgLb-kRsJGnwFEktk7uzpZOCcBY74-YBdrKVGs,1
+aws_solutions_constructs/core/_jsii/__init__.py,sha256=cGxApQU17TnO17Z9VzJQ6TOcTVPj_Oyu3z6rYd9Bl_U,1327
+aws_solutions_constructs/core/_jsii/core@1.94.1.jsii.tgz,sha256=llrCeWYTywrdyFYW5oMb4gdPTTXRqQ4xcoxTJJNSa1Y,577905
+aws_solutions_constructs.core-1.94.1.dist-info/LICENSE,sha256=wnT4A3LZDAEpNzcPDh8VCH0i4wjvmLJ86l3A0tCINmw,10279
+aws_solutions_constructs.core-1.94.1.dist-info/METADATA,sha256=Tdea6IY_7rUPf6uIQeZqr-8wp2qbwh30RlksD6AtGos,5772
+aws_solutions_constructs.core-1.94.1.dist-info/WHEEL,sha256=OqRkF0eY5GHssMorFjlbTIq072vpHpF60fIQA6lS9xA,92
+aws_solutions_constructs.core-1.94.1.dist-info/top_level.txt,sha256=hi3us_KW7V1ocfOqVsNq1o3w552jCEgu_KsCckqYWsg,25
+aws_solutions_constructs.core-1.94.1.dist-info/RECORD,,
