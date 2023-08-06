@@ -1,0 +1,15 @@
+content_filter/__init__.py,sha256=Oaajt95O9L-wrXYpyP-H8e4K6G7zk1BWNvOoO9WS4Xg,621
+content_filter/check.py,sha256=fMrV0SuGgszy1j3jy3Y4m6QXjw0UdhbjmEn_8oMMJ2U,12569
+content_filter/filter.py,sha256=9yYQ3qffYZZqSYoAWjQeu4KdnGsbZD3vtH7pO_eiCTc,6907
+content_filter/string.py,sha256=LYOM1W0b-YyBFRcP8AUExm3muYNQbWCgQ_VAy-aij9I,1646
+content_filter/data/filter.json,sha256=-N98F3bRmKr25qaDXZHay73tDPbSzpVhT1HeUFZuCJU,11421
+content_filter/data/replacements.json,sha256=h7qnlWvEd1DlEXx5USHMopCWcJ8r5NKLTQ0MAZzVQjo,41348
+tests/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+tests/custom_file_test.py,sha256=OdBPMN3D-m5RtkNm7DFnqf1qip0i_c0KbgZiNqocI68,1641
+tests/custom_filter_test.py,sha256=9PZW7Fb8Kl2kU0aKgwCkTzldyChds6SkMBkv6VWs4f4,1648
+tests/filter_test.py,sha256=pFSYDlpbiBXJ6-SCvsHD2nHVCyQKMRaybV2uU9sJaAg,21197
+content_filter-2.1.0.dist-info/LICENSE,sha256=A81SXHiiqo2C4xZFSXrRWKC58WPCjc7u4jE_yIai8nw,1065
+content_filter-2.1.0.dist-info/METADATA,sha256=Pzz6bZxPXpWJ_y0YM8mYJDWNu_0IGVO4YaveEFS8KsE,2675
+content_filter-2.1.0.dist-info/WHEEL,sha256=g4nMs7d-Xl9-xC9XovUrsDHGXt-FT0E17Yqo92DEfvY,92
+content_filter-2.1.0.dist-info/top_level.txt,sha256=ErZ6aZTskur0UG6jajAGafyF6AVNxnO1YOpd6VOn-zk,21
+content_filter-2.1.0.dist-info/RECORD,,
