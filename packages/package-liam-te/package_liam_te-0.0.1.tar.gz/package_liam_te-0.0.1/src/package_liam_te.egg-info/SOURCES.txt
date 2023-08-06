@@ -1,0 +1,10 @@
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+src/package_liam_te/__init__.py
+src/package_liam_te/main.py
+src/package_liam_te.egg-info/PKG-INFO
+src/package_liam_te.egg-info/SOURCES.txt
+src/package_liam_te.egg-info/dependency_links.txt
+src/package_liam_te.egg-info/top_level.txt
