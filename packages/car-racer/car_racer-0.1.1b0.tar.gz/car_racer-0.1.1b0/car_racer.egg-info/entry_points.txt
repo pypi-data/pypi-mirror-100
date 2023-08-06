@@ -1,0 +1,3 @@
+[console_scripts]
+cr_race = car_racer.__init__:race
+
