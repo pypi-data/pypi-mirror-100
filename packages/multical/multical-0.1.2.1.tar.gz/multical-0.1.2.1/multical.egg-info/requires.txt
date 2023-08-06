@@ -1,0 +1,16 @@
+numpy
+scipy
+matplotlib
+opencv-python>=4.2.0.0
+opencv-contrib-python
+natsort
+cached-property
+py-structs>=0.2.1
+apriltags2-ethz
+palettable
+
+[interactive]
+matplotlib
+qtpy
+pyvista-qt
+pyvista
