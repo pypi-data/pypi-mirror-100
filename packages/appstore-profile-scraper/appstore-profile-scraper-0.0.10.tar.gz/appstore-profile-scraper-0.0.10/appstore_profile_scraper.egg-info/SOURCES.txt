@@ -1,0 +1,11 @@
+README.md
+setup.py
+appstore_profile_scraper/__init__.py
+appstore_profile_scraper/__version__.py
+appstore_profile_scraper/app_store_base.py
+appstore_profile_scraper/app_store_profile.py
+appstore_profile_scraper.egg-info/PKG-INFO
+appstore_profile_scraper.egg-info/SOURCES.txt
+appstore_profile_scraper.egg-info/dependency_links.txt
+appstore_profile_scraper.egg-info/requires.txt
+appstore_profile_scraper.egg-info/top_level.txt
