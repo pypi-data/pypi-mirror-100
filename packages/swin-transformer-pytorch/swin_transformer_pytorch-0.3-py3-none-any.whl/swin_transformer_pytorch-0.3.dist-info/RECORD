@@ -1,0 +1,11 @@
+model/__init__.py,sha256=70Lr2nYtDMcxlA7t5k-1-SOaQtspsZwiU1qftge32gE,82
+model/swin_transformer.py,sha256=fBFsvY6XQAiPDXaWemfwGZ-LHvmQyR3TJLjYr-3PaCU,9016
+swin_transformer/__init__.py,sha256=70Lr2nYtDMcxlA7t5k-1-SOaQtspsZwiU1qftge32gE,82
+swin_transformer/swin_transformer.py,sha256=fBFsvY6XQAiPDXaWemfwGZ-LHvmQyR3TJLjYr-3PaCU,9016
+swin_transformer_pytorch/__init__.py,sha256=o_SPhfpBXIucxbbX6GeUPfnQkccA3tY1d3Tvg0IQJt4,101
+swin_transformer_pytorch/swin_transformer.py,sha256=_0Z_LuEP8MxyTg6sARAGwj73acLqrNCg5AnWmXFAfuc,10271
+swin_transformer_pytorch-0.3.dist-info/LICENSE,sha256=ZmWUIVyV_ROb9I6oNaB0uquNLBGaIJVWogGLK1qPceQ,1071
+swin_transformer_pytorch-0.3.dist-info/METADATA,sha256=W3esHmDNlgfY-6CDskPYz8Hp4S9M5K2ySmt6gVoW6qA,5237
+swin_transformer_pytorch-0.3.dist-info/WHEEL,sha256=OqRkF0eY5GHssMorFjlbTIq072vpHpF60fIQA6lS9xA,92
+swin_transformer_pytorch-0.3.dist-info/top_level.txt,sha256=EUMZzuBhZc0eWYLBR4na27aPwr4AmYyXrXHB70zKWa4,25
+swin_transformer_pytorch-0.3.dist-info/RECORD,,
