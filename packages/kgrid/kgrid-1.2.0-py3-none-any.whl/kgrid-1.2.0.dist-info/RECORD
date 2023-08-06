@@ -1,0 +1,8 @@
+kgrid/__init__.py,sha256=8YAhzOGn8Yumf3kys-s1-GhXna0utD9omJzsBNxxJtA,4325
+kgrid/cli.py,sha256=YUvfNCHD6wQdrMdOjp9aZWJwbgYh0JXYWn2FWsT6JSo,3963
+kgrid/series.py,sha256=74kHlFRD1atVX0y_C8gNxS9lvk4NMwywWIytfE2xNlw,5183
+kgrid-1.2.0.dist-info/METADATA,sha256=nCKX_TYbJyrPMnBaCF8rteDrpKmwSXz9v24VIfmURE0,1063
+kgrid-1.2.0.dist-info/WHEEL,sha256=OqRkF0eY5GHssMorFjlbTIq072vpHpF60fIQA6lS9xA,92
+kgrid-1.2.0.dist-info/entry_points.txt,sha256=Z7LSfOsycr-VyBn7t4NGfLZgyjwAPDZCWX2v1e_iKis,75
+kgrid-1.2.0.dist-info/top_level.txt,sha256=JLk_rxeIKcjKfmzOCOGQIdSOcNUsUA8GDG6_ncU9t60,6
+kgrid-1.2.0.dist-info/RECORD,,
