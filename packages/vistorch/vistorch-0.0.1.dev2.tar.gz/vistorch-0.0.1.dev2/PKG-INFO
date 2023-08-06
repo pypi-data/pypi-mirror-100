@@ -1,0 +1,11 @@
+Metadata-Version: 1.0
+Name: vistorch
+Version: 0.0.1.dev2
+Summary: use visdom on pytorch
+Home-page: https://github.com/xiwei777/vistorch
+Author: xi wei
+Author-email: xiwei.cv@gmail.com
+License: BSD
+Description: UNKNOWN
+Keywords: visdom torch
+Platform: UNKNOWN

@@ -1,0 +1,8 @@
+README.md
+setup.py
+vistorch/__init__.py
+vistorch/vistorch_class.py
+vistorch.egg-info/PKG-INFO
+vistorch.egg-info/SOURCES.txt
+vistorch.egg-info/dependency_links.txt
+vistorch.egg-info/top_level.txt
