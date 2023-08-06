@@ -1,0 +1,33 @@
+dist: trusty
+
+language: python
+
+python:
+    - '2.7'
+    - '3.6'
+
+addons:
+  apt:
+    # packages:
+      # - enchant
+      # - pandoc
+
+before_install:
+  - pip install pytest pytest-cov pylint
+
+install:
+  - pip install .
+
+# script:
+#   - pylint rfpython
+#   - pylint test/*.py
+#   - pylint tools/rfpython
+#   - pylint tools/rfpython-dedup-doi
+#   - pylint tools/bibitems2bibtex
+#   - pylint tools/doi2bibtex
+#   # cd into test directory to make sure we're using the pip-installed
+#   # rfpython.
+#   - cd test && pytest --cov rfpython
+
+after_success:
+  - bash <(curl -s https://codecov.io/bash)

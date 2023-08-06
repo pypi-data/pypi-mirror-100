@@ -1,0 +1,9 @@
+{
+    "python.pythonPath": "/home/caio/Projects/Misc_Repositories/run-py-function/venv/bin/python3",
+    "python.testing.pytestArgs": [
+        "test"
+    ],
+    "python.testing.unittestEnabled": false,
+    "python.testing.nosetestsEnabled": false,
+    "python.testing.pytestEnabled": true
+}

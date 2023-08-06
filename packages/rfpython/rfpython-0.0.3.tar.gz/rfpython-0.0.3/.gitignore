@@ -1,0 +1,10 @@
+*.bib
+*.pyc
+README.rst
+build/
+dist/
+example/
+rfpython.egg-info/
+.cache/
+.pytest_cache/
+venv/

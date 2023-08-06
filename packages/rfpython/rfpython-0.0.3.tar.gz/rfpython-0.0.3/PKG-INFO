@@ -1,0 +1,76 @@
+Metadata-Version: 2.1
+Name: rfpython
+Version: 0.0.3
+Summary: Run python function utility
+Home-page: https://github.com/caiofcm/rfpython
+Author: Caio Curitiba Marcellos
+Author-email: caiocuritiba@gmail.com
+License: License :: OSI Approved :: MIT License
+Description: # rfpython: run python function
+        
+        A simple tool to run (or debug) a python function inside a python script from the command line.
+        
+        ![](rf_python_usage.gif)
+        
+        ### Usage
+        
+        ``` 
+        rfpython python-file function-name
+        ``` 
+        
+        ### Using VSCode Debugger:
+        
+        ``` 
+        rfpython python-file function-name --debugger
+        ``` 
+        
+        With a remote attach configuration:
+        
+        
+        ```
+            {
+                "name": "Python: Remote Attach",
+                "type": "python",
+                "request": "attach",
+                "port": 5678,
+                "host": "localhost",
+                "pathMappings": [
+                    {
+                        "localRoot": "${workspaceFolder}",
+                        "remoteRoot": "."
+                    }
+                ]
+            }
+        ```
+        
+        ### Installation
+        
+        rfpython is [available from the Python Package
+        Index](https://pypi.org/project/rfpython/), so simply do
+        ```
+        pip install rfpython
+        ```
+        to install.
+        
+        ### Testing
+        
+        To run the rfpython unit tests, check out this repository and type
+        ```
+        pytest
+        ```
+        
+        ### License
+        
+        rfpython is published under the [MIT license](https://en.wikipedia.org/wiki/MIT_License).
+        
+Platform: any
+Classifier: Development Status :: 5 - Production/Stable
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Intended Audience :: Science/Research
+Classifier: Operating System :: OS Independent
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 3
+Classifier: Topic :: Scientific/Engineering
+Classifier: Topic :: Utilities
+Requires-Python: >=3
+Description-Content-Type: text/markdown
