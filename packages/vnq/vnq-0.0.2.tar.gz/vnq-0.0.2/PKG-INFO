@@ -1,0 +1,16 @@
+Metadata-Version: 1.1
+Name: vnq
+Version: 0.0.2
+Summary: VNQ
+Home-page: UNKNOWN
+Author: Xavier Luman
+Author-email: <xavierlu@email.com>
+License: UNKNOWN
+Description: UNKNOWN
+Keywords: python,VNQ,vnq
+Platform: UNKNOWN
+Classifier: Development Status :: 3 - Alpha
+Classifier: Intended Audience :: Education
+Classifier: Programming Language :: Python :: 2
+Classifier: Programming Language :: Python :: 3
+Classifier: Operating System :: OS Independent
