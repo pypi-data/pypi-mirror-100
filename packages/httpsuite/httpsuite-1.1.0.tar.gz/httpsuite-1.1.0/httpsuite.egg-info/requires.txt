@@ -1,0 +1,17 @@
+toolbox
+
+[:(python_version < '3.7')]
+dataclasses
+
+[dev]
+pytest
+pytest-cov
+coveralls
+sphinx
+sphinx-copybutton
+sphinx-autobuild
+m2r2
+furo
+
+[validator]
+httpsuite-validator
