@@ -1,0 +1,19 @@
+Metadata-Version: 1.2
+Name: kybonet
+Version: 0.0.3
+Summary: Software KVM switch over the network with encryption (keyboard and mouse only, no video).
+Home-page: https://github.com/akukulanski/kybonet
+Author: Ariel Kukulanski
+Author-email: akukulanski@gmail.com
+License: BSD
+Project-URL: Source Code, https://github.com/akukulanski/kybonet
+Project-URL: Bug Tracker, https://github.com/akukulanski/kybonet/issues
+Description: UNKNOWN
+Keywords: keyboard,mouse,kvm,switch,encrypt
+Platform: UNKNOWN
+Classifier: Development Status :: 4 - Beta
+Classifier: Intended Audience :: End Users/Desktop
+Classifier: License :: OSI Approved :: BSD License
+Classifier: Operating System :: POSIX :: Linux
+Classifier: Topic :: Utilities
+Requires-Python: ~=3.6
