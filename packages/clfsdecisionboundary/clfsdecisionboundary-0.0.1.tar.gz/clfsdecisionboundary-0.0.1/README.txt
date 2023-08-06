@@ -1,0 +1,1 @@
+This library plots the decision boundary between different classes while solving problems on classification. However, as of now it only works with 2 features and not more than that.
