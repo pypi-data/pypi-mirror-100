@@ -1,0 +1,9 @@
+README.md
+setup.py
+src/enrRiceTrait/Enrichment.py
+src/enrRiceTrait/PTE_config.py
+src/enrRiceTrait/__init__.py
+src/enrRiceTrait.egg-info/PKG-INFO
+src/enrRiceTrait.egg-info/SOURCES.txt
+src/enrRiceTrait.egg-info/dependency_links.txt
+src/enrRiceTrait.egg-info/top_level.txt
