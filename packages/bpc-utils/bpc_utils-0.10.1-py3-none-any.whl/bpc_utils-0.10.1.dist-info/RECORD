@@ -1,0 +1,15 @@
+bpc_utils/__init__.py,sha256=zn5AKh67VkJpPObv8SP5HcTJDoD36Hq3TMYaYGFwISs,857
+bpc_utils/argparse.py,sha256=q-D5p0lx7FxxiElTr_1XBWw-3lOwRY6zR-xC2kK3pXc,4820
+bpc_utils/context.py,sha256=EEq2g8TDyGRq2CujatCDriSOlpf1XeTzvQfeV3hUHpI,10979
+bpc_utils/fileprocessing.py,sha256=osmANsIicHZQz8WfoS8WQCO5uy7XSwtFmFFDtxdMRa8,8036
+bpc_utils/logging.py,sha256=YZHCLGXXL4it_XZiLY-TfXx6RImyPPgkXrIVMSmuFQg,3142
+bpc_utils/misc.py,sha256=e78V3BXsxIRmNEvn7abQkfMy1-Xn0ln5wttg7Cswd1A,21213
+bpc_utils/multiprocessing.py,sha256=Dp8k9N_gy4Sk0SQXxLY07_OC5qKYllcRILbPKyhCgJk,3656
+bpc_utils/parsing.py,sha256=ulaDGDWHR1kXcSYPOH6nQz4xop_Ox0nm7DwTzQ84xtw,6918
+bpc_utils/py.typed,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+bpc_utils/typing.py,sha256=Octyw9tKzMCzNvw41VURCHGpLMnyuOReVKSaEgpmG4A,1154
+bpc_utils-0.10.1.dist-info/LICENSE,sha256=sqrpMGRIO7jpVI4XXfhRtJfg4_J2YgVqXAxl96qIO0I,1068
+bpc_utils-0.10.1.dist-info/METADATA,sha256=dI3D6LAjbrE3CLoDcMEEulTuqJX2AiTZXzyaFBR_B1s,2830
+bpc_utils-0.10.1.dist-info/WHEEL,sha256=OqRkF0eY5GHssMorFjlbTIq072vpHpF60fIQA6lS9xA,92
+bpc_utils-0.10.1.dist-info/top_level.txt,sha256=T82b1CZAVZXyLybeHjBpmkQAJH2G3gP-35b3yPk35ms,10
+bpc_utils-0.10.1.dist-info/RECORD,,
