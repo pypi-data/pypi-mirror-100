@@ -1,0 +1,32 @@
+Metadata-Version: 2.1
+Name: MinecraftWS
+Version: 1.1.0
+Summary: Minecraft Bedrock Websocket
+Home-page: https://github.com/Beta5051/MinecraftWS
+Author: beta5051
+Author-email: beta5051@gmail.com
+License: MIT
+Description: # MinecraftWS
+        ![PyPI](https://img.shields.io/pypi/v/MinecraftWS)
+        
+        Minecraft Bedrock Websocket
+        
+        ## Install
+        ```shell
+        pip install MinecraftWS
+        ```
+        
+        ## Example
+        ```python
+        from MinecraftWS import MinecraftWS, Event
+        
+        class WS(MinecraftWS):
+            async def on_connect(self):
+                self.add_event(Event.BlockPlaced)
+        
+            async def on_event(self, event: str, properties: dict):
+                if event == Event.BlockPlaced:
+                    print(properties)
+        ```
+Platform: UNKNOWN
+Description-Content-Type: text/markdown
