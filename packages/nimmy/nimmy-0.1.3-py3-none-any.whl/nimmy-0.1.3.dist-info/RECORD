@@ -1,0 +1,9 @@
+nimmy/__init__.py,sha256=q21EWJmmU-4gv3shLR8CQ_7Hco5vMJCYdQ581WJJKr4,392
+nimmy/__main__.py,sha256=O1rklTG-W_iCWb1tHZCUCR9VqLe5AJN7F9yzoOE5hxg,60
+nimmy/display.py,sha256=L4Mb-djb5sg-YCZZbVPAtoj6CW6zOSZy_KgYylRCKMM,9409
+nimmy/game.py,sha256=ypRC7vxZYXk-9FIXSzHnlxJEATLMUteqKpVMGhqPuIo,5286
+nimmy-0.1.3.dist-info/METADATA,sha256=HzbAW7XeUWFWk3ZBnsqmCPICTcBm6ddRt_ee9RRGCUE,923
+nimmy-0.1.3.dist-info/WHEEL,sha256=OqRkF0eY5GHssMorFjlbTIq072vpHpF60fIQA6lS9xA,92
+nimmy-0.1.3.dist-info/entry_points.txt,sha256=mXhrivAmUcCgYrzocquxtg5V0_eOFI6pL6usCru8TQ8,38
+nimmy-0.1.3.dist-info/top_level.txt,sha256=KNHArCiuh0yNkIo7zr3Jw8w-0tzGRPI-meCum_OYlyI,6
+nimmy-0.1.3.dist-info/RECORD,,

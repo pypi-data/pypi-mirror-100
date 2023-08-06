@@ -1,0 +1,27 @@
+Metadata-Version: 2.1
+Name: nimmy
+Version: 0.1.3
+Summary: A Terminal UI to play a variation of nim against a bot
+Home-page: https://github.com/MasonLegere/Nimmy
+Author: Mason Legere
+Author-email: masonlegere@gmail.com
+License: LGPLv3
+Keywords: Nim,terminal,game,board
+Platform: UNKNOWN
+Classifier: Environment :: Console
+Classifier: Intended Audience :: End Users/Desktop
+Classifier: License :: OSI Approved :: GNU Lesser General Public License v3 or later (LGPLv3+)
+Classifier: Operating System :: POSIX
+Classifier: Programming Language :: Python :: 2
+Classifier: Programming Language :: Python :: 2.6
+Classifier: Programming Language :: Python :: 2.7
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.2
+Classifier: Programming Language :: Python :: 3.3
+Classifier: Topic :: Games/Entertainment :: Puzzle Games
+Classifier: Topic :: Terminals
+Requires-Dist: blessed
+
+UNKNOWN
+
+
