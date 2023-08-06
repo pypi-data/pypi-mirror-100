@@ -1,0 +1,14 @@
+Metadata-Version: 2.1
+Name: sentry-dingding-tag
+Version: 1.0.1
+Summary: A Sentry extension which send errors stats to DingDing
+Home-page: UNKNOWN
+Author: windole
+Author-email: windole321@gmail.com
+License: MIT
+Description: UNKNOWN
+Keywords: sentry dingding
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 2.7
+Classifier: License :: OSI Approved :: MIT License
+Description-Content-Type: text/markdown
