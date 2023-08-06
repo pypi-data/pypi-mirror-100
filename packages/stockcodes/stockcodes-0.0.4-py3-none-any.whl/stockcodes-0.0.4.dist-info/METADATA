@@ -1,0 +1,55 @@
+Metadata-Version: 2.1
+Name: stockcodes
+Version: 0.0.4
+Summary: get stock codes of open listed companies in China
+Home-page: UNKNOWN
+Author: jopil
+Author-email: jopil@163.com
+Maintainer: jopil
+Maintainer-email: jopil@163.com
+License: MIT
+Platform: UNKNOWN
+Classifier: Development Status :: 3 - Alpha
+Classifier: Intended Audience :: Developers
+Classifier: Topic :: Software Development :: Build Tools
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
+Requires-Dist: requests (>=2.25.0)
+Requires-Dist: pandas (>=1.2.0)
+Requires-Dist: xlrd (>=1.0.0)
+Requires-Dist: openpyxl (>=3.0.0)
+
+# stockcodes
+
+用于提取中国沪、深两市上市所有股票代码
+
+## installation 安装
+
+```bash
+pip install stockcodes
+```
+
+## Usage 使用
+
+```python
+import stockcodes as sc
+codes = sc.getCodeList()
+```
+
+## Returns 返回值
+
+|      | 代码   | 简称     | 所属板块 |
+| ---- | ------ | -------- | -------- |
+| 0    | 600000 | 浦发银行 | 沪市主板 |
+| ...  |        |          |          |
+| 4241 | 300999 | 金龙鱼   | 创业板   |
+
+所属板块包括：*沪市主板，深市主板，中小板，科创板，创业板*
+
+
+
+
+
