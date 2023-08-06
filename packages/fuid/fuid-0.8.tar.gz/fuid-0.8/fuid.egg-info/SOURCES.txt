@@ -1,0 +1,7 @@
+README.md
+fuid.py
+setup.py
+fuid.egg-info/PKG-INFO
+fuid.egg-info/SOURCES.txt
+fuid.egg-info/dependency_links.txt
+fuid.egg-info/top_level.txt
