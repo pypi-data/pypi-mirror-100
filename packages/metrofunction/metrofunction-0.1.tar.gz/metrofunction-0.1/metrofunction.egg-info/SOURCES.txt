@@ -1,0 +1,7 @@
+setup.py
+metrofunction.egg-info/PKG-INFO
+metrofunction.egg-info/SOURCES.txt
+metrofunction.egg-info/dependency_links.txt
+metrofunction.egg-info/not-zip-safe
+metrofunction.egg-info/requires.txt
+metrofunction.egg-info/top_level.txt
