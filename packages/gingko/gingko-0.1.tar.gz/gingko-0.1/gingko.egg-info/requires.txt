@@ -1,0 +1,5 @@
+dataclasses==0.7
+numpy==1.17.1
+pandas==0.25.1
+auto_mix_prep==0.2.0
+beautifulsoup4==4.9.3
