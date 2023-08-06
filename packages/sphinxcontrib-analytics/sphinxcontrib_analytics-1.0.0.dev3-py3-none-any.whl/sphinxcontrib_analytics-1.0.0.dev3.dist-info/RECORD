@@ -1,0 +1,11 @@
+sphinxcontrib/analytics/__init__.py,sha256=Ivd7duUS52THz5p4Wi--DuzUcpyG6TO3O5FZqe-NMDU,430
+sphinxcontrib/analytics/errors.py,sha256=khvpnbVCg6AEFVX1bqxUtCVsZtg8PvCjBscMrXtMJhM,217
+sphinxcontrib/analytics/events.py,sha256=QMUHvVg3PPxYZAamQeiOTr4lJ6MjTVtZKp1005msb8k,3698
+sphinxcontrib/analytics/utils.py,sha256=G3MduByRjf4u9RwuCVdwxMJXAX8tZkgbpb8Y6vg-7j4,338
+sphinxcontrib/analytics/_templates/google-analytics.html,sha256=008BQoFKvGQrlqfFK0D0PuQTDWaDuwv5leabIItIWCY,315
+sphinxcontrib/analytics/_templates/matomo-analytics.html,sha256=yy08H6I8JUFVKL5FBewqV1NpUCq7AbA35J0uC_Nc7PQ,564
+sphinxcontrib_analytics-1.0.0.dev3.dist-info/LICENSE,sha256=r1xZfRbtVO_f-u63Rdjey3eTlQlrlcTEfBFDneLXZdI,1519
+sphinxcontrib_analytics-1.0.0.dev3.dist-info/METADATA,sha256=PSEvT-oNpgqoIayWwe4nJl_G8Ic7stMC6QGGaSu-S8o,1207
+sphinxcontrib_analytics-1.0.0.dev3.dist-info/WHEEL,sha256=OqRkF0eY5GHssMorFjlbTIq072vpHpF60fIQA6lS9xA,92
+sphinxcontrib_analytics-1.0.0.dev3.dist-info/top_level.txt,sha256=VJrV3_vaiKQVgVpR0I1iecxoO0drzGu-M0j40PVP2QQ,14
+sphinxcontrib_analytics-1.0.0.dev3.dist-info/RECORD,,
