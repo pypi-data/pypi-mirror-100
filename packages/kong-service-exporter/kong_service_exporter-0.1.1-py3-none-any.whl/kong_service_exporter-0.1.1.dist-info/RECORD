@@ -1,0 +1,10 @@
+kong_service_exporter/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+kong_service_exporter/generate.py,sha256=hw_3kXLJhtttBSS2Qmwm_ST8Q_6xqTOn4wSeHu2_8lA,3601
+kong_service_exporter/main.py,sha256=hw_3kXLJhtttBSS2Qmwm_ST8Q_6xqTOn4wSeHu2_8lA,3601
+kong_service_exporter/template.md,sha256=xHxGeuOzvrYbt9z-c4QA68zEEZ0FjW7U8UbclXLcUpk,374
+kong_service_exporter-0.1.1.dist-info/LICENSE,sha256=fxY9CV7AxnhFUEv7ZNJ0IBYukVDPzfh4iV392CPFdzg,1068
+kong_service_exporter-0.1.1.dist-info/METADATA,sha256=BQYzIXQgaKTLlLQt3Dj8oS4ynJE1I-CS5UTlVlgglps,1818
+kong_service_exporter-0.1.1.dist-info/WHEEL,sha256=g4nMs7d-Xl9-xC9XovUrsDHGXt-FT0E17Yqo92DEfvY,92
+kong_service_exporter-0.1.1.dist-info/entry_points.txt,sha256=J50HtFXYYJdJKQPiyneBitCCsY5TzJrHs_3MhvYFqgw,79
+kong_service_exporter-0.1.1.dist-info/top_level.txt,sha256=__MvVjyhh2i__hNDywr5qWlVmvX6S4TjvfBeS7nei5o,22
+kong_service_exporter-0.1.1.dist-info/RECORD,,
