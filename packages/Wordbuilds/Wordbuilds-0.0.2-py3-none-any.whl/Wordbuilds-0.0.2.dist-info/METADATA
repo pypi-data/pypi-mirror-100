@@ -1,0 +1,22 @@
+Metadata-Version: 2.1
+Name: Wordbuilds
+Version: 0.0.2
+Summary: WORD BUILDEr
+Home-page: UNKNOWN
+Author: Moses
+Author-email: urmom.youthought@gmail.com
+License: UNKNOWN
+Keywords: Beginner.py,Rick Roll,Build a bear,Lmao
+Platform: UNKNOWN
+Classifier: Development Status :: 1 - Planning
+Classifier: Intended Audience :: Developers
+Classifier: Programming Language :: Python :: 3
+Classifier: Operating System :: Unix
+Classifier: Operating System :: MacOS :: MacOS X
+Classifier: Operating System :: Microsoft :: Windows
+Description-Content-Type: text/markdown
+Requires-Dist: Webbrowser
+
+heh
+
+
