@@ -1,0 +1,1 @@
+GNNs is a library for building Graph Neural Network with Python, and this library was writen by Wei Wei
