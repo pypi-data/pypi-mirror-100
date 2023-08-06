@@ -1,0 +1,3 @@
+google-cloud-pubsub
+google-cloud-monitoring
+boto3
