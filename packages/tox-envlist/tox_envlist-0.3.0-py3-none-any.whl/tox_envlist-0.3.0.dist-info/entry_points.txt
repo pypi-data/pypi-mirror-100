@@ -1,0 +1,2 @@
+[tox]
+envlist = tox_envlist
