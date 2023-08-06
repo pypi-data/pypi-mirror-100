@@ -1,0 +1,15 @@
+LICENSE.txt
+MANIFEST.in
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+data/data_file
+src/iwester_extractor.egg-info/PKG-INFO
+src/iwester_extractor.egg-info/SOURCES.txt
+src/iwester_extractor.egg-info/dependency_links.txt
+src/iwester_extractor.egg-info/entry_points.txt
+src/iwester_extractor.egg-info/requires.txt
+src/iwester_extractor.egg-info/top_level.txt
+src/web_extractor/__init__.py
+src/web_extractor/main.py
