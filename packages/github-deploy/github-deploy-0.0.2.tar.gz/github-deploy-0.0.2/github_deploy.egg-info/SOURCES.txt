@@ -1,0 +1,8 @@
+README.md
+setup.py
+github_deploy.egg-info/PKG-INFO
+github_deploy.egg-info/SOURCES.txt
+github_deploy.egg-info/dependency_links.txt
+github_deploy.egg-info/entry_points.txt
+github_deploy.egg-info/requires.txt
+github_deploy.egg-info/top_level.txt

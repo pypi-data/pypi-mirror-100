@@ -1,0 +1,4 @@
+[console_scripts]
+github-delete = delete:main
+github-deploy = deploy:main
+
