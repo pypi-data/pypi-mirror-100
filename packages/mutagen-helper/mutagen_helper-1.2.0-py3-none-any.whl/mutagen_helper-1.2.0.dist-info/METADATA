@@ -1,0 +1,28 @@
+Metadata-Version: 2.1
+Name: mutagen-helper
+Version: 1.2.0
+Summary: Mutagen Helper allow you to define Mutagen synchronisation sessions inside a configuration file on directories you want to synchronise. Created sessions are marked with a session name and a project name that makes them easier to manage.
+Home-page: https://github.com/gfi-centre-ouest/mutagen-helper
+License: MIT
+Keywords: mutagen,sync,orchestrator
+Author: Rémi Alvergnat
+Author-email: toilal.dev@gmail.com
+Requires-Python: >=3.6,<4.0
+Classifier: Development Status :: 5 - Production/Stable
+Classifier: Environment :: Console
+Classifier: Intended Audience :: Developers
+Classifier: Intended Audience :: System Administrators
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Topic :: System :: Filesystems
+Classifier: Topic :: System :: Networking
+Requires-Dist: PyYAML (>=5.4.1,<6.0.0)
+Requires-Dist: click (>=7.1.2,<8.0.0)
+Requires-Dist: expandvars (>=0.6.5,<0.7.0)
+Project-URL: Documentation, https://github.com/gfi-centre-ouest/mutagen-helper
+Project-URL: Repository, https://github.com/gfi-centre-ouest/mutagen-helper
