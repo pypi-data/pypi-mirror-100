@@ -1,0 +1,14 @@
+LICENSE
+MANIFEST.in
+README.md
+requirements.txt
+setup.py
+VKSlaves.egg-info/PKG-INFO
+VKSlaves.egg-info/SOURCES.txt
+VKSlaves.egg-info/dependency_links.txt
+VKSlaves.egg-info/requires.txt
+VKSlaves.egg-info/top_level.txt
+vkslaves/__init__.py
+vkslaves/slaves.py
+vkslaves/models/__init__.py
+vkslaves/models/models.py
