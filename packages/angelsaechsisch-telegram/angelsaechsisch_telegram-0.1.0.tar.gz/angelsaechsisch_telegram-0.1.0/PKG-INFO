@@ -1,0 +1,13 @@
+Metadata-Version: 2.1
+Name: angelsaechsisch-telegram
+Version: 0.1.0
+Summary: Ein wundervoller Telegram Roboter, der dich höflich daran erinnert kein Angelsächsisch zu nutzen. Nach dem Vorbild des besten Unter's dieser Erde: r/ich_iel
+License: MIT
+Author: leuchtum
+Author-email: acct.d-mueller@mailbox.org
+Requires-Python: >=3.8,<4.0
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Requires-Dist: python-telegram-bot (>=13.4.1,<14.0.0)
