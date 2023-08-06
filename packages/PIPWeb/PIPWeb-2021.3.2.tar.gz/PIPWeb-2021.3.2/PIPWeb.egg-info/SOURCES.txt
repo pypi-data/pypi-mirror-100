@@ -1,0 +1,9 @@
+README.md
+setup.py
+PIPWeb/__init__.py
+PIPWeb/app.py
+PIPWeb.egg-info/PKG-INFO
+PIPWeb.egg-info/SOURCES.txt
+PIPWeb.egg-info/dependency_links.txt
+PIPWeb.egg-info/entry_points.txt
+PIPWeb.egg-info/top_level.txt
