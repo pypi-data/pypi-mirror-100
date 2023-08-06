@@ -1,0 +1,11 @@
+CHANGELOG.txt
+LICENSE.txt
+MANIFEST.in
+README.txt
+setup.py
+sub_finder/__init__.py
+sub_finder.egg-info/PKG-INFO
+sub_finder.egg-info/SOURCES.txt
+sub_finder.egg-info/dependency_links.txt
+sub_finder.egg-info/requires.txt
+sub_finder.egg-info/top_level.txt
