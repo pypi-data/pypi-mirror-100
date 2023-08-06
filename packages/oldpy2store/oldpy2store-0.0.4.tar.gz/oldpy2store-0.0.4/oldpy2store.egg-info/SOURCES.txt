@@ -1,0 +1,10 @@
+MANIFEST.in
+README.md
+setup.cfg
+setup.py
+oldpy2store/__init__.py
+oldpy2store.egg-info/PKG-INFO
+oldpy2store.egg-info/SOURCES.txt
+oldpy2store.egg-info/dependency_links.txt
+oldpy2store.egg-info/not-zip-safe
+oldpy2store.egg-info/top_level.txt
