@@ -1,0 +1,21 @@
+Metadata-Version: 2.1
+Name: jinjamator-plugin-output-apic
+Version: 1.0.0
+Summary: Cisco ACI output plugin for jinjamator
+Home-page: https://github.com/jinjamator/jinjamator-plugin-output-apic
+Author: Wilhelm Putz
+Author-email: jinjamator@aci.guru
+License: ASL V2
+Platform: UNKNOWN
+Classifier: License :: OSI Approved :: Apache Software License
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Topic :: System :: Installation/Setup
+Classifier: Topic :: System :: Systems Administration
+Classifier: Topic :: Utilities
+Requires-Python: >=3.8
+Description-Content-Type: text/x-rst
+Requires-Dist: jinjamator-core (>=0.10.0)
+
+Send jinjamator tasklet return data to Cisco ACI APIC
+
+
