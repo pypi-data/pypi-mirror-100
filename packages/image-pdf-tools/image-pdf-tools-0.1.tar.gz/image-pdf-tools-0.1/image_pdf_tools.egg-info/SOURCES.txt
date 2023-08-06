@@ -1,0 +1,11 @@
+LICENSE
+MANIFEST.in
+README.md
+setup.cfg
+setup.py
+image_pdf_tools/__init__.py
+image_pdf_tools/utils.py
+image_pdf_tools.egg-info/PKG-INFO
+image_pdf_tools.egg-info/SOURCES.txt
+image_pdf_tools.egg-info/dependency_links.txt
+image_pdf_tools.egg-info/top_level.txt
