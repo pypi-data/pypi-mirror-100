@@ -1,0 +1,10 @@
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+src/segment_image/__init__.py
+src/segment_image/k_means.py
+src/segment_image.egg-info/PKG-INFO
+src/segment_image.egg-info/SOURCES.txt
+src/segment_image.egg-info/dependency_links.txt
+src/segment_image.egg-info/top_level.txt
