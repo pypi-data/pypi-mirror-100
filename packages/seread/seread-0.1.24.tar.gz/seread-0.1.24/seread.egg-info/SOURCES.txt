@@ -1,0 +1,6 @@
+setup.py
+bin/seread
+seread.egg-info/PKG-INFO
+seread.egg-info/SOURCES.txt
+seread.egg-info/dependency_links.txt
+seread.egg-info/top_level.txt
