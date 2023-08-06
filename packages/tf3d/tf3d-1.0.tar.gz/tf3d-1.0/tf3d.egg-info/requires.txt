@@ -1,0 +1,6 @@
+numpy
+pyquaternion
+
+[dev]
+nose2
+packaging
