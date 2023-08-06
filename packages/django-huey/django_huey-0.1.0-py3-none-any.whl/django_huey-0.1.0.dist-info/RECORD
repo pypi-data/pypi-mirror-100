@@ -1,0 +1,14 @@
+django_huey/__init__.py,sha256=QaVfV5P8U3o0Z7avE18KU18onVhdUzwrt6XVWlhsE4A,3465
+django_huey/config.py,sha256=UpD8JklMCLLenc8NFVxjlhNLWnLL9fZUlpKE63WCIx8,5236
+django_huey/models.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+django_huey/management/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+django_huey/management/commands/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+django_huey/management/commands/run_djangohuey.py,sha256=LWlOMScCEM55t8gsUK3K-o2xMwCy5LYqpXgzjd86_TY,3611
+django_huey/tests/__init__.py,sha256=CqOEr0uZ_p8TlbmPMLeRvXVR0IkRGWZpXqMHW5XL7Lg,52
+django_huey/tests/settings.py,sha256=077Hb8ASWqY4HnOGVjPNT7tF_uWd_dj4B9T2RFBOcVU,410
+django_huey/tests/tests_config.py,sha256=g-vN5a4zOpXRAodv-Kgo-TDyYAVNFTQeuLkkLzZHUcQ,3370
+django_huey-0.1.0.dist-info/LICENCE,sha256=eC8srEJiuvhc6JvR_n50m33sn_PPFRiOAW7A_9_Dxlw,1083
+django_huey-0.1.0.dist-info/METADATA,sha256=-qXWqo4mZ447Jd-dZQBF-NhODa0_4z91jEBuKM5r7AM,2206
+django_huey-0.1.0.dist-info/WHEEL,sha256=OqRkF0eY5GHssMorFjlbTIq072vpHpF60fIQA6lS9xA,92
+django_huey-0.1.0.dist-info/top_level.txt,sha256=v4DVOQEFwidvWEFThykfBrmWF39W0TJfyAODMKIgtEM,12
+django_huey-0.1.0.dist-info/RECORD,,
