@@ -1,0 +1,21 @@
+Metadata-Version: 2.1
+Name: aladdin
+Version: 0.0.3
+Summary: Useful deep learning functions
+Home-page: https://github.com/aladdinpersson/DL-Utils
+Author: Aladdin Persson
+Author-email: aladdin.persson@hotmail.com
+License: MIT
+Description: # Useful deep learning functions
+        
+        ### Quickstart
+        
+        Install with `pip install aladdin` and (for example) load check_accuracy:
+        ```python
+        from aladdin import check_accuracy
+        accuracy = check_accuracy(loader, model)
+        ```
+        
+        Will develop and detail which are available later:)
+Platform: UNKNOWN
+Description-Content-Type: text/markdown
