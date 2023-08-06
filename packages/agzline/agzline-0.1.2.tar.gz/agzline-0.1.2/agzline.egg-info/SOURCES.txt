@@ -1,0 +1,11 @@
+setup.cfg
+setup.py
+agzline/TalkService.py
+agzline/__init__.py
+agzline/constants.py
+agzline/ttypes.py
+agzline.egg-info/PKG-INFO
+agzline.egg-info/SOURCES.txt
+agzline.egg-info/dependency_links.txt
+agzline.egg-info/requires.txt
+agzline.egg-info/top_level.txt
