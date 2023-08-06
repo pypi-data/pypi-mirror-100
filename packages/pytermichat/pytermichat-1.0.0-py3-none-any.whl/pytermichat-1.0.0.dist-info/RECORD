@@ -1,0 +1,9 @@
+pychat/__init__.py,sha256=K5s0tXyCM4umZZy0OOQZOwvbyouKRCaR3tIYAsx17ow,763
+pychat/__main__.py,sha256=FkIComdUapK4b8GEbUQITZqLyARp31t_uHf9F67zb-U,172
+pychat/client.py,sha256=_8D_1ur_KOYWtpE-Q9MhPSz0J7DrS-1aLnWFbR9pIoI,1469
+pychat/server.py,sha256=M1EKvTVXR9q1CFXXUjuMovyr3hMi5Gkaq05-xuibITQ,1009
+pytermichat-1.0.0.dist-info/LICENSE,sha256=OXLcl0T2SZ8Pmy2_dmlvKuetivmyPd5m1q-Gyd-zaYY,35149
+pytermichat-1.0.0.dist-info/METADATA,sha256=FL26GoGCTl7azNDVaqBK_PBNkltYc7xJNKD46Q_mc2A,1104
+pytermichat-1.0.0.dist-info/WHEEL,sha256=OqRkF0eY5GHssMorFjlbTIq072vpHpF60fIQA6lS9xA,92
+pytermichat-1.0.0.dist-info/top_level.txt,sha256=yyAp9Ve1xrsV1RNreA_EDOuDmTaelMNdoTf6ycdyEpY,7
+pytermichat-1.0.0.dist-info/RECORD,,

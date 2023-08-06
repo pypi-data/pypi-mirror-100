@@ -1,0 +1,51 @@
+Metadata-Version: 2.1
+Name: pytermichat
+Version: 1.0.0
+Summary: Python powered chat in terminal
+Home-page: https://github.com/termichat/py
+Author: Mineinjava
+Author-email: mineinjava@minein.me
+License: GPLv3
+Project-URL: Bug Tracker, https://github.com/pypa/sampleproject/issues
+Project-URL: Source, https://github.com/termichat/py
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.7
+Description-Content-Type: text/markdown
+
+# PyTermiChat
+chat without GUI
+
+**Disclaimer:** This is not *yet* encrypted.
+
+**Not To Be Confused with [TermChat](https://github.com/alexanderepstein/termchat)**
+
+## installing:
+```bash
+pip install pytermichat
+```
+
+## running:
+```bash
+python -m pychat [-h] [-s] [-u]
+```
+***note:** this will only to connect to instances hosted on* `127.0.0.1`
+
+## Running as a server
+```bash
+python -m pychat -s
+```
+this will run the server on `0.0.0.0:80`
+
+current port is not *yet* changeable
+
+## Custom Servers
+```bash
+python -m pychat -u "url to the server"
+```
+
+## Credits:
+- Python `websockets` module
+
+
