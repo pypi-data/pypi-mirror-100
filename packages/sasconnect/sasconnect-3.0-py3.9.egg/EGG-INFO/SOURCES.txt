@@ -1,0 +1,9 @@
+README.md
+setup.py
+sasconnect/sasapi.py
+sasconnect/sastest.py
+sasconnect.egg-info/PKG-INFO
+sasconnect.egg-info/SOURCES.txt
+sasconnect.egg-info/dependency_links.txt
+sasconnect.egg-info/requires.txt
+sasconnect.egg-info/top_level.txt
