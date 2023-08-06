@@ -1,0 +1,13 @@
+Metadata-Version: 2.1
+Name: x2cdict
+Version: 0.1.39
+Summary: translate X language into Chinese
+Author: Phoenix Grey
+Author-email: phoenix.grey0108@gmail.com
+Requires-Python: >=3.8,<4.0
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Requires-Dist: click (>=7.1.1,<8.0.0)
+Requires-Dist: googletrans (==4.0.0-rc1)
+Requires-Dist: pymongo (>=3.10.1,<4.0.0)
