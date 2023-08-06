@@ -1,0 +1,5 @@
+colorlog
+netifaces
+requests
+speedtest-cli
+schedule
