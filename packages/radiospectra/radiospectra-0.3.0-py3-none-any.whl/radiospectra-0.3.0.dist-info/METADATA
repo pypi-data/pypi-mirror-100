@@ -1,0 +1,105 @@
+Metadata-Version: 2.1
+Name: radiospectra
+Version: 0.3.0
+Summary: "Provide support for some type of radio spectra in solar physics"
+Home-page: https://sunpy.org
+Author: The SunPy Community
+Author-email: sunpy@googlegroups.com
+License: BSD 2-Clause
+Keywords: solar physics,solar,science,sun,wcs,coordinates,radio,spectra
+Platform: any
+Classifier: Development Status :: 3 - Alpha
+Classifier: Intended Audience :: Science/Research
+Classifier: License :: OSI Approved :: BSD License
+Classifier: Natural Language :: English
+Classifier: Operating System :: OS Independent
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Topic :: Scientific/Engineering :: Physics
+Provides: radiospectra
+Requires-Python: >=3.7
+Description-Content-Type: text/x-rst
+Requires-Dist: sunpy[net] (>=2.1.2)
+Requires-Dist: numpy
+Requires-Dist: matplotlib
+Requires-Dist: scipy
+Provides-Extra: all
+Provides-Extra: dev
+Requires-Dist: pytest-astropy (>=0.8) ; extra == 'dev'
+Requires-Dist: pytest-doctestplus (>=0.5) ; extra == 'dev'
+Requires-Dist: tox ; extra == 'dev'
+Requires-Dist: sphinx-automodapi ; extra == 'dev'
+Requires-Dist: sphinx-changelog ; extra == 'dev'
+Requires-Dist: sphinx-gallery (>=0.7.0) ; extra == 'dev'
+Requires-Dist: sphinx (>=3) ; extra == 'dev'
+Requires-Dist: sunpy-sphinx-theme ; extra == 'dev'
+Requires-Dist: towncrier ; extra == 'dev'
+Provides-Extra: docs
+Requires-Dist: sphinx-automodapi ; extra == 'docs'
+Requires-Dist: sphinx-changelog ; extra == 'docs'
+Requires-Dist: sphinx-gallery (>=0.7.0) ; extra == 'docs'
+Requires-Dist: sphinx (>=3) ; extra == 'docs'
+Requires-Dist: sunpy-sphinx-theme ; extra == 'docs'
+Requires-Dist: towncrier ; extra == 'docs'
+Provides-Extra: tests
+Requires-Dist: pytest-astropy (>=0.8) ; extra == 'tests'
+Requires-Dist: pytest-doctestplus (>=0.5) ; extra == 'tests'
+Requires-Dist: tox ; extra == 'tests'
+
+Provide support for some type of radio spectra in solar physics
+---------------------------------------------------------------
+
+.. image:: http://img.shields.io/badge/powered%20by-SunPy-orange.svg?style=flat
+    :target: http://www.sunpy.org
+    :alt: Powered by SunPy Badge
+
+License
+-------
+
+This project is Copyright (c) SunPy Developers and licensed under
+the terms of the BSD 2-Clause license. This package is based upon
+the `Openastronomy packaging guide <https://github.com/OpenAstronomy/packaging-guide>`_
+which is licensed under the BSD 3-clause licence. See the licenses folder for
+more information.
+
+Documentation
+-------------
+
+The `latest documentation <https://docs.sunpy.org/projects/radiospectra/en/latest/>`__.
+
+Contributing
+------------
+
+We love contributions! radiospectra is open source,
+built on open source, and we'd love to have you hang out in our community.
+
+**Imposter syndrome disclaimer**: We want your help. No, really.
+
+There may be a little voice inside your head that is telling you that you're not
+ready to be an open source contributor; that your skills aren't nearly good
+enough to contribute. What could you possibly offer a project like this one?
+
+We assure you - the little voice in your head is wrong. If you can write code at
+all, you can contribute code to open source. Contributing to open source
+projects is a fantastic way to advance one's coding skills. Writing perfect code
+isn't the measure of a good developer (that would disqualify all of us!); it's
+trying to create something, making mistakes, and learning from those
+mistakes. That's how we all improve, and we are happy to help others learn.
+
+Being an open source contributor doesn't just mean writing code, either. You can
+help out by writing documentation, tests, or even giving feedback about the
+project (and yes - that includes giving feedback about the contribution
+process). Some of these contributions may be the most valuable to the project as
+a whole, because you're coming to the project with fresh eyes, so you can see
+the errors and assumptions that seasoned contributors have glossed over.
+
+Note: This disclaimer was originally written by
+`Adrienne Lowe <https://github.com/adriennefriend>`_ for a
+`PyCon talk <https://www.youtube.com/watch?v=6Uj746j9Heo>`_, and was adapted by
+radiospectra based on its use in the README file for the
+`MetPy project <https://github.com/Unidata/MetPy>`_.
+
+
