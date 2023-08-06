@@ -1,0 +1,11 @@
+.gitignore
+LICENSE
+README.md
+config.yaml
+setup.cfg
+setup.py
+url-test
+url_test.egg-info/PKG-INFO
+url_test.egg-info/SOURCES.txt
+url_test.egg-info/dependency_links.txt
+url_test.egg-info/top_level.txt
