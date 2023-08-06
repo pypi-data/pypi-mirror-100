@@ -1,0 +1,17 @@
+Metadata-Version: 1.1
+Name: bi_postgres
+Version: 0.0.1
+Summary: TYPE YOUR DESCRIPTION HERE
+Home-page: https://bitbucket.org/sha31/bi_postgres
+Author: Syed Hammad Ahmed
+Author-email: syed.ahmed@purevpn.com
+License: MIT
+Download-URL: https://github.com/sha-gaditek/bi_postgres/archive/refs/tags/0.0.2.tar.gz
+Description: UNKNOWN
+Keywords: Postgres,SqlAlchemy
+Platform: UNKNOWN
+Classifier: Development Status :: 3 - Alpha
+Classifier: Intended Audience :: Developers
+Classifier: Topic :: Software Development :: Build Tools
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3.8
