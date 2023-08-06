@@ -1,0 +1,10 @@
+sheet2graph/__init__.py,sha256=pvtBG_F0XBJq7ZzFgAE5KYvdrxOVDzHGcsy63Mw8G1M,77
+sheet2graph/__main__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+sheet2graph/sheet2graph.py,sha256=SoR_dPrbL_G7RP6AKeUxAJXgf-gWH2oI_5hRx0UHO_Y,10159
+sheet2graph/tests.py,sha256=T5zkKiS8Vghiie3RFOAjwp5HAF2AtkJ-H7V4WfHovWw,11109
+sheet2graph-0.0.1.dist-info/LICENSE,sha256=0ElQUwUZZ-vnb7H6zSh9edHtgA2hvnXPUBpVa8OaBHI,32471
+sheet2graph-0.0.1.dist-info/METADATA,sha256=ycgLJkhXfKzuBvyWQX2_YjD55rEsMY9VwmvoWHwEq90,4442
+sheet2graph-0.0.1.dist-info/WHEEL,sha256=OqRkF0eY5GHssMorFjlbTIq072vpHpF60fIQA6lS9xA,92
+sheet2graph-0.0.1.dist-info/entry_points.txt,sha256=mal3RY2IDNi1_74xGue6wTNo6NxEfIJBjCrPqcCwJpw,63
+sheet2graph-0.0.1.dist-info/top_level.txt,sha256=QykKzpkvS8ovnH8BTnGaZ88cdSZ1UxdbtfvCnYgn8-Q,12
+sheet2graph-0.0.1.dist-info/RECORD,,
