@@ -1,0 +1,3 @@
+[console_scripts]
+mustang = mustang.commands.main:main
+
