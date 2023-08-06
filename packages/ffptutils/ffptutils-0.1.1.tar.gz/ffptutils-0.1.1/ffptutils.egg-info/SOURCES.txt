@@ -1,0 +1,17 @@
+MANIFEST.in
+README.md
+requirements.txt
+setup.py
+ffptutils/__init__.py
+ffptutils/ffptutils.py
+ffptutils.egg-info/PKG-INFO
+ffptutils.egg-info/SOURCES.txt
+ffptutils.egg-info/dependency_links.txt
+ffptutils.egg-info/entry_points.txt
+ffptutils.egg-info/requires.txt
+ffptutils.egg-info/top_level.txt
+ffptutils/scripts/__init__.py
+ffptutils/scripts/csv2ffpt.py
+ffptutils/scripts/ffpt2csv.py
+tests/__init__.py
+tests/test_ffptutils.py
