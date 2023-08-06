@@ -1,0 +1,13 @@
+Metadata-Version: 2.1
+Name: gxsimcom
+Version: 0.0.7
+Summary: Communication to GXSimulator2
+Home-page: https://github.com/tyaro/GXSim2Com
+Author: tyaromax
+Author-email: tkentyan@hotmail.com
+License: MIT
+Requires-Dist: psutil
+
+GXSimCom
+
+
