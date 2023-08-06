@@ -1,0 +1,15 @@
+Metadata-Version: 2.1
+Name: uofsc-calculus-labs
+Version: 0.0
+Summary: Functions for UofSC Calculus Labs
+Home-page: UNKNOWN
+Author: UNKNOWN
+Author-email: cwarnock@math.sc.edu
+License: UNKNOWN
+Platform: UNKNOWN
+Requires-Dist: sage-package
+Requires-Dist: sphinx
+
+UNKNOWN
+
+
