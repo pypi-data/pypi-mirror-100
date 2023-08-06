@@ -1,0 +1,13 @@
+Metadata-Version: 2.1
+Name: restframework-serializer-permissions
+Version: 0.0.0
+Summary: permissions for django restframework serializers and fields
+Home-page: https://github.com/manfred-kaiser/restframework-serializer-permissions
+Author: Manfred Kaiser
+Author-email: manfred.kaiser@ssh-mitm.at
+License: UNKNOWN
+Description: # restframework-serializer-permissions
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: GNU General Public License v3 (GPLv3)
+Description-Content-Type: text/markdown
