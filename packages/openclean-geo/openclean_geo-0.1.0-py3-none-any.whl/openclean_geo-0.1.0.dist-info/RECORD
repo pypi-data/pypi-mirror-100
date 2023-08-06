@@ -1,0 +1,9 @@
+openclean_geo/__init__.py,sha256=lEXT5nlDNMByK8Vq4qsLjvsK8kuaDb6Ziuemwc704P0,213
+openclean_geo/version.py,sha256=Utc0TdAIiFsLbWJ9jMIV-zODFl4HjLcThguojwGPEUE,312
+openclean_geo/address/usstreet.py,sha256=pi2ldLpyCVKkBHNEc-CzekRGjMS_s624Z21pHbvLkec,18821
+openclean_geo/spatial/wkt.py,sha256=9pXwhxtOZCizWStE6fJqpA4d_c60GQezAFdoDyI6YZQ,4613
+openclean_geo-0.1.0.dist-info/LICENSE,sha256=rEvLnigWI29DXjKLsNPXLz5kTNYohOQ0GydxMGQzTAI,1525
+openclean_geo-0.1.0.dist-info/METADATA,sha256=VnbDR2_0ILzm2sfMWsrhqGb5Pemk4H9ymn9j4ucd82A,2609
+openclean_geo-0.1.0.dist-info/WHEEL,sha256=OqRkF0eY5GHssMorFjlbTIq072vpHpF60fIQA6lS9xA,92
+openclean_geo-0.1.0.dist-info/top_level.txt,sha256=fEMLnVRfXoXqBDWCSWbK9rA1KBFWk-KbE6O9IvDPadI,14
+openclean_geo-0.1.0.dist-info/RECORD,,
