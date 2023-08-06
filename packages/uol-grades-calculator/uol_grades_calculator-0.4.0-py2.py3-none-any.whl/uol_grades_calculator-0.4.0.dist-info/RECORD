@@ -1,0 +1,16 @@
+uol_grades_calculator/__init__.py,sha256=jQVr48ApI-6eXYEPkxbVU9zgE_cY_AR56jlOdH3uO-c,61
+uol_grades_calculator/__main__.py,sha256=CZdNgTguYi_bk9H7eKMHp6q53BuOSpMkoItE_gWA7gA,184
+uol_grades_calculator/cli.py,sha256=kUU-anQ9ENV18e9hCzFe3lN6qx8sLbA-i20FIcBVNHQ,1333
+uol_grades_calculator/commands.py,sha256=OkBaFgOxZ4HItzOP2C3CLUeBWIfpf09LCQpe5ZP7Etw,3924
+uol_grades_calculator/config.py,sha256=rCneBWxhpfTs0r2tIxkw3FUx678hJPCSVIhlWdlmEqE,2623
+uol_grades_calculator/errors.py,sha256=Jhl9mBEGjrGqwo9YYOFndCyiXzsgbRkoplYPNtfpOMU,261
+uol_grades_calculator/grades-template.yml,sha256=2wMYd_4LF6iuQGQwrweKsOhFsxb8X7XOIO80PHpQzDg,3320
+uol_grades_calculator/grades.py,sha256=KA3c3ijtIdBAP0YrQIRnk_YnEn_sUhbMQ4CfJGRN5WQ,10138
+uol_grades_calculator/utils/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+uol_grades_calculator/utils/mathtools.py,sha256=iNcn9uECbdV2vkOUu4Gohh8ktDHRS0n3W3aNRfEISLs,221
+uol_grades_calculator-0.4.0.dist-info/LICENSE,sha256=Kf9jmig82lAnw6wwrlH9H0aCxOaPwv47JrOXX76vpcM,1074
+uol_grades_calculator-0.4.0.dist-info/METADATA,sha256=_2xchzGZ3K6wHNHq9mni3IESuyqTUokHz-Oj_hFmhcc,10716
+uol_grades_calculator-0.4.0.dist-info/WHEEL,sha256=yeYGyEAjAVN0fp2OvAcpF9SZtr2vIzJc053UqC_mhts,110
+uol_grades_calculator-0.4.0.dist-info/entry_points.txt,sha256=nj0y1FPerAkxbzO4gkGenTY_AnUNfTA7c3ByMk8dafk,55
+uol_grades_calculator-0.4.0.dist-info/top_level.txt,sha256=GAu4ufWfTde_Je0kgaKQlaDwVrqNUODJpcfDt1M9z0A,22
+uol_grades_calculator-0.4.0.dist-info/RECORD,,
