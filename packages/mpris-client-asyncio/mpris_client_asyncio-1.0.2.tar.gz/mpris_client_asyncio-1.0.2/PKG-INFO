@@ -1,0 +1,23 @@
+Metadata-Version: 2.1
+Name: mpris_client_asyncio
+Version: 1.0.2
+Summary: Client library for MPRIS that uses asyncio
+Home-page: https://github.com/yashBhosale/mpris-client-asyncio
+Author: Yash Bhosale
+Author-email: bhosaley5@gmail.com
+License: UNKNOWN
+Project-URL: Bug Tracker, https://github.com/yashBhosale/mpris-client-asyncio/issues
+Description: # mpris-client-asyncio
+        
+        This is a client-side library for the MPRIS Protocol, written to work with asyncio. 
+        
+        
+        
+        Suggestions and pull requests welcome! 
+        
+Platform: UNKNOWN
+Classifier: Operating System :: POSIX :: Linux
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Framework :: AsyncIO
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown

@@ -1,0 +1,9 @@
+README.md
+pyproject.toml
+setup.py
+mpris_client_asyncio/__init__.py
+mpris_client_asyncio.egg-info/PKG-INFO
+mpris_client_asyncio.egg-info/SOURCES.txt
+mpris_client_asyncio.egg-info/dependency_links.txt
+mpris_client_asyncio.egg-info/requires.txt
+mpris_client_asyncio.egg-info/top_level.txt
