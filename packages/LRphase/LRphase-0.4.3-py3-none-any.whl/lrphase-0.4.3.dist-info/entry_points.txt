@@ -1,0 +1,4 @@
+[console_scripts]
+LRphase=lrphase.cli:run
+haplotype_config=lrphase.config:run
+
