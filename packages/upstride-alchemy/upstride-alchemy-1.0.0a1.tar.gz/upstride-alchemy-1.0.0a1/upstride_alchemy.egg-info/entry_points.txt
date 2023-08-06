@@ -1,0 +1,3 @@
+[console_scripts]
+alchemy_cli = alchemy.bin.alchemy_cli.py:main
+
