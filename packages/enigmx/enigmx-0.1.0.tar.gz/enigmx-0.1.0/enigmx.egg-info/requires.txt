@@ -1,0 +1,10 @@
+pandas>=0.22.0
+numpy>=1.18.2
+zarr
+fracdiff
+ray
+numba
+pandas-market-calendars
+unixodbc
+unixodbc-dev
+pyodbc
