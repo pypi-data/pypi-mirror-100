@@ -1,0 +1,15 @@
+odoo10_addon_shopinvader_locomotive_guest_mode-10.0.1.0.0.99.dev3-nspkg.pth,sha256=3hYKiD3YF7y9FeWjACJq1b9R_GVRzuQo9SAZlvZgumg,1672
+odoo/addons/shopinvader_locomotive_guest_mode/README.rst,sha256=zBAJ1sM6ojvsyXSMUH72ZRMWsXFwm0Bl52JXlYX_t64,1386
+odoo/addons/shopinvader_locomotive_guest_mode/__init__.py,sha256=36_fT8TwPLJFxSf_FSD5f5M9ci3O2lr6whnhdmeS0fk,24
+odoo/addons/shopinvader_locomotive_guest_mode/__manifest__.py,sha256=e4IJZeHyjiyQFXxgBax-BOsAwzYu0035hh0oOfHU6uE,496
+odoo/addons/shopinvader_locomotive_guest_mode/component/__init__.py,sha256=-l03Ay15YSX_FAiDORufhsQ6RB4Ue0PXTr1FAXri0vc,95
+odoo/addons/shopinvader_locomotive_guest_mode/component/shopinvader_binging_event_listeners.py,sha256=jOpHRCeJEXU61brIviGYfqfRuv1tyff_r8VMhXtUQdI,998
+odoo/addons/shopinvader_locomotive_guest_mode/component/shopinvader_site_export_mapper.py,sha256=lnZXS93c2dE4wPAujtlj-OXFc7vN1SKwa-MkyWZH-kA,331
+odoo/addons/shopinvader_locomotive_guest_mode/static/description/icon.png,sha256=6xBPJauaFOF0KDHfHgQopSc28kKvxMaeoQFQWZtfZDo,9455
+odoo/addons/shopinvader_locomotive_guest_mode/tests/__init__.py,sha256=7Fip35VW0kivpepVaFOanGkIxF5KtJyZA0iqrqZDzpM,27
+odoo/addons/shopinvader_locomotive_guest_mode/tests/test_backend.py,sha256=2q7bshbs6e4jz2RJ0AylYNByGuhlAJ-KSeKePxKfv-8,1489
+odoo10_addon_shopinvader_locomotive_guest_mode-10.0.1.0.0.99.dev3.dist-info/METADATA,sha256=vawiwd8VzOS-zOneHudubSIZ7MsZQeAQY1utorg8PmY,2010
+odoo10_addon_shopinvader_locomotive_guest_mode-10.0.1.0.0.99.dev3.dist-info/WHEEL,sha256=Ph_z28wTcU7HnQwSQ6yCQ-zkcGK4h4ehDfP8b6UoHVE,92
+odoo10_addon_shopinvader_locomotive_guest_mode-10.0.1.0.0.99.dev3.dist-info/namespace_packages.txt,sha256=igDP6S4ywc6jzcMqzrKZpRtAUXrS-iYaA_Hu1EtlI48,17
+odoo10_addon_shopinvader_locomotive_guest_mode-10.0.1.0.0.99.dev3.dist-info/top_level.txt,sha256=qBj40grFkGOfDZ2WDSw3y1RnDlgG0u8rP8pvGNdbz4w,5
+odoo10_addon_shopinvader_locomotive_guest_mode-10.0.1.0.0.99.dev3.dist-info/RECORD,,
