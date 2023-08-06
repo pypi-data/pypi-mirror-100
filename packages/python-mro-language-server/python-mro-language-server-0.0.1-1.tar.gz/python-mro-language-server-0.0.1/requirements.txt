@@ -1,0 +1,5 @@
+-i https://pypi.org/simple
+jedi==0.18.0
+parso==0.8.1; python_version >= '3.6'
+python-jsonrpc-server==0.4.0
+ujson==4.0.2; python_version >= '3.6'

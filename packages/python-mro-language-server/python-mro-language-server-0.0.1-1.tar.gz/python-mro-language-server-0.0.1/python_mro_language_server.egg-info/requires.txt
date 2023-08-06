@@ -1,0 +1,6 @@
+jedi==0.18.0
+python-jsonrpc-server==0.4.0
+
+[:python_version >= "3.6"]
+parso==0.8.1
+ujson==4.0.2
