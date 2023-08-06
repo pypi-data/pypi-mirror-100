@@ -1,0 +1,11 @@
+LICENSE
+MANIFEST.in
+README.md
+setup.py
+src/discord_webhook_logging.py
+src/discord_webhook_logging.egg-info/PKG-INFO
+src/discord_webhook_logging.egg-info/SOURCES.txt
+src/discord_webhook_logging.egg-info/dependency_links.txt
+src/discord_webhook_logging.egg-info/requires.txt
+src/discord_webhook_logging.egg-info/top_level.txt
+test/test.py
