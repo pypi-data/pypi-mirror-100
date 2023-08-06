@@ -1,0 +1,9 @@
+README.md
+setup.py
+datasette_publish_azure/__init__.py
+datasette_publish_azure.egg-info/PKG-INFO
+datasette_publish_azure.egg-info/SOURCES.txt
+datasette_publish_azure.egg-info/dependency_links.txt
+datasette_publish_azure.egg-info/entry_points.txt
+datasette_publish_azure.egg-info/requires.txt
+datasette_publish_azure.egg-info/top_level.txt

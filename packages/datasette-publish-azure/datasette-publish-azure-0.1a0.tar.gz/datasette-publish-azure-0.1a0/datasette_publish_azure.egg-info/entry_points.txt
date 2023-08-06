@@ -1,0 +1,3 @@
+[datasette]
+publish_azure = datasette_publish_azure
+
