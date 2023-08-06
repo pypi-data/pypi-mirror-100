@@ -1,0 +1,10 @@
+baraja/__init__.py,sha256=NlJth-oJFoA8pIfUMXP9_EeUHVeT5FLb6cgj29-NU_0,81
+baraja/card.py,sha256=vnSdX8tnDX4oULDZt6mkQmoZf565LglOEOFmjSJWq0g,3285
+baraja/deck.py,sha256=ctGgHM_YzQkm87RMzpbvMIRCD4he2PmklOWQU0ON4LI,3985
+baraja/exceptions.py,sha256=NyFGAmCLsHTgeDtCCVTgGihiCt3Ho6QQCwqn5DyOPa8,233
+baraja-0.2.0.dist-info/AUTHORS.md,sha256=YwLrxSg1zScfGJ2Qqdvs84ooz01CPJwCkAXSaO07pAY,58
+baraja-0.2.0.dist-info/LICENSE,sha256=If3AsZ7O05Ogg0_blJQhlrdihZaolFhUbEp1WWxx1kA,1080
+baraja-0.2.0.dist-info/METADATA,sha256=pNOmy4rMex67DGq1V2SHHkUyK3_xlitwYzUy8WCaSGo,460
+baraja-0.2.0.dist-info/WHEEL,sha256=OqRkF0eY5GHssMorFjlbTIq072vpHpF60fIQA6lS9xA,92
+baraja-0.2.0.dist-info/top_level.txt,sha256=zatop5TB_zvdX8gwd_mjAwZZgTbCIPrJO-pqaAo-xvM,7
+baraja-0.2.0.dist-info/RECORD,,
