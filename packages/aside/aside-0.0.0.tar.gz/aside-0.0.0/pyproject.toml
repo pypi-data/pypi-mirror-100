@@ -1,0 +1,38 @@
+[build-system]
+build-backend = "setuptools.build_meta"
+requires = ["setuptools", "wheel"]
+
+[tool.black]
+target-version = ["py36"]
+
+[tool.isort]
+ensure_newline_before_comments = true
+extend_skip_glob = ['*.venv', '*.out', '*.egg-info']
+force_grid_wrap = 0
+include_trailing_comma = true
+line_length = 88
+multi_line_output = 3
+py_version = "36"
+use_parentheses = true
+
+[tool.pylint.master]
+fail-under = 5
+ignore-patterns = ['.*\.venv', '.*\.out', '.*\.egg-info']
+jobs = 0
+
+[tool.pylint.messages_control]
+disable = """
+C0114,
+C0326,
+C0330,
+E0401
+"""
+
+[tool.pylint.format]
+max-line-length = "88"
+
+[tool.coverage.report]
+fail_under = 50
+show_missing = true
+skip_covered = true
+skip_empty = true

@@ -1,0 +1,24 @@
+Metadata-Version: 2.1
+Name: aside
+Version: 0.0.0
+Summary: Task tracker
+Home-page: https://gitlab.com/python-aside/aside
+License: GNU Affero General Public License v3
+Description: # aside
+        
+        [
+        ![](/../../../badges/master/pipeline.svg)
+        ![](/../-/jobs/artifacts/master/raw/lint.out/isort-badge.svg?job=lint)
+        ![](/../-/jobs/artifacts/master/raw/lint.out/black-badge.svg?job=lint)
+        ![](/../-/jobs/artifacts/master/raw/lint.out/pylint-badge.svg?job=lint)
+        ![](/../-/jobs/artifacts/master/raw/test.out/pytest-badge.svg?job=test)
+        ![](/../-/jobs/artifacts/master/raw/test.out/coverage-badge.svg?job=test)
+        ](/../../../pipelines/master/latest)
+        
+Platform: Any
+Classifier: Development Status :: 3 - Alpha
+Classifier: License :: OSI Approved :: GNU Affero General Public License v3
+Classifier: Operating System :: OS Independent
+Classifier: Programming Language :: Python :: 3 :: Only
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
