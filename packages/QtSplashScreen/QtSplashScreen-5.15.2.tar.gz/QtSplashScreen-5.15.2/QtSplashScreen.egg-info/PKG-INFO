@@ -1,0 +1,14 @@
+Metadata-Version: 1.2
+Name: QtSplashScreen
+Version: 5.15.2
+Summary: A PyQt5 Splash Screen Demo and Template
+Home-page: UNKNOWN
+Author: Pranav
+License: MIT
+Description: UNKNOWN
+Keywords: QtSplashScreen,SplashScreen
+Platform: UNKNOWN
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 3.9
+Classifier: License :: OSI Approved :: MIT License
+Requires-Python: >=3.8

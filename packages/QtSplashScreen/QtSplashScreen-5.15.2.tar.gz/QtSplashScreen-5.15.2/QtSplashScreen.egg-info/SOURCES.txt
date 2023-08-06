@@ -1,0 +1,10 @@
+setup.py
+QtSplashScreen/SplashScreen.py
+QtSplashScreen/__init__.py
+QtSplashScreen/__main__.py
+QtSplashScreen.egg-info/PKG-INFO
+QtSplashScreen.egg-info/SOURCES.txt
+QtSplashScreen.egg-info/dependency_links.txt
+QtSplashScreen.egg-info/entry_points.txt
+QtSplashScreen.egg-info/requires.txt
+QtSplashScreen.egg-info/top_level.txt

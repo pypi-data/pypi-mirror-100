@@ -1,0 +1,4 @@
+PyQt5==5.15.2
+pip>=21.0.1
+wheel
+setuptools>=49.0.0
