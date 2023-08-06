@@ -1,0 +1,42 @@
+Metadata-Version: 2.1
+Name: revjo
+Version: 0.1
+Summary: reverse jo
+Home-page: https://github.com/wtnb75/revjo
+Author: Watanabe Takashi
+Author-email: wtnb75@gmail.com
+License: MIT
+Platform: UNKNOWN
+Classifier: Development Status :: 3 - Alpha
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3
+Description-Content-Type: text/markdown
+Requires-Dist: click
+
+# Reverse-jo
+
+- revjo convert $(jo hello=world)
+  - `hello=world`
+- jo hello=world | revjo convert | jo
+  - `{"hello":"world"}`
+
+# Install
+
+- `pip install revjo`
+- or... `whalebrew install ghcr.io/wtnb75/revjo`
+
+# Usage
+
+```
+# revjo --help
+  :
+```
+
+# Links
+
+- [pypi](https://pypi.org/project/revjo/)
+- [API documents](https://wtnb75.github.io/revjo/)
+- [coverage](https://wtnb75.github.io/revjo/coverage/)
+
+
