@@ -1,0 +1,14 @@
+LICENSE
+MANIFEST.in
+README.md
+requirements.txt
+setup.cfg
+setup.py
+Py_gif_converter_test_by_yeony/__init__.py
+Py_gif_converter_test_by_yeony/py_converter.py
+Py_gif_converter_test_by_yeony.egg-info/PKG-INFO
+Py_gif_converter_test_by_yeony.egg-info/SOURCES.txt
+Py_gif_converter_test_by_yeony.egg-info/dependency_links.txt
+Py_gif_converter_test_by_yeony.egg-info/not-zip-safe
+Py_gif_converter_test_by_yeony.egg-info/requires.txt
+Py_gif_converter_test_by_yeony.egg-info/top_level.txt
