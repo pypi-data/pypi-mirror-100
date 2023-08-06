@@ -1,0 +1,100 @@
+.gitignore
+.pre-commit-config.yaml
+CONTRIBUTING.md
+LICENSE
+README.md
+ROADMAP.md
+poetry.lock
+pyproject.toml
+setup.cfg
+setup.py
+.github/workflows/docs.yml
+.github/workflows/test.yml
+docs/mkdocs.yml
+docs/docs/index.md
+docs/docs/release-notes.md
+docs/docs_assets/fastapi-help.png
+docs/docs_assets/startproject-help.png
+fastapi_cli/__init__.py
+fastapi_cli/__main__.py
+fastapi_cli/config.py
+fastapi_cli/constants.py
+fastapi_cli/context.py
+fastapi_cli/generator.py
+fastapi_cli/helpers.py
+fastapi_cli/main.py
+fastapi_cli/templates/__init__.py
+fastapi_cli/templates/app/__init__.py
+fastapi_cli/templates/app/cookiecutter.json
+fastapi_cli/templates/app/hooks/post_gen_project.py
+fastapi_cli/templates/app/{{ cookiecutter.folder_name }}/__init__.py
+fastapi_cli/templates/app/{{ cookiecutter.folder_name }}/crud.py
+fastapi_cli/templates/app/{{ cookiecutter.folder_name }}/models.py
+fastapi_cli/templates/app/{{ cookiecutter.folder_name }}/schemas.py
+fastapi_cli/templates/app/{{ cookiecutter.folder_name }}/api/__init__.py
+fastapi_cli/templates/app/{{ cookiecutter.folder_name }}/api/v1.py
+fastapi_cli/templates/project/__init__.py
+fastapi_cli/templates/project/cookiecutter.json
+fastapi_cli/templates/project/hooks/post_gen_project.py
+fastapi_cli/templates/project/{{ cookiecutter.folder_name }}/.pre-commit-config.yaml
+fastapi_cli/templates/project/{{ cookiecutter.folder_name }}/Dockerfile
+fastapi_cli/templates/project/{{ cookiecutter.folder_name }}/LICENSE
+fastapi_cli/templates/project/{{ cookiecutter.folder_name }}/README.md
+fastapi_cli/templates/project/{{ cookiecutter.folder_name }}/docker-compose.yaml
+fastapi_cli/templates/project/{{ cookiecutter.folder_name }}/pyproject.toml
+fastapi_cli/templates/project/{{ cookiecutter.folder_name }}/requirements.txt
+fastapi_cli/templates/project/{{ cookiecutter.folder_name }}/setup.cfg
+fastapi_cli/templates/project/{{ cookiecutter.folder_name }}/{{ cookiecutter.env }}
+fastapi_cli/templates/project/{{ cookiecutter.folder_name }}/{{ cookiecutter.gitignore }}
+fastapi_cli/templates/project/{{ cookiecutter.folder_name }}/app/__init__.py
+fastapi_cli/templates/project/{{ cookiecutter.folder_name }}/app/main.py
+fastapi_cli/templates/project/{{ cookiecutter.folder_name }}/app/api/__init__.py
+fastapi_cli/templates/project/{{ cookiecutter.folder_name }}/app/api/dependencies/__init__.py
+fastapi_cli/templates/project/{{ cookiecutter.folder_name }}/app/api/dependencies/authentication.py
+fastapi_cli/templates/project/{{ cookiecutter.folder_name }}/app/api/dependencies/database.py
+fastapi_cli/templates/project/{{ cookiecutter.folder_name }}/app/api/errors/__init__.py
+fastapi_cli/templates/project/{{ cookiecutter.folder_name }}/app/api/errors/http_error.py
+fastapi_cli/templates/project/{{ cookiecutter.folder_name }}/app/api/errors/validation_error.py
+fastapi_cli/templates/project/{{ cookiecutter.folder_name }}/app/api/routes/__init__.py
+fastapi_cli/templates/project/{{ cookiecutter.folder_name }}/app/api/routes/api.py
+fastapi_cli/templates/project/{{ cookiecutter.folder_name }}/app/api/routes/authentication.py
+fastapi_cli/templates/project/{{ cookiecutter.folder_name }}/app/api/routes/users.py
+fastapi_cli/templates/project/{{ cookiecutter.folder_name }}/app/core/__init__.py
+fastapi_cli/templates/project/{{ cookiecutter.folder_name }}/app/core/config.py
+fastapi_cli/templates/project/{{ cookiecutter.folder_name }}/app/core/events.py
+fastapi_cli/templates/project/{{ cookiecutter.folder_name }}/app/core/logging.py
+fastapi_cli/templates/project/{{ cookiecutter.folder_name }}/app/db/__init__.py
+fastapi_cli/templates/project/{{ cookiecutter.folder_name }}/app/db/database.py
+fastapi_cli/templates/project/{{ cookiecutter.folder_name }}/app/db/errors.py
+fastapi_cli/templates/project/{{ cookiecutter.folder_name }}/app/db/events.py
+fastapi_cli/templates/project/{{ cookiecutter.folder_name }}/app/db/schemas.py
+fastapi_cli/templates/project/{{ cookiecutter.folder_name }}/app/db/repositories/__init__.py
+fastapi_cli/templates/project/{{ cookiecutter.folder_name }}/app/db/repositories/base.py
+fastapi_cli/templates/project/{{ cookiecutter.folder_name }}/app/db/repositories/users.py
+fastapi_cli/templates/project/{{ cookiecutter.folder_name }}/app/models/__init__.py
+fastapi_cli/templates/project/{{ cookiecutter.folder_name }}/app/models/common.py
+fastapi_cli/templates/project/{{ cookiecutter.folder_name }}/app/models/domain/__init__.py
+fastapi_cli/templates/project/{{ cookiecutter.folder_name }}/app/models/domain/rwmodel.py
+fastapi_cli/templates/project/{{ cookiecutter.folder_name }}/app/models/domain/users.py
+fastapi_cli/templates/project/{{ cookiecutter.folder_name }}/app/models/schemas/__init__.py
+fastapi_cli/templates/project/{{ cookiecutter.folder_name }}/app/models/schemas/jwt.py
+fastapi_cli/templates/project/{{ cookiecutter.folder_name }}/app/models/schemas/rwschema.py
+fastapi_cli/templates/project/{{ cookiecutter.folder_name }}/app/models/schemas/users.py
+fastapi_cli/templates/project/{{ cookiecutter.folder_name }}/app/resources/__init__.py
+fastapi_cli/templates/project/{{ cookiecutter.folder_name }}/app/resources/strings.py
+fastapi_cli/templates/project/{{ cookiecutter.folder_name }}/app/services/__init__.py
+fastapi_cli/templates/project/{{ cookiecutter.folder_name }}/app/services/authentication.py
+fastapi_cli/templates/project/{{ cookiecutter.folder_name }}/app/services/jwt.py
+fastapi_cli/templates/project/{{ cookiecutter.folder_name }}/app/services/security.py
+fastapi_cli/templates/project/{{ cookiecutter.folder_name }}/tests/__init__.py
+fastapi_cli_service.egg-info/PKG-INFO
+fastapi_cli_service.egg-info/SOURCES.txt
+fastapi_cli_service.egg-info/dependency_links.txt
+fastapi_cli_service.egg-info/entry_points.txt
+fastapi_cli_service.egg-info/requires.txt
+fastapi_cli_service.egg-info/top_level.txt
+scripts/check_typing.sh
+tests/__init__.py
+tests/conftest.py
+tests/test_startapp.py
+tests/test_startproject.py

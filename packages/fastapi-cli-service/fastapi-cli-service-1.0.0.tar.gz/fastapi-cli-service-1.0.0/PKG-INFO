@@ -1,0 +1,11 @@
+Metadata-Version: 1.2
+Name: fastapi-cli-service
+Version: 1.0.0
+Summary: Managing FastAPI projects made easy.
+Home-page: https://github.com/sxhxliang/fastapi-cli
+Author: liangshihua
+Author-email: shxh.liang@gmail.com
+License: UNKNOWN
+Description: UNKNOWN
+Platform: UNKNOWN
+Requires-Python: >=3.6.1,<4.0.0
