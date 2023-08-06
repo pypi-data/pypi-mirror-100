@@ -1,0 +1,16 @@
+LICENSE
+MANIFEST.in
+README.md
+package.json
+setup.py
+dash_calendar/Datepicker.py
+dash_calendar/__init__.py
+dash_calendar/_imports_.py
+dash_calendar/dash_calendar.min.js
+dash_calendar/dash_calendar.min.js.map
+dash_calendar/metadata.json
+dash_calendar/package-info.json
+dash_calendar.egg-info/PKG-INFO
+dash_calendar.egg-info/SOURCES.txt
+dash_calendar.egg-info/dependency_links.txt
+dash_calendar.egg-info/top_level.txt
