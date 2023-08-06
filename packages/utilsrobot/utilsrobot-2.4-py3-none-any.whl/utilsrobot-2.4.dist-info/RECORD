@@ -1,0 +1,16 @@
+bot/__init__.py,sha256=KfIXDjNP9kUr_M2Xe5R6zhlinUICQ3IrV9VPffOr588,569
+bot/callbacks.py,sha256=f6ZyDup_zJm_w8h9IEVT8D6l14r08V1Zvzn-0s8DVpg,1835
+bot/config.py,sha256=W_yb5Y3UkgPW1dMjKCouMsx3VT29MycltngylC13PDQ,230
+bot/helptexts.py,sha256=EMepwq90vkPq2lGhxhc3TH-QsuLreYR35zeE2sYWIhQ,5470
+bot/utilsbot.py,sha256=XUE7QuS20qh7oGmjWmU77TwsD8rew-ez0j7Lqxnu5Ec,7083
+bot/sql/__init__.py,sha256=oNQhL9AqrdSTP6YKebt39EXvKUDBCIs-S-pWWnoMKCk,722
+bot/sql/fedssql.py,sha256=j6rtiXrb23oChD357dp5FPesnY-j05pKztG46AtF_qY,27092
+bot/sql/filtersql.py,sha256=TIJOG7WGdFUBvztsRd3kRKFte8eTRGVu6_tu-250T4E,2404
+bot/sql/notessql.py,sha256=jcCbXPZfyAhcLEm0YW90tA3Okw4Wes4UfPAp1tNl_78,2372
+bot/sql/rulessql.py,sha256=uGoO0xj60pILtGIkK2qFaU_s1ttrwi7nWVoIliEHl3o,1394
+bot/sql/welcomesql.py,sha256=BNHPmIXGUU_8a5wGgF6cVO7IZLlJP-AuwNdstHfsZtY,1807
+utilsrobot-2.4.dist-info/LICENSE,sha256=WGf1vqWoj19cREtwKL-v4wYxYMiXugIJgzla-dH3v5k,34523
+utilsrobot-2.4.dist-info/METADATA,sha256=uV2YY-OUcrAYavNwy5Q6FdW9vvrn39qJhgIkO8fTPXk,714
+utilsrobot-2.4.dist-info/WHEEL,sha256=_NOXIqFgOaYmlm9RJLPQZ13BJuEIrp5jx5ptRD5uh3Y,92
+utilsrobot-2.4.dist-info/top_level.txt,sha256=BfGEUPXgtCpne5POfPQ8gBzacfrzBulmV45hd8vheOI,4
+utilsrobot-2.4.dist-info/RECORD,,
