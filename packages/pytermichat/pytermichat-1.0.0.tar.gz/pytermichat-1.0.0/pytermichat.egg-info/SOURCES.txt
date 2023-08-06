@@ -1,0 +1,11 @@
+README.md
+pyproject.toml
+setup.py
+pychat/__init__.py
+pychat/__main__.py
+pychat/client.py
+pychat/server.py
+pytermichat.egg-info/PKG-INFO
+pytermichat.egg-info/SOURCES.txt
+pytermichat.egg-info/dependency_links.txt
+pytermichat.egg-info/top_level.txt
