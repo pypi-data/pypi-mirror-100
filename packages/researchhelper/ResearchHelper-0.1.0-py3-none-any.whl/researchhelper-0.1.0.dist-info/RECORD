@@ -1,0 +1,10 @@
+researchhelper/__init__.py,sha256=7evejN6yJipdwCxCB5LNO-uZoYQy5vzjZLzc8YPOKsQ,243
+researchhelper/dataProcessing.py,sha256=b_OHZKMNHOSLWgv5hQIroOb3WhLgDVPX0QKsw5pyHxQ,3541
+researchhelper/functionalForms.py,sha256=HWG2ji2v7LEbqo4DZs87vBo9stOH5hDUfVys6VGYeHQ,316
+researchhelper/optimizeOrCalibrate.py,sha256=SsIoWa9esaSrwMjeWsFc0u6kTYZNOqFiscoPefubS5E,1182
+researchhelper/scoreFunctions.py,sha256=Xi2ip9BgsqWLyRu0mX3Qr0jMUO6Oep8Leng6GEDVsGY,362
+researchhelper/simulations.py,sha256=mEzqNj7nEKc4tqOYosMq9sK_o9VZB7XPgUJAYDl1RBk,277
+researchhelper/visualize.py,sha256=22AF_0OsEQCBp2wK-EbUym3ybrmzOckJNDcgkyTBKoI,1935
+researchhelper-0.1.0.dist-info/WHEEL,sha256=VN2eEg4PHbTOniXb-cCYQPc6zUTS4dAcATjlgU3q-Lo,83
+researchhelper-0.1.0.dist-info/METADATA,sha256=ypTT3r6R-clqW_tcCFLkyUciwe-_5SOn_9CKo1tUrEc,374
+researchhelper-0.1.0.dist-info/RECORD,,
