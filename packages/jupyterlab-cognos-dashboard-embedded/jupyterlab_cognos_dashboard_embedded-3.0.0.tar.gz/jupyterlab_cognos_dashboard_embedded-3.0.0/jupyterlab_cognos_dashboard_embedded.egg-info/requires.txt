@@ -1,0 +1,8 @@
+notebook
+requests
+traitlets
+jupyter_server
+jupyterlab>=2.0.0
+
+[dev]
+jupyter_packaging~=0.7.9
