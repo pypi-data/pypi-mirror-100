@@ -1,0 +1,11 @@
+[default]
+input = "khquizgen/inputs"
+output = "khquizgen/outputs"
+logs = "khquizgen/logs"
+debug = true
+
+[production]
+input = "khquizgen/inputs"
+output = "khquizgen/outputs"
+logs = "khquizgen/logs"
+debug = false
