@@ -1,0 +1,9 @@
+setup.cfg
+setup.py
+helloworld/__init__.py
+helloworld/server.py
+personal.rfoster.helloworld.egg-info/PKG-INFO
+personal.rfoster.helloworld.egg-info/SOURCES.txt
+personal.rfoster.helloworld.egg-info/dependency_links.txt
+personal.rfoster.helloworld.egg-info/requires.txt
+personal.rfoster.helloworld.egg-info/top_level.txt
