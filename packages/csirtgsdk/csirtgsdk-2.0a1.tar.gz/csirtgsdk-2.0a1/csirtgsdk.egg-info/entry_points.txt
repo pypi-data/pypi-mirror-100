@@ -1,0 +1,4 @@
+[console_scripts]
+csirtg = csirtgsdk.cli:get
+csirtg-create = csirtgsdk.cli:create
+
