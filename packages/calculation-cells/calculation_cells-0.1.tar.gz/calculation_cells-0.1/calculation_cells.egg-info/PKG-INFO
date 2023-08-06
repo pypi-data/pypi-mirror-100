@@ -1,0 +1,20 @@
+Metadata-Version: 2.1
+Name: calculation-cells
+Version: 0.1
+Summary: Library for calculate through formula and variables
+Home-page: https://github.com/dmalisani/calculation_cells
+Author: Daniel Malisani
+Author-email: dmalisani@gmail.com
+License: UNKNOWN
+Description: # README #
+        
+        Library for calculate through formula and variables
+        
+        
+Keywords: calculation,formula,variable
+Platform: UNKNOWN
+Classifier: Development Status :: 3 - Alpha
+Classifier: License :: OSI Approved :: GNU General Public License (GPL)
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.8
+Description-Content-Type: text/markdown
