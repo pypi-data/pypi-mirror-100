@@ -1,0 +1,10 @@
+requirements_filter/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+requirements_filter/requirements_filter.py,sha256=ug1Gq9YxyYPTIeJjijZjaxxLdf_aRkJHYqzFLO-QDag,3274
+tests/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+tests/test_requirements_filter.py,sha256=VgvBigUhhHnxVBMaRV8wlCup4l-7Ab0gHC0x21IVGeU,3559
+requirements_filter-0.0.0rc3.dist-info/LICENSE,sha256=rAfZ99SZdTqifRMxpdnWWdmwf3c-zgVb65nDiBsCnVc,1062
+requirements_filter-0.0.0rc3.dist-info/METADATA,sha256=gLDffarZueX3mngkSNsUu1el_u-18v_8MyUbxod_VA0,2345
+requirements_filter-0.0.0rc3.dist-info/WHEEL,sha256=OqRkF0eY5GHssMorFjlbTIq072vpHpF60fIQA6lS9xA,92
+requirements_filter-0.0.0rc3.dist-info/entry_points.txt,sha256=jdqZk5a1nFjZP6Q8a9VQdqjskgLGhCP0FXOvnNaeajE,69
+requirements_filter-0.0.0rc3.dist-info/top_level.txt,sha256=yOXIl-osovbPE1BKgAueVyRENTBsmVHQas_viGyZ4nI,26
+requirements_filter-0.0.0rc3.dist-info/RECORD,,
