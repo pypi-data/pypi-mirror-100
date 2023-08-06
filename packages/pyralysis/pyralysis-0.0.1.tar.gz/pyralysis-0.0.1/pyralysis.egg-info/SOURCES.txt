@@ -1,0 +1,7 @@
+README.md
+setup.py
+pyralysis.egg-info/PKG-INFO
+pyralysis.egg-info/SOURCES.txt
+pyralysis.egg-info/dependency_links.txt
+pyralysis.egg-info/requires.txt
+pyralysis.egg-info/top_level.txt
