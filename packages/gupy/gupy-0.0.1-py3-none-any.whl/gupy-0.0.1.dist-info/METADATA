@@ -1,0 +1,25 @@
+Metadata-Version: 2.1
+Name: gupy
+Version: 0.0.1
+Summary: 股票助手
+Home-page: https://github.com/davycloud/gupy
+Author: davycloud
+Author-email: daweisi2006@gmail.com
+Requires-Python: >=3.7
+Description-Content-Type: text/markdown
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Development Status :: 1 - Planning
+Classifier: Operating System :: OS Independent
+Classifier: Programming Language :: Python :: 3 :: Only
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Framework :: AsyncIO
+Classifier: Topic :: Office/Business :: Financial
+Classifier: Intended Audience :: Financial and Insurance Industry
+Classifier: Intended Audience :: Developers
+Classifier: Intended Audience :: Information Technology
+
+# gupy
+ 基于Python的股票助手
+
