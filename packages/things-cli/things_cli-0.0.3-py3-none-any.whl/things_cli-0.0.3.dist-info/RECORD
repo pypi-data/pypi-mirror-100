@@ -1,0 +1,9 @@
+tests/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+tests/test_things_cli.py,sha256=rOQnWaTt9wNQjSRI8chF4h9G3zO-L0h9-quczf04AxQ,2865
+things_cli/__init__.py,sha256=jOuNa42lwv1mEGVnMGESPi6kihuTJNqZV91vKG0UuWA,58
+things_cli/cli.py,sha256=jF2euOWWeWLn7_vZRuC-s7ouFT7CDVOtQcDAMYQOuC8,8329
+things_cli-0.0.3.dist-info/METADATA,sha256=xL1UFMJID3I9Uv0spukc1426O_GjaQB1F37_f7aznuA,2929
+things_cli-0.0.3.dist-info/WHEEL,sha256=OqRkF0eY5GHssMorFjlbTIq072vpHpF60fIQA6lS9xA,92
+things_cli-0.0.3.dist-info/entry_points.txt,sha256=prhG7NXccTosF7yELgyK0XLkDHuhdOJocZuqVl_co5U,52
+things_cli-0.0.3.dist-info/top_level.txt,sha256=ZfsCwR9loUS-mkal7aovaJdF-cCi3TciWOvKPu1recE,17
+things_cli-0.0.3.dist-info/RECORD,,
