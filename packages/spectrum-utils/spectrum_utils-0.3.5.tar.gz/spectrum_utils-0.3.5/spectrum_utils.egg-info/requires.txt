@@ -1,0 +1,17 @@
+matplotlib
+numba>=0.47
+numpy
+pyteomics
+
+[dev]
+flake8
+
+[docs]
+numpydoc>=1.1.0
+sphinx>=3.5.3
+sphinx-rtd-theme>=0.5.1
+recommonmark>=0.7.1
+
+[iplot]
+altair
+pandas
