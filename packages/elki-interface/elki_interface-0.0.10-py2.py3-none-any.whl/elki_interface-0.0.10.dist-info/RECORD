@@ -1,0 +1,10 @@
+elki_interface/Elki.py,sha256=GO4kvhtKXt3bO1VlX32PthaWAyg6_OPbQJgfsAnigB4,3015
+elki_interface/Hics.py,sha256=FL_kUA-gjKQyLjjLDRiM0yJL23ZzoOCV73nNB-8JiMo,3415
+elki_interface/__init__.py,sha256=NYQEdTElDDUAyr-NysARGu6bnNkk_oUzjbWV3Pe3MRM,917
+elki_interface/cte.py,sha256=-lObb5lXPbhCtgzXpwBsiHo6domEifJOXuYmKvAP94s,201
+elki_interface-0.0.10.dist-info/AUTHORS.rst,sha256=2rRZ9U7A9emm8yPYff1c6ssyJWiprRroFhTqya7-avc,70
+elki_interface-0.0.10.dist-info/LICENSE.txt,sha256=xl4s3BpTSdrrAllgg4iUaOSBBc4zknRuPFbBW7KTYbg,1073
+elki_interface-0.0.10.dist-info/METADATA,sha256=efUo9TWJCuvJ4VkvLMmtKMcHvCe4OFmpY_HnITPTbV8,1380
+elki_interface-0.0.10.dist-info/WHEEL,sha256=Z-nyYpwrcSqxfdux5Mbn_DQ525iP7J2DG3JgGvOYyTQ,110
+elki_interface-0.0.10.dist-info/top_level.txt,sha256=DbBFLAIgIijrbpOQ4yixgBL-qLb4eS9U8CiACbZDQCQ,15
+elki_interface-0.0.10.dist-info/RECORD,,
