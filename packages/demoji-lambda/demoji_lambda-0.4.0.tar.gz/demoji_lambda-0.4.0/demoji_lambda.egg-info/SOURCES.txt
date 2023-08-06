@@ -1,0 +1,11 @@
+LICENSE
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+demoji_lambda/__init__.py
+demoji_lambda.egg-info/PKG-INFO
+demoji_lambda.egg-info/SOURCES.txt
+demoji_lambda.egg-info/dependency_links.txt
+demoji_lambda.egg-info/requires.txt
+demoji_lambda.egg-info/top_level.txt
