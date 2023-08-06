@@ -1,0 +1,11 @@
+riffle/__init__.py,sha256=Gjw3OCzMLqj5ThwqihsfIWh_dg0qXpIJ-53YTnqpLEE,139
+riffle/_version.py,sha256=3XixHyHxRLi8uCJJGhgLf-Jb2dhsD18vEMVwO1zlM2Y,23
+riffle/browser.py,sha256=XRPswxg8Y9FkzdTDdRvk0VtsghcQ7tlU_Jn8r754x0M,9487
+riffle/icon_factory.py,sha256=Ac82gDLL-DOreX1IAQ9SWxIIYmyVTNOOqjkLssVmt8U,1982
+riffle/model.py,sha256=PooTQXYO271WGu5lnGHpPmslyGAJSawvW-_Nd-JUjYk,15192
+riffle/resource.py,sha256=GoIlbKaFxDzxC2qJqZKSwgQGH-5Lu-ptdhjrDTOIyC4,11070
+Riffle-1.0.1.dist-info/LICENSE.txt,sha256=psuoW8kuDP96RQsdhzwOqi6fyWv0ct8CR6Jr7He_P_k,10173
+Riffle-1.0.1.dist-info/METADATA,sha256=AzigHY3uGC8xBM3C1BGsAbZyD1dpDIAPWarhmXNX1rk,2231
+Riffle-1.0.1.dist-info/WHEEL,sha256=g4nMs7d-Xl9-xC9XovUrsDHGXt-FT0E17Yqo92DEfvY,92
+Riffle-1.0.1.dist-info/top_level.txt,sha256=qpWu0ceTuQKUFhYwvZpWO3qldKVzkFBM3di6ECHzflc,7
+Riffle-1.0.1.dist-info/RECORD,,
