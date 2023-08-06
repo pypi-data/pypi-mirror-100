@@ -1,0 +1,23 @@
+Metadata-Version: 2.1
+Name: geant-tcs-client
+Version: 0.1.0
+Summary: Python module for the GÉANT TCS API
+Home-page: https://github.com/ikreb7/GEANT-TCS-Client
+License: GPL-3.0-or-later
+Author: Robert Grätz
+Requires-Python: ==3.8.5
+Classifier: License :: OSI Approved :: GNU General Public License v3 or later (GPLv3+)
+Classifier: Programming Language :: Python :: 3
+Requires-Dist: click (>=7.1.2,<8.0.0)
+Requires-Dist: httpx (>=0.17.1,<0.18.0)
+Project-URL: Documentation, https://github.com/ikreb7/GEANT-TCS-Client
+Project-URL: Repository, https://github.com/ikreb7/GEANT-TCS-Client
+Description-Content-Type: text/markdown
+
+# GÉANT-TCS-Client (GÉANT Trusted Certificate Service Client)
+
+# Install
+
+    pip install geant-tcs-client
+
+# Example
