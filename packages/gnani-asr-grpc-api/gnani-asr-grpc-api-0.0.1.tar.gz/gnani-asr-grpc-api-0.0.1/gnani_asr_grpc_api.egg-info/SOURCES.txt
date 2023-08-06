@@ -1,0 +1,15 @@
+README.md
+setup.py
+gnani_asr_grpc_api.egg-info/PKG-INFO
+gnani_asr_grpc_api.egg-info/SOURCES.txt
+gnani_asr_grpc_api.egg-info/dependency_links.txt
+gnani_asr_grpc_api.egg-info/requires.txt
+gnani_asr_grpc_api.egg-info/top_level.txt
+gnani_grpc_client/__init__.py
+gnani_grpc_client/client.py
+gnani_grpc_client/stt_pb2.py
+gnani_grpc_client/stt_pb2_grpc.py
+gnani_grpc_client/audio/__init__.py
+gnani_grpc_client/proto/__init__.py
+gnani_grpc_client/proto/stt_pb2.py
+gnani_grpc_client/proto/stt_pb2_grpc.py

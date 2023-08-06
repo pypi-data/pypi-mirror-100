@@ -1,0 +1,17 @@
+Metadata-Version: 1.1
+Name: gnani-asr-grpc-api
+Version: 0.0.1
+Summary: gnani_asr_grpc_api
+Home-page: UNKNOWN
+Author: gnani.ai
+Author-email: <api.service@gnani.ai>
+License: UNKNOWN
+Description: This is a grpc api for transcription of audio to text
+Keywords: python,automatic_text_to_speech
+Platform: UNKNOWN
+Classifier: Development Status :: 3 - Alpha
+Classifier: Intended Audience :: Education
+Classifier: Programming Language :: Python :: 2
+Classifier: Programming Language :: Python :: 3
+Classifier: Operating System :: MacOS :: MacOS X
+Classifier: Operating System :: Microsoft :: Windows
