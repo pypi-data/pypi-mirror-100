@@ -1,0 +1,5 @@
+include lagomorph/extension/include/atomic.cuh
+include lagomorph/extension/include/defs.h
+include lagomorph/extension/include/diff.h
+include lagomorph/extension/include/extrap.h
+include lagomorph/extension/include/interp.h
