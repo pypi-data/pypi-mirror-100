@@ -1,0 +1,15 @@
+hugophotoswipe/__init__.py,sha256=904RRKd7gwYjHgIRFIDN0RLPRR3q_JCNqO8dy_zZYZg,62
+hugophotoswipe/__main__.py,sha256=4mxxie_qYxyBmCGwWQr6yQRzZ5-afg1MLSHqSbBJZvs,203
+hugophotoswipe/__version__.py,sha256=JlD4T9R0Kunyq-Ev2gCRwkXaDHxKz4__6H7lhHv0EQM,88
+hugophotoswipe/album.py,sha256=NryYCU3hE4plQ0s3v_Oyff1z4PELM0CZph2RfaNzem0,11971
+hugophotoswipe/config.py,sha256=RgS2Oex_zNuZHr9BiwyLvl-on0BtNxM_42smC0FGnJ8,3094
+hugophotoswipe/hugophotoswipe.py,sha256=Z6X6D5GjfrcDTroEiYyqZdk6D02JWfoEN9hiSiiybk8,3412
+hugophotoswipe/photo.py,sha256=DD2H4gvAzsdBnOG6gCzvGvaQjUxc27yXU36NexvATBI,14058
+hugophotoswipe/ui.py,sha256=TJbkx8O8fE6cBAp487KEW9mKU2jkKliBqPseDTTbk7A,2800
+hugophotoswipe/utils.py,sha256=bNaU7a3Pie14caRdiA-scFKCi7ReHbqk-cufF4BvomE,2034
+hugophotoswipe-0.3.0.dist-info/LICENSE,sha256=CuBIWlvTemPmNgNZZBfk6w5lMzT6bH-TLKOg6F1K8ic,35148
+hugophotoswipe-0.3.0.dist-info/METADATA,sha256=D7-YzC0w2l5wnKe_kz-Tn2erR81fW_RyZaGasYva-vw,6936
+hugophotoswipe-0.3.0.dist-info/WHEEL,sha256=OqRkF0eY5GHssMorFjlbTIq072vpHpF60fIQA6lS9xA,92
+hugophotoswipe-0.3.0.dist-info/entry_points.txt,sha256=RoFzKhzU-he0WgZhJkoUG_CdxAApZi2AjA47vcfWJHg,54
+hugophotoswipe-0.3.0.dist-info/top_level.txt,sha256=EubgnRU0g_IrAfrl83xJ_uSUAnqkWKbqFee0YlzGBWc,15
+hugophotoswipe-0.3.0.dist-info/RECORD,,
