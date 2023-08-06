@@ -1,0 +1,15 @@
+README.md
+setup.py
+MinecraftWS/__init__.py
+MinecraftWS/agent.py
+MinecraftWS/command.py
+MinecraftWS/event.py
+MinecraftWS/minecraft_websocket.py
+MinecraftWS/packet.py
+MinecraftWS/server.py
+MinecraftWS/utils.py
+MinecraftWS.egg-info/PKG-INFO
+MinecraftWS.egg-info/SOURCES.txt
+MinecraftWS.egg-info/dependency_links.txt
+MinecraftWS.egg-info/requires.txt
+MinecraftWS.egg-info/top_level.txt
