@@ -1,0 +1,16 @@
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+src/hassapi/__init__.py
+src/hassapi/__main__.py
+src/hassapi/exceptions.py
+src/hassapi.egg-info/PKG-INFO
+src/hassapi.egg-info/SOURCES.txt
+src/hassapi.egg-info/dependency_links.txt
+src/hassapi.egg-info/requires.txt
+src/hassapi.egg-info/top_level.txt
+src/hassapi/client/__init__.py
+src/hassapi/client/auth.py
+src/hassapi/client/base.py
+src/hassapi/client/services.py
