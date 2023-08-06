@@ -1,0 +1,15 @@
+Metadata-Version: 1.2
+Name: trio-jupyter
+Version: 0.1.1
+Summary: Trio mode for Jupyter Lab/Notebook
+Home-page: https://github.com/mehaase/trio-jupyter
+Author: Mark E. Haase
+Author-email: mehaase@gmail.com
+License: BSD
+Description: Installs a kernelspec for Jupyter Lab/Notebook based on ipykernel with Trio mode enabled
+Platform: UNKNOWN
+Classifier: Framework :: Trio
+Classifier: License :: OSI Approved :: BSD License
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 3
+Requires-Python: >=3.7
