@@ -1,0 +1,32 @@
+Metadata-Version: 2.1
+Name: hello-world-nagarjun
+Version: 0.1.1
+Summary: A sample Python project
+Home-page: UNKNOWN
+Author: Nagarjun
+License: MIT
+Platform: UNKNOWN
+Requires-Python: >=3.6.0
+Description-Content-Type: text/markdown
+Requires-Dist: numpy
+
+## Hello World
+This is an example
+
+## Installation
+
+Run the following to install:
+
+```python
+pip install hello_world
+```
+
+## Usage
+
+```python
+from helloworld import disp_hello_world
+
+# Generate Hello World!
+disp_hello_world()
+```
+
