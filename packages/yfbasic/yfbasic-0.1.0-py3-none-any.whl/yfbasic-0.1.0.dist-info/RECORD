@@ -1,0 +1,8 @@
+yfbasic/__init__.py,sha256=4dx2-lXwngsF2ZRLhRFki0hBJnE2xZajQcfmL3TonJU,181
+yfbasic/models/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+yfbasic/models/chart.py,sha256=wFMq96fm8MCoozQ3JJHRrGA3McPH9eXYdmmLzaiUCzs,1640
+yfbasic/models/parameters.py,sha256=jZ21ROrTB0Fz1HwUqHa4De8tKSgTBzlUwE0ocYIJ0W4,585
+yfbasic/query.py,sha256=xfxdlFRn1b7mMMRHyreVAHXP5ZcURhWxHLJCvGA095s,2182
+yfbasic-0.1.0.dist-info/WHEEL,sha256=SrtnPGVTMeYWttls9xnWA01eUhCZ3ufFdJUYb1J3r-U,83
+yfbasic-0.1.0.dist-info/METADATA,sha256=UxhEhaJsh0Bp1XAIszqLNTdNzsSHKPzxGoZ700IhM4w,2494
+yfbasic-0.1.0.dist-info/RECORD,,
