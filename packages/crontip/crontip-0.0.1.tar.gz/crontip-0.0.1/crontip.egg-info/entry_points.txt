@@ -1,0 +1,3 @@
+[console_scripts]
+crontip = crontip.__main__:main
+
