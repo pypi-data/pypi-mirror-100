@@ -1,0 +1,12 @@
+anonfiles/__init__.py,sha256=2RU6E-QcHHeS9U-DXM0Ns8rflTr4DYEmP27foI6HYNk,468
+anonfiles/anonfiles.py,sha256=i6ftsT-etnp6dU3Tr0l93-wnCYPofaEG43mQBXSLVTQ,2265
+anonfiles/resp.py,sha256=rYhibA82sMZ9mlhSMmQaVQ0nHrFGbu7PKgZX0ouRu6c,1216
+src/__init__.py,sha256=aUG50FCXD0B9PqRi7GPFgaDlgzzHGD10t0PO-beUFgs,55
+src/anonfiles.py,sha256=zlqlAgYYvJyDMOHwGlLVmntk4X-8K32XW6XJ2UQfVbo,1828
+src/resp.py,sha256=rYhibA82sMZ9mlhSMmQaVQ0nHrFGbu7PKgZX0ouRu6c,1216
+anonfiles_py-0.1.2.dist-info/LICENSE,sha256=0CHR2WdDSUANdeo6bSyrduMdDsYsynUbryTsnir2bpg,1070
+anonfiles_py-0.1.2.dist-info/METADATA,sha256=6hM7nFADDDPxfRwV2vh-fdZ2Qijv5R-mS1z8v6tfZrk,1197
+anonfiles_py-0.1.2.dist-info/WHEEL,sha256=OqRkF0eY5GHssMorFjlbTIq072vpHpF60fIQA6lS9xA,92
+anonfiles_py-0.1.2.dist-info/entry_points.txt,sha256=nAHlsLF4LNU_ueGwgw0YRNVSA7zM9kcYa1TTG4-Qzjk,45
+anonfiles_py-0.1.2.dist-info/top_level.txt,sha256=kfGOl_uiN757GyTN1goVVGpWBzhTdiR60MEC4zqofEQ,10
+anonfiles_py-0.1.2.dist-info/RECORD,,
