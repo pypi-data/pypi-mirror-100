@@ -1,0 +1,8 @@
+README.md
+setup.py
+Dataconvertion/__init__.py
+Dataconvertion/converter.py
+MyImageProject.egg-info/PKG-INFO
+MyImageProject.egg-info/SOURCES.txt
+MyImageProject.egg-info/dependency_links.txt
+MyImageProject.egg-info/top_level.txt
