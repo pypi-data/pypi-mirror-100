@@ -1,0 +1,22 @@
+CHANGES
+=======
+
+0.3.5
+-----
+
+* add screenrecord example
+* fix cmd:install with url which contains ?
+* update readme
+* fix typo, close #42
+* add ipad models fix IOS 14.5 image \_alias wrong
+* add ipa sign script
+* add more command
+* support show all log when setenv DEBUG to 1
+* show less debug log in xctest
+* make openssl as optional
+* fix python 3.6 support. fix #22
+* add tidevice pair command
+* add support tidevice xctest -e USE\_PORT:8100
+* finish cmd: developer, update readme
+* add get ipa embedded.mobileprovision file information function
+* 更新MODELS
