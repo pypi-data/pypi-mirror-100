@@ -1,0 +1,7 @@
+setup.py
+CokgenselSayilar.egg-info/PKG-INFO
+CokgenselSayilar.egg-info/SOURCES.txt
+CokgenselSayilar.egg-info/dependency_links.txt
+CokgenselSayilar.egg-info/top_level.txt
+Rooot/CokgenselSayilar.py
+Rooot/__init__.py
