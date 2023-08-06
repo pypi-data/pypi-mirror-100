@@ -1,0 +1,9 @@
+README.md
+pyproject.toml
+setup.cfg
+src/hello_package/__init__.py
+src/hello_package_pru.egg-info/PKG-INFO
+src/hello_package_pru.egg-info/SOURCES.txt
+src/hello_package_pru.egg-info/dependency_links.txt
+src/hello_package_pru.egg-info/top_level.txt
+src/hi_hello/__init__.py
