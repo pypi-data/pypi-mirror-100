@@ -1,0 +1,5 @@
+[console_scripts]
+easy-to-cython-build = easy_to_cython.build:build
+easy-to-cython-package = easy_to_cython.action:package
+easy-to-cython-release = easy_to_cython.action:release
+

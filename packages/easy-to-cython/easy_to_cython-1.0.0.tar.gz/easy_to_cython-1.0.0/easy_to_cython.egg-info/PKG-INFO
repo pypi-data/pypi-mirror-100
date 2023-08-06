@@ -1,0 +1,34 @@
+Metadata-Version: 2.1
+Name: easy-to-cython
+Version: 1.0.0
+Summary: Simple and easy to packages code replace cython
+Home-page: https://github.com/pypa/sampleproject
+Author: Elijah
+Author-email: 610152942@qq.com
+License: MIT
+Description: ### package code to install
+        python setup.py sdist
+        ### show
+        tree .
+        
+        ###  use twine upload to pypi
+        pip install twine  
+        
+        twine upload dist/*
+        
+        ### install package
+        python setup.py install
+        ### build cython package
+        easy-to-python-build build_ext
+        ### remove origin files, replace cython files
+        easy-to-python-release
+        
+        ### reference resources
+        https://blog.csdn.net/u012419550/article/details/105967006/
+        https://blog.csdn.net/lslxdx/article/details/73131664
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
