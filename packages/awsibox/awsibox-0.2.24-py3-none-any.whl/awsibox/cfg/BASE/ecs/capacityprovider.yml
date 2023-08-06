@@ -1,0 +1,53 @@
+global:
+  ECSCapacityProvider:
+    - Base:
+        IBOXPARAMETER:
+          - IBOXRESNAMEEnabled:
+              Description: 'Empty for mapped value'
+              AllowedValues: ['', 'True', 'False']
+          - IBOXRESNAMEAutoScalingGroupProviderManagedTerminationProtection:
+              Description: 'Empty for mapped value'
+              AllowedValues: ['', 'DISABLED', 'ENABLED']
+          - IBOXRESNAMEAutoScalingGroupProviderManagedScalingMaximumScalingStepSize:
+              Description: 'Empty for mapped value'
+          - IBOXRESNAMEAutoScalingGroupProviderManagedScalingMinimumScalingStepSize:
+              Description: 'Empty for mapped value'
+          - IBOXRESNAMEAutoScalingGroupProviderManagedScalingTargetCapacity:
+              Description: 'Empty for mapped value'
+          - IBOXRESNAMEAutoScalingGroupProviderManagedScalingStatus:
+              Description: 'Empty for mapped value'
+              AllowedValues: ['', 'DISABLED', 'ENABLED']
+        IBOXCONDITION:
+          - IBOXRESNAME:
+              get_condition('', 'equals', 'True', f'{IBOXRESNAME}Enabled')
+        IBOXOBJOUTPUT:
+          - IBOXRESNAME:
+              Condition: IBOXRESNAME
+              Value: >-
+                TerminationProtection= ${AutoScalingGroupProvider.ManagedTerminationProtection}
+                ,MaximumScalingStepSize= ${AutoScalingGroupProvider.ManagedScaling.MaximumScalingStepSize}
+                ,MinimumScalingStepSize= ${AutoScalingGroupProvider.ManagedScaling.MinimumScalingStepSize}
+                ,TargetCapacity= ${AutoScalingGroupProvider.ManagedScaling.TargetCapacity}
+                ,Status= ${AutoScalingGroupProvider.ManagedScaling.Status}
+        Condition: IBOXRESNAME
+        Enabled: 'False'
+        AutoScalingGroupProvider:
+          AutoScalingGroupArn: Ref('AutoScalingGroup')
+          ManagedTerminationProtection: DISABLED
+          ManagedScaling:
+            MaximumScalingStepSize: 10000
+            MinimumScalingStepSize: 1
+            Status: ENABLED
+            TargetCapacity: 75
+        # Trick - Without Name, it's generated starting from StackName, if StackName start with ecs is a problem
+        Name: Sub('CapacityProvider-${AWS::StackName}')
+  ECSClusterCapacityProviderAssociations:
+    - Base:
+        Condition: ECSCapacityProviderBase
+        CapacityProviders:
+          - Ref('ECSCapacityProviderBase')
+        Cluster: Ref('Cluster')
+        DefaultCapacityProviderStrategy:
+          - 0:
+              CapacityProvider: Ref('ECSCapacityProviderBase')
+              Weight: 1
