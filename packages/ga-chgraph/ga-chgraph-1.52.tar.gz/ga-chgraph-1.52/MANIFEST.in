@@ -1,0 +1,2 @@
+include MANIFEST.in
+include clickhouse_api_server/config/graph_config.json
