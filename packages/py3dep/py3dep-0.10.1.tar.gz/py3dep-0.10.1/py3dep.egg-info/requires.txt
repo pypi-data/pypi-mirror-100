@@ -1,0 +1,7 @@
+pygeoogc
+pygeoutils
+
+[test]
+flaky
+pytest
+pytest-xdist
