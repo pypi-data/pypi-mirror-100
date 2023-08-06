@@ -1,0 +1,11 @@
+README.md
+setup.py
+distributions_gj/Binomialdistribution.py
+distributions_gj/Gaussiandistribution.py
+distributions_gj/Generaldistribution.py
+distributions_gj/__init__.py
+distributions_gj.egg-info/PKG-INFO
+distributions_gj.egg-info/SOURCES.txt
+distributions_gj.egg-info/dependency_links.txt
+distributions_gj.egg-info/not-zip-safe
+distributions_gj.egg-info/top_level.txt
