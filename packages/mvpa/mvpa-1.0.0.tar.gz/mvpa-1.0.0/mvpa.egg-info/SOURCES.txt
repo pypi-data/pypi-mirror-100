@@ -1,0 +1,10 @@
+README.md
+setup.py
+mvpa/__init__.py
+mvpa/correlation_searchlight.py
+mvpa/utilities.py
+mvpa.egg-info/PKG-INFO
+mvpa.egg-info/SOURCES.txt
+mvpa.egg-info/dependency_links.txt
+mvpa.egg-info/requires.txt
+mvpa.egg-info/top_level.txt

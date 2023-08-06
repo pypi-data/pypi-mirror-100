@@ -1,0 +1,4 @@
+nilearn
+numpy
+tqdm
+scipy
