@@ -1,0 +1,48 @@
+Metadata-Version: 2.1
+Name: D1scordX
+Version: 0.0.3
+Summary: D1scordX AIO Module
+Home-page: https://github.com/XinGoodGae/D1scordX
+Author: хıи#7777
+Author-email: xingodcontact@gmail.com
+License: MIT License
+Platform: UNKNOWN
+Classifier: Environment :: Web Environment
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
+Description-Content-Type: text/markdown
+Requires-Dist: requests
+Requires-Dist: aiohttp
+Requires-Dist: discord
+Requires-Dist: unidecode
+Requires-Dist: numpy
+Requires-Dist: colorama
+Requires-Dist: discord-webhooks
+
+<p align="center">
+  <b>Link:</b><br>
+  <a href="https://discord.gg/yBA7Wk67rH">Discord</a> |
+  <a href="https://www.youtube.com/c/XinGod">YouTube</a> |
+  <a href="https://github.com/XinOnGithub">Github</a> |
+  <br>
+  <img src="https://cdn.discordapp.com/icons/791223032215240725/a_34b811424e1310fa438832dad9d113cf.gif">
+</p>
+<h1 align="center">Setup</h1>
+
+## Tips:
+- **Install module with**: ``pip install D1scordX``
+
+## Exemple Code:
+```py
+from D1scordX import D1scordX
+
+useragent = 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36'
+CheckTokens('filename.txt',useragent)
+
+#in filename.txt we have token(list)
+```
+
