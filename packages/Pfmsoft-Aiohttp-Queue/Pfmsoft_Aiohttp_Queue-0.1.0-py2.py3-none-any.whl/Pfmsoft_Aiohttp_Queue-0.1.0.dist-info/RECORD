@@ -1,0 +1,13 @@
+pfmsoft/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+pfmsoft/aiohttp_queue/__init__.py,sha256=D_yOTToZGsWJFmDGmESsAsd-MxCpdMw5ndI9Ngg9RD4,280
+pfmsoft/aiohttp_queue/aiohttp.py,sha256=EPQgGuEy9r3uF5vs173b-9kGRJY-361QULfPN763JOE,4278
+pfmsoft/aiohttp_queue/callbacks.py,sha256=xjU2Fis6yFTwfSJR1mnTB4C0ygjkrOO1IWhEzoSRX9Q,5031
+pfmsoft/aiohttp_queue/helpers.py,sha256=zyjsFiOpcphKhA2rcercjmG8bYtbimhV3XCRQ_8TRyg,1374
+pfmsoft/aiohttp_queue/runners.py,sha256=USVZsI-bSicpBQeOvrujH2fRpi0JiCGZr_fZO-q0YRo,2515
+pfmsoft/aiohttp_queue/utilities.py,sha256=MLfF2Ubeg6R13jQEAqNBFcCyn_dUnxKGKJD_PjUVE0o,1814
+Pfmsoft_Aiohttp_Queue-0.1.0.dist-info/AUTHORS.rst,sha256=9ZzQwQnBSQpWMtditwNQuKJ0v3kgo3WHHvupaegUV5I,152
+Pfmsoft_Aiohttp_Queue-0.1.0.dist-info/LICENSE,sha256=MfDwmFt8hNsyacgytstCdDcPs0Od7_257VtMwjBrukY,1067
+Pfmsoft_Aiohttp_Queue-0.1.0.dist-info/METADATA,sha256=b87YDyukT1C32lsueyUmMAsJODrIxl8pDP_tEcSMZpU,1972
+Pfmsoft_Aiohttp_Queue-0.1.0.dist-info/WHEEL,sha256=Z-nyYpwrcSqxfdux5Mbn_DQ525iP7J2DG3JgGvOYyTQ,110
+Pfmsoft_Aiohttp_Queue-0.1.0.dist-info/top_level.txt,sha256=OYSkSArXomcjGyLar9woGvlmfxzUz74DN4VF2Me4XoA,8
+Pfmsoft_Aiohttp_Queue-0.1.0.dist-info/RECORD,,
