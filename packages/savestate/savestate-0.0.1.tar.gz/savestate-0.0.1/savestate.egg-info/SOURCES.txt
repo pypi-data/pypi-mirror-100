@@ -1,0 +1,12 @@
+README.md
+pyproject.toml
+setup.cfg
+savestate/__init__.py
+savestate/savestate.py
+savestate.egg-info/PKG-INFO
+savestate.egg-info/SOURCES.txt
+savestate.egg-info/dependency_links.txt
+savestate.egg-info/top_level.txt
+tests/__init__.py
+tests/benchmark.py
+tests/test_savestate.py
