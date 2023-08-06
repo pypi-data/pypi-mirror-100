@@ -1,0 +1,13 @@
+logreporter/__init__.py,sha256=Y4SkiKjP4jLv8T_TdtKpE1iv62hHYgasjRFGtR3YYCw,66
+logreporter/reporter.py,sha256=t9pbYZHy-sRA8TdPGT737pZNTqoe5BL6ieSiZry9mXQ,3669
+logreporter/reporterloghandler.py,sha256=Tj9S70GeLXneWpnLOLWAN6Qrk6HqDB6oFefEaWXEIr0,4315
+logreporter/formatter/__init__.py,sha256=gFSPxzZ7C0gcCJmmv8ZluK6hV_0Cjt4CsR-Ve0mgD_o,79
+logreporter/formatter/discordreportformatter.py,sha256=hiVXGIdW1PCojEPorkeyfuFdLk81l4JxMgvpZ5TuKHU,1436
+logreporter/report/__init__.py,sha256=LH0MNJGh_h18sKIlTRMKrPsHeC4iEt6w4jInQeSxL5s,66
+logreporter/report/abstractreporter.py,sha256=bdLUi6e8IZqyBy3xiTyFKZfB36nMxYVIpvyM4UNWnmU,824
+logreporter/report/discordwhreporter.py,sha256=jmcE-8IuVtJtVvNTcLnhez3B3yPgAHKYkjHd0t-7bYc,1055
+LogReporter-0.2.0.dist-info/LICENSE,sha256=Q8o7MaEyxoaDVcB5b3mBR8_k3QM-zVRrqufQb2fh_PE,1090
+LogReporter-0.2.0.dist-info/METADATA,sha256=mkmbB_hwEB3QPr-DAdqJI8Y1aeZrUOg3S8cbSWG1BXk,737
+LogReporter-0.2.0.dist-info/WHEEL,sha256=D1Wh14kWDxPnrM-5t_6UCB-UuQNrEODtRa3vF4OsvQY,97
+LogReporter-0.2.0.dist-info/top_level.txt,sha256=cGJ1LxBrFLwGTr185B4fObjsmydom_ibeR6pepL2aIE,12
+LogReporter-0.2.0.dist-info/RECORD,,
