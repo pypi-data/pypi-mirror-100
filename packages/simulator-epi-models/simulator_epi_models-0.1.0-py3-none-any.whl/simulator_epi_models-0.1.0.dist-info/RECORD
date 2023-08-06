@@ -1,0 +1,12 @@
+epi_models/__init__.py,sha256=QBmCMJLRKlp9JZ5xK42FgxH92Bo1wciYwYX5lN5OlFY,272
+epi_models/deterministic_compartmental_model.py,sha256=mMqF168X_x96qPMa_ORYuOhG7R9eSLVU-PKiXZ6VkSU,42514
+epi_models/deterministic_compartmental_model_scenario.py,sha256=YdYNBUbN0pxaYfYPeNq9Fxtu0TSgPkQIH38VCZK28zc,8367
+epi_models/model.py,sha256=7waEXjy1KTAYvzPsF-XQkSMDhDmpXHz6w9_BJslEvkY,2134
+epi_models/params.py,sha256=ZAyMY6LCytKknUawhJ8_sagjN2jd0HNxCm84bklAYtg,786
+epi_models/config/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+epi_models/config/compartmental_model.py,sha256=YNDo9lfnrZbovr4TSIsQf_hgwq_AgUfkxg3cnAeIpNY,2385
+epi_models/config/epidemic_params.py,sha256=OY5I1jwhCTF3G7VtbvgQDGyfHA10jDdNxlyri0oROQ8,1215
+simulator_epi_models-0.1.0.dist-info/METADATA,sha256=rn3IfuSd8Pvk6U-3XVF5z_FjLYMT7rOJnE1pvcBaiEY,474
+simulator_epi_models-0.1.0.dist-info/WHEEL,sha256=OqRkF0eY5GHssMorFjlbTIq072vpHpF60fIQA6lS9xA,92
+simulator_epi_models-0.1.0.dist-info/top_level.txt,sha256=TBEjeqFXDfwvyc17T0GqkeuUTREBBncPGQl8SJF7fY8,11
+simulator_epi_models-0.1.0.dist-info/RECORD,,
