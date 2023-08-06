@@ -1,0 +1,16 @@
+Metadata-Version: 2.1
+Name: setbot
+Version: 0.1.1a1
+Summary: I respond to daily set scores with emoji
+License: MIT
+Author: Vasundhara
+Author-email: vasundhara131719@gmail.com
+Requires-Python: >=3.7,<4.0
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Requires-Dist: aiohttp (>=3.7.4,<4.0.0)
+Requires-Dist: pytz (>=2021.1,<2022.0)
+Requires-Dist: slack-sdk (>=3.4.2,<4.0.0)
