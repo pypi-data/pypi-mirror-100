@@ -1,0 +1,8 @@
+setup.py
+stockcodes/__init__.py
+stockcodes/stockcodes.py
+stockcodes.egg-info/PKG-INFO
+stockcodes.egg-info/SOURCES.txt
+stockcodes.egg-info/dependency_links.txt
+stockcodes.egg-info/requires.txt
+stockcodes.egg-info/top_level.txt
