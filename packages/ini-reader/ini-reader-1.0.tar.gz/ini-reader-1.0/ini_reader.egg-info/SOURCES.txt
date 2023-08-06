@@ -1,0 +1,8 @@
+setup.cfg
+setup.py
+Ini-Reader/ini_reader.py
+Ini-Reader/main.py
+ini_reader.egg-info/PKG-INFO
+ini_reader.egg-info/SOURCES.txt
+ini_reader.egg-info/dependency_links.txt
+ini_reader.egg-info/top_level.txt

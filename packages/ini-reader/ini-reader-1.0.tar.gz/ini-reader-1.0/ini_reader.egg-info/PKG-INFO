@@ -1,0 +1,60 @@
+Metadata-Version: 2.1
+Name: ini-reader
+Version: 1.0
+Summary: Ini Reader For Python
+Home-page: UNKNOWN
+Author: IonE
+Author-email: ivanaperginsky@gmail.com
+License: UNKNOWN
+Description: # Installation
+        
+        ```pip
+        pip install ini-reader
+        ```
+        
+        # Documentation
+        
+        First Import The Module:
+        ```python
+        import ini_reader
+        ```
+        After Lets Create File With Extension ".ini" And Name "Very Important".
+        
+        ```ini
+        [GITHUB]
+        username="hacker228"
+        password=12345
+        ```
+        
+        After Creating Lets Read INI.
+        
+        ```python
+        import ini_reader
+        ini_reader.INIReader.IniRead("Very Important.ini")
+        ini_reader.INIReader.Read("GITHUB", "username", PRINT=1)
+        ```
+        
+        Result:
+        
+        ```python
+        >>> "hacker228"
+        ```
+        
+        Print=0 - Read Files Without Print It
+        Print=1 - Read Files And Print It
+        
+        And Let Get Help Offline:
+        
+        ```python
+        ini_reader.INIReader.Help()
+        ```
+        
+        This Is Full Documentation.
+        
+        #
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License 
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
