@@ -1,0 +1,13 @@
+shelmet/__init__.py,sha256=H2dov1IM5iXl34rmF2qfvlRNq0312aaRlWAAf7qM0FQ,733
+shelmet/archiving.py,sha256=p0-UoB6bC1H7HqjAfE4U3p3jg1ahvzieM4EfBX8mEqc,22938
+shelmet/command.py,sha256=2HbeGIoNoCpfNOdFrJbYlBU_eyQVn0OwMUqQnBCMYIc,21652
+shelmet/fileio.py,sha256=qBsTNPSkQKpNZZmRn9xt87zgjGY-HKoQe30-5qGPi5k,15614
+shelmet/filesystem.py,sha256=XIFt8Wk6cPYahv--g65kR6S87vIoO-yjbO30DSwf27A,20294
+shelmet/path.py,sha256=iu_fK7GbaPSYh2pRNewyvlcspDGFEqxHh065PJ-xEo0,15598
+shelmet/types.py,sha256=Z81daE-FYuNiPcU6NLxMLko5kw6Ko6sqTUQn-ToE6nU,1526
+shelmet-0.6.0.dist-info/AUTHORS.rst,sha256=4utkrJ6C7JmkOUVoj6moY1ukPseSWXmlUM7skzOugGM,151
+shelmet-0.6.0.dist-info/LICENSE.rst,sha256=G7pXwzzORKANLt8HlOFL0MbcFWmk542DTI9BA7jpYj8,1072
+shelmet-0.6.0.dist-info/METADATA,sha256=xH0pbl1bBX3jIyM8oYBQCXujjupNYpx8JYo6PuMqhIk,17228
+shelmet-0.6.0.dist-info/WHEEL,sha256=OqRkF0eY5GHssMorFjlbTIq072vpHpF60fIQA6lS9xA,92
+shelmet-0.6.0.dist-info/top_level.txt,sha256=O-nhv2Vum7FKjTS8I-amExv8BV_Gqb3vOz2BVbeALrM,8
+shelmet-0.6.0.dist-info/RECORD,,
