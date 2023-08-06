@@ -1,0 +1,14 @@
+whist/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+whist/cards.py,sha256=W2ciuqmoX3UX5A1Ri_9O38Z1uwlnexPWkCAleRCnXTs,4520
+whist/game.py,sha256=xWAQNGinPZlPIOgzlC3CrOkjJhagtVsUCEUz7JpjwOI,8030
+whist/game_actions.py,sha256=H-l2YlgToYU98dc1WG11CWDkptYDinHfvypvrfj8GoA,293
+whist/game_ai.py,sha256=03V8yi2pvSmwHI_zjSdRM2-9Qr2jGmouZuJNL7awGJc,374
+whist/game_events.py,sha256=9HoMaI7qetxfKRfa7g7PeYan7vW4E07DOB3nikIgVts,638
+whist/gamestate.py,sha256=JekwQBtBFjtO1JC_PRtQAc5aJ_eNCkV4l_gKLytLs14,1990
+whist/partners.py,sha256=W_7i_90ubIg6yTEKwNJg9NN1iOvce8qAb-VFKPhQEms,2196
+whist/player.py,sha256=CSDHSWUv05qWgXNhaz1CIatE5SydGTKR7m-2hZP_i2o,122
+whist-0.1.0.dist-info/LICENSE,sha256=TMAvAXgjLAOFHAwN3kPZx_wlDFzKFKUcDxEMNdwQGEs,1080
+whist-0.1.0.dist-info/METADATA,sha256=RMaFrKBjQuiWeZNEaYPcSBxlhKnq4phg3bVNGB2-hR4,1334
+whist-0.1.0.dist-info/WHEEL,sha256=OqRkF0eY5GHssMorFjlbTIq072vpHpF60fIQA6lS9xA,92
+whist-0.1.0.dist-info/top_level.txt,sha256=eZf1zVGO8iF7xU1oMYyGSPzWAgWabjv7MVgvJ664Rw4,6
+whist-0.1.0.dist-info/RECORD,,
