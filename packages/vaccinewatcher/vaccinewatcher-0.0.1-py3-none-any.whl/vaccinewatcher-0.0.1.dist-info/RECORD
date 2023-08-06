@@ -1,0 +1,9 @@
+vaccinewatcher/__init__.py,sha256=CoTAUoNzqpnORjjwyu7QHkSVEWWwvvElsFj4Jt4vkEw,89
+vaccinewatcher/logger.py,sha256=egHJRpVgYwl8s3HnU9WZerqzGsbCWwh9LjMDxJiYWHc,3667
+vaccinewatcher/watcher.py,sha256=lcSxAaj1w232eFk4DeIX6hAyYq-J-WFgLOSYne3PPKc,11331
+vaccinewatcher-0.0.1.dist-info/LICENSE,sha256=SKnmHRHmmCG2_zv0GqIVEROmtkbECy4Qz1HXA01AnNI,1066
+vaccinewatcher-0.0.1.dist-info/METADATA,sha256=RbBHdVHtHIbifNdEilB_xNlYllbLNZAUDk1utgBP_FM,6280
+vaccinewatcher-0.0.1.dist-info/WHEEL,sha256=OqRkF0eY5GHssMorFjlbTIq072vpHpF60fIQA6lS9xA,92
+vaccinewatcher-0.0.1.dist-info/entry_points.txt,sha256=5cRoIQBoRy5PWKXreYKZL6LE02DQxdBWru2LAoQzpqg,63
+vaccinewatcher-0.0.1.dist-info/top_level.txt,sha256=l26fxmBK8TJKWxZ4fIK49TmQbxrKWOFw7vh_ybr0bvk,15
+vaccinewatcher-0.0.1.dist-info/RECORD,,
