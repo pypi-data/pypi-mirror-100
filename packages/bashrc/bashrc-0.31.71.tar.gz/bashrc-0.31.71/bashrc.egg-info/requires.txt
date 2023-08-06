@@ -1,0 +1,15 @@
+bump2version
+devtools
+furl
+gitpython
+icecream
+pip
+psutil
+pydantic
+python-box[all]
+semver
+setuptools
+shell_proc
+twine
+typer
+wheel
