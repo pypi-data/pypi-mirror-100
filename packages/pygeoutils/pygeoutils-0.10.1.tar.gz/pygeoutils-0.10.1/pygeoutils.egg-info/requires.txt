@@ -1,0 +1,10 @@
+geopandas
+netCDF4
+pygeoogc
+rasterio
+xarray
+
+[test]
+flaky
+pytest
+pytest-xdist
