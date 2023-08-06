@@ -1,0 +1,10 @@
+authentication_validation/__init__.py,sha256=bVBbfs6ZR9z1w8fc9VlsgStwzDJLa1tq7EjbY3OYx5Y,1367
+authentication_validation/cognito_validation.py,sha256=np53IXykI5AD7oyXvFAYTNWPXiVdV1OOW5PNvECYww0,1692
+authentication_validation/test_cognito_validation.py,sha256=hBxAyHzzt0uTp1E5RmQLHOS3Nafdzqk-CqBj4tloBsI,1111
+models/__init__.py,sha256=9mnSgVehdKdbdVl4hUguKq67BBBLBSSU0IptoLhTE1U,84
+models/availability.py,sha256=x0arf1W8HCsgLr_OQBRFD73p9gk2sPBpr6brXgFcLNM,722
+models/user.py,sha256=0Yukfgjyc24COiDy8Lg39ta6cTyT39BNuun3Ls0eU6Q,1439
+sts_validate_authentication_aws_cognito_tj-0.0.2.dist-info/METADATA,sha256=o7-HumWmFCqKc2mIkMslv0h-DdprSh2darMslTuqTHs,1607
+sts_validate_authentication_aws_cognito_tj-0.0.2.dist-info/WHEEL,sha256=OqRkF0eY5GHssMorFjlbTIq072vpHpF60fIQA6lS9xA,92
+sts_validate_authentication_aws_cognito_tj-0.0.2.dist-info/top_level.txt,sha256=bql0DdS-CyCUswdZMgNl7bk66RU-y_NF7Z1DbbvBgkQ,26
+sts_validate_authentication_aws_cognito_tj-0.0.2.dist-info/RECORD,,
