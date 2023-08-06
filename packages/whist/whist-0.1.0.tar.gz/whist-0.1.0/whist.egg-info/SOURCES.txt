@@ -1,0 +1,17 @@
+LICENSE
+MANIFEST.in
+README.md
+setup.py
+whist/__init__.py
+whist/cards.py
+whist/game.py
+whist/game_actions.py
+whist/game_ai.py
+whist/game_events.py
+whist/gamestate.py
+whist/partners.py
+whist/player.py
+whist.egg-info/PKG-INFO
+whist.egg-info/SOURCES.txt
+whist.egg-info/dependency_links.txt
+whist.egg-info/top_level.txt
