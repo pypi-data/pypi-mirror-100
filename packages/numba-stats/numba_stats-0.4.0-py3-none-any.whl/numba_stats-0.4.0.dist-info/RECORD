@@ -1,0 +1,8 @@
+numba_stats/__init__.py,sha256=5gGWArcud2hKclZ1e1MyHBFb8bb-Vv6EwD8g5hjQZco,558
+numba_stats/_special.py,sha256=Zz5Nyx4RHs7qjP6-DkpaVQ4CzhnFeasStl7OBMcNjWI,1583
+numba_stats/_version.py,sha256=oNdNxnmfP4QTiAYrMw5fQro-OXHrB3j7es2gl3FJ4D8,306
+numba_stats/stats.py,sha256=a7NvZRK-_aRg6e2BOhlt3faA4QijVHvZ7elrxg9tyDY,3352
+numba_stats-0.4.0.dist-info/LICENSE,sha256=6AsEbGZU4YPang_QApyWB3AFVxkPogBN4bmRL_NTevY,1071
+numba_stats-0.4.0.dist-info/WHEEL,sha256=SrtnPGVTMeYWttls9xnWA01eUhCZ3ufFdJUYb1J3r-U,83
+numba_stats-0.4.0.dist-info/METADATA,sha256=1pquXo2s1V0vLXQuBHGmWkDbnNB-4YS64V9u_YsO2b4,2445
+numba_stats-0.4.0.dist-info/RECORD,,
