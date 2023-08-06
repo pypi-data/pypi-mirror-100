@@ -1,0 +1,11 @@
+typeddfs/__init__.py,sha256=73wSvJzsJDXIaxCLEf6IE-LX_wHI0gPtdr17F0pF8go,4898
+typeddfs/base_dfs.py,sha256=IHlL-jNT5lfY2LiHlsxFMnfL6_qoPMYHsvgpttVobkM,29910
+typeddfs/builders.py,sha256=kVAgY00rWGITdY0tQ8Ssm3-Uq0Dtqm6XyCBJZQ6g2rA,6718
+typeddfs/example.csv,sha256=7Bb4DOkFhUj9yR9xDxIpOe6Qb78TqS3soZ9ueOqqprc,24
+typeddfs/example.py,sha256=PG5S8NuwbhePXIecS0htiaZTUdp_Yvajui6gPvQ9oIs,838
+typeddfs/typed_dfs.py,sha256=8qVL5QrLLAe4K4LReZOLVEyOe976gu7fiuA4TM_JdME,10846
+typeddfs/untyped_dfs.py,sha256=-YZl8C2KZVU7g9w_nMdnwbscJmoElhHEZvIFLqUDjqg,1611
+typeddfs-0.6.0.dist-info/LICENSE.txt,sha256=kK0pSsNgDjG-9px82MzK9bBTZ-iXaVkupcxAgGpChdg,10187
+typeddfs-0.6.0.dist-info/WHEEL,sha256=VN2eEg4PHbTOniXb-cCYQPc6zUTS4dAcATjlgU3q-Lo,83
+typeddfs-0.6.0.dist-info/METADATA,sha256=cqdoSBYSC7v2gcu-KAisjlxfWtOogjXUeHN_swgJa6M,9073
+typeddfs-0.6.0.dist-info/RECORD,,
