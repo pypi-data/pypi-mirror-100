@@ -1,0 +1,11 @@
+README.md
+setup.py
+text_menu/__init__.py
+text_menu/formatting.py
+text_menu/menu_user.py
+text_menu/text_menu.py
+text_menu/url_user.py
+text_menu.egg-info/PKG-INFO
+text_menu.egg-info/SOURCES.txt
+text_menu.egg-info/dependency_links.txt
+text_menu.egg-info/top_level.txt
