@@ -1,0 +1,13 @@
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+alva_machinery/__init__.py
+alva_machinery.egg-info/PKG-INFO
+alva_machinery.egg-info/SOURCES.txt
+alva_machinery.egg-info/dependency_links.txt
+alva_machinery.egg-info/top_level.txt
+alva_machinery/branching/__init__.py
+alva_machinery/branching/aWay.py
+alva_machinery/markov/__init__.py
+alva_machinery/markov/aChain.py
