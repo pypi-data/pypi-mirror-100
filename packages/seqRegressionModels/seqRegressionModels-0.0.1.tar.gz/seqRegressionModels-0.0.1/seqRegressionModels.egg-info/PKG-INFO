@@ -1,0 +1,11 @@
+Metadata-Version: 1.0
+Name: seqRegressionModels
+Version: 0.0.1
+Summary: seqRegression models used by WangLab
+Home-page: https://github.com/WangLabTHU/RareDecipher/
+Author: Hanwen Xu
+Author-email: xuhw20@mails.tsinghua.edu.cn
+License: Hanwen
+Description: Including three models
+Keywords: pip,seqRegressionModels
+Platform: any
