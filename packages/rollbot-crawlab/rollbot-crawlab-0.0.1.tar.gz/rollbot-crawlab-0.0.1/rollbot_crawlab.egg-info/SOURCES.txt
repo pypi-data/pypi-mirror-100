@@ -1,0 +1,5 @@
+setup.py
+rollbot_crawlab.egg-info/PKG-INFO
+rollbot_crawlab.egg-info/SOURCES.txt
+rollbot_crawlab.egg-info/dependency_links.txt
+rollbot_crawlab.egg-info/top_level.txt
