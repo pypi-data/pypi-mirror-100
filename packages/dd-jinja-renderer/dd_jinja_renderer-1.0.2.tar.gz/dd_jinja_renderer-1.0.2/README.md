@@ -1,0 +1,7 @@
+Command line tool to generate output from a jinja template
+
+| short | Name          | Description                                                                                                                                                                                                                                                         |
+|-------|---------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| -t    | --template    | Path to the jinja template                                                                                                                                                                                                                                          |
+| -v    | --variables   | May be a string as a JSON which represents the key-value pairs to use for rendering the template. Example (must be on this format; note the double-quotes): -v '{\"VERSION\": \"1.0\"}'. ""May also be a path to a JSON file that describes a set of variables. |
+| -d    | --destination | Path to where the rendered template will go                                                                                                                                                                                                                         |

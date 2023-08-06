@@ -1,0 +1,3 @@
+[console_scripts]
+jinja-renderer = jinja_renderer.__main__:main
+
