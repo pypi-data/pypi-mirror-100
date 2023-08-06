@@ -1,0 +1,13 @@
+Metadata-Version: 2.1
+Name: rstbot
+Version: 1.0
+Summary: A simple framework for RSTBot using Python.
+Home-page: https://github.com/xiyaowong/rstbot
+Author: wongxy
+Author-email: xiyao.wong@foxmail.com
+License: MIT
+Description: See [rstbot](https://github.com/xiyaowong/rstbot).
+Keywords: RSTBot
+Platform: UNKNOWN
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown

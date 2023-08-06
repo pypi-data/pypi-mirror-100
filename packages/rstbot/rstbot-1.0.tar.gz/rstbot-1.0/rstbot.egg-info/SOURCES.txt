@@ -1,0 +1,8 @@
+README.md
+rstbot.py
+setup.py
+rstbot.egg-info/PKG-INFO
+rstbot.egg-info/SOURCES.txt
+rstbot.egg-info/dependency_links.txt
+rstbot.egg-info/requires.txt
+rstbot.egg-info/top_level.txt
