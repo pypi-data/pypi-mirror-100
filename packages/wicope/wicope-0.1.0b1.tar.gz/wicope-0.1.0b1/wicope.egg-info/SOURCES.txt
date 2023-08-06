@@ -1,0 +1,14 @@
+README.md
+setup.py
+wicope/__init__.py
+wicope/__main__.py
+wicope/app.py
+wicope/controller.py
+wicope/device.py
+wicope/main_window.py
+wicope.egg-info/PKG-INFO
+wicope.egg-info/SOURCES.txt
+wicope.egg-info/dependency_links.txt
+wicope.egg-info/entry_points.txt
+wicope.egg-info/requires.txt
+wicope.egg-info/top_level.txt
