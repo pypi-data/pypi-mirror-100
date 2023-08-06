@@ -1,0 +1,11 @@
+dask
+lxml
+py3dep
+pygeoogc
+pygeoutils
+scipy
+
+[test]
+flaky
+pytest
+pytest-xdist

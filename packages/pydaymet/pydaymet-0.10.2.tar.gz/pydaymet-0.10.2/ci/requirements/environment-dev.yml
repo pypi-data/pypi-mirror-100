@@ -1,0 +1,79 @@
+name: dev
+channels:
+  - conda-forge
+  - nodefaults
+dependencies:
+  # pygeoogc deps
+  - aiodns
+  - aiohttp
+  - brotlipy
+  - chardet
+  - cytoolz
+  - defusedxml
+  - nest-asyncio
+  - orjson
+  - owslib
+  - pyproj
+  - requests
+  - setuptools
+  - shapely
+  - simplejson
+
+  # pygeoutils deps
+  - geopandas
+  - netCDF4
+  - rasterio
+  - xarray
+
+  # pynhd deps
+  - networkx
+  - pyarrow
+
+  # pygeohydro deps
+  - folium
+  - lxml
+  - matplotlib-base
+  - openpyxl
+
+  # pydaymet deps
+  # - lxml
+  - dask-core
+  - scipy
+
+  # deps to speed up xarray and geopandas
+  - pygeos
+  - bottleneck
+  - descartes
+
+  # test deps
+  - pytest
+  - pytest-xdist
+  - flaky
+
+  # doc deps
+  - ipykernel
+  - ipython
+  - jupyter_client
+  - recommonmark
+  - nbsphinx
+  - sphinx
+  - sphinx-copybutton
+  - sphinx-gallery
+  - sphinx-autoapi
+
+  # sphinx-material deps
+  - beautifulsoup4
+  - python-slugify
+  - css-html-js-minify
+  - unidecode
+
+  - pip:
+    - nbsphinx_link
+    - git+https://github.com/bashtage/sphinx-material.git
+
+    - git+https://github.com/cheginit/pygeoogc.git
+    - git+https://github.com/cheginit/pygeoutils.git
+    - git+https://github.com/cheginit/pynhd.git
+    - git+https://github.com/cheginit/pygeohydro.git
+    - git+https://github.com/cheginit/py3dep.git
+    - git+https://github.com/cheginit/pydaymet.git
