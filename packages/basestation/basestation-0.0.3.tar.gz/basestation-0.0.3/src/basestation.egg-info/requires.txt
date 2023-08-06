@@ -1,0 +1,6 @@
+bleak<1.0,>=0.1
+
+[testing]
+setuptools
+pytest
+pytest-cov
