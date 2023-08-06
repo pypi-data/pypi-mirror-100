@@ -1,0 +1,12 @@
+README.md
+setup.py
+jupyterhub_ndapfirstuseauthenticator.egg-info/PKG-INFO
+jupyterhub_ndapfirstuseauthenticator.egg-info/SOURCES.txt
+jupyterhub_ndapfirstuseauthenticator.egg-info/dependency_links.txt
+jupyterhub_ndapfirstuseauthenticator.egg-info/requires.txt
+jupyterhub_ndapfirstuseauthenticator.egg-info/top_level.txt
+ndapfirstuseauthenticator/__init__.py
+ndapfirstuseauthenticator/_version.py
+ndapfirstuseauthenticator/firstuseauthenticator.py
+ndapfirstuseauthenticator/templates/__init__.py
+ndapfirstuseauthenticator/templates/reset.html
