@@ -1,0 +1,13 @@
+README.md
+setup.py
+gotrue/__init__.py
+gotrue/api.py
+gotrue/client.py
+gotrue.egg-info/PKG-INFO
+gotrue.egg-info/SOURCES.txt
+gotrue.egg-info/dependency_links.txt
+gotrue.egg-info/top_level.txt
+gotrue/lib/__init__.py
+gotrue/lib/constants.py
+tests/__init__.py
+tests/test_gotrue.py
