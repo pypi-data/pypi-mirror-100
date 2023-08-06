@@ -1,0 +1,19 @@
+Metadata-Version: 2.1
+Name: tail-envs
+Version: 0.0.1
+Summary: OpenAI Gym environments produced by Tail-UFPB
+Home-page: https://github.com/TailUFPB/tail-envs
+Author: Tail-UFPB
+Author-email: tail.ufpb@gmail.com
+License: MIT
+Project-URL: Source, https://github.com/TailUFPB/tail-envs
+Project-URL: Tracker, https://github.com/TailUFPB/tail-envs/issues
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Requires-Dist: pygame
+Requires-Dist: gym
+
+UNKNOWN
+
+
