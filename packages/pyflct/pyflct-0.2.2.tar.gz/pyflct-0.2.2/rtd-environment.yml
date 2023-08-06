@@ -1,0 +1,18 @@
+name: sunpy
+channels:
+  - sunpy
+  - defaults
+dependencies:
+  - graphviz!=2.42.*
+  - pip
+  - python
+  - sphinx
+  - fftw
+  - gcc_linux-64
+  - pip:
+    - matplotlib
+    - sphinx
+    - sphinx-automodapi
+    - sphinx-gallery
+    - sunpy-sphinx-theme
+    - towncrier
