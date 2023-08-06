@@ -1,0 +1,6 @@
+iso8601>=0.1
+oauthlib>=2.0
+pyxdg>=0.2
+PyYAML>=3.0
+requests>=2.0
+requests-oauthlib>=1.0
