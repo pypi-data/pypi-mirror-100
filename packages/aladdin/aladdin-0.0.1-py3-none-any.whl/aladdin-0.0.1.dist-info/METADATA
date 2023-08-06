@@ -1,0 +1,16 @@
+Metadata-Version: 2.1
+Name: aladdin
+Version: 0.0.1
+Summary: Useful deep learning functions
+Home-page: https://github.com/aladdinpersson/DL-Utils
+Author: Aladdin Persson
+Author-email: aladdin.persson@hotmail.com
+License: MIT
+Platform: UNKNOWN
+Description-Content-Type: text/markdown
+Requires-Dist: torch
+
+# dl_utils
+Functions and util functions that I use
+
+
