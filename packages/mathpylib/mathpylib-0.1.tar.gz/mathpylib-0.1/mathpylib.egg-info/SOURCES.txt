@@ -1,0 +1,10 @@
+setup.py
+mathpylib/__init__.py
+mathpylib/__main__.py
+mathpylib/interp.py
+mathpylib.egg-info/PKG-INFO
+mathpylib.egg-info/SOURCES.txt
+mathpylib.egg-info/dependency_links.txt
+mathpylib.egg-info/entry_points.txt
+mathpylib.egg-info/requires.txt
+mathpylib.egg-info/top_level.txt
