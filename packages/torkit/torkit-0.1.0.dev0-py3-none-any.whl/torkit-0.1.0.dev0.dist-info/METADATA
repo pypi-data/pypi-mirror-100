@@ -1,0 +1,26 @@
+Metadata-Version: 2.1
+Name: torkit
+Version: 0.1.0.dev0
+Summary: Pytorch Toolkit
+Home-page: UNKNOWN
+Author: Jiayuan Gu
+Author-email: jigu@eng.ucsd.edu
+License: UNKNOWN
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: Apache Software License
+Classifier: Operating System :: OS Independent
+Classifier: Intended Audience :: Science/Research
+Classifier: Topic :: Scientific/Engineering :: Artificial Intelligence
+Requires-Python: >=3.6
+Requires-Dist: torch (==1.5.1)
+Requires-Dist: numpy
+Requires-Dist: scipy
+Requires-Dist: pytest
+Requires-Dist: yacs
+Requires-Dist: pyyaml
+Requires-Dist: loguru
+
+UNKNOWN
+
+
