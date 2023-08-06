@@ -1,0 +1,4 @@
+click
+PyInquirer
+terrascript
+boto3
