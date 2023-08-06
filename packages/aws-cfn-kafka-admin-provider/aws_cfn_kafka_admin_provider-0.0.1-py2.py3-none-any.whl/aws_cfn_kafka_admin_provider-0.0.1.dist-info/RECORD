@@ -1,0 +1,11 @@
+aws_cfn_kafka_admin_provider/__init__.py,sha256=2sD0ODqwGI1l2bZSQwZVVH15eesQp8yUmwAm25tx410,138
+aws_cfn_kafka_admin_provider/aws_cfn_kafka_admin_provider.py,sha256=kkBUSyLu7YDLdC3mEpVzNdKeDvWMxddY1nnn22hmrsI,2781
+aws_cfn_kafka_admin_provider/cli.py,sha256=kMJJiF0nCVTg1RJGu4E8gvSu3ek7wOhXv3Tn_fo51w8,1452
+aws_cfn_kafka_admin_provider/model.py,sha256=PMWJJ62LKSGqm3ZTr8pUZUirkyVSOWEByEf8iGT9ck0,1713
+aws_cfn_kafka_admin_provider-0.0.1.dist-info/AUTHORS.rst,sha256=yrBd8dQF9m_X1_BCB_97oBijBy1YpqwvJtAS7aty-SY,156
+aws_cfn_kafka_admin_provider-0.0.1.dist-info/LICENSE,sha256=HyVuytGSiAUQ6ErWBHTqt1iSGHhLmlC8fO7jTCuR8dU,16725
+aws_cfn_kafka_admin_provider-0.0.1.dist-info/METADATA,sha256=G9PKFR86FPfSUx8aEMj8PVT7uBjMN898Q5Zy4__IupM,2811
+aws_cfn_kafka_admin_provider-0.0.1.dist-info/WHEEL,sha256=Z-nyYpwrcSqxfdux5Mbn_DQ525iP7J2DG3JgGvOYyTQ,110
+aws_cfn_kafka_admin_provider-0.0.1.dist-info/entry_points.txt,sha256=qRPGWoaf_E_effLD7vLrRLlayZDBN_5MMgRivtH7i3A,88
+aws_cfn_kafka_admin_provider-0.0.1.dist-info/top_level.txt,sha256=Vc1YCyCmzl8ga2zpQhoEg-FRhR60d0zrtsAMhKknUIo,29
+aws_cfn_kafka_admin_provider-0.0.1.dist-info/RECORD,,
