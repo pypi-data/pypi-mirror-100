@@ -1,0 +1,22 @@
+Metadata-Version: 2.1
+Name: idservice
+Version: 1.2.2
+Summary: Distributed ID generator microservice based on FastAPI
+Home-page: https://github.com/tommyxu/idservice
+License: MIT
+Author: Xu Yijun
+Author-email: xuyijun@gmail.com
+Requires-Python: >=3.7,<4.0
+Classifier: Development Status :: 4 - Beta
+Classifier: Environment :: Console
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Topic :: Software Development :: Libraries
+Requires-Dist: configprops (>=1.4.0,<2.0.0)
+Requires-Dist: fastapi (>=0.63.0,<0.64.0)
+Requires-Dist: uvicorn[standard] (>=0.13.4,<0.14.0)
+Project-URL: Repository, https://github.com/tommyxu/idservice
