@@ -1,0 +1,3 @@
+[console_scripts]
+idservice-start=idservice.__main__:main
+
