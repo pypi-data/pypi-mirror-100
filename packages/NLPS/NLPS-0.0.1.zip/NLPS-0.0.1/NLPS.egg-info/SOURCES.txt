@@ -1,0 +1,7 @@
+README.rst
+setup.py
+NLPS.egg-info/PKG-INFO
+NLPS.egg-info/SOURCES.txt
+NLPS.egg-info/dependency_links.txt
+NLPS.egg-info/top_level.txt
+wnlp/__init__.py

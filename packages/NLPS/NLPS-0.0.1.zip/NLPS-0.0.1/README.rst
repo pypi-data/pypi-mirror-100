@@ -1,0 +1,1 @@
+NLPS is a library for building Natural Language Processing System with Python, and this library was writen by Wei Wei.
