@@ -1,0 +1,100 @@
+Metadata-Version: 2.1
+Name: scinet-josugoar
+Version: 0.5.0
+Summary: Network science abstract data types
+Home-page: https://github.com/josugoar/scinet
+Author: josugoar
+License: UNKNOWN
+Download-URL: https://github.com/josugoar/scinet/archive/v0.5.0.tar.gz
+Project-URL: Source, https://github.com/josugoar/scinet
+Keywords: algorithms data-structures docker graph library pipenv python unittest
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.8
+Description-Content-Type: text/markdown
+
+<p align="center">
+  <img src="assets/scinet.png" alt="scinet" width="640" height="320" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/build-passing-blue" alt="build" />
+  <img src="https://img.shields.io/badge/author-josugoar-green" alt="author" />
+  <img src="https://img.shields.io/badge/license-MIT-red" alt="license" />
+  <img src="https://img.shields.io/badge/pypi-v0.4.9-yellow" alt="pypi" />
+  <img src="https://img.shields.io/badge/python->=3.8-orange" alt="python" />
+</p>
+
+<h1></h1>
+
+> Graph theory abstract data type.
+
+**scinet.Graph** is designed upon the [graph (abstract data type)](https://en.wikipedia.org/wiki/Graph_(abstract_data_type)) definition and functions as a bare bones skeletal graph data mapping, containing abstract vertices and edges.
+
+Includes DiGraph and MultiGraph support, with HyperGraph capabilities.
+
+# Installation
+
+1. Install [Python >= 3.8](https://www.python.org/downloads/)
+2. Install [scinet]()
+```sh
+$ pip install scinet-josugoar
+```
+
+# Usage
+
+Import **scinet**
+```py
+import scinet as sn
+```
+
+Create graph
+```py
+G = sn.Graph()
+```
+
+Manipulate data
+
+* add_vertex
+```py
+G.add_vertex(vertex := "foo")
+```
+
+* add_edge
+
+Edges must be assigned using hashable keys so that no name conflicts exist between source_vertex and target_vertex edges
+```py
+key = G.add_edge(source_vertex := "foo", target_vertex := "bar"[, edge := "foobar"])
+```
+
+* remove_vertex
+```py
+G.remove_vertex(vertex := "foo")
+```
+
+* remove_edge
+```py
+G.remove_edge(source_vertex := "foo", target_vertex := "bar"[, edge := "foobar"])")
+```
+
+* adjacent
+```py
+(target_vertex := "bar") in G[(source_vertex := "foo")]
+>>> True
+```
+
+* neighbors
+```py
+set(G[(vertex := "foo")])
+>>> { "neighbor_1", "neighbor_2", ... }
+```
+
+See [docs](docs/scinet.html) for further details.
+
+# Contributors
+
+* **josugoar** - *Main contributor* - [GitHub](https://github.com/josugoar)
+
+
