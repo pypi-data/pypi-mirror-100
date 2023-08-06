@@ -1,0 +1,33 @@
+Metadata-Version: 2.1
+Name: nickffs-transliteration
+Version: 0.0.4
+Summary: Hinglish --> Hindi transliteration
+Home-page: https://github.com/Bhavnicksm/nickffs-transliteration
+Author: bhavnicksm
+Author-email: bhavnicksm@gmail.com
+License: UNKNOWN
+Project-URL: Bug Tracker, https://github.com/Bhavnicksm/nickffs-transliteration/issues
+Keywords: Artificial Intelligence,Transliteration,PyTorch,Hindi,Hinglish
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
+Requires-Dist: torch (>=1.6)
+Requires-Dist: torchtext (>=0.8)
+
+# hindi-transliteration
+A transformer model that transliterates Hinglish words to hindi. 
+
+
+## Usage
+
+```python
+from transliterate import Translit
+transliterator = Translit()
+transliterator.transliterate("Abhilash")
+```
+
+
+
