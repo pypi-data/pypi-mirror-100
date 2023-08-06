@@ -1,0 +1,10 @@
+README.md
+pyproject.toml
+setup.py
+src/dexec/__init__.py
+src/dexec/__main__.py
+src/dexec.egg-info/PKG-INFO
+src/dexec.egg-info/SOURCES.txt
+src/dexec.egg-info/dependency_links.txt
+src/dexec.egg-info/entry_points.txt
+src/dexec.egg-info/top_level.txt
