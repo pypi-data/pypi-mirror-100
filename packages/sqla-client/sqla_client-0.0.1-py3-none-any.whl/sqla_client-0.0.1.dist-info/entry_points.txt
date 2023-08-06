@@ -1,0 +1,4 @@
+[console_scripts]
+clone-dashboard-and-queries=sqla_client.examples.clone_dashboard_and_queries:main
+export-queries=sqla_client.examples.query_export:main
+

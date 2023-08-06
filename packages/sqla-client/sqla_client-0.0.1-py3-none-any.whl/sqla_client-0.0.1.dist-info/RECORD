@@ -1,0 +1,11 @@
+sqla_client/__init__.py,sha256=aCx4AqVaLKeiA6_MfmKrqM4GdZnx0bubrt7G7lCC-sQ,68
+sqla_client/client.py,sha256=NJ_84xfuaBqxXhMDAjsZ5_5A5fjbpAkkZeB4e3JqrH4,3974
+sqla_client/date_ranges.py,sha256=BsvVPgsHhqb8asud5gFigVcxkWMcCyuuFGjIhvS9OoM,4374
+sqla_client/examples/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+sqla_client/examples/clone_dashboard_and_queries.py,sha256=QP-3SBO5y8YphuZ0kg9f6xwBZvkI2Wcvyk6YgOcJhaE,2855
+sqla_client/examples/query_export.py,sha256=KTz2S4y3FJi6yKmL-9rkY6ElilFS7IzYWF_QGsnV-wU,1035
+sqla_client-0.0.1.dist-info/entry_points.txt,sha256=VGbFBWW3HiX_uiT1dYRMl8hfcLwA3BcrPd4c5ImO1V8,155
+sqla_client-0.0.1.dist-info/LICENSE,sha256=95Y_ZhuaCszhTnP9P2rpu3IFuSjf9SkyWe2XfwN0P_8,3489
+sqla_client-0.0.1.dist-info/WHEEL,sha256=VN2eEg4PHbTOniXb-cCYQPc6zUTS4dAcATjlgU3q-Lo,83
+sqla_client-0.0.1.dist-info/METADATA,sha256=ezHn0gFIXtWupnlbIZGMG_Hu_5IebyqZ98jvMihIrF0,580
+sqla_client-0.0.1.dist-info/RECORD,,
