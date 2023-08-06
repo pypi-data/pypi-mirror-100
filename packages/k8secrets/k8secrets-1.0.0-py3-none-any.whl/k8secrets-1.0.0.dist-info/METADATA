@@ -1,0 +1,15 @@
+Metadata-Version: 2.1
+Name: k8secrets
+Version: 1.0.0
+Summary: Generate Kubernetes Configs and Secrets from a list of environment variables
+Home-page: https://github.com/Luminaar/k8secret
+License: MIT
+Author: Max K.
+Author-email: kovykmax@gmail.com
+Requires-Python: >=3.7,<4.0
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Project-URL: Repository, https://github.com/Luminaar/k8secret

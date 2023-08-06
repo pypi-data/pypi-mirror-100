@@ -1,0 +1,10 @@
+k8secrets/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+k8secrets/__main__.py,sha256=o0DEkjx20NJuGwNS9cayFrj3WcaZOBuGCbIbWbwVX8k,2390
+k8secrets/generator.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+k8secrets/py.typed,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+k8secrets/secrets.py,sha256=-9jDhRGyfPMZjVSRHZVQwdU-k1NDQMPVRcnpUGFbFC0,2022
+k8secrets-1.0.0.dist-info/entry_points.txt,sha256=7qOwMbE5jbo1lAHhACSfHoFjgDr5dXw96qeShPk5PD0,53
+k8secrets-1.0.0.dist-info/LICENSE,sha256=bVomPCGRpPCqRlf4nUjFxXT9CrNRV6x8khwglbDzrb8,1068
+k8secrets-1.0.0.dist-info/WHEEL,sha256=VN2eEg4PHbTOniXb-cCYQPc6zUTS4dAcATjlgU3q-Lo,83
+k8secrets-1.0.0.dist-info/METADATA,sha256=77Bhb8qiib-LpV42S505h9_hXT7vfMGD41OH_KQtIbs,587
+k8secrets-1.0.0.dist-info/RECORD,,
