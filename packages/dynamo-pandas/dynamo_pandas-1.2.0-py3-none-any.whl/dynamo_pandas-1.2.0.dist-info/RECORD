@@ -1,0 +1,11 @@
+dynamo_pandas/__init__.py,sha256=Vfz4rkFQHtUvLGoauNx0N29cL8eZ0J_tKNWp_G8ATEE,178
+dynamo_pandas/dynamo_pandas.py,sha256=lz4YZeQkJpaQ_5WmAZb0oUZ83zAK98w5pRZhC4YOCX8,8113
+dynamo_pandas/serde/__init__.py,sha256=Kuv-4wRO4GZp_WlSiKiTClJ4p_qUwFjIdJmlypsBYXQ,120
+dynamo_pandas/serde/serde.py,sha256=jejXrAKL3LSqhPS8tbv9uDMZknj5UgdjTGEKZkVLqCE,2693
+dynamo_pandas/transactions/__init__.py,sha256=YfVGiAd64eDu08yN2FOj4b5XB_T8B28g8YdI1Ryff4g,261
+dynamo_pandas/transactions/transactions.py,sha256=PCebFU9wO-nILCWywLFnLuc2XpA8dVtFapNoJw3VIY0,9511
+dynamo_pandas-1.2.0.dist-info/LICENSE,sha256=KY_f-NraCVC0uMMdUKAQWKTlEl39BCWjJ50O-Mw_pKY,1108
+dynamo_pandas-1.2.0.dist-info/METADATA,sha256=hZkKPW947dt2nYShCEBLfljFeMqzj66x01x7nd5swRE,7516
+dynamo_pandas-1.2.0.dist-info/WHEEL,sha256=OqRkF0eY5GHssMorFjlbTIq072vpHpF60fIQA6lS9xA,92
+dynamo_pandas-1.2.0.dist-info/top_level.txt,sha256=8KgHpmSh04QC4VPTGj7j4u3OxpLDWxjcQbGOt0kWYNU,14
+dynamo_pandas-1.2.0.dist-info/RECORD,,
