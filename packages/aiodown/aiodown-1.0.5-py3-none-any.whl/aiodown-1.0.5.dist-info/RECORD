@@ -1,0 +1,13 @@
+aiodown/__init__.py,sha256=ALD9NaXxNENdi8vQRjjAtHQYraA5P8Awt3JlTYPLyKg,1264
+aiodown/client.py,sha256=mhcuovzbeJbLF19gTvM9hD-0b4tPJ3JNY85tn55ddF4,5527
+aiodown/errors/__init__.py,sha256=jHDmuZDSlsYJml0BKdEMwsTcYn7Sd0BArnUIZEUjs80,1269
+aiodown/errors/finished.py,sha256=jVJrwYuOaf0rEjn2HqCeYV5PmK4WQ4IPFdyNPeVjT2E,1312
+aiodown/errors/paused.py,sha256=i3JGpBKep5HPZeKis8b-yuZvWi93JPxtKyTr_FY3xTM,1283
+aiodown/errors/progress.py,sha256=3PGLijj6I4qhn4snxZ0hJoAzs2rNHWGgc36EVKZI1Mg,1290
+aiodown/types/__init__.py,sha256=xxQ_ktX9WRuDL9qM8haQMpgh-xuLSWAOYmBMCCU8yZ4,1159
+aiodown/types/download.py,sha256=m14z_q_P04X7RsV4-lwamkPyggSdrmOuuxU2LurvOTs,19095
+aiodown-1.0.5.dist-info/LICENSE,sha256=chkEbGsh3SPZ8CtukLb-YE0GWxVnu2RjzwgU3_ZZ5y0,1066
+aiodown-1.0.5.dist-info/METADATA,sha256=nSHMj-lza9LoGL7E-zUpsjZCipdA93R4X45Q-IPB5N0,3250
+aiodown-1.0.5.dist-info/WHEEL,sha256=OqRkF0eY5GHssMorFjlbTIq072vpHpF60fIQA6lS9xA,92
+aiodown-1.0.5.dist-info/top_level.txt,sha256=2i1iektd9Nkj1bkzxokgAZtE2jJ-osZ9oEnGAh7GE2o,8
+aiodown-1.0.5.dist-info/RECORD,,
