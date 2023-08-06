@@ -1,0 +1,20 @@
+Metadata-Version: 2.1
+Name: rm-options
+Version: 0.2.0
+Summary: python package for easy cli options handling
+Home-page: https://github.com/MartinR2295/rm-options
+Author: Martin Rader
+Author-email: m1rader@edu.aau.at
+License: MIT
+Platform: UNKNOWN
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.7
+Description-Content-Type: text/markdown
+
+# rm-options
+
+python package for easier cli options handling.
+
+More docs later ..
+
