@@ -1,0 +1,15 @@
+setup.cfg
+setup.py
+noobiez/__init__.py
+noobiez/connector.py
+noobiez/lic.py
+noobiez/noobiez.py
+noobiez.egg-info/PKG-INFO
+noobiez.egg-info/SOURCES.txt
+noobiez.egg-info/dependency_links.txt
+noobiez.egg-info/requires.txt
+noobiez.egg-info/top_level.txt
+noobiez/api/client/__init__.py
+noobiez/api/client/discovery.py
+noobiez/api/client/resources.py
+noobiez/api/client/schemas.py
