@@ -1,0 +1,8 @@
+README.md
+setup.py
+yt-channel-subscribe/__init__.py
+yt_channel_subscribe.egg-info/PKG-INFO
+yt_channel_subscribe.egg-info/SOURCES.txt
+yt_channel_subscribe.egg-info/dependency_links.txt
+yt_channel_subscribe.egg-info/requires.txt
+yt_channel_subscribe.egg-info/top_level.txt
