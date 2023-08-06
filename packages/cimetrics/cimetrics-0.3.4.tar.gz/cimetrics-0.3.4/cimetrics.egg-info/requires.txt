@@ -1,0 +1,8 @@
+pymongo
+pyyaml
+gitpython
+requests
+matplotlib
+numpy
+pandas
+adtk
