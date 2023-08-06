@@ -1,0 +1,8 @@
+README.md
+setup.py
+ednevnik/__init__.py
+ednevnik.egg-info/PKG-INFO
+ednevnik.egg-info/SOURCES.txt
+ednevnik.egg-info/dependency_links.txt
+ednevnik.egg-info/requires.txt
+ednevnik.egg-info/top_level.txt
