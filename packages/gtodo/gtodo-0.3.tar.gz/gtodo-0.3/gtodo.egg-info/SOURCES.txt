@@ -1,0 +1,9 @@
+README.md
+main.py
+setup.py
+gtodo.egg-info/PKG-INFO
+gtodo.egg-info/SOURCES.txt
+gtodo.egg-info/dependency_links.txt
+gtodo.egg-info/entry_points.txt
+gtodo.egg-info/requires.txt
+gtodo.egg-info/top_level.txt
