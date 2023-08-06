@@ -1,0 +1,14 @@
+LICENSE
+MANIFEST.in
+README.md
+setup.py
+bin/idchecker
+idchecker.egg-info/PKG-INFO
+idchecker.egg-info/SOURCES.txt
+idchecker.egg-info/dependency_links.txt
+idchecker.egg-info/requires.txt
+idchecker.egg-info/top_level.txt
+src/__init__.py
+src/idchecker.py
+src/op_darwin
+src/op_linux
