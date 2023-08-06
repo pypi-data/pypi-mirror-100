@@ -1,0 +1,22 @@
+Metadata-Version: 2.1
+Name: thonny-codelive
+Version: 0.0.1
+Summary: Thonny plugin for live collaboration using MQTT
+Home-page: https://github.com/codelive-project/thonny-codelive
+Author: Codelive Project
+Author-email: sgz4@students.calvin.edu
+License: License :: OSI Approved :: MIT License
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.7
+Description-Content-Type: text/markdown
+Requires-Dist: paho-mqtt (>=1.5.1)
+Requires-Dist: thonny (>=3.2.7)
+Requires-Dist: sortedcontainers (>=2.3.0)
+
+# codelive
+Collaboration plug-in for thonny
+
+
