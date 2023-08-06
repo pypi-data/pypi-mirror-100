@@ -1,0 +1,13 @@
+olsq_cirq/__init__.py,sha256=Qjaq00WkeYp39vanmcNFmT2AEVbvmYkpqSpJRF1faFk,43
+olsq_cirq/input.py,sha256=3m_qx7FS8N8nTmf9EUM3_crYLmi1k2Tm1XtMMpV2SbU,1242
+olsq_cirq/output.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+olsq_cirq/solve.py,sha256=9wKOI0ia1UR3qn3oOIH8XZ8fuiknF8S9HBlEmYQmowE,4471
+olsq_qiskit/__init__.py,sha256=WpO3g4alizbEvn2G0img46bZn85on-iJFLmZg-QWouM,47
+olsq_qiskit/input.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+olsq_qiskit/output.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+olsq_qiskit/solve.py,sha256=J696bDz2Qopbkt3O0OWfZ551dS44JdkVd6Gjyt79HR4,2453
+olsq-0.0.1.dist-info/LICENSE,sha256=qM3dsfpTMnjiW3xO7yTzxk1FZqeEt9D7dN9uWXU4-zQ,1527
+olsq-0.0.1.dist-info/METADATA,sha256=te7iTmwVsudQUAPHwzk32Fq_82Y0BLtTfmmuK2JtVms,9269
+olsq-0.0.1.dist-info/WHEEL,sha256=OqRkF0eY5GHssMorFjlbTIq072vpHpF60fIQA6lS9xA,92
+olsq-0.0.1.dist-info/top_level.txt,sha256=_FfbUFjhdqCr-3irC3nZicoHJJeUd7encHZO0u3Jgc4,22
+olsq-0.0.1.dist-info/RECORD,,
