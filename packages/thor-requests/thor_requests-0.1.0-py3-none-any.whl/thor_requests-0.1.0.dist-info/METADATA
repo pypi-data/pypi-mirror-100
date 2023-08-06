@@ -1,0 +1,49 @@
+Metadata-Version: 2.1
+Name: thor-requests
+Version: 0.1.0
+Summary: VeChain for humans
+Home-page: https://github.com/laalaguer/thor-requests
+Author: laalaguer
+Author-email: laalaguer@gmail.com
+License: UNKNOWN
+Project-URL: Documentation, https://github.com/laalaguer/thor-requests
+Project-URL: Source, https://github.com/laalaguer/thor-requests
+Project-URL: Issue Tracker, https://github.com/laalaguer/thor-requests/issues
+Keywords: vechain thor blockchain sdk requests
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: Intended Audience :: Developers
+Classifier: Topic :: Software Development :: Build Tools
+Classifier: License :: OSI Approved :: GNU General Public License v3 (GPLv3)
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
+Requires-Dist: requests
+Requires-Dist: thor-devkit (>=1.0.11)
+
+VeChain for humans.
+
+This library enables you to talk to VeChain blockchain without hassle.
+
+## Install
+
+**Coming soon once uploaded to pypi**
+
+## Local Development
+
+```bash
+# Local dependencies
+$ make install
+```
+
+## Examples
+
+**Debug a known transaction**
+
+```bash
+# activate environment & run exmample
+$ source .env/bin/activate
+$ python3 example-debug.py
+```
+
+
