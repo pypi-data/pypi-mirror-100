@@ -1,0 +1,9 @@
+README.md
+setup.py
+src/split_layer/__init__.py
+src/split_layer/split_layer.py
+src/split_layer.egg-info/PKG-INFO
+src/split_layer.egg-info/SOURCES.txt
+src/split_layer.egg-info/dependency_links.txt
+src/split_layer.egg-info/entry_points.txt
+src/split_layer.egg-info/top_level.txt
