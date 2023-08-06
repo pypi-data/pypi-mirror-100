@@ -1,0 +1,10 @@
+eventstreams_sdk/__init__.py,sha256=30ZW14G1cyu8E1bn5fK-B9vQUM8-cmQPOztGjR5u-0o,857
+eventstreams_sdk/adminrest_v1.py,sha256=xXwAchgYlvZM0Jz8BzIMzkzjTLfgOpAVdk13yWoB1-g,38737
+eventstreams_sdk/common.py,sha256=3jPf0nUShBzZPVloUe6s4OMBGwbk6a_agjZo1VpFofM,2401
+eventstreams_sdk/version.py,sha256=FGcjUuMrCYKZQNA03-1NzYRUrxtQ_ENQwFwXAws-o6Y,661
+eventstreams_sdk-1.1.1.dist-info/LICENSE,sha256=S061J5S00zlLAIThr4lhVNqGcCudjDSbfQO9lRn38HQ,11357
+eventstreams_sdk-1.1.1.dist-info/METADATA,sha256=GhqeGrjBW-vC23m-UOjLAtCh101Q24Pk-9g4AP49JAw,21146
+eventstreams_sdk-1.1.1.dist-info/WHEEL,sha256=OqRkF0eY5GHssMorFjlbTIq072vpHpF60fIQA6lS9xA,92
+eventstreams_sdk-1.1.1.dist-info/top_level.txt,sha256=YpxqKHFfn4y4cud8mWeamb4HHQWY9mca-vdrjKgDHM8,17
+eventstreams_sdk-1.1.1.dist-info/zip-safe,sha256=AbpHGcgLb-kRsJGnwFEktk7uzpZOCcBY74-YBdrKVGs,1
+eventstreams_sdk-1.1.1.dist-info/RECORD,,
