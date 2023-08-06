@@ -1,0 +1,9 @@
+LICENSE
+README.md
+setup.cfg
+setup.py
+victor_pecas.egg-info/PKG-INFO
+victor_pecas.egg-info/SOURCES.txt
+victor_pecas.egg-info/dependency_links.txt
+victor_pecas.egg-info/requires.txt
+victor_pecas.egg-info/top_level.txt
