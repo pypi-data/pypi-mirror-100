@@ -1,0 +1,63 @@
+/*
+Author: Valerio Maggio < @leriomaggio >
+Code: https://github.com/leriomaggio/notexbook-jupyter-theme
+License: Apache License 2.0
+
+ ======================================================
+
+The color palette is inspired by
+the default GitHub light theme
+Repo: https://github.com/primer/github-syntax-light
+*/
+
+:root {
+    /* Color Palette */
+    --gh-dark-grey: #505050;
+    --gh-grey: #b8b8b8;
+    --gh-light-grey: #6a737d;
+    --gh-lighter-grey: #e2e2e2;
+    --gh-antrax: #24292e;
+    --gh-white: #ffffff;
+    --gh-red: #d73a49;
+    --gh-orange: #e36209;
+    --gh-dark-orange: #f14c00;
+    --gh-purple: #6f42c1;
+    --gh-light-yellow: #fff9eb;
+    --gh-yellow: #ffea7f;
+    --gh-blue: #005cc5;
+    --gh-dark-blue: #032f62;
+    --gh-green: #22863a;
+
+    /* Editor Theme */
+    --gh-code-background-color: var(--gh-white);
+    --gh-gutter-background: var(--gh-white);
+    --gh-selection-background-color: var(--gh-light-yellow);
+    --gh-line-numbers: var(--gh-grey);
+    --gh-cursor: var(--gh-dark-grey);
+    --gh-bracket: var(--gh-light-grey);
+    --gh-matching-bracket: var(--gh-dark-orange);
+    --gh-code-text-color: var(--gh-antrax);
+    --gh-keywords: var(--gh-red);
+    --gh-types: var(--gh-red);
+    --gh-variables: var(--gh-code-text-color);
+    --gh-variables2: var(--gh-blue);
+    --gh-def: var(--gh-purple);
+    --gh-property: var(--gh-code-text-color);
+    --gh-meta: var(--gh-purple);
+    --gh-builtin: var(--gh-yellow);
+    --gh-attribute: var(--gh-code-text-color);
+    --gh-strings: var(--gh-dark-blue);
+    --gh-strings2: var(--gh-light-grey);
+    --gh-comments: var(--gh-light-grey);
+    --gh-operator: var(--gh-blue);
+    --gh-numbers: var(--gh-blue);
+    /* Dataframe */
+    --gh-dataframe: var(--gh-code-text-color);
+    --gh-df-bg: var(--gh-white);
+    --gh-df-thead: var(--gh-blue);
+    --gh-df-thead-border: var(--gh-dark-blue);
+    --gh-df-tr-hover: var(--gh-selection-background-color);
+    --gh-df-border: var(--gh-white);
+    --gh-df-border-right: var(--gh-grey);
+    --gh-df-th-bg: var(--gh-white);
+}
