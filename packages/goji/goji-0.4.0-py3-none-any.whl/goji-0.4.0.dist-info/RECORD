@@ -1,0 +1,13 @@
+goji/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+goji/__main__.py,sha256=xm-guj-DdGYOy3GwBMEmaG3bIYcmoJTLPmKoH0etNfs,37
+goji/auth.py,sha256=pg3MqmDGJSrg-TFR5WXA35oVwjoHw6IrgSpFE_dPiJo,1607
+goji/client.py,sha256=XpovwV-tERrd3M-0HN5CAydpKbTI7PP7C7cEsnkFFeo,7162
+goji/commands.py,sha256=gc1LWrVx1naYjZfsE1kbtNj-9ccobqBG4QsyPEWjOdE,12411
+goji/config.py,sha256=b5lcaiUMQKegcdC_nUKpv9HWDsa50MxGA1zEOR03CV4,2060
+goji/models.py,sha256=wSkp9bzu3tQ4x_8cPWJq5gCzNMOh5bD2JkW25IIF_5o,6126
+goji/utils.py,sha256=-5GT2JPpvLqUASlyGoaCsQ3wU0dTtmc3UVcCUtZtzsw,711
+goji-0.4.0.dist-info/entry_points.txt,sha256=tP6QJXKtzy3sfWkQTtBP-4xPSU_JbS7Hr6BoakkVkkY,42
+goji-0.4.0.dist-info/LICENSE,sha256=GBKfoSZr72Qo78ZbBt0RzvaJGqW_AeGNQpPNnXrxSys,1298
+goji-0.4.0.dist-info/WHEEL,sha256=VN2eEg4PHbTOniXb-cCYQPc6zUTS4dAcATjlgU3q-Lo,83
+goji-0.4.0.dist-info/METADATA,sha256=0zO0bMwRRJg5rXCObVZGbAq6GpByiTcRn9kxe0D9AcM,686
+goji-0.4.0.dist-info/RECORD,,
