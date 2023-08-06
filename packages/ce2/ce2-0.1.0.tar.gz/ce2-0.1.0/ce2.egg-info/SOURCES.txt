@@ -1,0 +1,10 @@
+README.md
+ce2.py
+setup.cfg
+setup.py
+ce2.egg-info/PKG-INFO
+ce2.egg-info/SOURCES.txt
+ce2.egg-info/dependency_links.txt
+ce2.egg-info/entry_points.txt
+ce2.egg-info/requires.txt
+ce2.egg-info/top_level.txt
