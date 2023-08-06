@@ -1,0 +1,14 @@
+Metadata-Version: 2.1
+Name: repFind
+Version: 1.0.1
+Summary: For finding the tendom repeats in both ends of you sequence.
+Home-page: UNKNOWN
+Author: Yong Deng
+Author-email: yodeng@tju.edu.com
+License: MIT
+Platform: UNKNOWN
+Requires-Python: >=2.7.10, <3
+
+For finding the tendom repeats in both ends of you sequence.
+
+
