@@ -1,0 +1,701 @@
+[2021-03-24 14:43:52] ERROR django.request pid:20483 log.py:230 Internal Server Error: /
+Traceback (most recent call last):
+  File "/Users/xzr/.virtualenvs/djmyframework/lib/python3.7/site-packages/django/core/handlers/exception.py", line 47, in inner
+    response = get_response(request)
+  File "/Users/xzr/.virtualenvs/djmyframework/lib/python3.7/site-packages/django_user_agents/middleware.py", line 14, in __call__
+    return self.get_response(request)
+  File "/Users/xzr/.virtualenvs/djmyframework/lib/python3.7/site-packages/asgiref/sync.py", line 122, in __call__
+    self._run_event_loop, loop, awaitable
+  File "/Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/concurrent/futures/thread.py", line 153, in submit
+    raise RuntimeError('cannot schedule new futures after '
+RuntimeError: cannot schedule new futures after interpreter shutdown
+[2021-03-24 14:43:52] ERROR django.request pid:20483 log.py:230 Internal Server Error: /
+Traceback (most recent call last):
+  File "/Users/xzr/.virtualenvs/djmyframework/lib/python3.7/site-packages/django/core/handlers/exception.py", line 47, in inner
+    response = get_response(request)
+  File "/Users/xzr/.virtualenvs/djmyframework/lib/python3.7/site-packages/django_user_agents/middleware.py", line 14, in __call__
+    return self.get_response(request)
+  File "/Users/xzr/.virtualenvs/djmyframework/lib/python3.7/site-packages/asgiref/sync.py", line 122, in __call__
+    self._run_event_loop, loop, awaitable
+  File "/Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/concurrent/futures/thread.py", line 153, in submit
+    raise RuntimeError('cannot schedule new futures after '
+RuntimeError: cannot schedule new futures after interpreter shutdown
+[2021-03-24 14:43:52] ERROR django.request pid:20483 log.py:230 Internal Server Error: /
+Traceback (most recent call last):
+  File "/Users/xzr/.virtualenvs/djmyframework/lib/python3.7/site-packages/django/core/handlers/exception.py", line 47, in inner
+    response = get_response(request)
+  File "/Users/xzr/.virtualenvs/djmyframework/lib/python3.7/site-packages/django_user_agents/middleware.py", line 14, in __call__
+    return self.get_response(request)
+  File "/Users/xzr/.virtualenvs/djmyframework/lib/python3.7/site-packages/asgiref/sync.py", line 122, in __call__
+    self._run_event_loop, loop, awaitable
+  File "/Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/concurrent/futures/thread.py", line 153, in submit
+    raise RuntimeError('cannot schedule new futures after '
+RuntimeError: cannot schedule new futures after interpreter shutdown
+[2021-03-24 14:52:19] WARNING root pid:20727 middleware.py:81 Traceback (most recent call last):
+  File "/Users/xzr/.virtualenvs/djmyframework/lib/python3.7/site-packages/asgiref/sync.py", line 339, in thread_handler
+    raise exc_info[1]
+  File "/Users/xzr/.virtualenvs/djmyframework/lib/python3.7/site-packages/django/core/handlers/base.py", line 233, in _get_response_async
+    response = await wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Users/xzr/.virtualenvs/djmyframework/lib/python3.7/site-packages/asgiref/sync.py", line 304, in __call__
+    ret = await asyncio.wait_for(future, timeout=None)
+  File "/Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/asyncio/tasks.py", line 388, in wait_for
+    return await fut
+  File "/Users/xzr/.virtualenvs/djmyframework/lib/python3.7/site-packages/asgiref/current_thread_executor.py", line 23, in run
+    result = self.fn(*self.args, **self.kwargs)
+  File "/Users/xzr/.virtualenvs/djmyframework/lib/python3.7/site-packages/asgiref/sync.py", line 343, in thread_handler
+    return func(*args, **kwargs)
+  File "/Users/xzr/.virtualenvs/djmyframework/lib/python3.7/site-packages/django/views/decorators/csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "/Users/xzr/.virtualenvs/djmyframework/lib/python3.7/site-packages/rest_framework/viewsets.py", line 125, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/Users/xzr/.virtualenvs/djmyframework/lib/python3.7/site-packages/rest_framework/views.py", line 511, in dispatch
+    self.response = self.finalize_response(request, response, *args, **kwargs)
+  File "/Users/xzr/.virtualenvs/djmyframework/lib/python3.7/site-packages/rest_framework/views.py", line 426, in finalize_response
+    % type(response)
+AssertionError: Expected a `Response`, `HttpResponse` or `HttpStreamingResponse` to be returned from the view, but received a `<class 'coroutine'>`
+
+[2021-03-24 14:52:19] ERROR django.request pid:20727 log.py:230 Internal Server Error: /i18n/js
+Traceback (most recent call last):
+  File "/Users/xzr/.virtualenvs/djmyframework/lib/python3.7/site-packages/asgiref/sync.py", line 339, in thread_handler
+    raise exc_info[1]
+  File "/Users/xzr/.virtualenvs/djmyframework/lib/python3.7/site-packages/django/core/handlers/exception.py", line 38, in inner
+    response = await get_response(request)
+  File "/Users/xzr/.virtualenvs/djmyframework/lib/python3.7/site-packages/django/core/handlers/base.py", line 233, in _get_response_async
+    response = await wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Users/xzr/.virtualenvs/djmyframework/lib/python3.7/site-packages/asgiref/sync.py", line 304, in __call__
+    ret = await asyncio.wait_for(future, timeout=None)
+  File "/Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/asyncio/tasks.py", line 388, in wait_for
+    return await fut
+  File "/Users/xzr/.virtualenvs/djmyframework/lib/python3.7/site-packages/asgiref/current_thread_executor.py", line 23, in run
+    result = self.fn(*self.args, **self.kwargs)
+  File "/Users/xzr/.virtualenvs/djmyframework/lib/python3.7/site-packages/asgiref/sync.py", line 343, in thread_handler
+    return func(*args, **kwargs)
+  File "/Users/xzr/.virtualenvs/djmyframework/lib/python3.7/site-packages/django/views/decorators/csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "/Users/xzr/.virtualenvs/djmyframework/lib/python3.7/site-packages/rest_framework/viewsets.py", line 125, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/Users/xzr/.virtualenvs/djmyframework/lib/python3.7/site-packages/rest_framework/views.py", line 511, in dispatch
+    self.response = self.finalize_response(request, response, *args, **kwargs)
+  File "/Users/xzr/.virtualenvs/djmyframework/lib/python3.7/site-packages/rest_framework/views.py", line 426, in finalize_response
+    % type(response)
+AssertionError: Expected a `Response`, `HttpResponse` or `HttpStreamingResponse` to be returned from the view, but received a `<class 'coroutine'>`
+[2021-03-24 14:57:46] WARNING root pid:20810 middleware.py:81 Traceback (most recent call last):
+  File "/Users/xzr/.virtualenvs/djmyframework/lib/python3.7/site-packages/asgiref/sync.py", line 339, in thread_handler
+    raise exc_info[1]
+  File "/Users/xzr/.virtualenvs/djmyframework/lib/python3.7/site-packages/django/core/handlers/base.py", line 233, in _get_response_async
+    response = await wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Users/xzr/.virtualenvs/djmyframework/lib/python3.7/site-packages/asgiref/sync.py", line 304, in __call__
+    ret = await asyncio.wait_for(future, timeout=None)
+  File "/Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/asyncio/tasks.py", line 388, in wait_for
+    return await fut
+  File "/Users/xzr/.virtualenvs/djmyframework/lib/python3.7/site-packages/asgiref/current_thread_executor.py", line 23, in run
+    result = self.fn(*self.args, **self.kwargs)
+  File "/Users/xzr/.virtualenvs/djmyframework/lib/python3.7/site-packages/asgiref/sync.py", line 343, in thread_handler
+    return func(*args, **kwargs)
+  File "/Users/xzr/.virtualenvs/djmyframework/lib/python3.7/site-packages/django/views/decorators/csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "/Users/xzr/.virtualenvs/djmyframework/lib/python3.7/site-packages/rest_framework/viewsets.py", line 125, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/Users/xzr/.virtualenvs/djmyframework/lib/python3.7/site-packages/rest_framework/views.py", line 511, in dispatch
+    self.response = self.finalize_response(request, response, *args, **kwargs)
+  File "/Users/xzr/.virtualenvs/djmyframework/lib/python3.7/site-packages/rest_framework/views.py", line 426, in finalize_response
+    % type(response)
+AssertionError: Expected a `Response`, `HttpResponse` or `HttpStreamingResponse` to be returned from the view, but received a `<class 'coroutine'>`
+
+[2021-03-24 14:57:47] ERROR django.request pid:20810 log.py:230 Internal Server Error: /i18n/js
+Traceback (most recent call last):
+  File "/Users/xzr/.virtualenvs/djmyframework/lib/python3.7/site-packages/asgiref/sync.py", line 339, in thread_handler
+    raise exc_info[1]
+  File "/Users/xzr/.virtualenvs/djmyframework/lib/python3.7/site-packages/django/core/handlers/exception.py", line 38, in inner
+    response = await get_response(request)
+  File "/Users/xzr/.virtualenvs/djmyframework/lib/python3.7/site-packages/django/core/handlers/base.py", line 233, in _get_response_async
+    response = await wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Users/xzr/.virtualenvs/djmyframework/lib/python3.7/site-packages/asgiref/sync.py", line 304, in __call__
+    ret = await asyncio.wait_for(future, timeout=None)
+  File "/Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/asyncio/tasks.py", line 388, in wait_for
+    return await fut
+  File "/Users/xzr/.virtualenvs/djmyframework/lib/python3.7/site-packages/asgiref/current_thread_executor.py", line 23, in run
+    result = self.fn(*self.args, **self.kwargs)
+  File "/Users/xzr/.virtualenvs/djmyframework/lib/python3.7/site-packages/asgiref/sync.py", line 343, in thread_handler
+    return func(*args, **kwargs)
+  File "/Users/xzr/.virtualenvs/djmyframework/lib/python3.7/site-packages/django/views/decorators/csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "/Users/xzr/.virtualenvs/djmyframework/lib/python3.7/site-packages/rest_framework/viewsets.py", line 125, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/Users/xzr/.virtualenvs/djmyframework/lib/python3.7/site-packages/rest_framework/views.py", line 511, in dispatch
+    self.response = self.finalize_response(request, response, *args, **kwargs)
+  File "/Users/xzr/.virtualenvs/djmyframework/lib/python3.7/site-packages/rest_framework/views.py", line 426, in finalize_response
+    % type(response)
+AssertionError: Expected a `Response`, `HttpResponse` or `HttpStreamingResponse` to be returned from the view, but received a `<class 'coroutine'>`
+[2021-03-24 14:57:47] WARNING root pid:20810 middleware.py:81 Traceback (most recent call last):
+  File "/Users/xzr/.virtualenvs/djmyframework/lib/python3.7/site-packages/asgiref/sync.py", line 339, in thread_handler
+    raise exc_info[1]
+  File "/Users/xzr/.virtualenvs/djmyframework/lib/python3.7/site-packages/django/core/handlers/base.py", line 233, in _get_response_async
+    response = await wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Users/xzr/.virtualenvs/djmyframework/lib/python3.7/site-packages/asgiref/sync.py", line 304, in __call__
+    ret = await asyncio.wait_for(future, timeout=None)
+  File "/Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/asyncio/tasks.py", line 388, in wait_for
+    return await fut
+  File "/Users/xzr/.virtualenvs/djmyframework/lib/python3.7/site-packages/asgiref/current_thread_executor.py", line 23, in run
+    result = self.fn(*self.args, **self.kwargs)
+  File "/Users/xzr/.virtualenvs/djmyframework/lib/python3.7/site-packages/asgiref/sync.py", line 343, in thread_handler
+    return func(*args, **kwargs)
+  File "/Users/xzr/.virtualenvs/djmyframework/lib/python3.7/site-packages/django/views/decorators/csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "/Users/xzr/.virtualenvs/djmyframework/lib/python3.7/site-packages/rest_framework/viewsets.py", line 125, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/Users/xzr/.virtualenvs/djmyframework/lib/python3.7/site-packages/rest_framework/views.py", line 511, in dispatch
+    self.response = self.finalize_response(request, response, *args, **kwargs)
+  File "/Users/xzr/.virtualenvs/djmyframework/lib/python3.7/site-packages/rest_framework/views.py", line 426, in finalize_response
+    % type(response)
+AssertionError: Expected a `Response`, `HttpResponse` or `HttpStreamingResponse` to be returned from the view, but received a `<class 'coroutine'>`
+
+[2021-03-24 14:57:47] ERROR django.request pid:20810 log.py:230 Internal Server Error: /i18n/js
+Traceback (most recent call last):
+  File "/Users/xzr/.virtualenvs/djmyframework/lib/python3.7/site-packages/asgiref/sync.py", line 339, in thread_handler
+    raise exc_info[1]
+  File "/Users/xzr/.virtualenvs/djmyframework/lib/python3.7/site-packages/django/core/handlers/exception.py", line 38, in inner
+    response = await get_response(request)
+  File "/Users/xzr/.virtualenvs/djmyframework/lib/python3.7/site-packages/django/core/handlers/base.py", line 233, in _get_response_async
+    response = await wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Users/xzr/.virtualenvs/djmyframework/lib/python3.7/site-packages/asgiref/sync.py", line 304, in __call__
+    ret = await asyncio.wait_for(future, timeout=None)
+  File "/Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/asyncio/tasks.py", line 388, in wait_for
+    return await fut
+  File "/Users/xzr/.virtualenvs/djmyframework/lib/python3.7/site-packages/asgiref/current_thread_executor.py", line 23, in run
+    result = self.fn(*self.args, **self.kwargs)
+  File "/Users/xzr/.virtualenvs/djmyframework/lib/python3.7/site-packages/asgiref/sync.py", line 343, in thread_handler
+    return func(*args, **kwargs)
+  File "/Users/xzr/.virtualenvs/djmyframework/lib/python3.7/site-packages/django/views/decorators/csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "/Users/xzr/.virtualenvs/djmyframework/lib/python3.7/site-packages/rest_framework/viewsets.py", line 125, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/Users/xzr/.virtualenvs/djmyframework/lib/python3.7/site-packages/rest_framework/views.py", line 511, in dispatch
+    self.response = self.finalize_response(request, response, *args, **kwargs)
+  File "/Users/xzr/.virtualenvs/djmyframework/lib/python3.7/site-packages/rest_framework/views.py", line 426, in finalize_response
+    % type(response)
+AssertionError: Expected a `Response`, `HttpResponse` or `HttpStreamingResponse` to be returned from the view, but received a `<class 'coroutine'>`
+[2021-03-24 14:57:49] WARNING root pid:20810 middleware.py:81 Traceback (most recent call last):
+  File "/Users/xzr/.virtualenvs/djmyframework/lib/python3.7/site-packages/asgiref/sync.py", line 339, in thread_handler
+    raise exc_info[1]
+  File "/Users/xzr/.virtualenvs/djmyframework/lib/python3.7/site-packages/django/core/handlers/base.py", line 233, in _get_response_async
+    response = await wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Users/xzr/.virtualenvs/djmyframework/lib/python3.7/site-packages/asgiref/sync.py", line 304, in __call__
+    ret = await asyncio.wait_for(future, timeout=None)
+  File "/Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/asyncio/tasks.py", line 388, in wait_for
+    return await fut
+  File "/Users/xzr/.virtualenvs/djmyframework/lib/python3.7/site-packages/asgiref/current_thread_executor.py", line 23, in run
+    result = self.fn(*self.args, **self.kwargs)
+  File "/Users/xzr/.virtualenvs/djmyframework/lib/python3.7/site-packages/asgiref/sync.py", line 343, in thread_handler
+    return func(*args, **kwargs)
+  File "/Users/xzr/.virtualenvs/djmyframework/lib/python3.7/site-packages/django/views/decorators/csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "/Users/xzr/.virtualenvs/djmyframework/lib/python3.7/site-packages/rest_framework/viewsets.py", line 125, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/Users/xzr/.virtualenvs/djmyframework/lib/python3.7/site-packages/rest_framework/views.py", line 511, in dispatch
+    self.response = self.finalize_response(request, response, *args, **kwargs)
+  File "/Users/xzr/.virtualenvs/djmyframework/lib/python3.7/site-packages/rest_framework/views.py", line 426, in finalize_response
+    % type(response)
+AssertionError: Expected a `Response`, `HttpResponse` or `HttpStreamingResponse` to be returned from the view, but received a `<class 'coroutine'>`
+
+[2021-03-24 14:57:49] ERROR django.request pid:20810 log.py:230 Internal Server Error: /i18n/js
+Traceback (most recent call last):
+  File "/Users/xzr/.virtualenvs/djmyframework/lib/python3.7/site-packages/asgiref/sync.py", line 339, in thread_handler
+    raise exc_info[1]
+  File "/Users/xzr/.virtualenvs/djmyframework/lib/python3.7/site-packages/django/core/handlers/exception.py", line 38, in inner
+    response = await get_response(request)
+  File "/Users/xzr/.virtualenvs/djmyframework/lib/python3.7/site-packages/django/core/handlers/base.py", line 233, in _get_response_async
+    response = await wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Users/xzr/.virtualenvs/djmyframework/lib/python3.7/site-packages/asgiref/sync.py", line 304, in __call__
+    ret = await asyncio.wait_for(future, timeout=None)
+  File "/Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/asyncio/tasks.py", line 388, in wait_for
+    return await fut
+  File "/Users/xzr/.virtualenvs/djmyframework/lib/python3.7/site-packages/asgiref/current_thread_executor.py", line 23, in run
+    result = self.fn(*self.args, **self.kwargs)
+  File "/Users/xzr/.virtualenvs/djmyframework/lib/python3.7/site-packages/asgiref/sync.py", line 343, in thread_handler
+    return func(*args, **kwargs)
+  File "/Users/xzr/.virtualenvs/djmyframework/lib/python3.7/site-packages/django/views/decorators/csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "/Users/xzr/.virtualenvs/djmyframework/lib/python3.7/site-packages/rest_framework/viewsets.py", line 125, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/Users/xzr/.virtualenvs/djmyframework/lib/python3.7/site-packages/rest_framework/views.py", line 511, in dispatch
+    self.response = self.finalize_response(request, response, *args, **kwargs)
+  File "/Users/xzr/.virtualenvs/djmyframework/lib/python3.7/site-packages/rest_framework/views.py", line 426, in finalize_response
+    % type(response)
+AssertionError: Expected a `Response`, `HttpResponse` or `HttpStreamingResponse` to be returned from the view, but received a `<class 'coroutine'>`
+[2021-03-24 14:57:51] WARNING root pid:20810 middleware.py:81 Traceback (most recent call last):
+  File "/Users/xzr/.virtualenvs/djmyframework/lib/python3.7/site-packages/asgiref/sync.py", line 339, in thread_handler
+    raise exc_info[1]
+  File "/Users/xzr/.virtualenvs/djmyframework/lib/python3.7/site-packages/django/core/handlers/base.py", line 233, in _get_response_async
+    response = await wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Users/xzr/.virtualenvs/djmyframework/lib/python3.7/site-packages/asgiref/sync.py", line 304, in __call__
+    ret = await asyncio.wait_for(future, timeout=None)
+  File "/Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/asyncio/tasks.py", line 388, in wait_for
+    return await fut
+  File "/Users/xzr/.virtualenvs/djmyframework/lib/python3.7/site-packages/asgiref/current_thread_executor.py", line 23, in run
+    result = self.fn(*self.args, **self.kwargs)
+  File "/Users/xzr/.virtualenvs/djmyframework/lib/python3.7/site-packages/asgiref/sync.py", line 343, in thread_handler
+    return func(*args, **kwargs)
+  File "/Users/xzr/.virtualenvs/djmyframework/lib/python3.7/site-packages/django/views/decorators/csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "/Users/xzr/.virtualenvs/djmyframework/lib/python3.7/site-packages/rest_framework/viewsets.py", line 125, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/Users/xzr/.virtualenvs/djmyframework/lib/python3.7/site-packages/rest_framework/views.py", line 511, in dispatch
+    self.response = self.finalize_response(request, response, *args, **kwargs)
+  File "/Users/xzr/.virtualenvs/djmyframework/lib/python3.7/site-packages/rest_framework/views.py", line 426, in finalize_response
+    % type(response)
+AssertionError: Expected a `Response`, `HttpResponse` or `HttpStreamingResponse` to be returned from the view, but received a `<class 'coroutine'>`
+
+[2021-03-24 14:57:51] ERROR django.request pid:20810 log.py:230 Internal Server Error: /i18n/js
+Traceback (most recent call last):
+  File "/Users/xzr/.virtualenvs/djmyframework/lib/python3.7/site-packages/asgiref/sync.py", line 339, in thread_handler
+    raise exc_info[1]
+  File "/Users/xzr/.virtualenvs/djmyframework/lib/python3.7/site-packages/django/core/handlers/exception.py", line 38, in inner
+    response = await get_response(request)
+  File "/Users/xzr/.virtualenvs/djmyframework/lib/python3.7/site-packages/django/core/handlers/base.py", line 233, in _get_response_async
+    response = await wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Users/xzr/.virtualenvs/djmyframework/lib/python3.7/site-packages/asgiref/sync.py", line 304, in __call__
+    ret = await asyncio.wait_for(future, timeout=None)
+  File "/Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/asyncio/tasks.py", line 388, in wait_for
+    return await fut
+  File "/Users/xzr/.virtualenvs/djmyframework/lib/python3.7/site-packages/asgiref/current_thread_executor.py", line 23, in run
+    result = self.fn(*self.args, **self.kwargs)
+  File "/Users/xzr/.virtualenvs/djmyframework/lib/python3.7/site-packages/asgiref/sync.py", line 343, in thread_handler
+    return func(*args, **kwargs)
+  File "/Users/xzr/.virtualenvs/djmyframework/lib/python3.7/site-packages/django/views/decorators/csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "/Users/xzr/.virtualenvs/djmyframework/lib/python3.7/site-packages/rest_framework/viewsets.py", line 125, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/Users/xzr/.virtualenvs/djmyframework/lib/python3.7/site-packages/rest_framework/views.py", line 511, in dispatch
+    self.response = self.finalize_response(request, response, *args, **kwargs)
+  File "/Users/xzr/.virtualenvs/djmyframework/lib/python3.7/site-packages/rest_framework/views.py", line 426, in finalize_response
+    % type(response)
+AssertionError: Expected a `Response`, `HttpResponse` or `HttpStreamingResponse` to be returned from the view, but received a `<class 'coroutine'>`
+[2021-03-24T18:27:11+0800] [WARNING] [root] [pid:25919] [middleware.py:81] Traceback (most recent call last):
+  File "/Users/xzr/.virtualenvs/djmyframework/lib/python3.7/site-packages/django/template/backends/jinja2.py", line 41, in get_template
+    return Template(self.env.get_template(template_name), self)
+  File "/Users/xzr/.virtualenvs/djmyframework/lib/python3.7/site-packages/jinja2/environment.py", line 883, in get_template
+    return self._load_template(name, self.make_globals(globals))
+  File "/Users/xzr/.virtualenvs/djmyframework/lib/python3.7/site-packages/jinja2/environment.py", line 857, in _load_template
+    template = self.loader.load(self, name, globals)
+  File "/Users/xzr/.virtualenvs/djmyframework/lib/python3.7/site-packages/jinja2/loaders.py", line 127, in load
+    code = environment.compile(source, name, filename)
+  File "/Users/xzr/.virtualenvs/djmyframework/lib/python3.7/site-packages/jinja2/environment.py", line 638, in compile
+    self.handle_exception(source=source_hint)
+  File "/Users/xzr/.virtualenvs/djmyframework/lib/python3.7/site-packages/jinja2/environment.py", line 832, in handle_exception
+    reraise(*rewrite_traceback_stack(source=source))
+  File "/Users/xzr/.virtualenvs/djmyframework/lib/python3.7/site-packages/jinja2/_compat.py", line 28, in reraise
+    raise value.with_traceback(tb)
+  File "/Users/xzr/Desktop/pipy/djmyframework/djmyframework/jinja2_templates/ws_gateway/index.html", line 11, in template
+    {{ room_name|json_script:"room-name" }}
+jinja2.exceptions.TemplateSyntaxError: expected token 'end of print statement', got ':'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/Users/xzr/.virtualenvs/djmyframework/lib/python3.7/site-packages/asgiref/sync.py", line 339, in thread_handler
+    raise exc_info[1]
+  File "/Users/xzr/.virtualenvs/djmyframework/lib/python3.7/site-packages/django/core/handlers/base.py", line 263, in _get_response_async
+    response = await sync_to_async(response.render, thread_sensitive=True)()
+  File "/Users/xzr/.virtualenvs/djmyframework/lib/python3.7/site-packages/asgiref/sync.py", line 304, in __call__
+    ret = await asyncio.wait_for(future, timeout=None)
+  File "/Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/asyncio/tasks.py", line 388, in wait_for
+    return await fut
+  File "/Users/xzr/.virtualenvs/djmyframework/lib/python3.7/site-packages/asgiref/current_thread_executor.py", line 23, in run
+    result = self.fn(*self.args, **self.kwargs)
+  File "/Users/xzr/.virtualenvs/djmyframework/lib/python3.7/site-packages/asgiref/sync.py", line 343, in thread_handler
+    return func(*args, **kwargs)
+  File "/Users/xzr/.virtualenvs/djmyframework/lib/python3.7/site-packages/django/template/response.py", line 105, in render
+    self.content = self.rendered_content
+  File "/Users/xzr/Desktop/pipy/djmyframework/djmyframework/framework/response.py", line 108, in rendered_content
+    return super(Response, self).rendered_content
+  File "/Users/xzr/.virtualenvs/djmyframework/lib/python3.7/site-packages/rest_framework/response.py", line 70, in rendered_content
+    ret = renderer.render(self.data, accepted_media_type, context)
+  File "/Users/xzr/.virtualenvs/djmyframework/lib/python3.7/site-packages/rest_framework/renderers.py", line 160, in render
+    template = self.resolve_template(template_names)
+  File "/Users/xzr/.virtualenvs/djmyframework/lib/python3.7/site-packages/rest_framework/renderers.py", line 170, in resolve_template
+    return loader.select_template(template_names)
+  File "/Users/xzr/.virtualenvs/djmyframework/lib/python3.7/site-packages/django/template/loader.py", line 42, in select_template
+    return engine.get_template(template_name)
+  File "/Users/xzr/.virtualenvs/djmyframework/lib/python3.7/site-packages/django/template/backends/jinja2.py", line 47, in get_template
+    raise new from exc
+django.template.exceptions.TemplateSyntaxError: ("expected token 'end of print statement', got ':'",)
+
+[2021-03-24T18:27:11+0800] [ERROR] [django.request] [pid:25919] [log.py:230] Internal Server Error: /ws_gateway/index
+Traceback (most recent call last):
+  File "/Users/xzr/.virtualenvs/djmyframework/lib/python3.7/site-packages/django/template/backends/jinja2.py", line 41, in get_template
+    return Template(self.env.get_template(template_name), self)
+  File "/Users/xzr/.virtualenvs/djmyframework/lib/python3.7/site-packages/jinja2/environment.py", line 883, in get_template
+    return self._load_template(name, self.make_globals(globals))
+  File "/Users/xzr/.virtualenvs/djmyframework/lib/python3.7/site-packages/jinja2/environment.py", line 857, in _load_template
+    template = self.loader.load(self, name, globals)
+  File "/Users/xzr/.virtualenvs/djmyframework/lib/python3.7/site-packages/jinja2/loaders.py", line 127, in load
+    code = environment.compile(source, name, filename)
+  File "/Users/xzr/.virtualenvs/djmyframework/lib/python3.7/site-packages/jinja2/environment.py", line 638, in compile
+    self.handle_exception(source=source_hint)
+  File "/Users/xzr/.virtualenvs/djmyframework/lib/python3.7/site-packages/jinja2/environment.py", line 832, in handle_exception
+    reraise(*rewrite_traceback_stack(source=source))
+  File "/Users/xzr/.virtualenvs/djmyframework/lib/python3.7/site-packages/jinja2/_compat.py", line 28, in reraise
+    raise value.with_traceback(tb)
+  File "/Users/xzr/Desktop/pipy/djmyframework/djmyframework/jinja2_templates/ws_gateway/index.html", line 11, in template
+    {{ room_name|json_script:"room-name" }}
+jinja2.exceptions.TemplateSyntaxError: expected token 'end of print statement', got ':'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/Users/xzr/.virtualenvs/djmyframework/lib/python3.7/site-packages/asgiref/sync.py", line 339, in thread_handler
+    raise exc_info[1]
+  File "/Users/xzr/.virtualenvs/djmyframework/lib/python3.7/site-packages/django/core/handlers/exception.py", line 38, in inner
+    response = await get_response(request)
+  File "/Users/xzr/.virtualenvs/djmyframework/lib/python3.7/site-packages/django/core/handlers/base.py", line 263, in _get_response_async
+    response = await sync_to_async(response.render, thread_sensitive=True)()
+  File "/Users/xzr/.virtualenvs/djmyframework/lib/python3.7/site-packages/asgiref/sync.py", line 304, in __call__
+    ret = await asyncio.wait_for(future, timeout=None)
+  File "/Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/asyncio/tasks.py", line 388, in wait_for
+    return await fut
+  File "/Users/xzr/.virtualenvs/djmyframework/lib/python3.7/site-packages/asgiref/current_thread_executor.py", line 23, in run
+    result = self.fn(*self.args, **self.kwargs)
+  File "/Users/xzr/.virtualenvs/djmyframework/lib/python3.7/site-packages/asgiref/sync.py", line 343, in thread_handler
+    return func(*args, **kwargs)
+  File "/Users/xzr/.virtualenvs/djmyframework/lib/python3.7/site-packages/django/template/response.py", line 105, in render
+    self.content = self.rendered_content
+  File "/Users/xzr/Desktop/pipy/djmyframework/djmyframework/framework/response.py", line 108, in rendered_content
+    return super(Response, self).rendered_content
+  File "/Users/xzr/.virtualenvs/djmyframework/lib/python3.7/site-packages/rest_framework/response.py", line 70, in rendered_content
+    ret = renderer.render(self.data, accepted_media_type, context)
+  File "/Users/xzr/.virtualenvs/djmyframework/lib/python3.7/site-packages/rest_framework/renderers.py", line 160, in render
+    template = self.resolve_template(template_names)
+  File "/Users/xzr/.virtualenvs/djmyframework/lib/python3.7/site-packages/rest_framework/renderers.py", line 170, in resolve_template
+    return loader.select_template(template_names)
+  File "/Users/xzr/.virtualenvs/djmyframework/lib/python3.7/site-packages/django/template/loader.py", line 42, in select_template
+    return engine.get_template(template_name)
+  File "/Users/xzr/.virtualenvs/djmyframework/lib/python3.7/site-packages/django/template/backends/jinja2.py", line 47, in get_template
+    raise new from exc
+django.template.exceptions.TemplateSyntaxError: ("expected token 'end of print statement', got ':'",)
+[2021-03-24T18:27:12+0800] [WARNING] [root] [pid:25919] [middleware.py:81] Traceback (most recent call last):
+  File "/Users/xzr/.virtualenvs/djmyframework/lib/python3.7/site-packages/django/template/backends/jinja2.py", line 41, in get_template
+    return Template(self.env.get_template(template_name), self)
+  File "/Users/xzr/.virtualenvs/djmyframework/lib/python3.7/site-packages/jinja2/environment.py", line 883, in get_template
+    return self._load_template(name, self.make_globals(globals))
+  File "/Users/xzr/.virtualenvs/djmyframework/lib/python3.7/site-packages/jinja2/environment.py", line 857, in _load_template
+    template = self.loader.load(self, name, globals)
+  File "/Users/xzr/.virtualenvs/djmyframework/lib/python3.7/site-packages/jinja2/loaders.py", line 127, in load
+    code = environment.compile(source, name, filename)
+  File "/Users/xzr/.virtualenvs/djmyframework/lib/python3.7/site-packages/jinja2/environment.py", line 638, in compile
+    self.handle_exception(source=source_hint)
+  File "/Users/xzr/.virtualenvs/djmyframework/lib/python3.7/site-packages/jinja2/environment.py", line 832, in handle_exception
+    reraise(*rewrite_traceback_stack(source=source))
+  File "/Users/xzr/.virtualenvs/djmyframework/lib/python3.7/site-packages/jinja2/_compat.py", line 28, in reraise
+    raise value.with_traceback(tb)
+  File "/Users/xzr/Desktop/pipy/djmyframework/djmyframework/jinja2_templates/ws_gateway/index.html", line 11, in template
+    {{ room_name|json_script:"room-name" }}
+jinja2.exceptions.TemplateSyntaxError: expected token 'end of print statement', got ':'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/Users/xzr/.virtualenvs/djmyframework/lib/python3.7/site-packages/asgiref/sync.py", line 339, in thread_handler
+    raise exc_info[1]
+  File "/Users/xzr/.virtualenvs/djmyframework/lib/python3.7/site-packages/django/core/handlers/base.py", line 263, in _get_response_async
+    response = await sync_to_async(response.render, thread_sensitive=True)()
+  File "/Users/xzr/.virtualenvs/djmyframework/lib/python3.7/site-packages/asgiref/sync.py", line 304, in __call__
+    ret = await asyncio.wait_for(future, timeout=None)
+  File "/Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/asyncio/tasks.py", line 388, in wait_for
+    return await fut
+  File "/Users/xzr/.virtualenvs/djmyframework/lib/python3.7/site-packages/asgiref/current_thread_executor.py", line 23, in run
+    result = self.fn(*self.args, **self.kwargs)
+  File "/Users/xzr/.virtualenvs/djmyframework/lib/python3.7/site-packages/asgiref/sync.py", line 343, in thread_handler
+    return func(*args, **kwargs)
+  File "/Users/xzr/.virtualenvs/djmyframework/lib/python3.7/site-packages/django/template/response.py", line 105, in render
+    self.content = self.rendered_content
+  File "/Users/xzr/Desktop/pipy/djmyframework/djmyframework/framework/response.py", line 108, in rendered_content
+    return super(Response, self).rendered_content
+  File "/Users/xzr/.virtualenvs/djmyframework/lib/python3.7/site-packages/rest_framework/response.py", line 70, in rendered_content
+    ret = renderer.render(self.data, accepted_media_type, context)
+  File "/Users/xzr/.virtualenvs/djmyframework/lib/python3.7/site-packages/rest_framework/renderers.py", line 160, in render
+    template = self.resolve_template(template_names)
+  File "/Users/xzr/.virtualenvs/djmyframework/lib/python3.7/site-packages/rest_framework/renderers.py", line 170, in resolve_template
+    return loader.select_template(template_names)
+  File "/Users/xzr/.virtualenvs/djmyframework/lib/python3.7/site-packages/django/template/loader.py", line 42, in select_template
+    return engine.get_template(template_name)
+  File "/Users/xzr/.virtualenvs/djmyframework/lib/python3.7/site-packages/django/template/backends/jinja2.py", line 47, in get_template
+    raise new from exc
+django.template.exceptions.TemplateSyntaxError: ("expected token 'end of print statement', got ':'",)
+
+[2021-03-24T18:27:12+0800] [ERROR] [django.request] [pid:25919] [log.py:230] Internal Server Error: /ws_gateway/index
+Traceback (most recent call last):
+  File "/Users/xzr/.virtualenvs/djmyframework/lib/python3.7/site-packages/django/template/backends/jinja2.py", line 41, in get_template
+    return Template(self.env.get_template(template_name), self)
+  File "/Users/xzr/.virtualenvs/djmyframework/lib/python3.7/site-packages/jinja2/environment.py", line 883, in get_template
+    return self._load_template(name, self.make_globals(globals))
+  File "/Users/xzr/.virtualenvs/djmyframework/lib/python3.7/site-packages/jinja2/environment.py", line 857, in _load_template
+    template = self.loader.load(self, name, globals)
+  File "/Users/xzr/.virtualenvs/djmyframework/lib/python3.7/site-packages/jinja2/loaders.py", line 127, in load
+    code = environment.compile(source, name, filename)
+  File "/Users/xzr/.virtualenvs/djmyframework/lib/python3.7/site-packages/jinja2/environment.py", line 638, in compile
+    self.handle_exception(source=source_hint)
+  File "/Users/xzr/.virtualenvs/djmyframework/lib/python3.7/site-packages/jinja2/environment.py", line 832, in handle_exception
+    reraise(*rewrite_traceback_stack(source=source))
+  File "/Users/xzr/.virtualenvs/djmyframework/lib/python3.7/site-packages/jinja2/_compat.py", line 28, in reraise
+    raise value.with_traceback(tb)
+  File "/Users/xzr/Desktop/pipy/djmyframework/djmyframework/jinja2_templates/ws_gateway/index.html", line 11, in template
+    {{ room_name|json_script:"room-name" }}
+jinja2.exceptions.TemplateSyntaxError: expected token 'end of print statement', got ':'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/Users/xzr/.virtualenvs/djmyframework/lib/python3.7/site-packages/asgiref/sync.py", line 339, in thread_handler
+    raise exc_info[1]
+  File "/Users/xzr/.virtualenvs/djmyframework/lib/python3.7/site-packages/django/core/handlers/exception.py", line 38, in inner
+    response = await get_response(request)
+  File "/Users/xzr/.virtualenvs/djmyframework/lib/python3.7/site-packages/django/core/handlers/base.py", line 263, in _get_response_async
+    response = await sync_to_async(response.render, thread_sensitive=True)()
+  File "/Users/xzr/.virtualenvs/djmyframework/lib/python3.7/site-packages/asgiref/sync.py", line 304, in __call__
+    ret = await asyncio.wait_for(future, timeout=None)
+  File "/Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/asyncio/tasks.py", line 388, in wait_for
+    return await fut
+  File "/Users/xzr/.virtualenvs/djmyframework/lib/python3.7/site-packages/asgiref/current_thread_executor.py", line 23, in run
+    result = self.fn(*self.args, **self.kwargs)
+  File "/Users/xzr/.virtualenvs/djmyframework/lib/python3.7/site-packages/asgiref/sync.py", line 343, in thread_handler
+    return func(*args, **kwargs)
+  File "/Users/xzr/.virtualenvs/djmyframework/lib/python3.7/site-packages/django/template/response.py", line 105, in render
+    self.content = self.rendered_content
+  File "/Users/xzr/Desktop/pipy/djmyframework/djmyframework/framework/response.py", line 108, in rendered_content
+    return super(Response, self).rendered_content
+  File "/Users/xzr/.virtualenvs/djmyframework/lib/python3.7/site-packages/rest_framework/response.py", line 70, in rendered_content
+    ret = renderer.render(self.data, accepted_media_type, context)
+  File "/Users/xzr/.virtualenvs/djmyframework/lib/python3.7/site-packages/rest_framework/renderers.py", line 160, in render
+    template = self.resolve_template(template_names)
+  File "/Users/xzr/.virtualenvs/djmyframework/lib/python3.7/site-packages/rest_framework/renderers.py", line 170, in resolve_template
+    return loader.select_template(template_names)
+  File "/Users/xzr/.virtualenvs/djmyframework/lib/python3.7/site-packages/django/template/loader.py", line 42, in select_template
+    return engine.get_template(template_name)
+  File "/Users/xzr/.virtualenvs/djmyframework/lib/python3.7/site-packages/django/template/backends/jinja2.py", line 47, in get_template
+    raise new from exc
+django.template.exceptions.TemplateSyntaxError: ("expected token 'end of print statement', got ':'",)
+[2021-03-25T11:05:22+0800] [ERROR] [django.request] [pid:35844] [log.py:230] Internal Server Error: /ws_gateway/index
+Traceback (most recent call last):
+  File "/Users/xzr/.virtualenvs/djmyframework/lib/python3.7/site-packages/asgiref/sync.py", line 339, in thread_handler
+    raise exc_info[1]
+  File "/Users/xzr/.virtualenvs/djmyframework/lib/python3.7/site-packages/django/core/handlers/exception.py", line 38, in inner
+    response = await get_response(request)
+  File "/Users/xzr/.virtualenvs/djmyframework/lib/python3.7/site-packages/django/core/handlers/base.py", line 223, in _get_response_async
+    response = await middleware_method(request, callback, callback_args, callback_kwargs)
+  File "/Users/xzr/.virtualenvs/djmyframework/lib/python3.7/site-packages/asgiref/sync.py", line 304, in __call__
+    ret = await asyncio.wait_for(future, timeout=None)
+  File "/Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/asyncio/tasks.py", line 388, in wait_for
+    return await fut
+  File "/Users/xzr/.virtualenvs/djmyframework/lib/python3.7/site-packages/asgiref/current_thread_executor.py", line 23, in run
+    result = self.fn(*self.args, **self.kwargs)
+  File "/Users/xzr/.virtualenvs/djmyframework/lib/python3.7/site-packages/asgiref/sync.py", line 343, in thread_handler
+    return func(*args, **kwargs)
+  File "/Users/xzr/Desktop/pipy/djmyframework/djmyframework/apps/myadmin/middleware.py", line 102, in process_view
+    is_allow = self.check_url_permsssion(request)
+  File "/Users/xzr/Desktop/pipy/djmyframework/djmyframework/apps/myadmin/middleware.py", line 123, in check_url_permsssion
+    params = request.REQUEST
+AttributeError: 'ASGIRequest' object has no attribute 'REQUEST'
+[2021-03-25T11:05:45+0800] [ERROR] [django.request] [pid:35844] [log.py:230] Internal Server Error: /ws_gateway/index
+Traceback (most recent call last):
+  File "/Users/xzr/.virtualenvs/djmyframework/lib/python3.7/site-packages/asgiref/sync.py", line 339, in thread_handler
+    raise exc_info[1]
+  File "/Users/xzr/.virtualenvs/djmyframework/lib/python3.7/site-packages/django/core/handlers/exception.py", line 38, in inner
+    response = await get_response(request)
+  File "/Users/xzr/.virtualenvs/djmyframework/lib/python3.7/site-packages/django/core/handlers/base.py", line 223, in _get_response_async
+    response = await middleware_method(request, callback, callback_args, callback_kwargs)
+  File "/Users/xzr/.virtualenvs/djmyframework/lib/python3.7/site-packages/asgiref/sync.py", line 304, in __call__
+    ret = await asyncio.wait_for(future, timeout=None)
+  File "/Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/asyncio/tasks.py", line 388, in wait_for
+    return await fut
+  File "/Users/xzr/.virtualenvs/djmyframework/lib/python3.7/site-packages/asgiref/current_thread_executor.py", line 23, in run
+    result = self.fn(*self.args, **self.kwargs)
+  File "/Users/xzr/.virtualenvs/djmyframework/lib/python3.7/site-packages/asgiref/sync.py", line 343, in thread_handler
+    return func(*args, **kwargs)
+  File "/Users/xzr/Desktop/pipy/djmyframework/djmyframework/apps/myadmin/middleware.py", line 102, in process_view
+    is_allow = self.check_url_permsssion(request)
+  File "/Users/xzr/Desktop/pipy/djmyframework/djmyframework/apps/myadmin/middleware.py", line 123, in check_url_permsssion
+    params = request.REQUEST
+AttributeError: 'ASGIRequest' object has no attribute 'REQUEST'
+[2021-03-25T11:06:18+0800] [ERROR] [django.request] [pid:35865] [log.py:230] Internal Server Error: /ws_gateway/index
+Traceback (most recent call last):
+  File "/Users/xzr/.virtualenvs/djmyframework/lib/python3.7/site-packages/asgiref/sync.py", line 339, in thread_handler
+    raise exc_info[1]
+  File "/Users/xzr/.virtualenvs/djmyframework/lib/python3.7/site-packages/django/core/handlers/exception.py", line 38, in inner
+    response = await get_response(request)
+  File "/Users/xzr/.virtualenvs/djmyframework/lib/python3.7/site-packages/django/core/handlers/base.py", line 223, in _get_response_async
+    response = await middleware_method(request, callback, callback_args, callback_kwargs)
+  File "/Users/xzr/.virtualenvs/djmyframework/lib/python3.7/site-packages/asgiref/sync.py", line 304, in __call__
+    ret = await asyncio.wait_for(future, timeout=None)
+  File "/Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/asyncio/tasks.py", line 388, in wait_for
+    return await fut
+  File "/Users/xzr/.virtualenvs/djmyframework/lib/python3.7/site-packages/asgiref/current_thread_executor.py", line 23, in run
+    result = self.fn(*self.args, **self.kwargs)
+  File "/Users/xzr/.virtualenvs/djmyframework/lib/python3.7/site-packages/asgiref/sync.py", line 343, in thread_handler
+    return func(*args, **kwargs)
+  File "/Users/xzr/Desktop/pipy/djmyframework/djmyframework/apps/myadmin/middleware.py", line 102, in process_view
+    is_allow = self.check_url_permsssion(request)
+  File "/Users/xzr/Desktop/pipy/djmyframework/djmyframework/apps/myadmin/middleware.py", line 123, in check_url_permsssion
+    params = request.REQUEST
+AttributeError: 'ASGIRequest' object has no attribute 'REQUEST'
+[2021-03-25T11:25:41+0800] [ERROR] [django.request] [pid:36281] [log.py:230] Internal Server Error: /
+Traceback (most recent call last):
+  File "/Users/xzr/.virtualenvs/djmyframework/lib/python3.7/site-packages/django/core/handlers/exception.py", line 47, in inner
+    response = get_response(request)
+  File "/Users/xzr/.virtualenvs/djmyframework/lib/python3.7/site-packages/debug_toolbar/middleware.py", line 67, in __call__
+    panel.generate_stats(request, response)
+  File "/Users/xzr/.virtualenvs/djmyframework/lib/python3.7/site-packages/debug_toolbar/panels/sql/panel.py", line 226, in generate_stats
+    query["stacktrace"] = render_stacktrace(query["stacktrace"])
+  File "/Users/xzr/.virtualenvs/djmyframework/lib/python3.7/site-packages/debug_toolbar/utils.py", line 88, in render_stacktrace
+    "show_locals": dt_settings.get_config()["ENABLE_STACKTRACES_LOCALS"],
+  File "/Users/xzr/.virtualenvs/djmyframework/lib/python3.7/site-packages/django/template/loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+  File "/Users/xzr/.virtualenvs/djmyframework/lib/python3.7/site-packages/django/template/loader.py", line 19, in get_template
+    raise TemplateDoesNotExist(template_name, chain=chain)
+django.template.exceptions.TemplateDoesNotExist: debug_toolbar/panels/sql_stacktrace.html
+[2021-03-25T11:26:01+0800] [ERROR] [django.request] [pid:36281] [log.py:230] Internal Server Error: /favicon.ico
+Traceback (most recent call last):
+  File "/Users/xzr/.virtualenvs/djmyframework/lib/python3.7/site-packages/django/core/handlers/exception.py", line 47, in inner
+    response = get_response(request)
+  File "/Users/xzr/.virtualenvs/djmyframework/lib/python3.7/site-packages/debug_toolbar/middleware.py", line 94, in __call__
+    bits[-2] += toolbar.render_toolbar()
+  File "/Users/xzr/.virtualenvs/djmyframework/lib/python3.7/site-packages/debug_toolbar/toolbar.py", line 69, in render_toolbar
+    return render_to_string("debug_toolbar/base.html", context)
+  File "/Users/xzr/.virtualenvs/djmyframework/lib/python3.7/site-packages/django/template/loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+  File "/Users/xzr/.virtualenvs/djmyframework/lib/python3.7/site-packages/django/template/loader.py", line 19, in get_template
+    raise TemplateDoesNotExist(template_name, chain=chain)
+django.template.exceptions.TemplateDoesNotExist: debug_toolbar/base.html
+[2021-03-25T11:27:46+0800] [ERROR] [django.request] [pid:36326] [log.py:230] Internal Server Error: /
+Traceback (most recent call last):
+  File "/Users/xzr/.virtualenvs/djmyframework/lib/python3.7/site-packages/django/core/handlers/exception.py", line 47, in inner
+    response = get_response(request)
+  File "/Users/xzr/.virtualenvs/djmyframework/lib/python3.7/site-packages/debug_toolbar/middleware.py", line 67, in __call__
+    panel.generate_stats(request, response)
+  File "/Users/xzr/.virtualenvs/djmyframework/lib/python3.7/site-packages/debug_toolbar/panels/sql/panel.py", line 226, in generate_stats
+    query["stacktrace"] = render_stacktrace(query["stacktrace"])
+  File "/Users/xzr/.virtualenvs/djmyframework/lib/python3.7/site-packages/debug_toolbar/utils.py", line 88, in render_stacktrace
+    "show_locals": dt_settings.get_config()["ENABLE_STACKTRACES_LOCALS"],
+  File "/Users/xzr/.virtualenvs/djmyframework/lib/python3.7/site-packages/django/template/loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+  File "/Users/xzr/.virtualenvs/djmyframework/lib/python3.7/site-packages/django/template/loader.py", line 19, in get_template
+    raise TemplateDoesNotExist(template_name, chain=chain)
+django.template.exceptions.TemplateDoesNotExist: debug_toolbar/panels/sql_stacktrace.html
+[2021-03-25T12:59:49+0800] [WARNING] [root] [pid:37723] [middleware.py:81] Traceback (most recent call last):
+  File "/Users/xzr/.virtualenvs/djmyframework/lib/python3.7/site-packages/django/core/handlers/base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Users/xzr/.virtualenvs/djmyframework/lib/python3.7/site-packages/django/views/decorators/csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "/Users/xzr/.virtualenvs/djmyframework/lib/python3.7/site-packages/rest_framework/viewsets.py", line 125, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/Users/xzr/.virtualenvs/djmyframework/lib/python3.7/site-packages/rest_framework/views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "/Users/xzr/.virtualenvs/djmyframework/lib/python3.7/site-packages/rest_framework/views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/Users/xzr/.virtualenvs/djmyframework/lib/python3.7/site-packages/rest_framework/views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "/Users/xzr/.virtualenvs/djmyframework/lib/python3.7/site-packages/rest_framework/views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/Users/xzr/Desktop/pipy/djmyframework/djmyframework/apps/myadmin/views/user.py", line 81, in change_status
+    if params.id:
+  File "/Users/xzr/Desktop/pipy/djmyframework/djmyframework/framework/serializer.py", line 115, in __getattribute__
+    return super(ParamsSerializer, self).__getattribute__(key)
+AttributeError: 'ChangeStatusSerializer' object has no attribute 'id'
+
+[2021-03-25T12:59:49+0800] [ERROR] [django.request] [pid:37723] [log.py:230] Internal Server Error: /myadmin/user/change_status
+[2021-03-25T13:03:06+0800] [WARNING] [root] [pid:37786] [middleware.py:81] Traceback (most recent call last):
+  File "/Users/xzr/.virtualenvs/djmyframework/lib/python3.7/site-packages/django/core/handlers/base.py", line 204, in _get_response
+    response = response.render()
+  File "/Users/xzr/.virtualenvs/djmyframework/lib/python3.7/site-packages/django/template/response.py", line 105, in render
+    self.content = self.rendered_content
+  File "/Users/xzr/Desktop/pipy/djmyframework/djmyframework/framework/response.py", line 119, in rendered_content
+    return render(self.request, self.template_name, self.context)
+  File "/Users/xzr/.virtualenvs/djmyframework/lib/python3.7/site-packages/django/shortcuts.py", line 19, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "/Users/xzr/.virtualenvs/djmyframework/lib/python3.7/site-packages/django/template/loader.py", line 62, in render_to_string
+    return template.render(context, request)
+  File "/Users/xzr/.virtualenvs/djmyframework/lib/python3.7/site-packages/django/template/backends/jinja2.py", line 74, in render
+    return self.template.render(context)
+  File "/Users/xzr/.virtualenvs/djmyframework/lib/python3.7/site-packages/jinja2/environment.py", line 1090, in render
+    self.environment.handle_exception()
+  File "/Users/xzr/.virtualenvs/djmyframework/lib/python3.7/site-packages/jinja2/environment.py", line 832, in handle_exception
+    reraise(*rewrite_traceback_stack(source=source))
+  File "/Users/xzr/.virtualenvs/djmyframework/lib/python3.7/site-packages/jinja2/_compat.py", line 28, in reraise
+    raise value.with_traceback(tb)
+  File "/Users/xzr/Desktop/pipy/djmyframework/djmyframework/jinja2_templates/myadmin/block.html", line 1, in top-level template code
+    {% extends "./base.html" %}
+  File "/Users/xzr/.virtualenvs/djmyframework/lib/python3.7/site-packages/jinja2/loaders.py", line 197, in get_source
+    raise TemplateNotFound(template)
+jinja2.exceptions.TemplateNotFound: ./base.html
+
+[2021-03-25T13:03:06+0800] [ERROR] [django.request] [pid:37786] [log.py:230] Internal Server Error: /__debug__/render_panel/
+Traceback (most recent call last):
+  File "/Users/xzr/.virtualenvs/djmyframework/lib/python3.7/site-packages/django/core/handlers/exception.py", line 47, in inner
+    response = get_response(request)
+  File "/Users/xzr/.virtualenvs/djmyframework/lib/python3.7/site-packages/django/core/handlers/base.py", line 204, in _get_response
+    response = response.render()
+  File "/Users/xzr/.virtualenvs/djmyframework/lib/python3.7/site-packages/django/template/response.py", line 105, in render
+    self.content = self.rendered_content
+  File "/Users/xzr/Desktop/pipy/djmyframework/djmyframework/framework/response.py", line 119, in rendered_content
+    return render(self.request, self.template_name, self.context)
+  File "/Users/xzr/.virtualenvs/djmyframework/lib/python3.7/site-packages/django/shortcuts.py", line 19, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "/Users/xzr/.virtualenvs/djmyframework/lib/python3.7/site-packages/django/template/loader.py", line 62, in render_to_string
+    return template.render(context, request)
+  File "/Users/xzr/.virtualenvs/djmyframework/lib/python3.7/site-packages/django/template/backends/jinja2.py", line 74, in render
+    return self.template.render(context)
+  File "/Users/xzr/.virtualenvs/djmyframework/lib/python3.7/site-packages/jinja2/environment.py", line 1090, in render
+    self.environment.handle_exception()
+  File "/Users/xzr/.virtualenvs/djmyframework/lib/python3.7/site-packages/jinja2/environment.py", line 832, in handle_exception
+    reraise(*rewrite_traceback_stack(source=source))
+  File "/Users/xzr/.virtualenvs/djmyframework/lib/python3.7/site-packages/jinja2/_compat.py", line 28, in reraise
+    raise value.with_traceback(tb)
+  File "/Users/xzr/Desktop/pipy/djmyframework/djmyframework/jinja2_templates/myadmin/block.html", line 1, in top-level template code
+    {% extends "./base.html" %}
+  File "/Users/xzr/.virtualenvs/djmyframework/lib/python3.7/site-packages/jinja2/loaders.py", line 197, in get_source
+    raise TemplateNotFound(template)
+jinja2.exceptions.TemplateNotFound: ./base.html
+[2021-03-26T10:21:46+0800] [ERROR] [django.request] [pid:51879] [log.py:230] Internal Server Error: /myadmin/login
+Traceback (most recent call last):
+  File "/Users/xzr/.virtualenvs/djmyframework/lib/python3.7/site-packages/django/db/backends/utils.py", line 82, in _execute
+    return self.cursor.execute(sql)
+  File "/Users/xzr/.virtualenvs/djmyframework/lib/python3.7/site-packages/django/db/backends/sqlite3/base.py", line 411, in execute
+    return Database.Cursor.execute(self, query)
+sqlite3.OperationalError: cannot start a transaction within a transaction
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/Users/xzr/.virtualenvs/djmyframework/lib/python3.7/site-packages/django/core/handlers/exception.py", line 47, in inner
+    response = get_response(request)
+  File "/Users/xzr/.virtualenvs/djmyframework/lib/python3.7/site-packages/django/utils/deprecation.py", line 116, in __call__
+    response = self.process_response(request, response)
+  File "/Users/xzr/.virtualenvs/djmyframework/lib/python3.7/site-packages/django/contrib/sessions/middleware.py", line 63, in process_response
+    request.session.save()
+  File "/Users/xzr/.virtualenvs/djmyframework/lib/python3.7/site-packages/django/contrib/sessions/backends/db.py", line 81, in save
+    return self.create()
+  File "/Users/xzr/.virtualenvs/djmyframework/lib/python3.7/site-packages/django/contrib/sessions/backends/db.py", line 55, in create
+    self.save(must_create=True)
+  File "/Users/xzr/.virtualenvs/djmyframework/lib/python3.7/site-packages/django/contrib/sessions/backends/db.py", line 86, in save
+    with transaction.atomic(using=using):
+  File "/Users/xzr/.virtualenvs/djmyframework/lib/python3.7/site-packages/django/db/transaction.py", line 193, in __enter__
+    connection.set_autocommit(False, force_begin_transaction_with_broken_autocommit=True)
+  File "/Users/xzr/.virtualenvs/djmyframework/lib/python3.7/site-packages/django/db/backends/base/base.py", line 413, in set_autocommit
+    self._start_transaction_under_autocommit()
+  File "/Users/xzr/.virtualenvs/djmyframework/lib/python3.7/site-packages/django/db/backends/sqlite3/base.py", line 394, in _start_transaction_under_autocommit
+    self.cursor().execute("BEGIN")
+  File "/Users/xzr/.virtualenvs/djmyframework/lib/python3.7/site-packages/django/db/backends/utils.py", line 98, in execute
+    return super().execute(sql, params)
+  File "/Users/xzr/.virtualenvs/djmyframework/lib/python3.7/site-packages/django/db/backends/utils.py", line 66, in execute
+    return self._execute_with_wrappers(sql, params, many=False, executor=self._execute)
+  File "/Users/xzr/.virtualenvs/djmyframework/lib/python3.7/site-packages/django/db/backends/utils.py", line 75, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+  File "/Users/xzr/.virtualenvs/djmyframework/lib/python3.7/site-packages/django/db/backends/utils.py", line 84, in _execute
+    return self.cursor.execute(sql, params)
+  File "/Users/xzr/.virtualenvs/djmyframework/lib/python3.7/site-packages/django/db/utils.py", line 90, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "/Users/xzr/.virtualenvs/djmyframework/lib/python3.7/site-packages/django/db/backends/utils.py", line 82, in _execute
+    return self.cursor.execute(sql)
+  File "/Users/xzr/.virtualenvs/djmyframework/lib/python3.7/site-packages/django/db/backends/sqlite3/base.py", line 411, in execute
+    return Database.Cursor.execute(self, query)
+django.db.utils.OperationalError: cannot start a transaction within a transaction
