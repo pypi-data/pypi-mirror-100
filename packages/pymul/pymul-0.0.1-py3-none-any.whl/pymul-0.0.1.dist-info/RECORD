@@ -1,0 +1,13 @@
+pymul/__init__.py,sha256=c6_sfUt_0QMSSxMOwMtp0ff0XoIX1MeL89b-wH7ONNQ,72
+pymul/network.py,sha256=KztncagR_a6lVsSCueNvh9q3MKGImSNQRf2F8ovf20s,2577
+pymul/functions/__init__.py,sha256=tqMpUzRc0BxKaZU6j-TAi5dElwBUrYQzqKd7if_WnM0,106
+pymul/functions/activation.py,sha256=UO5COaoAM4E_W-vWMdwqeRTlMTnJiQjpGyYpGVhIRMY,117
+pymul/functions/loss.py,sha256=IiKpfYPjDZzO_XBFFNxqaMDpuqpggYbRi8KvuxQEM5c,193
+pymul/layers/activation_layer.py,sha256=qoaTjWx2q1r20SVENmb9fsvVoCYcP1CMc6lQfPW_6FU,494
+pymul/layers/layer.py,sha256=iHhDQd_7JgNgIWVuS83SnviysLtRhSOaj2d4Ke7HL1U,294
+pymul/layers/neuron_layer.py,sha256=dEc5fB4nJIo7zGBH_1P4P_ZorzoV9ImRBBWueAupp3U,755
+pymul-0.0.1.dist-info/LICENSE,sha256=HrhfyXIkWY2tGFK11kg7vPCqhgh5DcxleloqdhrpyMY,11558
+pymul-0.0.1.dist-info/METADATA,sha256=gnQyUUUlXje7Gn8TzaXuvhY2SEMFzRqNXxE7vPGgBvI,1246
+pymul-0.0.1.dist-info/WHEEL,sha256=OqRkF0eY5GHssMorFjlbTIq072vpHpF60fIQA6lS9xA,92
+pymul-0.0.1.dist-info/top_level.txt,sha256=sF-ppJwBJhb0R6IaiGvuzaPZ02LjgY7IeeGpjNutGWE,35
+pymul-0.0.1.dist-info/RECORD,,
