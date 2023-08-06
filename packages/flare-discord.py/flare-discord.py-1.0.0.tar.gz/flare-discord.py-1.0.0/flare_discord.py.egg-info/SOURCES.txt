@@ -1,0 +1,9 @@
+README.md
+setup.py
+flare/__init__.py
+flare_discord.py.egg-info/PKG-INFO
+flare_discord.py.egg-info/SOURCES.txt
+flare_discord.py.egg-info/dependency_links.txt
+flare_discord.py.egg-info/not-zip-safe
+flare_discord.py.egg-info/requires.txt
+flare_discord.py.egg-info/top_level.txt
