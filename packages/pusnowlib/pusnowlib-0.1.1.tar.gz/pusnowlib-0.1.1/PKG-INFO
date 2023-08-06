@@ -1,0 +1,13 @@
+Metadata-Version: 2.1
+Name: pusnowlib
+Version: 0.1.1
+Summary: 
+Author: Wonsup Yoon
+Author-email: pusnow@kaist.ac.kr
+Requires-Python: >=3.7,<4.0
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Requires-Dist: aiohttp (>=3.7.4,<4.0.0)
+Requires-Dist: beautifulsoup4 (>=4.9.3,<5.0.0)
