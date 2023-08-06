@@ -1,0 +1,18 @@
+#!python
+
+import json
+import argparse
+from datetime import datetime, date
+import skillsnetwork.cvstudio
+
+def setup():
+    cvstudio = skillsnetwork.cvstudio.CVStudio()
+
+    cvstudio.download_all()
+
+parser = argparse.ArgumentParser()
+parser.add_argument('--download', help='Download All Images from CV Studio')
+args = parser.parse_args()
+
+
+setup()
