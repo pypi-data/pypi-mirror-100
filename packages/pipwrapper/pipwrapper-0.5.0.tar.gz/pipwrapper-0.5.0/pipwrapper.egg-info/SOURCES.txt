@@ -1,0 +1,8 @@
+README.md
+setup.py
+pipwrapper/__init__.py
+pipwrapper/pipwrapper.py
+pipwrapper.egg-info/PKG-INFO
+pipwrapper.egg-info/SOURCES.txt
+pipwrapper.egg-info/dependency_links.txt
+pipwrapper.egg-info/top_level.txt
