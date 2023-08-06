@@ -1,0 +1,11 @@
+MANIFEST.in
+README.md
+requirements-dev.txt
+requirements.txt
+setup.py
+coords_transformer/version.py
+coords_transformer.egg-info/PKG-INFO
+coords_transformer.egg-info/SOURCES.txt
+coords_transformer.egg-info/dependency_links.txt
+coords_transformer.egg-info/requires.txt
+coords_transformer.egg-info/top_level.txt
