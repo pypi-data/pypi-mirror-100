@@ -1,0 +1,29 @@
+Metadata-Version: 2.1
+Name: ccmodel
+Version: 0.1.0
+Summary: Python libclang-powered C/C++ code modeling
+Home-page: https://github.com/gjingram/ccmodel
+License: BSD 3-Clause
+Keywords: c,cc,c++,parse,code model
+Author: Gabe Ingram
+Author-email: gabriel.ingram@colorado.edu
+Maintainer: Gabe Ingram
+Maintainer-email: gabriel.ingram@colorado.edu
+Requires-Python: >=3.7,<4.0
+Classifier: License :: Other/Proprietary License
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Requires-Dist: clang (>=11.0,<12.0)
+Requires-Dist: graphlib-backport (>=1.0.3,<2.0.0)
+Requires-Dist: loguru (>=0.5.3,<0.6.0)
+Project-URL: Repository, https://github.com/gjingram/ccmodel
+Description-Content-Type: text/markdown
+
+# ccmodel
+Python libclang-powered C/C++ code modeling
+
+Very immature development, not in a useful
+state yet. No docs.
+
