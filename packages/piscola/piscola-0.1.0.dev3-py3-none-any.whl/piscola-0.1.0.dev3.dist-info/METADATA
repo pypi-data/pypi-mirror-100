@@ -1,0 +1,88 @@
+Metadata-Version: 2.1
+Name: piscola
+Version: 0.1.0.dev3
+Summary: Type Ia Supernova Light-curve fitting code
+Home-page: https://github.com/temuller/piscola
+Author: Tomás Enrique Müller Bravo
+Author-email: t.e.muller-bravo@soton.ac.uk
+License: MIT
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
+Requires-Dist: numpy
+Requires-Dist: matplotlib
+Requires-Dist: scipy
+Requires-Dist: pandas
+Requires-Dist: lmfit
+Requires-Dist: peakutils
+Requires-Dist: astropy
+Requires-Dist: sfdmap
+Requires-Dist: extinction
+Requires-Dist: george
+
+# PISCOLA: Python for Intelligent Supernova-COsmology Light-curve Analysis
+
+**Type Ia Supernova Light-curve fitting code in python**
+
+
+[![repo](https://img.shields.io/badge/GitHub-temuller%2Fpiscola-blue.svg?style=flat)](https://github.com/temuller/piscola)
+[![documentation status](https://readthedocs.org/projects/piscola/badge/?version=latest&style=flat)](https://piscola.readthedocs.io/en/latest/?badge=latest)
+[![license](http://img.shields.io/badge/license-MIT-blue.svg?style=flat)](https://github.com/temuller/piscola/blob/master/LICENSE)
+[![ci](http://img.shields.io/travis/temuller/piscola/master.svg?style=flat)](https://travis-ci.org/temuller/piscola)
+![Python Version](https://img.shields.io/badge/Python-3.6%2B-blue)
+
+
+Read the full documentation at: [piscola.readthedocs.io](http://piscola.readthedocs.io/). See below for a summary.
+
+___
+## Installation
+
+PISCOLA can be installed in the usual ways, via pip:
+
+```
+pip install piscola
+```
+
+or from source:
+
+```
+git clone https://github.com/temuller/piscola.git
+
+cd piscola
+
+pip install -r requirements.txt
+
+python setup.py install
+```
+
+## Using PISCOLA
+
+PISCOLA can fit the supernova light curves and correct them in a few lines of code:
+
+
+```python
+sn = piscola.call_sn(<sn_name>)
+
+sn.normalize_data()
+sn.fit_lcs()
+sn.mangle_sed()
+sn.calculate_lc_params()
+```
+
+or for a "quick" fit with the default parameters:
+
+```python
+sn = piscola.call_sn(<sn_name>)
+sn.do_magic()
+```
+
+You can find an example of input file in the [data](https://github.com/temuller/piscola/tree/master/data) directory.
+
+## Contributing and raising an issue
+
+The recommended way is to use the [issues](https://github.com/temuller/piscola/issues) page. Otherwise, you can contact me directly.
+
+
