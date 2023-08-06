@@ -1,0 +1,10 @@
+README.md
+setup.cfg
+setup.py
+vispywrapper/__init__.py
+vispywrapper/plot.py
+vispywrapper.egg-info/PKG-INFO
+vispywrapper.egg-info/SOURCES.txt
+vispywrapper.egg-info/dependency_links.txt
+vispywrapper.egg-info/requires.txt
+vispywrapper.egg-info/top_level.txt
