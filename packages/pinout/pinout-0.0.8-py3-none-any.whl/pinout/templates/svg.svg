@@ -1,0 +1,18 @@
+
+<svg  
+    xmlns="http://www.w3.org/2000/svg" 
+    xmlns:xlink="http://www.w3.org/1999/xlink"
+    {% if x %} x="{{ x }}" {% endif %}
+    {% if y %} y="{{ y }}" {% endif %}
+    width="{{ width }}" 
+    height="{{ height }}" 
+    viewBox="{{ viewbox.x }} {{ viewbox.y }} {{ viewbox.w }} {{ viewbox.h }}"
+    class="{{ selectors }}"
+>
+
+{% block body %}
+
+    {{ rendered_components }}
+    
+{% endblock %}
+</svg>
