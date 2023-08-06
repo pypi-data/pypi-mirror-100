@@ -1,0 +1,12 @@
+noobiez/__init__.py,sha256=1UJzpA8qJ5ikfqCXCpS8-bnqG25JqVbrH1m2gZ9qPDo,50
+noobiez/connector.py,sha256=UyrxT8c7fffY38xyf6Pw5PFgeVDzq9mB1F7MOpBdeUs,55
+noobiez/lic.py,sha256=eFw3IZLG8ol9L1zgCNqZxi0tMyJxMHd2p9Hbb38WvlY,90480
+noobiez/noobiez.py,sha256=14v4U11jND81HBTRyFVdJFaJ6Emj3xL7M30zOA8sZPg,5040
+noobiez/api/client/__init__.py,sha256=00m-S7Zv4QQYnrIYoMm5bOS_v8K9GZ01FMhJWkw5zuU,55
+noobiez/api/client/discovery.py,sha256=gixHbrkon_K6z1r1KyO-YU87gdP-L8g473t3uIlub-0,424
+noobiez/api/client/resources.py,sha256=BIcnF4Wk1SkyBh6esWQuySX_JvaHj_q1iu-zMZw-xdg,5190
+noobiez/api/client/schemas.py,sha256=ArGjEiUM080PM6HHg4O9pMWUH05Vru6IHkehffzVnVc,8362
+noobiez-1.8.3.dist-info/METADATA,sha256=ZConCwEvJncUVcFbtbNVxa_5wqxluBxhnKKMN_EmvYw,893
+noobiez-1.8.3.dist-info/WHEEL,sha256=OqRkF0eY5GHssMorFjlbTIq072vpHpF60fIQA6lS9xA,92
+noobiez-1.8.3.dist-info/top_level.txt,sha256=agsqSIWLAc6epa-ElO14pOu4vCcqtqNzL_pGWPyN0X0,8
+noobiez-1.8.3.dist-info/RECORD,,
