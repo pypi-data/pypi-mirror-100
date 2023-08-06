@@ -1,0 +1,14 @@
+Metadata-Version: 2.1
+Name: convbnmerge
+Version: 0.1.1
+Summary: One-clicked merge convolution and batchnorm to one unified convolution
+Home-page: https://github.com/vietnamican/conv-bn-merge
+Author: vietnamican
+Author-email: vietnamican@gmail.com
+License: UNKNOWN
+Platform: UNKNOWN
+Description-Content-Type: text/markdown
+
+# conv-bn-merge
+
+
