@@ -1,0 +1,3 @@
+[console_scripts]
+fig = figular.command_line:main
+
