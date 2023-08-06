@@ -1,0 +1,23 @@
+[tool.poetry]
+name = "stock_utilities"
+version = "0.1.9"
+description = "This library is a wrapper around the finance libraries in order to give out a data model different from raw pandas and be usable in production services"
+authors = ["Diego Luca Candido"]
+readme = "README.md"
+repository = "https://github.com/joxer/stock_utilities"
+homepage = "https://github.com/joxer/stock_utilities"
+license = "GPL-3.0-only"
+[tool.poetry.dependencies]
+python = "^3.7"
+yfinance = "^0.1.55"
+scipy = "^1.6.1"
+py_vollib = "^1.0.1"
+praw = "^7.2.0"
+
+[tool.poetry.dev-dependencies]
+pytest = "^5.2"
+mypy = "^0.812"
+
+[build-system]
+requires = ["poetry>=0.12"]
+build-backend = "poetry.masonry.api"
