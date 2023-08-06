@@ -1,0 +1,20 @@
+Metadata-Version: 2.1
+Name: xissue
+Version: 1.0.0
+Summary: this is a tools lirary.
+Home-page: https://www.juyerhy.com/PythonCode
+Author: ivey
+Author-email: play2714@sina.cn
+License: MIT
+Platform: UNKNOWN
+
+Welcome to twine’s documentation!
+=================================
+    **Twine is a utility for publishing Python packages on PyPI.**
+
+    *It provides build system independent uploads of source and binary distribution artifacts for both new and existing projects.*
+
+
+
+
+
