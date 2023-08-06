@@ -1,0 +1,14 @@
+odoo/addons/shopinvader_invoice/README.rst,sha256=33qLABFDj8GM9ondDS-fCbOXjrO4K7PWadOurauht_U,2066
+odoo/addons/shopinvader_invoice/__init__.py,sha256=P0owIQbAxeDQaLFX9CeYfDMZSkJEC-YaH0x7JwBEfio,143
+odoo/addons/shopinvader_invoice/__manifest__.py,sha256=aVCT1-lbzPgyBDKU2tXZlfIl4q3Rztzv59synjJ-rBo,440
+odoo/addons/shopinvader_invoice/readme/CONTRIBUTORS.rst,sha256=SHWfDXUa7QYt85exbW4Epv9e3f29NdjvRM6VVfyaN4U,48
+odoo/addons/shopinvader_invoice/readme/DESCRIPTION.rst,sha256=fua2rUutOr-VPhjmbmrLhvzlLjOTDLyJLDOeE8XMBDQ,204
+odoo/addons/shopinvader_invoice/services/__init__.py,sha256=qTyenKtrgaRsCoAaqWvMeIlnfXafKImvgMj8YU_8HyQ,142
+odoo/addons/shopinvader_invoice/services/invoice.py,sha256=cKE71u2lVP7snmcA3nYLBSqDwzgqxLVY5Wv-m9LnEcU,3363
+odoo/addons/shopinvader_invoice/static/description/index.html,sha256=fs4shChuvDSt84rLkWm3T8k5EkuIXhWf1lsENTyJ2WY,11025
+odoo/addons/shopinvader_invoice/tests/__init__.py,sha256=ns42beXuTRXZq_K4Rll8YahtTILWYudSRHe-nekYp6k,155
+odoo/addons/shopinvader_invoice/tests/test_invoice_service.py,sha256=7FdpK0PsVEFPAhvOJ1kgO33jRHQhkws4aMMwbxmSxJk,6532
+odoo12_addon_shopinvader_invoice-12.0.1.1.3.dist-info/METADATA,sha256=PP-xV9P8ztaRBisANuvG2_uwMaZ9gu91Kxb7A7C2e7s,2527
+odoo12_addon_shopinvader_invoice-12.0.1.1.3.dist-info/WHEEL,sha256=S8S5VL-stOTSZDYxHyf0KP7eds0J72qrK0Evu3TfyAY,92
+odoo12_addon_shopinvader_invoice-12.0.1.1.3.dist-info/top_level.txt,sha256=qBj40grFkGOfDZ2WDSw3y1RnDlgG0u8rP8pvGNdbz4w,5
+odoo12_addon_shopinvader_invoice-12.0.1.1.3.dist-info/RECORD,,
