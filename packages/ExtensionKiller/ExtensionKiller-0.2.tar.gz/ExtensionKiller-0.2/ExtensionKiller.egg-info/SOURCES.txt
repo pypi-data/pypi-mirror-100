@@ -1,0 +1,9 @@
+README.md
+pyproject.toml
+setup.py
+ExtensionKiller.egg-info/PKG-INFO
+ExtensionKiller.egg-info/SOURCES.txt
+ExtensionKiller.egg-info/dependency_links.txt
+ExtensionKiller.egg-info/entry_points.txt
+ExtensionKiller.egg-info/requires.txt
+ExtensionKiller.egg-info/top_level.txt
