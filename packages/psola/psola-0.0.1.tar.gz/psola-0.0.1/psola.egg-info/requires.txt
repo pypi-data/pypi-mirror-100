@@ -1,0 +1,5 @@
+numpy
+pypar
+soundfile
+tqdm
+praat-parselmouth
