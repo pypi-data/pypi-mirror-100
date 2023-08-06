@@ -1,0 +1,8 @@
+skyfield
+matplotlib
+numexpr
+netcdf4
+scikit-learn
+seawater
+tqdm
+xarray

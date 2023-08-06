@@ -1,0 +1,24 @@
+Metadata-Version: 2.1
+Name: glidertools
+Version: 2021.3
+Summary: ("A toolkit for processing Seaglider base station NetCDF files: "
+"despiking, smoothing, outlier detection, backscatter, fluorescence "
+"quenching, calibration, gridding, interpolation. Documentation "
+"at https://glidertools.readthedocs.io")
+Home-page: https://github.com/GliderToolsCommunity/GliderTools
+Author: Luke Gregor
+Author-email: "lukegre@gmail.com"
+License: GNUv3
+Description: UNKNOWN
+Platform: UNKNOWN
+Classifier: Development Status :: 3 - Alpha,
+Classifier: License :: OSI Approved :: MIT License,
+Classifier: Operating System :: OS Independent,
+Classifier: Intended Audience :: Science/Research,
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
