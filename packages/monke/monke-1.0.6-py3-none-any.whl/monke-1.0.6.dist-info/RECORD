@@ -1,0 +1,9 @@
+monke/__init__.py,sha256=z1V7U5qfLkKlyv1LCNDN9vkftkTlvAl-JSuuDAS0Kzk,69
+monke/client.py,sha256=_7z2vG8I50EfEqgjQdzOpHY_QlujS0tKl-FB6YVUeWs,1929
+monke/common.py,sha256=2Y56bI4uP_UkI3pNE5oGVkXtTzP0iRef5lxnjvreRII,236
+monke/server.py,sha256=-6r2WHmIjPkL0tF6U-qiogeT_cQsIMCLaidnscMCewA,2686
+monke-1.0.6.dist-info/LICENSE,sha256=OXpUDBKMr_lv9Tjdfu8EUKtsRfE2_EOSbKhbl5c7ZEE,1073
+monke-1.0.6.dist-info/METADATA,sha256=9CoL0TWhkpLzn1sqD2YY8pCByyrOYzhrC3m4ByNAeZQ,770
+monke-1.0.6.dist-info/WHEEL,sha256=OqRkF0eY5GHssMorFjlbTIq072vpHpF60fIQA6lS9xA,92
+monke-1.0.6.dist-info/top_level.txt,sha256=jagUL2pMvhBcv1dP5v8vUTqQjNBAbgRfhqqavPaeNKc,6
+monke-1.0.6.dist-info/RECORD,,
