@@ -1,0 +1,36 @@
+Metadata-Version: 1.2
+Name: twitcasting-py
+Version: 0.1.1
+Summary: A unofficial python module for wrapping TwitCasting common APIs
+Home-page: https://github.com/kkent030315/twitcasting-py
+Author: Kento Oki
+Author-email: hrn832@protonmail.com
+License: UNKNOWN
+Description: # twitcasting-py
+        A unofficial python module for wrapping TwitCasting common APIs
+        
+        # Usage
+        
+        1. Install
+        
+        ```bash
+        pip install twitcasting_py
+        ```
+        
+        2. Import
+        
+        ```python
+        import twitcasting
+        ```
+        
+        3. Use
+        
+        ```python3
+        twitcasting.get_video_id('user_id')
+        ```
+        
+        # License
+        
+        MIT
+Platform: UNKNOWN
+Requires-Python: >=3.6
