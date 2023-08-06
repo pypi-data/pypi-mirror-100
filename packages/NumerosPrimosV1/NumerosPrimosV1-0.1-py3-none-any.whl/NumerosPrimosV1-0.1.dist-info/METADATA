@@ -1,0 +1,20 @@
+Metadata-Version: 2.1
+Name: NumerosPrimosV1
+Version: 0.1
+Summary: A tool to perform mathematical operations.
+Home-page: UNKNOWN
+Author: Antonio Álvarez
+Author-email: a.alvarjerem@gmail.com
+License: UNKNOWN
+Keywords: pyoperaciones mathematical oprations
+Platform: UNKNOWN
+Classifier: Development Status :: 4 - Beta
+Classifier: Intended Audience :: Developers
+Classifier: Topic :: Utilities
+Classifier: License :: OSI Approved :: GNU General Public License v3 (GPLv3)
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Operating System :: OS Independent
+
+UNKNOWN
+
+
