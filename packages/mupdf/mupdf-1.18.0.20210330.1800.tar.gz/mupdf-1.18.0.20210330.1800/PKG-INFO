@@ -1,0 +1,15 @@
+Metadata-Version: 1.0
+Name: mupdf
+Version: 1.18.0.20210330.1800
+Summary: Python bindings for MuPDF library
+Home-page: https://mupdf.com/
+Author: Artifex Software, Inc
+Author-email: support@artifex.com
+Home-page: Source, https://git.ghostscript.com/?p=mupdf.git
+Home-page: Source, https://twiki.ghostscript.com/do/view/Main/MuPDFWrap/
+Home-page: Source, https://bugs.ghostscript.com/
+Keywords: PDF
+Classifier: Development Status :: 4 - Beta
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: GNU Affero General Public License v3
+Classifier: Programming Language :: Python :: 3
