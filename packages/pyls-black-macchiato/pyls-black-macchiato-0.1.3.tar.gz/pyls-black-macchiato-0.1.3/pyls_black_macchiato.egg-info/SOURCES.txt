@@ -1,0 +1,12 @@
+README.md
+pyproject.toml
+setup.py
+pyls_black_macchiato/__init__.py
+pyls_black_macchiato/lsp.py
+pyls_black_macchiato/plugin.py
+pyls_black_macchiato.egg-info/PKG-INFO
+pyls_black_macchiato.egg-info/SOURCES.txt
+pyls_black_macchiato.egg-info/dependency_links.txt
+pyls_black_macchiato.egg-info/entry_points.txt
+pyls_black_macchiato.egg-info/requires.txt
+pyls_black_macchiato.egg-info/top_level.txt
