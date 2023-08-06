@@ -1,0 +1,11 @@
+py_menu/__init__.py,sha256=3wnlEj1H_j3XIUowoM9ZgqZP5uACHB5ZnRhqS3cWQ-0,15273
+py_menu/examples/add_option_example.py,sha256=SA7RDLoyuhe1SyF21BnzfRXOCNU2JcQpb_0TW3pS0vc,2746
+py_menu/examples/backtrack_example.py,sha256=b74YPJXxukRzfpSLVI3SpDYeakT7pup-YOj-PuJIPF8,1805
+py_menu/examples/custom_exits_example.py,sha256=Pdar-T6nI7_FcpNOfBeBQRYu3kYK3j05I3LoknSKP8c,1036
+py_menu/examples/low_level_example.py,sha256=OyYm-JYw4flOOMDtIo2e1CQfePhUvFQxgLdrwC75oZ8,3047
+py_menu/examples/pretty_menu_example.py,sha256=eKlRzeMCWyXMvh6qlhClqtqpjtBFB7UJpUn8ek_44co,1929
+py_menu-1.2.1.dist-info/LICENSE,sha256=gKiMXVJ0_OHCG8idETEIcAlBtuslGrxqJ3FA1YtqXOI,1088
+py_menu-1.2.1.dist-info/METADATA,sha256=FwVh24_vVmERRq-OG0K_srEuuCIElacDpcwsZdzr3wk,8074
+py_menu-1.2.1.dist-info/WHEEL,sha256=OqRkF0eY5GHssMorFjlbTIq072vpHpF60fIQA6lS9xA,92
+py_menu-1.2.1.dist-info/top_level.txt,sha256=jbayY-kzCe-Qab_Z2bffQy4FTfDjoTt2LOMmH6oFAjs,8
+py_menu-1.2.1.dist-info/RECORD,,
