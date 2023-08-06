@@ -1,0 +1,5 @@
+line.py.egg-info/PKG-INFO
+line.py.egg-info/SOURCES.txt
+line.py.egg-info/dependency_links.txt
+line.py.egg-info/requires.txt
+line.py.egg-info/top_level.txt
