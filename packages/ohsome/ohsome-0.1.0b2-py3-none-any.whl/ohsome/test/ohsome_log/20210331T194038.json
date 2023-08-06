@@ -1,0 +1,15 @@
+{
+    "timestamp": "20210331T194038",
+    "status": 404,
+    "message": "Seems like https://api.ohsome.org/v1/elements/count/groupBy/key is not a valid endpoint.",
+    "requestUrl": "https://api.ohsome.org/v1/elements/count/groupBy/key",
+    "parameters": {
+        "bboxes": "8.6933,49.40893,8.69797,49.41106",
+        "time": "2019-12-10,2019-12-11",
+        "filter": "type:node",
+        "groupByKeys": [
+            "amenity",
+            "shop"
+        ]
+    }
+}
