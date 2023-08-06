@@ -1,0 +1,13 @@
+pg8000/__init__.py,sha256=Jkaky3dDSjva5ZhxkUMt-K-4RvTKs5gApNExcHYuvik,4118
+pg8000/_version.py,sha256=OmxZyvAvxyVy1qEeIjNlqIQcqQOvYf0eUL5TV2XLezI,472
+pg8000/converters.py,sha256=kCFXNbFUA3hiLqqz_rT8C1ZvY5TbtEfMqaznfsOf5Mc,17071
+pg8000/core.py,sha256=U5VStMFo-CA_1-t2SeYPWB6taYDDW40nq7Pq-7-1YvM,34211
+pg8000/dbapi.py,sha256=Q7PdfmrIjaajPTGNWxtfJCBWMvn68vaQX96NGHRNBkQ,27190
+pg8000/exceptions.py,sha256=u7fJan8aUFlHcMG5xurX88GhfABEUUPoybfoETaJ50o,940
+pg8000/legacy.py,sha256=Z-doLloGViXAnbXlI2JBM72LzJtfLP5WZBbIUEmrnBI,24407
+pg8000/native.py,sha256=huH_Mr8vJ4eEvi_Fsi__HUry80OwHjJKgbBEInXA304,7569
+pg8000-1.19.0.dist-info/LICENSE,sha256=ajeuMaRRJmNZOfXAg-mNSOpc_-VhO2LbZM1dywol5nc,1438
+pg8000-1.19.0.dist-info/METADATA,sha256=hOycN2zuJ1Hd1Vmj76E-cIztszRcuuHxmn_YWPfgoqU,1651
+pg8000-1.19.0.dist-info/WHEEL,sha256=g4nMs7d-Xl9-xC9XovUrsDHGXt-FT0E17Yqo92DEfvY,92
+pg8000-1.19.0.dist-info/top_level.txt,sha256=R-X4475Cez2l7ZYcYUJzuffAxDS7xHCCA0JCjs8iKKE,7
+pg8000-1.19.0.dist-info/RECORD,,
