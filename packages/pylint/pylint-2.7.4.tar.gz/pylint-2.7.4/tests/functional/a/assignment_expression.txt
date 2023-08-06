@@ -1,0 +1,4 @@
+pointless-statement:56:0::Statement seems to have no effect
+used-before-assignment:74:7::Using variable 'err_a' before assignment
+used-before-assignment:75:6::Using variable 'err_b' before assignment
+used-before-assignment:77:13::Using variable 'err_d' before assignment
