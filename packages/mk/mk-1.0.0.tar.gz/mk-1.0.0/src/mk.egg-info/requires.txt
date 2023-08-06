@@ -1,0 +1,10 @@
+GitPython
+blessings
+click>=7.1.2
+colorama
+importlib-metadata
+pygments
+pyyaml
+rich>=9.0
+shellingham
+typer

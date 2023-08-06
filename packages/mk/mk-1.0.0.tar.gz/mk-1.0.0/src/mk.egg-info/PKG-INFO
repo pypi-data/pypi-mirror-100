@@ -1,0 +1,36 @@
+Metadata-Version: 2.1
+Name: mk
+Version: 1.0.0
+Summary: mk
+Home-page: https://github.com/pycontribs/mk
+Author: Sorin Sbarnea
+Author-email: sorin.sbarnea@gmail.com
+Maintainer: Sorin Sbarnea
+Maintainer-email: sorin.sbarnea@gmail.com
+License: MIT
+Project-URL: Source, https://github.com/pycontribs/mk
+Project-URL: Tracker, https://github.com/pycontribs/mk
+Description: # mk
+        
+        `mk` is a tool I dreamed about for more than a decade but never had the chance
+        to find or write.
+        
+        `mk` is inspired by tools listed below, but it does not aim to replace them.
+        
+        * [make](https://www.gnu.org/software/make/)
+        * [waf](https://gitlab.com/ita1024/waf)
+        * [tox](https://github.com/tox-dev/tox/)
+        
+Keywords: mk
+Platform: any
+Classifier: Development Status :: 1 - Planning
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: POSIX
+Classifier: Topic :: Software Development
+Classifier: Topic :: Utilities
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Requires-Python: >=3.8
+Description-Content-Type: text/markdown
