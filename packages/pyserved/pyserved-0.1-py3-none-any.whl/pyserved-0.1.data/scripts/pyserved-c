@@ -1,0 +1,24 @@
+#!python
+
+from pyserved.client import clientd
+
+print("""
+__________________________
+
+    Pyserved CLI TOOL
+
+By Shaurya Pratap Singh
+@ 2021
+
+
+""")
+
+file_path = input("File path: ")
+clientd(file_path)
+
+import time
+
+time.sleep(1)
+
+print("Done! The file has been sent!")
+print("__________________________")

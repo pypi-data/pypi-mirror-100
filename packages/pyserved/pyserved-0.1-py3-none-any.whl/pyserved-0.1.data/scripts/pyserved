@@ -1,0 +1,20 @@
+#!python
+
+"""
+________________________________
+|                              |
+| pyserved 0.1                 |
+|                              |
+| Only works with utf-8        | 
+| files. (for now.)            |
+|                              | 
+| By:                          |
+| Shaurya Pratap Singh         |
+| 2021 ©                       |
+|______________________________|
+"""
+
+
+from pyserved.server import startserver
+
+startserver()

@@ -1,0 +1,15 @@
+Metadata-Version: 2.1
+Name: pyserved
+Version: 0.1
+Summary: Share files (UTF-8) through your network. (only for macOS)
+Home-page: https://github.com/shaurya-blip/pyserved/
+Author: Shaurya Pratap Singh
+Author-email: shaurya.p.singh21@gmail.com
+License: MIT
+Platform: UNKNOWN
+Description-Content-Type: text/markdown
+Requires-Dist: tqdm
+
+# Pyserved v0.1
+
+
