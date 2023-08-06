@@ -1,0 +1,10 @@
+README.md
+setup.py
+foundry_cli/__init__.py
+foundry_cli/main.py
+foundry_ml_cli.egg-info/PKG-INFO
+foundry_ml_cli.egg-info/SOURCES.txt
+foundry_ml_cli.egg-info/dependency_links.txt
+foundry_ml_cli.egg-info/entry_points.txt
+foundry_ml_cli.egg-info/requires.txt
+foundry_ml_cli.egg-info/top_level.txt
