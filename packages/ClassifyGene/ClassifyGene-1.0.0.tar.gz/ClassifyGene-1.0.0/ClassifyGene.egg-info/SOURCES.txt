@@ -1,0 +1,8 @@
+setup.py
+ClassifyGene/Classify.py
+ClassifyGene/__init__.py
+ClassifyGene.egg-info/PKG-INFO
+ClassifyGene.egg-info/SOURCES.txt
+ClassifyGene.egg-info/dependency_links.txt
+ClassifyGene.egg-info/requires.txt
+ClassifyGene.egg-info/top_level.txt
