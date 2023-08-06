@@ -1,0 +1,16 @@
+flaskr/__init__.py,sha256=tOmPyVVNZhQlw4VSS-873mHlzOqgab_uWmh4-EIpf8c,1054
+flaskr/auth.py,sha256=m44QfKPCt4FVRxqyvoKWUAYeYozvgob9TKL8sLjI8zg,2568
+flaskr/blog.py,sha256=Z1oGbWX4KnwMiNZFWPlYrUMWAAzSA9JI8O4mQAIZozw,2645
+flaskr/db.py,sha256=CI1jZCbe3zUOrONk8A68jFoccRuXB2yUVUSLzj8kYA4,870
+flaskr/schema.sql,sha256=K_HRiPzrgO06wCXg1WqXfQkkzbTJR8dC3PnaFMesvUo,433
+flaskr/static/style.css,sha256=EQKozlt5bmEYHGUclulF-w0jtmhcTOX59eqnka9MOME,1561
+flaskr/templates/base.html,sha256=F-yL1hD1C_huZvfjGjZkz0zaDap4u75DzDEQyjlgS48,924
+flaskr/templates/auth/login.html,sha256=f6hVZbS9uPHj5yDBlyGaT_sSSrjLvCuRcyurQtfNJdg,463
+flaskr/templates/auth/register.html,sha256=kaXNEWzfAivkjlckOt5XMoSl_Ik7j-PSl-gyBHnxHHQ,441
+flaskr/templates/blog/create.html,sha256=YJdj03QV28gIjM6oT4biGCA6FZXFn_dRCGvDmAHjOm4,460
+flaskr/templates/blog/index.html,sha256=8tovqD5pAS8pZDG0tSfhvwrSaEHpFQpAoNSYzI6OeC8,876
+flaskr/templates/blog/update.html,sha256=Nx6MTTrONe7KglgO5URhPOpbroVGc0BOKvDq29wR5YM,714
+flaskr_3_29_2021-1.0.0.dist-info/METADATA,sha256=APmm9ssFZ-JeVMcw9UfwnWmLRFcn8TdhWv64VtDBZMw,201
+flaskr_3_29_2021-1.0.0.dist-info/WHEEL,sha256=OqRkF0eY5GHssMorFjlbTIq072vpHpF60fIQA6lS9xA,92
+flaskr_3_29_2021-1.0.0.dist-info/top_level.txt,sha256=_a-V6lXH3Y1ZozipWz8bxq12_647QO4DxYxvgSWhOsg,7
+flaskr_3_29_2021-1.0.0.dist-info/RECORD,,
