@@ -1,0 +1,23 @@
+Metadata-Version: 2.1
+Name: bashrc
+Version: 0.31.61
+Summary: UNKNOWN
+Home-page: UNKNOWN
+Author: UNKNOWN
+Author-email: UNKNOWN
+License: UNKNOWN
+Platform: UNKNOWN
+Requires-Dist: ansible
+Requires-Dist: bump2version
+Requires-Dist: distro
+Requires-Dist: docker
+Requires-Dist: mackup
+Requires-Dist: pip
+Requires-Dist: setuptools
+Requires-Dist: twine
+Requires-Dist: typer
+Requires-Dist: wheel
+
+UNKNOWN
+
+
