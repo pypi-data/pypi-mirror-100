@@ -1,0 +1,6 @@
+setup.py
+world_models/__init__.py
+world_models.egg-info/PKG-INFO
+world_models.egg-info/SOURCES.txt
+world_models.egg-info/dependency_links.txt
+world_models.egg-info/top_level.txt
