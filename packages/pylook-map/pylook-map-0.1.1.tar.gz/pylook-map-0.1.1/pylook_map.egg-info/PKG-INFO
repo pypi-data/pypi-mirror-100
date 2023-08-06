@@ -1,0 +1,11 @@
+Metadata-Version: 1.2
+Name: pylook-map
+Version: 0.1.1
+Summary: Python Distribution Utilities
+Home-page: UNKNOWN
+Author: Antoine Delepoulle
+Author-email: delepoulle.a@gmail.com
+License: UNKNOWN
+Description: UNKNOWN
+Platform: UNKNOWN
+Requires-Python: >=3.7

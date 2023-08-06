@@ -1,0 +1,5 @@
+[console_scripts]
+DHeader = pylook.appli.data_header:data_header
+DataLook = pylook.appli.data_look:data_look
+PyLook = pylook.appli.pylook:pylook
+

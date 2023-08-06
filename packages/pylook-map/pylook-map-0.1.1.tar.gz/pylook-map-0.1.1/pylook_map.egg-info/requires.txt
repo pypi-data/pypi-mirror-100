@@ -1,0 +1,6 @@
+numpy
+matplotlib
+netCDF4
+pyproj
+numba
+zarr
