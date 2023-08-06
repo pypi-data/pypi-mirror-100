@@ -1,0 +1,8 @@
+car_speed/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+car_speed/car_speed_detection.py,sha256=mIEZUOkZHb_KSfxkOqaNsbrukrrDW2movMjWyiASS1s,15085
+tests/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+tests/car_speed_detection_test.py,sha256=h-YuwoNpEQurjuqLmZqHKmKc0v19apjKvgW89vCSEbQ,10528
+car_speed_detection-0.7.2.dist-info/METADATA,sha256=Xq1HDonekP3FzLBrV228GmDSjYYOidv1I-C0EFd845Q,960
+car_speed_detection-0.7.2.dist-info/WHEEL,sha256=OqRkF0eY5GHssMorFjlbTIq072vpHpF60fIQA6lS9xA,92
+car_speed_detection-0.7.2.dist-info/top_level.txt,sha256=rhbo_SfNjc04Cw3fbOG6i7_7GKdSgB9zql5moIjS0P8,16
+car_speed_detection-0.7.2.dist-info/RECORD,,
