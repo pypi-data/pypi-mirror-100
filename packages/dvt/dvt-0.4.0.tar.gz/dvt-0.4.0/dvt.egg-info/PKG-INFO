@@ -1,0 +1,31 @@
+Metadata-Version: 2.1
+Name: dvt
+Version: 0.4.0
+Summary: Computational Analysis of Visual Culture
+Home-page: https://github.com/distant-viewing/dvt
+Author: Taylor Anold, Lauren Tilton
+Author-email: tbarnold@protonmail.ch
+License: GPL-2
+Description: 
+        The Distant TV Toolkit is a Python package designed to facilitate the
+        computational analysis of visual culture. It contains low-level architecture
+        for applying state-of-the-art computer vision algorithms to still and moving
+        images. Extracted information can be visualized for search and discovery or
+        aggregated and analyzed to find patterns across a corpus.
+        
+        The Distant Viewing Toolkit is supported by the National Endowment for the
+        Humanities through a Digital Humanities Advancement Grant. It is released under
+        the open-source GNU General Public License (GPLv2).
+        
+Platform: UNKNOWN
+Classifier: Development Status :: 5 - Production/Stable
+Classifier: Intended Audience :: Developers
+Classifier: Intended Audience :: Education
+Classifier: Intended Audience :: Science/Research
+Classifier: License :: OSI Approved :: GNU General Public License v2 (GPLv2)
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Topic :: Multimedia :: Video
+Classifier: Topic :: Software Development :: Libraries :: Python Modules
+Provides-Extra: tests
+Provides-Extra: keras
+Provides-Extra: detectron2
