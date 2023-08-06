@@ -1,0 +1,16 @@
+astred/__init__.py,sha256=tz70L63OkZ3V2ZWC_ReM-sGMSehUgsQa61QxESHBDec,569
+astred/aligned.py,sha256=tHWziMIoateHfX-ajYWLTzOsTnh2_Mj1FqP8nps6mPU,25317
+astred/aligner.py,sha256=u42DBeUWTZcZ4WfdhaOJJaj8cIOUNQ3HpezsejI4d0w,3515
+astred/base.py,sha256=7lzN6fNNko4ebQmkRZoSIMoFWXyZL-ZFoPYCSAPi_FU,3113
+astred/enum.py,sha256=afD5gVhXWQ1revA2ErpHGPEpluNkdLnwd0Sf2MAcmgk,572
+astred/pairs.py,sha256=DOZATT4dej4pDilK2y9bkDCa5VNYq5C8PlKf6gmbhDI,128
+astred/sentence.py,sha256=s3zG3z63ug6vBK6mp2tmFvJYto6hqMoLXvRmCVSCmcQ,7535
+astred/span.py,sha256=M9u7CYTq8KcVTCa7CBjzIcZ7MDwfw6HF4cmDANr60WA,4473
+astred/tree.py,sha256=M39IEWmQbhus3kDNMw6r8mL95lCfGwiQ6ewBKGNNc1c,9084
+astred/utils.py,sha256=mN0GrccGghLjnPIGojCaEj71FMDudjTGMa-7VoYOQZ8,6676
+astred/word.py,sha256=Ig8OzKYTL5K0qERbNzcXdlApryhBB2EJpbzAxyhURVE,4680
+astred-0.9.3.dist-info/LICENSE,sha256=x_fHWycCEf0rdqF5_VHd2oZ275NVpUfEYgKicTrFCdo,10345
+astred-0.9.3.dist-info/METADATA,sha256=SH-PxbW5efyPmXG7MGQAvjXhrx17qPoALUdFZrV41I0,5401
+astred-0.9.3.dist-info/WHEEL,sha256=OqRkF0eY5GHssMorFjlbTIq072vpHpF60fIQA6lS9xA,92
+astred-0.9.3.dist-info/top_level.txt,sha256=wd0z2FKo3MpIl-kDaL-3cfbvk9oeYdZegLjGMDVdA84,7
+astred-0.9.3.dist-info/RECORD,,
