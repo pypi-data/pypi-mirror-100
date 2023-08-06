@@ -1,0 +1,7 @@
+comtypes==1.1.9
+
+[dev]
+wheel
+
+[test]
+pytest
