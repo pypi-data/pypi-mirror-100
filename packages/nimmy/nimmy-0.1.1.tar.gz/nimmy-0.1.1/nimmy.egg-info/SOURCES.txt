@@ -1,0 +1,11 @@
+setup.py
+nimmy/__init__.py
+nimmy/__main__.py
+nimmy/display.py
+nimmy/game.py
+nimmy.egg-info/PKG-INFO
+nimmy.egg-info/SOURCES.txt
+nimmy.egg-info/dependency_links.txt
+nimmy.egg-info/entry_points.txt
+nimmy.egg-info/requires.txt
+nimmy.egg-info/top_level.txt
