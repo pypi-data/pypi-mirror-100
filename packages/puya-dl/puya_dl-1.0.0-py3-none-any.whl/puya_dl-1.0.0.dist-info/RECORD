@@ -1,0 +1,10 @@
+puyadl/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+puyadl/__main__.py,sha256=_T2jrGvX0tY1AnDPN-9XUri0JA13BTO_Rc48w1ffljY,2544
+puyadl/episode_parser.py,sha256=qUYOpbdULw_bLu5z1FpssxsL6ayHosvHqjA9jarXM3w,959
+puyadl/gui.py,sha256=xX1_c30aHHJgEnCJVCoMRG2rVoXjMh8EaM-O7wFp6Ps,4739
+puyadl/scraper.py,sha256=nbj2ztAEERRFnvgIATx81BKwk75bMAuki-W-vILOOos,2588
+puya_dl-1.0.0.dist-info/LICENSE,sha256=r9zoN_3ob53DBwkBzzytUtRSEjyxPoMfYp8SdB2Ly3c,1064
+puya_dl-1.0.0.dist-info/METADATA,sha256=Whw1Vglk6sGX5NGEbN3y2ZYFvDwgXX0TycwH0n2PW7E,2352
+puya_dl-1.0.0.dist-info/WHEEL,sha256=OqRkF0eY5GHssMorFjlbTIq072vpHpF60fIQA6lS9xA,92
+puya_dl-1.0.0.dist-info/top_level.txt,sha256=9yRySYMXimjzwnWoPSVHE81gfGguOyIVlTyIQx4sxto,7
+puya_dl-1.0.0.dist-info/RECORD,,
