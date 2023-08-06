@@ -1,0 +1,10 @@
+README.md
+setup.py
+scripts/slg-test-7
+slg_test_7/__init__.py
+slg_test_7/importable.py
+slg_test_7.egg-info/PKG-INFO
+slg_test_7.egg-info/SOURCES.txt
+slg_test_7.egg-info/dependency_links.txt
+slg_test_7.egg-info/requires.txt
+slg_test_7.egg-info/top_level.txt
