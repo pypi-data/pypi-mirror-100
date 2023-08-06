@@ -1,0 +1,5 @@
+#!python
+
+from slg_test_7 import main
+
+main()
