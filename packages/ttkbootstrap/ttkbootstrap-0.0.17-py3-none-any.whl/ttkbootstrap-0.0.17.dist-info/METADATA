@@ -1,0 +1,33 @@
+Metadata-Version: 2.1
+Name: ttkbootstrap
+Version: 0.0.17
+Summary: A collection of modern ttk themes inspired by Bootstrap
+Home-page: https://github.com/israel-dryer/ttkbootstrap
+Author: Israel Dryer
+Author-email: israel.dryer@gmail.com
+License: UNKNOWN
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
+Requires-Dist: pillow
+
+
+# ttkbootstrap
+A collection of modern flat themes inspired by Bootstrap. There are more than a dozen built-in themes, and you have the 
+ability to easily create your own with TTK Creator.
+
+## Installation
+https://pypi.org/project/ttkbootstrap/
+```python
+pip install ttkbootstrap
+```
+
+## Usage
+For more information about how to use this project in your own programs, please check out the 
+[documentation](https://ttkbootstrap.readthedocs.io/en/latest/) on ReadTheDocs. You can find examples of all the themes 
+as well as usage instructions.
+
+
