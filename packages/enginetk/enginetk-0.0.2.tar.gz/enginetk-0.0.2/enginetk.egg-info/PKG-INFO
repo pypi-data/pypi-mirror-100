@@ -1,0 +1,23 @@
+Metadata-Version: 1.1
+Name: enginetk
+Version: 0.0.2
+Summary: a small game engine for tkinter
+Home-page: UNKNOWN
+Author: thatalloguy
+Author-email: UNKNOWN
+License: MIT
+Description: this a small litle game engine for tkinter
+        
+        Change Log
+        ==========
+        
+        0.0.1 (31|3|2021)
+        
+        -First Release
+Keywords: tkinter
+Platform: UNKNOWN
+Classifier: Development Status :: 5 - Production/Stable
+Classifier: Intended Audience :: Education
+Classifier: Operating System :: Microsoft :: Windows :: Windows 10
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3
