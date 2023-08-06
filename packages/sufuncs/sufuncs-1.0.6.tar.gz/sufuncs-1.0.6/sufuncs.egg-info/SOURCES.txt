@@ -1,0 +1,9 @@
+setup.cfg
+setup.py
+sufuncs/__init__.py
+sufuncs/sufuncs.py
+sufuncs.egg-info/PKG-INFO
+sufuncs.egg-info/SOURCES.txt
+sufuncs.egg-info/dependency_links.txt
+sufuncs.egg-info/not-zip-safe
+sufuncs.egg-info/top_level.txt
