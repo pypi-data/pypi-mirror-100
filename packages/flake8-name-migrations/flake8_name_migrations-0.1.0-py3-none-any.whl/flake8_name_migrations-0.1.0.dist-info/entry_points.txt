@@ -1,0 +1,3 @@
+[flake8.extension]
+NMI=flake8_name_migrations:Plugin
+

@@ -1,0 +1,68 @@
+Metadata-Version: 2.1
+Name: flake8-name-migrations
+Version: 0.1.0
+Summary: Flake8 hook for reminding you to give your Django migrations human readable names
+Home-page: https://github.com/otovo/flake8-name-migrations
+License: MIT
+Keywords: flake8,django,migrations
+Author: Sondre Lillebø Gundersen
+Author-email: sondrelg@otovo.com
+Requires-Python: >=3.7,<4.0
+Classifier: Development Status :: 1 - Planning
+Classifier: Environment :: Console
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: BSD License
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Natural Language :: English
+Classifier: Operating System :: OS Independent
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3 :: Only
+Classifier: Programming Language :: Python :: 3.10
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Topic :: Software Development
+Classifier: Topic :: Software Development :: Quality Assurance
+Classifier: Typing :: Typed
+Requires-Dist: flake8
+Project-URL: Documentation, https://github.com/otovo/flake8-name-migrations
+Project-URL: Repository, https://github.com/otovo/flake8-name-migrations
+Description-Content-Type: text/markdown
+
+# flake8_name_migrations
+
+TODO: Explain in ~140 characters what this project is.
+
+## TODO after cloning this
+
+```bash
+# Make it a git repository
+$ git init
+
+# Add the link to a server
+$ git remote add origin git@github.com:otovo/flake8-name-migrations.git
+
+# Initialize the virtual environment
+$ pip install poetry
+$ poetry install
+
+# Make sure the repository stays nice
+$ pre-commit install
+
+# Fill out all TODOs
+$ grep -rnI "TODO" *
+
+# Delete this TODO section
+```
+
+## Installation
+
+```
+$ pip install .
+```
+
+## Usage
+
+TODO: Show a minimal example how this is useful
+
