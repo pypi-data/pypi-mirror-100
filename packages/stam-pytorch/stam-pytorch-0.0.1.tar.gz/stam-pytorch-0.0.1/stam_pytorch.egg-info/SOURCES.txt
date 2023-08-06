@@ -1,0 +1,9 @@
+README.md
+setup.py
+stam_pytorch/__init__.py
+stam_pytorch/stam.py
+stam_pytorch.egg-info/PKG-INFO
+stam_pytorch.egg-info/SOURCES.txt
+stam_pytorch.egg-info/dependency_links.txt
+stam_pytorch.egg-info/requires.txt
+stam_pytorch.egg-info/top_level.txt
