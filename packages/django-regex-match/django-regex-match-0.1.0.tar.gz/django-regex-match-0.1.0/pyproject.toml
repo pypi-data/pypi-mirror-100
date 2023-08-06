@@ -1,0 +1,23 @@
+[tool.poetry]
+name = "django-regex-match"
+version = "0.1.0"
+description = "A URL match and classification engine"
+authors = ["Your Name <you@example.com>"]
+packages = [{ include = "regex_match"}]
+
+[tool.poetry.dependencies]
+python = "^3.6"
+
+[tool.poetry.dev-dependencies]
+pytest = "2.6.4"
+pytest-django = "2.8.0"
+pytest-cov = "1.8.1"
+factory_boy = "^2.4.1"
+PyYAML = "3.11"
+flake8 = "2.4.0"
+pep8 = "1.5.7"
+isort = "3.9.6"
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
