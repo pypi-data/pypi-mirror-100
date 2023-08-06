@@ -1,0 +1,18 @@
+Metadata-Version: 2.1
+Name: sniffbytes-francois.nadeau.1
+Version: 0.0.1
+Summary: Python3 data parsing and cleaning module
+Home-page: https://github.com/FrancoisNadeau/sniffbytes.git
+Author: francois
+Author-email: francois.nadeau.1@umontreal.ca
+License: UNKNOWN
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+Description-Content-Type: text/x-rst
+
+Python3 module featuring sniff_bytes.py,a dialect finder meant to increase the scope of CSV.Sniffer's supported input types and avoid crashes
+
+
