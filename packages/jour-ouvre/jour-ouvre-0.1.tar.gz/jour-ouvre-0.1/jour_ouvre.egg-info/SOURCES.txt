@@ -1,0 +1,9 @@
+README.md
+jour_ouvre.py
+pyproject.toml
+setup.cfg
+jour_ouvre.egg-info/PKG-INFO
+jour_ouvre.egg-info/SOURCES.txt
+jour_ouvre.egg-info/dependency_links.txt
+jour_ouvre.egg-info/entry_points.txt
+jour_ouvre.egg-info/top_level.txt

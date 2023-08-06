@@ -1,0 +1,26 @@
+Metadata-Version: 2.1
+Name: jour-ouvre
+Version: 0.1
+Summary: Détecteur de jours ouvrés.
+Home-page: UNKNOWN
+Author: Johanne PEREAU
+Author-email: johanne.pereau@gmail.com
+License: MIT License
+Description: # Détecteur de jours feriés
+        
+        Exit 1 les jours feriés, 0 sinon.
+        
+        ## Example
+        
+        ```bash
+        jour-ouvre && echo "C'est un jour ouvré !"
+        ```
+        
+Platform: UNKNOWN
+Classifier: Development Status :: 1 - Planning
+Classifier: Intended Audience :: Information Technology
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Natural Language :: French
+Classifier: Programming Language :: Python :: 3
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown; charset=UTF-8
