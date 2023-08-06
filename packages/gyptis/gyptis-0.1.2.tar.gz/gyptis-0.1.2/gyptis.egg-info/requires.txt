@@ -1,0 +1,8 @@
+scipy
+dolfin-adjoint
+meshio
+gmsh
+h5py
+nlopt
+numpy
+simpy
