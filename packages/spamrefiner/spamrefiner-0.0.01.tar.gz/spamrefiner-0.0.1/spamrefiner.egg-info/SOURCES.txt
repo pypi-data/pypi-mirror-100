@@ -1,0 +1,9 @@
+README.md
+setup.py
+spamrefiner/__init__.py
+spamrefiner/client.py
+spamrefiner.egg-info/PKG-INFO
+spamrefiner.egg-info/SOURCES.txt
+spamrefiner.egg-info/dependency_links.txt
+spamrefiner.egg-info/requires.txt
+spamrefiner.egg-info/top_level.txt

@@ -1,0 +1,31 @@
+Metadata-Version: 2.1
+Name: spamrefiner
+Version: 0.0.1
+Summary: SpamRefiner API Wrapper
+Home-page: https://github.com/SpamRefiner/srAPI
+Author: The Codents
+Author-email: info@thecodents.org
+License: License :: OSI Approved :: GNU Lesser General Public License v3 (LGPLv3)
+Description: # SpamRefiner API Python Wrapper
+        # Basic Usage
+        
+        ```python
+        import spamrefiner
+        client = spamrefiner.Client("Your Token Here")
+        user_id = 777000
+        flag = client.get_flag(user_id)
+        reason = client.get_flag_reason(user_id)
+        if flag:
+            print(reason)
+        else:
+            print("Not flagged")
+        ```
+        
+Platform: UNKNOWN
+Classifier: Development Status :: 4 - Beta
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: Implementation :: CPython
+Classifier: Typing :: Typed
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
