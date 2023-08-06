@@ -1,0 +1,14 @@
+
+
+.import-file-select-container {
+    display: flex;
+    flex-direction: row;
+    margin-bottom: 1vh;
+}
+
+.import-file-delete {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin-left: 1vw;
+}
