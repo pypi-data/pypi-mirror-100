@@ -1,0 +1,9 @@
+README.md
+setup.py
+coinflex_ws/__init__.py
+coinflex_ws/coinflex_ws.py
+coinflex_ws.egg-info/PKG-INFO
+coinflex_ws.egg-info/SOURCES.txt
+coinflex_ws.egg-info/dependency_links.txt
+coinflex_ws.egg-info/requires.txt
+coinflex_ws.egg-info/top_level.txt
