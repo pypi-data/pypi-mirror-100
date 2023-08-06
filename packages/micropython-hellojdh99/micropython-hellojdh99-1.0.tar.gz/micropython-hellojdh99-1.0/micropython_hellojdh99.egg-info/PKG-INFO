@@ -1,0 +1,16 @@
+Metadata-Version: 2.1
+Name: micropython-hellojdh99
+Version: 1.0
+Summary: test micropython pack
+Home-page: https://github.com/jdhxyy
+Author: jdh99
+Author-email: jdh821@163.com
+License: UNKNOWN
+Description: # micropython-hellojdh99
+        
+        ## 介绍
+        测试micropython包打包。
+        
+        
+Platform: UNKNOWN
+Description-Content-Type: text/markdown
