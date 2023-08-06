@@ -1,0 +1,16 @@
+goenrichment/__init__.py,sha256=9yQvJxAPrN2lB_xVjPv8Qs-rwDU3bPvvBoLxVx7xyM0,330
+goenrichment/enrichment.py,sha256=Qfs7CAbLbL86s8ZtxzzUI9r14U3rcf0DlZUAXVjDlLc,2341
+goenrichment/go.py,sha256=MiJffq6IBHg2NQVNDuTLmRJyElCJ3cyyoffPRLgqaBA,3665
+goenrichment/goenrich.py,sha256=Znb4rvLTf4ScF4GBjDXIROsC_UeQJop3OiuK-XBRZcc,2929
+goenrichment/goenrichDB.py,sha256=Q2xOfiBNiBlI6KkIvwPfIqlblJFTq7fcpx4tJo6kX-c,3180
+goenrichment/graph.py,sha256=O5EJbvZVR_9fl-6Tj_Vqt5_UYV2JjxARYI0Mxq1HUe8,295
+goenrichment/parsers.py,sha256=yoFs7SWNnxmWZ4WYasMg_pY3Vq4Vhbndjr_pJ9cvnCk,3068
+goenrichment-1.0.1.data/data/README.rst,sha256=5b7-NnQq9UDbiAQBXtqfpF3yZQWJuFOtveetqDWyP_o,6062
+tests/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+tests/test_godb.py,sha256=pUYBDQo9uVTvKScsUkbtmR1xR4-wbNc7k5jvZBuMIq0,486
+goenrichment-1.0.1.dist-info/LICENSE,sha256=4dXeufGUNb6WU0Ayv3MCzp5gQhR-25Fpoif0ClmlJBM,961
+goenrichment-1.0.1.dist-info/METADATA,sha256=KWy_WHIB-cArnZjnLDKvIdjgMiO3vLS7glrzNygPQWQ,7281
+goenrichment-1.0.1.dist-info/WHEEL,sha256=OqRkF0eY5GHssMorFjlbTIq072vpHpF60fIQA6lS9xA,92
+goenrichment-1.0.1.dist-info/entry_points.txt,sha256=aSNC-rnRfLtXF9pFz1zDRiEWe8Z3XlUISu6wZCYADQ0,106
+goenrichment-1.0.1.dist-info/top_level.txt,sha256=9YPUi48gV6ai15wpJ11nAEyLMkVTXdSPutXBm-RmITE,19
+goenrichment-1.0.1.dist-info/RECORD,,
