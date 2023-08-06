@@ -1,0 +1,28 @@
+Metadata-Version: 2.1
+Name: exo-det-box
+Version: 0.0.2
+Summary: Methods for finding planets sharing a common (s,dmag)
+Home-page: https://github.com/SIOSlab/exodetbox
+Author: Dean Robert Keithly
+Author-email: drk94@cornell.edu
+License: UNKNOWN
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Classifier: License :: OSI Approved :: BSD License
+Classifier: Operating System :: OS Independent
+Description-Content-Type: text/markdown
+Requires-Dist: numpy
+Requires-Dist: scipy
+Requires-Dist: astropy
+Requires-Dist: EXOSIMS
+Requires-Dist: ortools
+
+# exodetbox
+<img src="https://raw.githubusercontent.com/SIOSlab/exodetbox/main/documentation/logo/exo-det-boxlogo.svg" width="150" height="150" />
+Methods for finding planets sharing a common (s,dmag)
+
+[![astropy](http://img.shields.io/badge/powered%20by-AstroPy-orange.svg?style=flat)](http://www.astropy.org/)
+
+
