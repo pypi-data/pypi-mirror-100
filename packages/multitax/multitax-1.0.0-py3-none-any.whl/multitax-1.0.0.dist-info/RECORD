@@ -1,0 +1,15 @@
+multitax/__init__.py,sha256=QfC6af-veHfx8r855mQD7LpPXdD4M_c8PaSfywdIatw,329
+multitax/customtx.py,sha256=ae8Bkh4Ip6PyX1GJYqEa71_ouewp8ERyebm97nNRo0s,2180
+multitax/dummytx.py,sha256=mNMNN_6HCnX6q0-AwHwODZrrb7edYJq3rYN5FFoxjBg,431
+multitax/greengenestx.py,sha256=Wr6Zw1R5F4CQE3FjNJiVUcdrW2D7f05jXWRwtireMds,1903
+multitax/gtdbtx.py,sha256=0ytGHjqkRx9PHdCXScM3KkCapT_EXe5iWLu8GlqNnJM,1968
+multitax/multitax.py,sha256=huaA3eAGZl_yr_FXmWpQwRT5v9HoXz0WAdwSP37c5sw,19269
+multitax/ncbitx.py,sha256=uCRDN7F5UoEfH11WW10wiWXgb0Za0K7xRDAVy4jAFRA,3095
+multitax/otttx.py,sha256=vmyCzdngt8Rn2voFxL0Ddy3hX4q9kA6Uov1Rjk_ocG0,2846
+multitax/silvatx.py,sha256=u9b-AtPnYnRFyxCTZfKXrQYC2N1seTMrfG8E18CTMOU,1589
+multitax/utils.py,sha256=co8DYba9Pft698B5w0uvTC-cplTkDTkfhvNLU4cgrsQ,3881
+multitax-1.0.0.dist-info/LICENSE,sha256=4EHc-WEHOYSFfq8CxeD2YWFFuikYowoSv7oZ9h830ps,1070
+multitax-1.0.0.dist-info/METADATA,sha256=1vDHgHU2QDu6i4P_1d94yonSiqqqU70o1n9zsxKfoo8,8450
+multitax-1.0.0.dist-info/WHEEL,sha256=OqRkF0eY5GHssMorFjlbTIq072vpHpF60fIQA6lS9xA,92
+multitax-1.0.0.dist-info/top_level.txt,sha256=CA1NTqNkfiJu4PQogQ8nIMAUAO3w8P4ljUyMGn-iDbo,9
+multitax-1.0.0.dist-info/RECORD,,
