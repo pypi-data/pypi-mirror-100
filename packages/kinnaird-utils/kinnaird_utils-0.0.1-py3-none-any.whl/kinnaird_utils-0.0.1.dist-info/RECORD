@@ -1,0 +1,15 @@
+kinnaird_utils/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+kinnaird_utils/log_formatting.py,sha256=oy_bzVWz-8_6HVvadQeJSKN4XNyDRNig-pbJA3NgquY,1931
+kinnaird_utils/version.py,sha256=KQHlfXDfKXKcvE3jALbuyEDZGgVDU15C1wgi_ilra0k,65
+kinnaird_utils/aws/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+kinnaird_utils/aws/login.py,sha256=zYRMeE2heKi9VsZ0xRyN1H_5IdTdpDd5A-BS7U7QoZU,2792
+kinnaird_utils/files/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+kinnaird_utils/files/files.py,sha256=uVxX4uiq70qmApSOo4v0Tgae3GdhWu_NHmrygFHq5nY,1124
+kinnaird_utils/text/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+kinnaird_utils/text/text.py,sha256=N51mlA3bkjT_HgI4B9wKt_eppddqVzb5xjr7WhMkpzE,3681
+kinnaird_utils-0.0.1.dist-info/LICENSE,sha256=zjS5PWUVTej8nPtAMXOacR6TObypNkgNMf1zQ14Nkt0,1059
+kinnaird_utils-0.0.1.dist-info/METADATA,sha256=BGvPyJdK8nsu11-mrliGhp1txxiikjEpGRFNw6cRavc,1055
+kinnaird_utils-0.0.1.dist-info/WHEEL,sha256=OqRkF0eY5GHssMorFjlbTIq072vpHpF60fIQA6lS9xA,92
+kinnaird_utils-0.0.1.dist-info/top_level.txt,sha256=6PD-ZcxywYnYRbjW1lD1i27U6JEp0V0P_O4eeUxH6W0,15
+kinnaird_utils-0.0.1.dist-info/zip-safe,sha256=AbpHGcgLb-kRsJGnwFEktk7uzpZOCcBY74-YBdrKVGs,1
+kinnaird_utils-0.0.1.dist-info/RECORD,,
