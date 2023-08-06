@@ -1,0 +1,3 @@
+[console_scripts]
+vcf2bedpe = viola.cli.viola:main
+
