@@ -1,0 +1,3 @@
+[console_scripts]
+Simplesquare = Simplesquare.__main__:main
+
