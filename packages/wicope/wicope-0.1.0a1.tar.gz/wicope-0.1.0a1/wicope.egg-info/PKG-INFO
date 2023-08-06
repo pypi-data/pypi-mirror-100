@@ -1,0 +1,22 @@
+Metadata-Version: 1.2
+Name: wicope
+Version: 0.1.0a1
+Summary: A fast Arduino Oscilloscope
+Home-page: https://github.com/diepala/wicope
+Author: Diego Palacios
+Author-email: diepala@gmail.com
+License: UNKNOWN
+Description: Wicope is a fast oscilloscope GUI application that makes use of
+        Arduino to acquire signals.
+        
+        This is not a professional oscilloscope, but it can be useful
+        for electronics enthusiasts and for education.
+        
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: Operating System :: OS Independent
+Classifier: Intended Audience :: Education
+Classifier: Intended Audience :: Science/Research
+Classifier: Topic :: Education
+Classifier: Topic :: Scientific/Engineering
+Requires-Python: >=3.7
