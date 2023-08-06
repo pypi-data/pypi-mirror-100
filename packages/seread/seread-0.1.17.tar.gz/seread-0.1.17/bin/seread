@@ -1,0 +1,34 @@
+#!/usr/bin/env python3
+
+from fire import Fire
+from seread import sng
+from seread.version import __version__
+
+
+
+#------ CONFIG FILES---------------
+# INPUT
+INP_calib="~/.seread.calib"
+INP_discover = "~/.seread_discover8086"
+INP_permanent = "~/.seread_permanent8086"
+INP_influx_cred = "~/.influx_userpassdb"
+INP_udp_out = "~/.seread_udp_out"
+INP_script = "script"
+
+# this runs one line at a time and repeats the last line forever. The example starts the ORTEC counter
+# OUTPUT
+OUT_ = "~/serial_NG2_udp"
+OUT_ = "~/serial_NG2_jso"
+
+def launch(MODE="help",p=1):
+    if MODE=="help":
+        print("h... available modes: help ...")
+        return
+    if MODE=="    ":print("ok")
+    if MODE=="    ":print("ok")
+    return p
+
+
+if __name__=="__main__":
+    print("D... seread script; version:",__version__)
+    Fire( launch )
