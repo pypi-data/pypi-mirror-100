@@ -1,0 +1,8 @@
+mathpylib/__init__.py,sha256=uzgdMwMHLH5GDcDBar4r0WiLG21Qj3S34Q1oo7XYP6g,61
+mathpylib/__main__.py,sha256=RJ8wKoCn8zo6kJUY9dgH5xyJLYzbOyWxGMWLySxjdyw,35
+mathpylib/interp.py,sha256=YRvupis1EdR9nxh4tdMojG0fvwKto1T0GWo-V_wsR7w,965
+mathpylib-0.1.dist-info/METADATA,sha256=zEUcjOXllNKrwkudacPpVxJTQLRaSEa-M0J4UsqgpkM,308
+mathpylib-0.1.dist-info/WHEEL,sha256=OqRkF0eY5GHssMorFjlbTIq072vpHpF60fIQA6lS9xA,92
+mathpylib-0.1.dist-info/entry_points.txt,sha256=B7-iWR2FbxUbkxa670cY5s95ZTPTfDpxpBI7d9FMUYI,53
+mathpylib-0.1.dist-info/top_level.txt,sha256=f0dzP6QkA6MxFifdWB9lqmhl3WRq1gF23HKv5TfcV8M,10
+mathpylib-0.1.dist-info/RECORD,,

@@ -1,0 +1,18 @@
+Metadata-Version: 2.1
+Name: mathpylib
+Version: 0.1
+Summary: A Python Library to do math functions.
+Home-page: UNKNOWN
+Author: Pranav
+Author-email: UNKNOWN
+License: MIT
+Platform: UNKNOWN
+Requires-Dist: virtualenv
+Requires-Dist: wheel
+Requires-Dist: setuptools
+Requires-Dist: pip
+Requires-Dist: HCF
+
+UNKNOWN
+
+
