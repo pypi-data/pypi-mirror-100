@@ -1,0 +1,13 @@
+LICENSE
+MANIFEST.in
+README.rst
+logger-README.md
+restapi-README.md
+setup.py
+src/gxsimcom/__init__.py
+src/gxsimcom/gxsimcom.py
+src/gxsimcom.egg-info/PKG-INFO
+src/gxsimcom.egg-info/SOURCES.txt
+src/gxsimcom.egg-info/dependency_links.txt
+src/gxsimcom.egg-info/requires.txt
+src/gxsimcom.egg-info/top_level.txt
