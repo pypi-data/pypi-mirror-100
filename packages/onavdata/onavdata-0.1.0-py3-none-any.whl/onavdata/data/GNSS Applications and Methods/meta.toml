@@ -1,0 +1,16 @@
+"vehicle-type" = "CAR"
+[info]
+simulation = true
+
+# The transformations below should have no effect.
+# They have been defined for creating a test to verify this.
+[Rsensor2body]
+Accel = [[1, 0, 0], 
+         [0, 1, 0],
+         [0, 0, 1]]
+AngleRate = [[1, 0, 0], 
+             [0, 1, 0],
+             [0, 0, 1]]
+MagField = [[1, 0, 0], 
+            [0, 1, 0],
+            [0, 0, 1]]
