@@ -1,0 +1,7 @@
+setup.py
+py3gui/__init__.py
+py3gui.egg-info/PKG-INFO
+py3gui.egg-info/SOURCES.txt
+py3gui.egg-info/dependency_links.txt
+py3gui.egg-info/requires.txt
+py3gui.egg-info/top_level.txt
