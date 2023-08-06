@@ -1,0 +1,6 @@
+setup.py
+seqRegression.egg-info/PKG-INFO
+seqRegression.egg-info/SOURCES.txt
+seqRegression.egg-info/dependency_links.txt
+seqRegression.egg-info/requires.txt
+seqRegression.egg-info/top_level.txt
