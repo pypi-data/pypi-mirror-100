@@ -1,0 +1,14 @@
+Metadata-Version: 2.1
+Name: xpboards
+Version: 0.1.1
+Summary: A python util for xpboards
+Home-page: UNKNOWN
+Author: Douglas Eloy
+Author-email: UNKNOWN
+License: MIT
+Platform: UNKNOWN
+Requires-Dist: requests
+
+UNKNOWN
+
+
