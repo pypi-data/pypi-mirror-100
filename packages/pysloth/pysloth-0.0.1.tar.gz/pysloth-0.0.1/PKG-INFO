@@ -1,0 +1,15 @@
+Metadata-Version: 2.1
+Name: pysloth
+Version: 0.0.1
+Summary: Probabilistic Predictions
+Home-page: https://github.com/PySloth/pysloth
+Author: Valery Manokhin
+Author-email: valery.manokhin.2015@live.rhul.ac.uk
+Maintainer: leonarduschen
+Maintainer-email: leonardus.chen@gmail.com
+License: MIT
+Description: # pysloth
+        Python package for probabilistic prediction
+        
+Platform: UNKNOWN
+Description-Content-Type: text/markdown
