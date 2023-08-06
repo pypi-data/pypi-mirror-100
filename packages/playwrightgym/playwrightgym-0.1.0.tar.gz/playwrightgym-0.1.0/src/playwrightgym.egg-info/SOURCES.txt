@@ -1,0 +1,14 @@
+MANIFEST.in
+README.md
+pyproject.toml
+setup.py
+src/playwrightgym/__init__.py
+src/playwrightgym/playwright_env.py
+src/playwrightgym.egg-info/PKG-INFO
+src/playwrightgym.egg-info/SOURCES.txt
+src/playwrightgym.egg-info/dependency_links.txt
+src/playwrightgym.egg-info/requires.txt
+src/playwrightgym.egg-info/top_level.txt
+src/playwrightgym/__pycache__/__init__.cpython-38.pyc
+src/playwrightgym/__pycache__/playwright_env.cpython-38.pyc
+src/playwrightgym/webtasks/login-user.html
