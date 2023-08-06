@@ -1,0 +1,13 @@
+pdftowrite/__init__.py,sha256=_YU48N_XJLFy7n8E9AvGqXw7g9O8ijIs2NWP9juP9Cg,29
+pdftowrite/docs.py,sha256=gtwOMVpkdYmPnv5ly8F8MYDgMvZnqmzWHjngt6RuQiw,15873
+pdftowrite/pdftowrite.py,sha256=8nV6VFMXDusgfRFXZZOM6s5YT36iVgSRQ19jqq4nrOY,7498
+pdftowrite/utils.py,sha256=eIzvpHfkiW_jvj0IM8MhFdMD0pe3S6fj2Sl0OHvyxD0,4260
+pdftowrite/writetopdf.py,sha256=ERn-Am7gj9vdbhKvtqKximh5piMuHjL7x40Q1FiU3FU,4836
+pdftowrite/data/document.svg,sha256=rhZ4nah_lFahiYkA_HOS-SupCkVis9Ce_72O4kWfWBI,202
+pdftowrite/data/page.svg,sha256=PYkBduUi-4RRqAMVm48wLp7wzlNe9uWZ0h-p7jgvaOI,555
+pdftowrite-2021.4.1.2.dist-info/COPYING,sha256=qpY_CeUsqi6bFAHISvP_GupuWDNKVnPnUHVOXpinI0w,1112
+pdftowrite-2021.4.1.2.dist-info/METADATA,sha256=LFKIbH_CbKYLvZkCOGWNXryLmMs6hos-Ljmni5zymaw,4946
+pdftowrite-2021.4.1.2.dist-info/WHEEL,sha256=OqRkF0eY5GHssMorFjlbTIq072vpHpF60fIQA6lS9xA,92
+pdftowrite-2021.4.1.2.dist-info/entry_points.txt,sha256=iuNEFWdeT93LNBw_lyU6k3X4yVXVNI_MOBhP5-W5GKQ,99
+pdftowrite-2021.4.1.2.dist-info/top_level.txt,sha256=m_90vSKFyL4YtlHf8LD0WxVHsAKRBKS93H5grSUD9YM,11
+pdftowrite-2021.4.1.2.dist-info/RECORD,,
