@@ -1,0 +1,3 @@
+include tpDcc/libs/psd/__logging__.ini
+include versioneer.py
+include tpDcc/libs/psd/_version.py
