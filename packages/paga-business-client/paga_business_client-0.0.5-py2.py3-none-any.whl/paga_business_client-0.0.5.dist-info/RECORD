@@ -1,0 +1,12 @@
+paga_business_client/__init__.py,sha256=y-IgurAQdlka6ojoHrNDw-0D5yj3f7OuQoLdaJRwNSQ,53
+paga_business_client/_version.py,sha256=P8W_XGgjz5fygcRdylGsnzMVA8WRVNYCU54UyiKh4-0,142
+paga_business_client/apibase.py,sha256=ANdraLVzT_9j7MN0ju_9IisHzU0qd1cWufZpeaNi_ZY,2084
+paga_business_client/business_client_core.py,sha256=OHBZ6tAE9sP-gHsJm4odXY5tVjvwaXWzKrMNeoeOyPM,23160
+paga_business_client/onboard_merchant.py,sha256=WRW8r6tJ941CdrCfDKw7ypTLjpIcGyHgM4DcYB3LM_E,3076
+paga_business_client/version.py,sha256=pEG8xju_jzLf1vSUfVsd1g40pwZAba7SyFsB4TcIEGo,166
+paga_business_client-0.0.5.dist-info/AUTHORS.rst,sha256=c3LfGDp4BohxhqVoIJydID16O5acuhm4QKb60786sFo,75
+paga_business_client-0.0.5.dist-info/LICENSE,sha256=SHORznz_tve_e9Sk0M1C4Bsk8KnTZoPBRWp0Z9fReBg,1112
+paga_business_client-0.0.5.dist-info/METADATA,sha256=iI5SYiN3BpUjirD2zbwIG1ieAjGdV0cMGj-Abf__jZQ,2227
+paga_business_client-0.0.5.dist-info/WHEEL,sha256=8T8fxefr_r-A79qbOJ9d_AaEgkpCGmEPHc-gpCq5BRg,110
+paga_business_client-0.0.5.dist-info/top_level.txt,sha256=IzNszfgTm1nsoSgbCOf8iYvn_8ADbMJoo_HA6egZwEU,21
+paga_business_client-0.0.5.dist-info/RECORD,,
