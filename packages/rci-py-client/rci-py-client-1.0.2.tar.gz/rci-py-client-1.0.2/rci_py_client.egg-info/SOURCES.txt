@@ -1,0 +1,8 @@
+setup.py
+rci/Client.py
+rci/Exceptions.py
+rci/__init__.py
+rci_py_client.egg-info/PKG-INFO
+rci_py_client.egg-info/SOURCES.txt
+rci_py_client.egg-info/dependency_links.txt
+rci_py_client.egg-info/top_level.txt
