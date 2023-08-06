@@ -1,0 +1,20 @@
+Metadata-Version: 2.1
+Name: genesys
+Version: 0.0.4
+Summary: generates files and dependences for cgi projects
+Home-page: UNKNOWN
+Author: Aderemi Adesada
+Author-email: adesadaaderemi@gmail.com
+License: UNKNOWN
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Operating System :: OS Independent
+Description-Content-Type: text/markdown
+Requires-Dist: flask (==1.1.2)
+Requires-Dist: flask-restful (==0.3.8)
+
+# genesys
+
+
