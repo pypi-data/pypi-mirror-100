@@ -1,0 +1,3 @@
+[console_scripts]
+makru_langc_new=makru_langc_new:main
+

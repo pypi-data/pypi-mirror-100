@@ -1,0 +1,14 @@
+Metadata-Version: 2.1
+Name: makru-langc-new
+Version: 0.1.0a0
+Summary: a mini program to create directory layout for c project using makru_langc
+License: GPL-3.0-or-later
+Author: thisLight
+Author-email: l1589002388@gmail.com
+Requires-Python: >=3.7,<4
+Classifier: License :: OSI Approved :: GNU General Public License v3 or later (GPLv3+)
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Requires-Dist: clint (>=0.5.1,<0.6.0)
+Requires-Dist: makru (>=0.1.0-rc.3,<0.2.0)
