@@ -1,0 +1,5 @@
+App.py.egg-info/PKG-INFO
+App.py.egg-info/SOURCES.txt
+App.py.egg-info/dependency_links.txt
+App.py.egg-info/top_level.txt
+QQ/MyApp/__init__.py
