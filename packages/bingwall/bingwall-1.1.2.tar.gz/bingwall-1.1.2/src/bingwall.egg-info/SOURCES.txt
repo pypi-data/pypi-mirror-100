@@ -1,0 +1,8 @@
+README.md
+pyproject.toml
+setup.cfg
+src/bingwall/__main__.py
+src/bingwall.egg-info/PKG-INFO
+src/bingwall.egg-info/SOURCES.txt
+src/bingwall.egg-info/dependency_links.txt
+src/bingwall.egg-info/top_level.txt
