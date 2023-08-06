@@ -1,0 +1,10 @@
+MANIFEST.in
+README.md
+requirements.txt
+setup.cfg
+setup.py
+wimd/__init__.py
+wimd.egg-info/PKG-INFO
+wimd.egg-info/SOURCES.txt
+wimd.egg-info/dependency_links.txt
+wimd.egg-info/top_level.txt
