@@ -1,0 +1,12 @@
+exportroi.py,sha256=o4lV6gUudn71q99u_Lu8Qpf5-gOQJuG0d7tnke3kjPI,7036
+importroi.py,sha256=XFnHGb9StkVe_i6xd9kreZjK95Rz1AXHUFxozg7RavI,15886
+napari_jroireader.py,sha256=NiRidg1a-1xF1TbI4gqeRkXjFS1WYzsftaTFoYCYqoY,1277
+napari_jroiwriter.py,sha256=o11RCR4YFBqlHjDw7rIQl-YSL0u6GxyKF9w9NZoifL4,1076
+profiler.py,sha256=J1-1zEB-6hqk7aTyYLZrWzmvhGQbBga-XQpNXcyGpWc,7075
+writepw.py,sha256=4ySWSdGB3Uwy_JRAQAp5o1lS8dRjrDXaSE1rlctEjv8,3510
+napari_jroitools-0.0.8.dist-info/METADATA,sha256=BiweTOolmTBmvk_PzTUC-byeM9PlawK0XXq7Yiwsz4Q,384
+napari_jroitools-0.0.8.dist-info/WHEEL,sha256=OqRkF0eY5GHssMorFjlbTIq072vpHpF60fIQA6lS9xA,92
+napari_jroitools-0.0.8.dist-info/entry_points.txt,sha256=oTfO7muTd6-K350ykWmvTPSCDfrZUD25eKWPHxJawWA,93
+napari_jroitools-0.0.8.dist-info/license.txt,sha256=3-2JWQ3mhQuKJgdN1ZbbeEvPNs3W43Abv5jmDaMBbMU,18831
+napari_jroitools-0.0.8.dist-info/top_level.txt,sha256=y8mLLBLKibUy3_NrD6QSb9WSlC3OGX6FDIOUFy2SIqM,73
+napari_jroitools-0.0.8.dist-info/RECORD,,
