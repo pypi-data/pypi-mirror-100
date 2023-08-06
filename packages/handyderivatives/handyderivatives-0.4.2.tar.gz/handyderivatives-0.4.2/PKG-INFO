@@ -1,0 +1,34 @@
+Metadata-Version: 2.1
+Name: handyderivatives
+Version: 0.4.2
+Summary: A simple little program to batch process some basic calc stuff.
+License: MIT
+Author: fitzy1293
+Requires-Python: >=3,<4
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.4
+Classifier: Programming Language :: Python :: 3.5
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Requires-Dist: sympy (>=1.7.1,<2.0.0)
+Description-Content-Type: text/markdown
+
+# handyderivatives
+
+## Running it
+`python handyderivatives.py functions.txt`
+
+## How to use it
+It gets the derivatives for differentiable functions of a single variable.
+
+Edit a config file that looks like this. 
+
+![Placeholder](https://raw.githubusercontent.com/Fitzy1293/handyderivatives/main/file.png)
+
+To get output that looks like this. LaTex output is included.
+
+![Placeholder](https://raw.githubusercontent.com/Fitzy1293/handyderivatives/main/output.png)
+
