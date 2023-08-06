@@ -1,0 +1,3 @@
+[console_scripts]
+n2w-it = n2w_it.__main__:main
+

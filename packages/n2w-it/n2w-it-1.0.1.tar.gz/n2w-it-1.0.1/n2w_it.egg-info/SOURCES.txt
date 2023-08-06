@@ -1,0 +1,12 @@
+README.md
+setup.cfg
+setup.py
+n2w_it/__init__.py
+n2w_it/__main__.py
+n2w_it/n2w_it.py
+n2w_it.egg-info/PKG-INFO
+n2w_it.egg-info/SOURCES.txt
+n2w_it.egg-info/dependency_links.txt
+n2w_it.egg-info/entry_points.txt
+n2w_it.egg-info/not-zip-safe
+n2w_it.egg-info/top_level.txt
