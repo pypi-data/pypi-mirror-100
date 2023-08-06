@@ -1,0 +1,16 @@
+MANIFEST.in
+README.md
+setup.py
+KoksSzachy.egg-info/PKG-INFO
+KoksSzachy.egg-info/SOURCES.txt
+KoksSzachy.egg-info/dependency_links.txt
+KoksSzachy.egg-info/entry_points.txt
+KoksSzachy.egg-info/requires.txt
+KoksSzachy.egg-info/top_level.txt
+koksszachy/__main__.py
+koksszachy/engine.py
+koksszachy/index.html
+koksszachy/koksszachy.py
+test/test_board.py
+test/test_browser.py
+test/test_python.py
