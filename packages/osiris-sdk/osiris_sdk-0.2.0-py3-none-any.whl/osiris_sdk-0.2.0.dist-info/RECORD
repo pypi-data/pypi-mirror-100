@@ -1,0 +1,9 @@
+osiris/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+osiris/azure_client_authorization.py,sha256=4-F4CncCj7-mHqee2k8xa7DltK_K66RPVwKHDvojc5g,3033
+osiris/egress.py,sha256=e9YeDBK9z7pwsQWb9BhC8cmRF2R_rGcYXK9yA7k-ank,2893
+osiris/ingress.py,sha256=-Ky4SCJvO8QU7pHDNe-R4XyafT72u0vvtOs4qW6E1oQ,2880
+osiris_sdk-0.2.0.dist-info/LICENSE,sha256=-GTtrzYYyTSkQ73GmgG3OZEfE4xq_CWBXbGn79qNgE8,1074
+osiris_sdk-0.2.0.dist-info/METADATA,sha256=D7F4jJLc_f5OouXPtJ9VIY2kDTOJdZemXxKEtDMVV-E,4583
+osiris_sdk-0.2.0.dist-info/WHEEL,sha256=OqRkF0eY5GHssMorFjlbTIq072vpHpF60fIQA6lS9xA,92
+osiris_sdk-0.2.0.dist-info/top_level.txt,sha256=7RBp223Sh4aHtaPTGFx8Qb4bmA5qSgccj6as2-4zwpk,7
+osiris_sdk-0.2.0.dist-info/RECORD,,
