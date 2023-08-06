@@ -1,0 +1,32 @@
+version: '3.1'
+services:
+  ehour:
+    image: {{ variables['depot'] }}efabcorporate/ehour-app:1.4.3
+    depends_on:
+      - ehour_mysql
+    environment:
+      - EHOUR_DB_HOST=ehour_mysql
+      - EHOUR_DB_PORT=3306
+      - EHOUR_DB_NAME=ehour
+      - EHOUR_DB_USER=ehour
+      - EHOUR_DB_PASSWORD=ehour
+    ports:
+      - "{{ variables['library']['timesheet']['apps']['ehour']['port'] }}:8080"
+    restart: always
+    volumes:
+      - ehour-web-data:/opt/ehour/ehour-1.4.3
+
+  ehour_mysql:
+    image: {{ variables['depot'] }}efabcorporate/ehour-mysql:1.4.3
+    environment:
+      - MYSQL_ROOT_PASSWORD=ehour
+      - MYSQL_DATABASE=ehour
+      - MYSQL_USER=ehour
+      - MYSQL_PASSWORD=ehour
+    restart: always  
+    volumes:
+      - ehour-db-data:/var/lib/mysql
+
+volumes:
+  ehour-web-data:
+  ehour-db-data:            

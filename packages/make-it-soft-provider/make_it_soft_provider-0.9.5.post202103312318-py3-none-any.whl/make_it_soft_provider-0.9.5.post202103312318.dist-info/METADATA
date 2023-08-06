@@ -1,0 +1,23 @@
+Metadata-Version: 2.1
+Name: make-it-soft-provider
+Version: 0.9.5.post202103312318
+Summary: Make It Soft - EFAB Corporate
+Home-page: http://efab-corporate.com
+Author: Fredice NJAKO
+Author-email: fredice.njako@efab-corporate.com
+License: MIT
+Platform: UNKNOWN
+Requires-Dist: colorama (==0.4.1)
+Requires-Dist: jinja2 (==2.10.1)
+Requires-Dist: markupsafe (==1.1.1)
+Requires-Dist: prompt-toolkit (==1.0.14)
+Requires-Dist: pygments (==2.3.1)
+Requires-Dist: pyinquirer (==1.0.3)
+Requires-Dist: pyyaml (==5.1)
+Requires-Dist: regex (==2019.4.14)
+Requires-Dist: six (==1.12.0)
+Requires-Dist: wcwidth (==0.1.7)
+
+UNKNOWN
+
+

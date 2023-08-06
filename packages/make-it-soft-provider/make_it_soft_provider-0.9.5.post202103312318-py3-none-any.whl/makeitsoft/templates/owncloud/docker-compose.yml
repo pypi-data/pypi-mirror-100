@@ -1,0 +1,23 @@
+version: '3.1'
+services:
+  owncloud:
+    image: {{ variables['depot'] }}owncloud:9.1
+    ports:
+      - "{{ variables['library']['cloud']['apps']['owncloud']['port'] }}:80"
+    restart: always
+    volumes:
+      - owncloud-web-data:/var/www/html
+    depends_on:
+      - mysql
+
+  mysql:
+    image: {{ variables['depot'] }}mysql:5.7
+    environment:
+      - MYSQL_ROOT_PASSWORD=owncloud
+    restart: always
+    volumes:
+      - owncloud-db-data:/var/lib/mysql
+
+volumes:
+  owncloud-web-data:
+  owncloud-db-data:

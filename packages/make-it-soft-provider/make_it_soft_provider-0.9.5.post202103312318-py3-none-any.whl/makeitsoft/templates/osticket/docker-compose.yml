@@ -1,0 +1,30 @@
+version: '3.1'
+services:
+  osticket:
+    image: {{ variables['depot'] }}campbellsoftwaresolutions/osticket:1.9
+    ports:
+       - "{{ variables['library']['ticketing']['apps']['osticket']['port'] }}:80"
+    depends_on:
+      - mysql
+    environment:
+      - MYSQL_HOST=mysql
+      - MYSQL_PORT=3306
+      - MYSQL_DATABASE=osticket
+      - MYSQL_USER=osticket
+      - MYSQL_PASSWORD=osticket
+    restart: always
+
+  mysql:
+    image: {{ variables['depot'] }}mysql:5.7
+    environment:
+      - MYSQL_ROOT_PASSWORD=root
+      - MYSQL_DATABASE=osticket
+      - MYSQL_USER=osticket
+      - MYSQL_PASSWORD=osticket
+    restart: always
+    volumes:
+      - osticket-db-data:/var/lib/mysql
+
+volumes:
+  osticket-web-data:
+  osticket-db-data:

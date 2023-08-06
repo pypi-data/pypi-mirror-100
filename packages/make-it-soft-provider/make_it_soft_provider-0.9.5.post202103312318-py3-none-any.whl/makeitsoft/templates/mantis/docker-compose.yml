@@ -1,0 +1,26 @@
+version: '3.1'
+services:
+  mantis:
+    image: {{ variables['depot'] }}vimagick/mantisbt:latest
+    ports:
+      - "{{ variables['library']['ticketing']['apps']['mantis']['port'] }}:80"
+    depends_on:
+      - mysql
+    restart: always
+    volumes:
+      - mantis-web-data:/var/www/html
+
+  mysql:
+    image: {{ variables['depot'] }}mysql:5.7
+    environment:
+      - MYSQL_ROOT_PASSWORD=root
+      - MYSQL_DATABASE=bugtracker
+      - MYSQL_USER=mantisbt
+      - MYSQL_PASSWORD=mantisbt
+    restart: always
+    volumes:
+      - mantis-db-data:/var/lib/mysql
+
+volumes:
+  mantis-web-data:
+  mantis-db-data:

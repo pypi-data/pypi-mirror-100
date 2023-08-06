@@ -1,0 +1,216 @@
+{
+    "general" : {
+        "app" : {
+            "name" : "Make It Soft",
+            "description" : "Portail de Solutions Applicatives pour Entreprises",
+            "version" : "0.9.5-202103051541"
+        },
+        "menu" : [
+            {
+                "label": "Accueil",
+                "tooltip": "Accueil",
+                "routerLink" : "/home",
+                "adminOnly" : false
+            },
+            {
+                "label": "Catalogue",
+                "tooltip": "Catalogue",
+                "routerLink" : "/catalog/browse",
+                "adminOnly" : true
+            }
+        ],
+        "buttons" : {
+            "open" : {
+                "label": "Ouvrir",
+                "tooltip": "Ouvrir"
+            },
+            "manuel" : {
+                "label": "Manuel",
+                "tooltip": "Manuel d'utilisation"
+            },
+            "onlineDemo" : {
+                "label": "Demo en ligne",
+                "tooltip": "Demo en ligne"
+            },
+            "help" : {
+                "tooltip": "Aide"
+            },
+            "changeLanguage" : {
+                "label": "Changer de langue",
+                "tooltip": "Changer de langue"
+            },
+            "modeAcces" : {
+                "label": "Accès Direct",
+                "defaultValue": {{'true' if variables['is_access_direct'] else 'false'}}
+            },
+            "downloadExe" : {
+                "tooltip": "Télécharger l'éxécutable"
+            },
+            "start" : {
+                "label": "Démarrer",
+                "tooltip": "Démarrer"
+            },
+            "stop" : {
+                "label": "Arrêter",
+                "tooltip": "Arrêter"
+            },
+            "cancel" : {
+                "label": "Annuler",
+                "tooltip": "Annuler"
+            },
+            "login" : {
+                "label": "Se Connecter",
+                "tooltip": "Se Connecter"
+            },
+            "settings" : {
+                "label": "Paramètres",
+                "tooltip": "Paramètres"
+            },
+            "refresh" : {
+                "label": "Rafraîchir",
+                "tooltip": "Rafraîchir"
+            },
+            "home" : {
+                "tooltip": "Accueil"
+            },
+            "browseCatalog" : {
+                "label": "Accéder au Catalogue",
+                "tooltip": "Accéder au Catalogue"
+            },
+            "install" : {
+                "label": "Installer",
+                "tooltip": "Installer"
+            },
+            "uninstall" : {
+                "label": "Désinstaller",
+                "tooltip": "Désinstaller"
+            },
+            "close" : {
+                "label": "Fermer",
+                "tooltip": "Fermer"
+            },
+            "validate" : {
+                "label": "Valider",
+                "tooltip": "Valider"
+            },
+            "purchase" : {
+                "label" : "Acheter une licence",
+                "tooltip" : "Acheter une licence"
+            },
+            "save" : {
+                "label" : "Enregistrer",
+                "tooltip" : "Enregistrer"
+            }
+        },
+        "forms" : {
+            "fields" : {
+                "researchApp" : {
+                    "label" : "Recherche",
+                    "placeholder" : "Saississez un nom d'application ou de solution"
+                },
+                "login" : {
+                    "label" : "Login"
+                },
+                "password" : {
+                    "label" : "Mot de passe"
+                }
+            },
+            "label" : {
+                "researchAppResults" : "Solution(s) Trouvée(s)",
+                "login" : "Authentification",
+                "installedSolution" : "Installé",
+                "firstStep" : {
+                    "title" : "<span class=\"primary-color\">Make It </span><span class=\"attractive-color\">Soft</span>",
+                    "slogan" : "Pour toute vos problématiques d'applications métiers : ",
+                    "message" : {
+                        "title" : "Effectuez vos premiers pas :",
+                        "steps" : {
+                            "first" : "Connectez-vous avec les indenfiants renseignés lors de l'installation :",
+                            "second" : "Puis installez les solutions de votre choix depuis le catalogue :"
+                        }
+                    }
+                },
+                "catalog" : {
+                    "title" : "Catalogue des solutions",
+                    "unavailable" : "Catalogue injoignable"
+                },
+                "installationDialog" : {
+                    "title" : "Installation de la solution",
+                    "confirmation" : "Confirmez vous l'installation de cette nouvelle solution ? Attention ! Cette action est irréversible",
+                    "installationOk" : "Application Installé avec succès",
+                    "installationKo" : "Une erreur s'est produite lors de l'installation",
+                    "installationPending": "Installation en cours..."
+                },
+                "uninstallationDialog" : {
+                    "title" : "Désinstallation de la solution",
+                    "confirmation" : "Confirmez vous la désinstallation de cette solution ? Attention ! Cette action est irréversible",
+                    "uninstallationOk" : "Application désinstallée avec succès",
+                    "uninstallationKo" : "Une erreur s'est produite lors de la désinstallation",
+                    "uninstallationPending": "Désinstallation en cours..."
+                },
+                "fullMode" : {
+                    "startingScreen" : {
+                        "title" : "Démarrage de la machine virtuelle Docker",
+                        "subTitle" : "Pour exécuter des container Docker, MakeItSoft démarre une Machine virtuelle Linux",
+                        "waitMessage" : "Veuillez patienter...",
+                        "operations" : {
+                            "verifyVm" : "Vérification de la vm",
+                            "createVm" : "Création de la vm",
+                            "startVm" : "Démarrage de la vm",
+                            "startPortailApps" : "Démarrage du portail"
+                        }
+                    }
+                },
+                "errorDialog" : {
+                    "title" : "Une erreur est survenue",
+                    "details" : "Détails",
+                    "messageStartupVm" : "Impossible de joindre l'hôte Docker, vérifier que votre installation Docker fonctionne correctement",
+                    "messageStartupPortal" : "Impossible de démarrer l'api portail de solution",
+                    "messageLicenceRegistrate" : "L'enregistrement de votre licence n'a pu être effectué",
+                    "detailsLicenceRegistrate" : "Veuillez vérifier que vous êtes connectés à internet, que les informations de licence saisies sont correctes et que cette clé de licence n'a pas déja été affectée"
+                },
+                "successDialog" : {
+                    "title" : "Opération effectuée avec succès",
+                    "details" : "Détails",
+                    "messageLicenceRegistrate" : "L'enregistrement de votre licence a été correctement effectué"
+                },
+                "closeDialog" : {
+                    "title" : "Vous êtes sur le point de fermer l'application",
+                    "message" : "Voulez-vous continuer quand même ?"
+                },
+                "cgu" : {
+                    "title" : "Conditions Générales d'Utilisation",
+                    "message" : {
+                        "header" : "Pour continuer à utiliser ce service, merci de lire et d'accepter nos Conditions Générales d'utilisation",
+                        "checkbox" : "J'ai lu et j'accepte les Conditions Générales d'Utilisation MakeItSoft",
+                        "validated" : "C.G.U correctement validées"
+                    }
+                },
+                "freeLicence" : {
+                    "message" : "Licence gratuite (seulement pour utilisation privée)"
+                },
+                "loader" : {
+                    "message" : "Chargement en cours..."
+                },
+                "parameters" : {
+                    "title" : "Paramètres",
+                    "licenceManager" : {
+                        "title" : "Licence",
+                        "description" : "Gestionnaire de licence MakeItSoft",
+                        "fields" : {
+                            "email" : "Email",
+                            "confirmEmail" : "Confirmation de l'email",
+                            "licenceKey" : "Clé de licence"
+                        }
+                    }
+                }
+            },
+            "error" : {
+                "required" : "Champ Obligatoire",
+                "badCredentials" : "Login ou Mot de passe incorrect(s)",
+                "email" : "L'adresse saisie n'a pas le bon format",
+                "confirmEmail" : "Les deux adresse email saisies ne sont pas identiques"
+            }
+        }
+    }
+}

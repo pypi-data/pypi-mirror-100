@@ -1,0 +1,216 @@
+{
+    "general" : {
+        "app" : {
+            "name" : "Make It Soft",
+            "description" : "Bussiness Apps Portal",
+            "version" : "0.9.5-202103051541"
+        },
+        "menu" : [
+            {
+                "label": "Home",
+                "tooltip": "Home",
+                "routerLink" : "/home",
+                "adminOnly" : false
+            },
+            {
+                "label": "Catalog",
+                "tooltip": "Catalog",
+                "routerLink" : "/catalog/browse",
+                "adminOnly" : true
+            }
+        ],
+        "buttons" : {
+            "open" : {
+                "label": "Open",
+                "tooltip": "Open"
+            },
+            "manuel" : {
+                "label": "Manual",
+                "tooltip": "User Guide"
+            },
+            "onlineDemo" : {
+                "label": "Online demo",
+                "tooltip": "Online demo"
+            },
+             "help" : {
+                "tooltip": "Aide"
+            },
+            "changeLanguage" : {
+                "label": "Change de language",
+                "tooltip": "Change de language"
+            },
+            "modeAcces" : {
+                "label": "Direct Access",
+                "defaultValue": {{'true' if variables['is_access_direct'] else 'false'}}
+            },
+            "downloadExe" : {
+                "tooltip": "Download .exe"
+            },
+            "start" : {
+                "label": "Start",
+                "tooltip": "Start"
+            },
+            "stop" : {
+                "label": "Stop",
+                "tooltip": "Stop"
+            },
+            "cancel" : {
+                "label": "Cancel",
+                "tooltip": "Cancel"
+            },
+            "login" : {
+                "label": "Login",
+                "tooltip": "Login"
+            },
+            "settings" : {
+                "label": "Parameters",
+                "tooltip": "Parameters"
+            },
+            "refresh" : {
+                "label": "Refresh",
+                "tooltip": "Refresh"
+            },
+            "home" : {
+                "tooltip": "Home"
+            },
+            "browseCatalog" : {
+                "label": "Browse Online Catalog",
+                "tooltip": "Browse Online Catalog"
+            },
+            "install" : {
+                "label": "Install",
+                "tooltip": "Install"
+            },
+            "uninstall" : {
+                "label": "Uninstall",
+                "tooltip": "Uninstall"
+            },
+            "close" : {
+                "label": "Close",
+                "tooltip": "Close"
+            },
+            "validate" : {
+                "label": "Validate",
+                "tooltip": "Validate"
+            },
+            "purchase" : {
+                "label" : "Buy a licence",
+                "tooltip" : "Buy a licence"
+            },
+            "save" : {
+                "label" : "Save",
+                "tooltip" : "Save"
+            }
+        },
+        "forms" : {
+            "fields" : {
+                "researchApp" : {
+                    "label" : "Research",
+                    "placeholder" : "Enter app or solution name"
+                },
+                "login" : {
+                    "label" : "Login"
+                },
+                "password" : {
+                    "label" : "Password"
+                }
+            },
+            "label" : {
+                "researchAppResults" : "Found application(s)",
+                "login" : "Authentification",
+                "installedSolution" : "Installed",
+                "firstStep" : {
+                    "title" : "<span class=\"primary-color\">Make It </span><span class=\"attractive-color\">Soft</span>",
+                    "slogan" : "For all your business application problems : ",
+                    "message" : {
+                        "title" : "Make your first steps :",
+                        "steps" : {
+                            "first" : "Login with the credentials entered during installation :",
+                            "second" : "Then install all the applications you need from the catalog :"
+                        }
+                    }
+                },
+                "catalog" : {
+                    "title" : "Online Solutions Catalog",
+                    "unavailable" : "Catalog unreachable"
+                },
+                "installationDialog" : {
+                    "title" : "Installing application",
+                    "confirmation" : "Are you sure you want to install this application? ? Be careful ! This action can't be revert",
+                    "installationOk" : "Application successfully installed",
+                    "installationKo" : "An error occured during installation",
+                    "installationPending": "Installation in progress..."
+                },
+                "uninstallationDialog" : {
+                    "title" : "Uninstalling application",
+                    "confirmation" : "Are you sure you want to uninstall this application? ? Be careful ! This action can't be revert",
+                    "uninstallationOk" : "Application successfully uninstalled",
+                    "uninstallationKo" : "An error occured during uninstallation",
+                    "uninstallationPending": "Uninstallation in progress..."
+                },
+                "fullMode" : {
+                    "startingScreen" : {
+                        "title" : "Starting Docker Virtual Machine",
+                        "subTitle" : "For executing Docker Container, MakeItSoft needs to start a Linux VM",
+                        "waitMessage" : "Please wait...",
+                        "operations" : {
+                            "verifyVm" : "Verifying vm",
+                            "createVm" : "Creating vm",
+                            "startVm" : "Starting vm",
+                            "startPortailApps" : "Starting portal"
+                        }
+                    }
+                },
+                "errorDialog" : {
+                    "title" : "An error occured",
+                    "details" : "Details",
+                    "messageStartupVm" : "Impossible to join the Docker Host, please verify that your Docker installation works normally",
+                    "messageStartupPortal" : "Impossible to start Bussiness Solutions Portal API",
+                    "messageLicenceRegistrate" : "Your license could not be registered",
+                    "detailsLicenceRegistrate" : "Please, Check that you are connected to the internet, that the license information entered is correct and that this license key has not already been assigned"
+                },
+                "successDialog" : {
+                    "title" : "Operation completed successfully",
+                    "details" : "Details",
+                    "messageLicenceRegistrate" : "Your license registration has been successfully registered"
+                },
+                "closeDialog" : {
+                    "title" : "You are about to close this app",
+                    "message" : "Do you want to continue anyway ?"
+                },
+                "cgu" : {
+                    "title" : "Terms of service",
+                    "message" : {
+                        "header" : "To continue using this service, please read and accept our Terms of Service",
+                        "checkbox" : "I have read and agree MakeItSoft Terms of Service",
+                        "validated" : "Terms of Service correctly accepted"
+                    }
+                },
+                "freeLicence" : {
+                    "message" : "Free licence (only for private use)"
+                },
+                "loader" : {
+                    "message" : "Loading..."
+                },
+                "parameters" : {
+                    "title" : "Parameters",
+                    "licenceManager" : {
+                        "title" : "Licence",
+                        "description" : "MakeItSoft Licence manager",
+                        "fields" : {
+                            "email" : "Email",
+                            "confirmEmail" : "Email confirmation",
+                            "licenceKey" : "Licence key"
+                        }
+                    }
+                }
+            },
+            "error" : {
+                "required" : "Required field",
+                "badCredentials" : "Bad login or password",
+                "email" : "Not a valid email",
+                "confirmEmail" : "The two email entered are not the same"
+            }
+        }
+    }
+}

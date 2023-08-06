@@ -1,0 +1,31 @@
+version: '3.1'
+services:
+  dolibarr:
+    image: {{ variables['depot'] }}tuxgasy/dolibarr:11.0.3
+    environment:
+        DOLI_DB_HOST: db
+        DOLI_DB_USER: root
+        DOLI_DB_PASSWORD: root
+        DOLI_DB_NAME: dolibarr
+        DOLI_URL_ROOT: "http://{{ variables['ip'] }}:{{ variables['library']['erp']['apps']['dolibarr']['port'] }}"
+        PHP_INI_DATE_TIMEZONE: 'Europe/Paris'
+    depends_on:
+      - db
+    ports:
+      - "{{ variables['library']['erp']['apps']['dolibarr']['port'] }}:80"
+    restart: always
+    volumes:
+      - dolibarr-data:/var/www
+  
+  db:
+    image: {{ variables['depot'] }}mysql:5.7
+    environment:
+      - MYSQL_ROOT_PASSWORD=root
+      - MYSQL_DATABASE=dolibarr
+    restart: always
+    volumes:
+      - dolibarr-db-data:/var/lib/mysql
+
+volumes:
+  dolibarr-data:
+  dolibarr-db-data:

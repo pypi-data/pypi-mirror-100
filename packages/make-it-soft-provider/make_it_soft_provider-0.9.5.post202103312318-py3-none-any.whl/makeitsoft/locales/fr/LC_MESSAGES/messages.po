@@ -1,0 +1,91 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR ORGANIZATION
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2020-11-09 22:00+0100\n"
+"PO-Revision-Date: 2020-11-10 18:40+0100\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: pygettext.py 1.5\n"
+"X-Generator: Poedit 2.4.1\n"
+"Last-Translator: \n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"Language: fr\n"
+
+#: makeitsoft/main.py:13
+msgid "Bienvenue sur le generateur < {} > version < {} > !!!"
+msgstr "Bienvenue sur le generateur < {} > version < {} > !!!"
+
+#: makeitsoft/main.py:16
+msgid ""
+"Cet utilitaire vous permettra de deployer suivant vos choix un pack de "
+"solutions d'entreprise developpe par la societe {}"
+msgstr ""
+"Cet utilitaire vous permettra de déployer suivant vos choix une instance "
+"MakeItSoft Server par la société {}"
+
+#: makeitsoft/main.py:35
+msgid "Demarrage de l'instance MakeItSoft..."
+msgstr "Démarrage de l'instance MakeItSoft..."
+
+#: makeitsoft/main.py:38
+msgid "Demarrage de l'instance MakeItSoft terminee"
+msgstr "Démarrage de l'instance MakeItSoft terminée"
+
+#: makeitsoft/main.py:40
+msgid "Pour demarrer les apps: ./service.sh start"
+msgstr "Pour démarrer les apps: ./service.sh start"
+
+#: makeitsoft/main.py:45
+msgid ""
+"Le parametre --input-solution-archive est obligatoire pour l'operation "
+"<add_solution>"
+msgstr ""
+"Le paramètre --input-solution-archive est obligatoire pour l'opération "
+"<add_solution>"
+
+#: makeitsoft/main.py:49
+msgid "Aucune archive detectee au chemin: {}"
+msgstr "Aucune archive détectée au chemin: {}"
+
+#: makeitsoft/main.py:52
+msgid "Aucune installation detectee dans le dossier: {}"
+msgstr "Aucune installation détectée dans le dossier: {}"
+
+#: makeitsoft/main.py:72
+msgid "Operation terminee !!!"
+msgstr "Opération terminée !!!"
+
+#: makeitsoft/main.py:73
+msgid "Au revoir !!!"
+msgstr "Au revoir !!!"
+
+#: makeitsoft\app_selector.py:16
+msgid "Choisissez votre langue par defaut :"
+msgstr "Choisissez votre langue par défaut :"
+
+#: makeitsoft\app_selector.py:37
+msgid "Choisissez votre depot d'image docker a utiliser pour l'installation :"
+msgstr ""
+"Choisissez votre dépot d'image docker a utiliser pour l'installation :"
+
+#: makeitsoft\app_selector.py:44
+msgid "Precisez le domain de destination de la solution :"
+msgstr "Precisez le domain de destination de la solution :"
+
+#: makeitsoft\app_selector.py:50
+msgid "Acces Direct par defaut ?"
+msgstr "Accès Direct par défaut ?"
+
+#: makeitsoft\app_selector.py:56
+msgid "Mot de passe de l'administrateur :"
+msgstr "Mot de passe de l'administrateur :"
+
+#: makeitsoft\app_selector.py:62
+msgid "Adresse IP du serveur :"
+msgstr "Adresse IP du serveur :"

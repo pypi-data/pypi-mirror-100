@@ -1,0 +1,33 @@
+version: '3.1'
+services:
+  maarch-courrier:
+    image: {{ variables['depot'] }}efabcorporate/maarch_courrier:19.04.13
+    depends_on:
+      - database
+    environment:
+      - MAARCH_DB_HOST=database
+      - MAARCH_DB_PORT=5432
+      - MAARCH_DB_USER=maarch_user
+      - MAARCH_DB_PASSWORD=maarch_password
+      - MAARCH_DB_NAME=maarch_db
+    ports:
+       - "{{ variables['library']['gec']['apps']['maarch-courrier']['port'] }}:80"
+    restart: always
+    volumes:
+      - vol-maarch-webserver-data:/var/www/html/MaarchCourrier
+      - vol-maarch-dockserver-data:/opt/maarch/docservers
+
+  database:
+    image: {{ variables['depot'] }}postgres:9.6.2
+    environment:
+      - POSTGRES_USER=maarch_user
+      - POSTGRES_PASSWORD=maarch_password
+      - POSTGRES_DB=maarch_db
+    restart: always
+    volumes:
+      - vol-database-data:/var/lib/postgresql/data
+
+volumes:
+  vol-maarch-webserver-data:
+  vol-maarch-dockserver-data:
+  vol-database-data: 

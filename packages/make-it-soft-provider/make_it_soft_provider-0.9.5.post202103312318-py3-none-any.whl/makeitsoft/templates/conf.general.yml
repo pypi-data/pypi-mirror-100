@@ -1,0 +1,3 @@
+ip: "{{variables['ip']}}"
+depot: "{{variables['depot']}}"
+domain: "{{variables['domain']}}"

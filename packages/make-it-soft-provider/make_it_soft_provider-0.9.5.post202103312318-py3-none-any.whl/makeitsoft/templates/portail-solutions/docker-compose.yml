@@ -1,0 +1,45 @@
+version: '3.1'
+services:
+  haproxy:
+    build: ./haproxy
+    restart: always
+    ports:
+      - "80:80"
+
+  makeitsoft-frontend:
+    image: {{ variables['depot'] }}efabcorporate/makeitsoft-frontend:0.9.5-202103051541
+    restart: always
+    ports:
+      - "{{ variables['portal']['port_frontend'] }}:80"
+    volumes :
+      - "./apps/frontend/endpoint.json:/var/www/html/assets/endpoint.json"
+      - "./apps/frontend/config/:/var/www/html/assets/config/"
+      - "./apps/frontend/lang/:/var/www/html/assets/lang/"
+      - "/binaries/makeItSoft_clientPortal_0.1.0.exe:/var/www/html/assets/binaries/makeItSoft_clientPortal_0.1.0.exe"
+
+  makeitsoft-backend:
+    image: {{ variables['depot'] }}efabcorporate/makeitsoft-backend:0.9.5-202103051541
+    restart: always
+    ports:
+      - "{{ variables['portal']['port_backend'] }}:80"
+    environment:
+      - ADMIN_PASSWORD={{ variables['admin_password'] }}
+    volumes:
+      - "..:/apps/"
+      - "/var/run/docker.sock:/var/run/docker.sock"
+      - "/etc/docker/daemon.json:/etc/docker/daemon.json"
+      - "~/.docker/config.json:/home/www-data/.docker/config.json"
+      - "./apps/backend/logos/:/var/www/html/storage/app/solutions/logos"
+      - "./apps/backend/config/:/var/www/html/storage/app/config/"
+      - "./apps/backend/licences/:/var/www/html/storage/app/licences/"
+
+  dns-server:
+    image: {{ variables['depot'] }}sameersbn/bind:9.11.3-20190706
+    restart: always
+    ports:
+      - "53:53/tcp"
+      - "53:53/udp"
+      - "10000:10000/tcp"
+    dns: 127.0.0.1
+    volumes:
+      - "./bind:/data"

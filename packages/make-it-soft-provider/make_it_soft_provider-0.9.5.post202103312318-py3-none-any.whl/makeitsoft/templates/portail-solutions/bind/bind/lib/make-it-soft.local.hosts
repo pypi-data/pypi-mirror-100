@@ -1,0 +1,19 @@
+$ttl 38400
+{{variables['domain']}}.	IN	SOA	ns.{{variables['domain']}}. fredice\.njako.efab-corporate.com. (
+			1587985038
+			10800
+			3600
+			604800
+			38400 )
+{{variables['domain']}}.	IN	NS	ns.{{variables['domain']}}.
+ns.{{variables['domain']}}.	IN	A	{{ variables['ip'] }}
+{{variables['domain']}}.	IN	A	{{ variables['ip'] }}
+mantis.{{variables['domain']}}.	IN	A	{{ variables['ip'] }}
+maarch.{{variables['domain']}}.	IN	A	{{ variables['ip'] }}
+ehour.{{variables['domain']}}.	IN	A	{{ variables['ip'] }}
+openproject.{{variables['domain']}}.	IN	A	{{ variables['ip'] }}
+osticket.{{variables['domain']}}.	IN	A	{{ variables['ip'] }}
+dolibarr.{{variables['domain']}}.	IN	A	{{ variables['ip'] }}
+odoo.{{variables['domain']}}.	IN	A	{{ variables['ip'] }}
+owncloud.{{variables['domain']}}.	IN	A	{{ variables['ip'] }}
+

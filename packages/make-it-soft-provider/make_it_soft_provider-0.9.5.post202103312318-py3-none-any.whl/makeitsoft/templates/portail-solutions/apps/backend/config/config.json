@@ -1,0 +1,15 @@
+{
+    "apps" : [
+        {% for app in variables['selected_apps_details'] %}
+        {
+            "id":"{{ app.id }}",
+            "url":"{{ app.url }}",
+            "url_direct":"{{ app.url_direct }}",
+            "label":"{{ app.label }}",
+            "manuel":"{{ app.manuel }}",
+            "aide":"{{ app.aide }}",
+            "description":"{{ app.description }}"
+        }{{ "," if not loop.last }}
+        {% endfor %}
+    ]
+}

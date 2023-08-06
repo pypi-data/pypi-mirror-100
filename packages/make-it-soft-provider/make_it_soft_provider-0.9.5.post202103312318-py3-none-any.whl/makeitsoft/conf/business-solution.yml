@@ -1,0 +1,104 @@
+version : '0.9.5-202103051541'
+name : 'Make It Soft Provider'
+powered_by : 'EFAB Corporate'
+
+output_dir : 'make-it-soft'
+
+default : 
+  domain : 'make-it-soft.local'
+  admin_password : 'admin123'
+
+languages :
+  default : 'en'
+  values :
+    internal :
+      name : 'English'
+      value : 'en'
+    web:
+      name: 'Français'
+      value: 'fr'
+
+repositories :
+  default : ''
+  values :
+    web:
+      name: 'Internet'
+      value: ''
+
+library :
+
+portal:
+  port_frontend: 8080
+  port_backend: 8081
+  available_apps :
+    maarch-courrier:
+      id: 'maarch-courrier'
+      url: "http://maarch-courrier.{{variables['domain']}}"
+      url_direct: "http://{{variables['ip']}}:{{variables['library']['gec']['apps']['maarch-courrier']['port']}}"
+      label: 'Maarch Courrier'
+      manuel: 'https://www.efab-corporate.com/solution-dematerialisation-ged-gec/'
+      aide: 'https://www.efab-corporate.com/solution-dematerialisation-ged-gec/'
+      description: 'EFAB DEMAT est une solution complète de la gestion électronique de courriers s''appuyant sur Maarch Courrier. En effet, cet outil intervient dans les différentes étapes du cycle de vie d''un courrier: de son acquisition à l''expédition d''une réponse formellement signée, en passant par sa circulation au sein des services de l''entreprise.'
+
+    ehour:
+      id: 'ehour'
+      url: "http://ehour.{{variables['domain']}}/ehour"
+      url_direct: "http://{{variables['ip']}}:{{variables['library']['timesheet']['apps']['ehour']['port']}}/ehour"
+      label: 'eHour Timesheet'
+      manuel: 'https://wiki.ehour.nl/display/DOCU/First+time+usage'
+      aide: 'https://wiki.ehour.nl/display/DOCU/First+time+usage'
+      description: 'eHour est un outil de suivi du temps de travail. Cet outil permet d''avoir de la visibilité su la répartition du temps de travail des employés sur les différents projets'
+
+    openproject:
+      id: 'openproject'
+      url: "http://openproject.{{variables['domain']}}"
+      url_direct: "http://{{variables['ip']}}:{{variables['library']['suivi_projet']['apps']['openproject']['port']}}"
+      label: 'Open Project'
+      manuel: 'https://www.openproject.org/help/'
+      aide: 'https://www.openproject.org/help/'
+      description: 'OpenProject permet la planification de tâches avec association de dépendances, de ressources, et un état d''avancement ou une catégorie.'
+
+    mantis:
+      id: 'mantis'
+      url: "http://mantis.{{variables['domain']}}"
+      url_direct: "http://{{variables['ip']}}:{{variables['library']['ticketing']['apps']['mantis']['port']}}"
+      label: 'Mantis Bug Tracker'
+      manuel: 'https://www.mantisbt.org/documentation.php'
+      aide: 'https://www.mantisbt.org/documentation.php'
+      description: 'MantisBT est un outil opensource pour le suivi  des ticket qui fournit un équilibre parfait entre la simplicité et la puissance. Les utilisateurs peuvent démarrer en quelques minutes et commencer à gérer leurs projets tout en collaborant efficacement avec leurs coéquipiers et leurs clients.'
+
+    osticket:
+      id: 'osticket'
+      url: "http://osticket.{{variables['domain']}}"
+      url_direct: "http://{{variables['ip']}}:{{variables['library']['ticketing']['apps']['osticket']['port']}}"
+      label: 'OS Ticket'
+      manuel: 'http://osticket.com/wiki/Main_Page'
+      aide: 'http://osticket.com/wiki/Main_Page'
+      description: 'OsTicket est un système de gestion des tickets opensource largement utilisé et approuvé. Il transforme de manière transparente les demandes de renseignements créées via le courrier électronique, les formulaires Web et les appels téléphoniques dans une plate-forme de support client simple, facile à utiliser, multi-utilisateurs et basée sur le Web. OsTicket est doté de nombreuses fonctionnalités et outils. La meilleure partie est, c''est complètement gratuit.'
+
+    dolibarr:
+      id: 'dolibarr'
+      url: "http://dolibarr.{{variables['domain']}}"
+      url_direct: "http://{{variables['ip']}}:{{variables['library']['erp']['apps']['dolibarr']['port']}}"
+      label: 'Dolibarr'
+      manuel: 'https://www.dolibarr.fr/'
+      aide: 'https://www.dolibarr.fr/'
+      description: 'Dolibarr ERP & CRM est un logiciel moderne de gestion de votre activité professionnelle ou associative (contacts, factures, commandes, stocks, agenda, etc...).'
+
+    odoo:
+      id: 'odoo'
+      url: "http://odoo.{{variables['domain']}}"
+      url_direct: "http://{{variables['ip']}}:{{variables['library']['erp']['apps']['odoo']['port']}}"
+      label: 'Odoo'
+      manuel: 'https://www.odoo.com/documentation/user/10.0/index.html'
+      aide: 'https://www.odoo.com/documentation/user/10.0/index.html'
+      description: 'Logiciel de gestion complet tout-en-un. Superbe. Simple d''utilisation.Odoo est le programme de gestion d''entreprise le plus évolutif et le plus installé au monde grâce à ses applications répondant à àtous les besoins d''une entreprise, de la gestion de la relation client à la création de sites web et d''eCommerce, en passant par la production, la gestion d''inventaire, la comptabilité, etc... le tout parfaitement intégré.'
+
+    owncloud:
+      id: 'owncloud'
+      url: "http://owncloud.{{variables['domain']}}"
+      url_direct: "http://{{variables['ip']}}:{{variables['library']['cloud']['apps']['owncloud']['port']}}"
+      label: 'Owncloud'
+      manuel: 'https://doc.owncloud.org/server/9.1/user_manual/contents.html'
+      aide: 'https://doc.owncloud.org/server/9.1/user_manual/contents.html'
+      description: 'ownCloud est un logiciel libre offrant une plateforme de services de stockage et partage de fichiers et d''applications diverses en ligne. Il est présenté comme une alternative à Dropbox, lequel est basé sur un cloud public. Dans ownCloud, le stockage des données se fait au sein de l''infrastructure de l''entreprise et les accès sont soumis à la politique de sécurité informatique de celle-ci.'

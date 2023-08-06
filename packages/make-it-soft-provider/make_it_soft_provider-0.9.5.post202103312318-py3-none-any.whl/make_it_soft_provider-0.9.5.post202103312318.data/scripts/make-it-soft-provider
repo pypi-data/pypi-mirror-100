@@ -1,0 +1,42 @@
+#!python
+# -*-coding:utf8 -*
+
+from makeitsoft import main
+import argparse
+
+parser = argparse.ArgumentParser(description='Make It Soft Provider.')
+
+parser.add_argument('--destination', dest='destination', default='make-it-soft',
+                    nargs='?', help='Repertoire de destination (default=make-it-soft)')
+
+parser.add_argument('--use-basic-catalog', dest='is_use_basic_catalog', action='store_true',
+                    help='Proposition/Installation des solutions basiques du catalogue')
+
+parser.add_argument('--disable-auto-start', dest='is_auto_start', action='store_false', default=True,
+                    help='Demarrage automatique après initialisation de l\'instance')
+
+parser.add_argument('--input', dest='input',
+                    nargs='?', help='Fichier yaml d\'input contenant les choix utilisateurs')
+
+parser.add_argument('--operation', dest='operation',
+                    default='initialize', choices=['initialize', 'add_solution', 'remove_solution'],
+                    nargs='?', help='Opération effectuée: Initialisation, Ajout d\'une nouvelle solution...')
+
+parser.add_argument('--input-solution-archive', dest='input_solution_archive',
+                    nargs='?', help='Archive contenant la solution à ajouter (Ce paramètre est obligatoire lorsque l\'opération est add_solution)')
+
+parser.add_argument('--disable-start-after-install', dest='is_to_start_after_install',
+                    action='store_false', default=True,
+                    help='Démarrage de la solution après installation')
+
+parser.add_argument('--solution-to-remove', dest='solution_to_remove',
+                    nargs='?', help='Identifiant de la solution à retirer)')
+
+parser.add_argument('--disable-reset-before-uninstall', dest='is_to_reset_before_install',
+                    action='store_false', default=True,
+                    help='Reinitialisation de la solution avant de la désinstallation')
+
+args = parser.parse_args()
+
+if __name__ == "__main__":
+    main.main(args)

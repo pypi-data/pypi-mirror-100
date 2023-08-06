@@ -1,0 +1,13 @@
+{
+    "default" : "{{variables['default_language']}}",
+    "availables" : [
+        {
+            "id":"fr",
+            "label":"Français"
+        },
+        {
+            "id":"en",
+            "label":"English"
+        }
+    ]
+}
