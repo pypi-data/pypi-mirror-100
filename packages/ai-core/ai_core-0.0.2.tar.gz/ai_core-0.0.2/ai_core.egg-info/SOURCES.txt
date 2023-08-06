@@ -1,0 +1,11 @@
+setup.py
+ai_core/__init__.py
+ai_core/test.py
+ai_core/utils.py
+ai_core.egg-info/PKG-INFO
+ai_core.egg-info/SOURCES.txt
+ai_core.egg-info/dependency_links.txt
+ai_core.egg-info/requires.txt
+ai_core.egg-info/top_level.txt
+ai_core/datasets/__init__.py
+ai_core/datasets/furniture.py
