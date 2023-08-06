@@ -1,0 +1,48 @@
+# 0 for standalone, 1 for cluster
+work_mode: 0
+# 0 for eggroll, 1 for spark
+backend: 0
+# base dir for data upload conf eg, data_base_dir={FATE}
+# examples/data/breast_hetero_guest.csv -> $data_base_dir/examples/data/breast_hetero_guest.csv
+data_base_dir: /Users/sage/FATE
+# fate_test job Dedicated directory, File storage location,cache_directory={FATE}/examples/fate_test/cache/
+cache_directory: examples/fate_test/cache/
+performance_template_directory: examples/fate_test/performance/
+flow_test_config_directory: examples/fate_test/flow_test_template/flow_test_config.yaml
+clean_data: true
+parties:
+  guest: [10000]
+  host: [9999, 10000]
+  arbiter: [9999]
+services:
+  - flow_services:
+      - {address: 127.0.0.1:9380, parties: [9999, 10000]}
+    serving_setting:
+      address: 127.0.0.1:8059
+      
+    ssh_tunnel: # optional
+      enable: false
+      ssh_address: <remote ip>:<remote port>
+      ssh_username:
+      ssh_password: # optional
+      ssh_priv_key: "~/.ssh/id_rsa"
+
+
+# what is ssh_tunnel?
+# to open the ssh tunnel(s) if the remote service
+# cannot be accessed directly from the location where the test suite is run!
+#
+#                       +---------------------+
+#                       |    ssh address      |
+#                       |    ssh username     |
+#                       |    ssh password/    |
+#         +--------+    |    ssh priv_key     |        +----------------+
+#         |local ip+----------ssh tuunel-------------->+remote local ip |
+#         +--------+    |                     |        +----------------+
+#                       |                     |
+# request local ip:port +----- as if --------->request remote's local ip:port from remote side
+#                       |                     |
+#                       |                     |
+#                       +---------------------+
+#
+
