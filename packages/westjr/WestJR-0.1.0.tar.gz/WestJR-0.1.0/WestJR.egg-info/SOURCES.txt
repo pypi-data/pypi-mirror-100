@@ -1,0 +1,7 @@
+README.md
+setup.py
+WestJR.egg-info/PKG-INFO
+WestJR.egg-info/SOURCES.txt
+WestJR.egg-info/dependency_links.txt
+WestJR.egg-info/requires.txt
+WestJR.egg-info/top_level.txt
