@@ -1,0 +1,20 @@
+Metadata-Version: 2.1
+Name: pyzoho-fulfillment
+Version: 0.0.2
+Summary: Dialogflow agent fulfillment library for Zohobot integration
+Home-page: https://github.com/sastiam/pyzoho-fulfillment
+Author: sastiam
+Author-email: sfrancia@gmail.com
+License: UNKNOWN
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: GNU General Public License v3 (GPLv3)
+Classifier: Operating System :: OS Independent
+Description-Content-Type: text/markdown
+
+# pyzoho-fulfillment
+Dialogflow agent fulfillment library for Zohobot integration
+
+This library only seeks to help programmers to make an integration between a webhook - dialogflow - zohobot easier.
+
+
