@@ -1,0 +1,12 @@
+README.md
+setup.py
+core/__init__.py
+core/plugin_collection.py
+core/telegram.py
+core/tools.py
+core/webhook.py
+puzzle_core.egg-info/PKG-INFO
+puzzle_core.egg-info/SOURCES.txt
+puzzle_core.egg-info/dependency_links.txt
+puzzle_core.egg-info/requires.txt
+puzzle_core.egg-info/top_level.txt

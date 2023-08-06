@@ -1,0 +1,27 @@
+Metadata-Version: 2.1
+Name: puzzle-core
+Version: 1.0.0
+Summary: A simple tool capable of managing customized automations
+Home-page: https://github.com/derogab/puzzle
+Author: derogab
+Author-email: derosagabriele@outlook.it
+License: MIT
+Description: <div align="center">
+          <img src="./assets/images/icon.svg" align="center" width="150">
+          <br><br>
+          <h1 align="center">Puzzle</h1>
+          <p align="center">
+            A simple tool capable of managing customized automations through schedules, telegram, etc.  
+          </p>
+          <p align="center">
+            All custom automations are simple plugins. 
+          </p>
+        </div>
+        
+Keywords: puzzle
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
