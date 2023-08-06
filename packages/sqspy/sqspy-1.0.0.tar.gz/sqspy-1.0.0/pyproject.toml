@@ -1,0 +1,4 @@
+[tool.isort]
+atomic = true
+color_output = true
+profile = "black"
