@@ -1,0 +1,15 @@
+README.md
+pyproject.toml
+setup.py
+perfting.setuptools.egg-info/PKG-INFO
+perfting.setuptools.egg-info/SOURCES.txt
+perfting.setuptools.egg-info/dependency_links.txt
+perfting.setuptools.egg-info/namespace_packages.txt
+perfting.setuptools.egg-info/not-zip-safe
+perfting.setuptools.egg-info/requires.txt
+perfting.setuptools.egg-info/top_level.txt
+perfting/setuptools/__init__.py
+perfting/setuptools/attriclass.py
+perfting/setuptools/extension.py
+perfting/setuptools/package.py
+perfting/setuptools/py.typed
