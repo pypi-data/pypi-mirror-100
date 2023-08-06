@@ -1,0 +1,8 @@
+README.md
+setup.py
+krosstrading/__init__.py
+krosstrading/hello.py
+krosstrading.egg-info/PKG-INFO
+krosstrading.egg-info/SOURCES.txt
+krosstrading.egg-info/dependency_links.txt
+krosstrading.egg-info/top_level.txt
