@@ -1,0 +1,9 @@
+ddebug/__init__.py,sha256=OgjwUpukwHXtC4oH7NNf653Nulm8Q-uX-RQp02tixbk,47
+ddebug/dd_class.py,sha256=rLMprili43iT9nn5bS9jGk1gPpFgcAkTwKNliqcBD6g,14828
+ddebug/dd_util.py,sha256=yAl_miwwdFafIj698dulV7gcoQ21Z1W8kk53ILVeQA4,2094
+ddebug/LICENSE,sha256=lsGEgwCRly1ip8HiIURYpv0yYWlXGhxVyaiBUo730vI,1095
+ddebug/richlib.py,sha256=sMK4cm1EEwwXLFxP9y734rjnxnQStQzb6kMRpTZI0hg,6402
+ddebug/watch.py,sha256=K_aGdNh68gooKzRVlVc8gBHd1m4a5A3_Yac-azM8B1c,1953
+ddebug-0.3.3.dist-info/WHEEL,sha256=SrtnPGVTMeYWttls9xnWA01eUhCZ3ufFdJUYb1J3r-U,83
+ddebug-0.3.3.dist-info/METADATA,sha256=F36NFvRN-y1501UrBEVINXrefoYLRmQhVTwjRI5WY-I,11433
+ddebug-0.3.3.dist-info/RECORD,,
