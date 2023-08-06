@@ -1,0 +1,16 @@
+.jupyterlab-openbis-dialog {
+  display: flex;
+  flex-direction: column;
+  padding-bottom: 30px; }
+  .jupyterlab-openbis-dialog .main-text, .jupyterlab-openbis-dialog .main-error, .jupyterlab-openbis-dialog .main-info {
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 30px;
+    padding-bottom: 30px; }
+  .jupyterlab-openbis-dialog .main-error {
+    color: red; }
+  .jupyterlab-openbis-dialog .main-info {
+    color: black; }
+
+.openbis-toolbar-button {
+  color: var(--jp-layout-color4); }

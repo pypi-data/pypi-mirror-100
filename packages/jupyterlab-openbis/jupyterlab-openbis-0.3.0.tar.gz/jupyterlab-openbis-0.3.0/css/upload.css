@@ -1,0 +1,74 @@
+.jupyterlab-openbis-dialog {
+  display: flex;
+  flex-direction: column;
+  padding-bottom: 30px; }
+  .jupyterlab-openbis-dialog .main-text, .jupyterlab-openbis-dialog .main-error, .jupyterlab-openbis-dialog .main-info {
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 30px;
+    padding-bottom: 30px; }
+  .jupyterlab-openbis-dialog .main-error {
+    color: red; }
+  .jupyterlab-openbis-dialog .main-info {
+    color: black; }
+
+.openbis-toolbar-button {
+  color: var(--jp-layout-color4); }
+
+#jupyterlab-openbis-upload-dialog {
+  display: flex;
+  flex-direction: column;
+  padding-bottom: 30px;
+  padding-right: 15px; }
+  #jupyterlab-openbis-upload-dialog .row {
+    display: flex;
+    flex-direction: row;
+    padding-top: 16px; }
+    #jupyterlab-openbis-upload-dialog .row .label {
+      width: 200px;
+      height: 32px;
+      line-height: 32px; }
+    #jupyterlab-openbis-upload-dialog .row .select {
+      margin-left: 10px;
+      padding-bottom: 16px; }
+      #jupyterlab-openbis-upload-dialog .row .select select {
+        width: 510px;
+        height: 32px; }
+    #jupyterlab-openbis-upload-dialog .row .input {
+      margin-left: 10px; }
+      #jupyterlab-openbis-upload-dialog .row .input input {
+        width: 500px; }
+  #jupyterlab-openbis-upload-dialog .header {
+    margin-top: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 5px; }
+  #jupyterlab-openbis-upload-dialog .upload-table td {
+    text-align: center;
+    height: 32px;
+    padding-left: 5px;
+    padding-right: 5px; }
+  #jupyterlab-openbis-upload-dialog .upload-table svg {
+    height: 20px; }
+  #jupyterlab-openbis-upload-dialog .upload-table .text-left {
+    text-align: left; }
+  #jupyterlab-openbis-upload-dialog .upload-table .pointer:hover {
+    cursor: pointer; }
+  #jupyterlab-openbis-upload-dialog button {
+    background-color: #2196f3;
+    color: #ffffff;
+    cursor: pointer;
+    height: 30px;
+    width: 710px;
+    border-width: 0;
+    border-style: none;
+    margin-top: 15px; }
+  #jupyterlab-openbis-upload-dialog button:disabled {
+    background-color: #c7d8e6;
+    cursor: default;
+    pointer-events: none !important; }
+  #jupyterlab-openbis-upload-dialog button:hover {
+    background-color: #1e88e5; }
+  #jupyterlab-openbis-upload-dialog .upload-message {
+    margin-top: 10px;
+    width: 710px; }

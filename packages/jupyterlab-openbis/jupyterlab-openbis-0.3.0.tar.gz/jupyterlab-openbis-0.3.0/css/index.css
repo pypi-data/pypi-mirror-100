@@ -1,0 +1,337 @@
+.jupyterlab-openbis-dialog {
+  display: flex;
+  flex-direction: column;
+  padding-bottom: 30px; }
+  .jupyterlab-openbis-dialog .main-text, .jupyterlab-openbis-dialog .main-error, .jupyterlab-openbis-dialog .main-info {
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 30px;
+    padding-bottom: 30px; }
+  .jupyterlab-openbis-dialog .main-error {
+    color: red; }
+  .jupyterlab-openbis-dialog .main-info {
+    color: black; }
+
+.openbis-toolbar-button {
+  color: var(--jp-layout-color4); }
+
+.jupyterlab-openbis-dialog {
+  display: flex;
+  flex-direction: column;
+  padding-bottom: 30px; }
+  .jupyterlab-openbis-dialog .main-text, .jupyterlab-openbis-dialog .main-error, .jupyterlab-openbis-dialog .main-info {
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 30px;
+    padding-bottom: 30px; }
+  .jupyterlab-openbis-dialog .main-error {
+    color: red; }
+  .jupyterlab-openbis-dialog .main-info {
+    color: black; }
+
+.openbis-toolbar-button {
+  color: var(--jp-layout-color4); }
+
+.jupyterlab-openbis-dialog .input {
+  min-width: 310px;
+  max-width: 310px;
+  width: 310px;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 1; }
+  .jupyterlab-openbis-dialog .input input {
+    width: 300px;
+    height: 26px; }
+  .jupyterlab-openbis-dialog .input .message, .jupyterlab-openbis-dialog .input .message-info, .jupyterlab-openbis-dialog .input .message-error, .jupyterlab-openbis-dialog .input .message-success {
+    width: 300px;
+    min-height: 16px; }
+  .jupyterlab-openbis-dialog .input .message-info {
+    color: black; }
+  .jupyterlab-openbis-dialog .input .message-error {
+    color: red; }
+  .jupyterlab-openbis-dialog .input .message-success {
+    color: lightgreen; }
+
+.jupyterlab-openbis-dialog {
+  display: flex;
+  flex-direction: column;
+  padding-bottom: 30px; }
+  .jupyterlab-openbis-dialog .main-text, .jupyterlab-openbis-dialog .main-error, .jupyterlab-openbis-dialog .main-info {
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 30px;
+    padding-bottom: 30px; }
+  .jupyterlab-openbis-dialog .main-error {
+    color: red; }
+  .jupyterlab-openbis-dialog .main-info {
+    color: black; }
+
+.openbis-toolbar-button {
+  color: var(--jp-layout-color4); }
+
+#jupyterlab-openbis-download-dialog .row {
+  display: flex;
+  flex-direction: row;
+  padding-top: 16px; }
+  #jupyterlab-openbis-download-dialog .row .label {
+    width: 200px;
+    height: 32px;
+    line-height: 32px; }
+  #jupyterlab-openbis-download-dialog .row .input {
+    margin-left: 10px; }
+
+#jupyterlab-openbis-download-dialog button {
+  width: 140px;
+  background-color: #2196f3;
+  color: #ffffff;
+  cursor: pointer;
+  height: 30px;
+  border-width: 0;
+  border-style: none;
+  margin-left: 10px;
+  flex-grow: 0;
+  flex-shrink: 0; }
+
+#jupyterlab-openbis-download-dialog .browser td {
+  text-align: center; }
+
+#jupyterlab-openbis-download-dialog .browser .footer {
+  padding-top: 16px;
+  display: flex;
+  flex-direction: row; }
+  #jupyterlab-openbis-download-dialog .browser .footer .position {
+    flex-shrink: 1;
+    margin-right: 15px;
+    line-height: 32px; }
+  #jupyterlab-openbis-download-dialog .browser .footer .link:hover {
+    cursor: pointer; }
+  #jupyterlab-openbis-download-dialog .browser .footer .disabled {
+    cursor: default;
+    pointer-events: none;
+    color: #c8c8c8; }
+  #jupyterlab-openbis-download-dialog .browser .footer .message, #jupyterlab-openbis-download-dialog .browser .footer .jupyterlab-openbis-dialog .input .message-info, .jupyterlab-openbis-dialog .input #jupyterlab-openbis-download-dialog .browser .footer .message-info, #jupyterlab-openbis-download-dialog .browser .footer .jupyterlab-openbis-dialog .input .message-error, .jupyterlab-openbis-dialog .input #jupyterlab-openbis-download-dialog .browser .footer .message-error, #jupyterlab-openbis-download-dialog .browser .footer .jupyterlab-openbis-dialog .input .message-success, .jupyterlab-openbis-dialog .input #jupyterlab-openbis-download-dialog .browser .footer .message-success {
+    flex-grow: 1;
+    text-align: right;
+    line-height: 32px;
+    padding-right: 100px; }
+
+#jupyterlab-openbis-download-dialog button:disabled {
+  background-color: #c7d8e6;
+  cursor: default;
+  pointer-events: none !important; }
+
+#jupyterlab-openbis-download-dialog button:hover {
+  background-color: #1e88e5; }
+
+.jupyterlab-openbis-dialog {
+  display: flex;
+  flex-direction: column;
+  padding-bottom: 30px; }
+  .jupyterlab-openbis-dialog .main-text, .jupyterlab-openbis-dialog .main-error, .jupyterlab-openbis-dialog .main-info {
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 30px;
+    padding-bottom: 30px; }
+  .jupyterlab-openbis-dialog .main-error {
+    color: red; }
+  .jupyterlab-openbis-dialog .main-info {
+    color: black; }
+
+.openbis-toolbar-button {
+  color: var(--jp-layout-color4); }
+
+#jupyterlab-openbis-upload-dialog {
+  display: flex;
+  flex-direction: column;
+  padding-bottom: 30px;
+  padding-right: 15px; }
+  #jupyterlab-openbis-upload-dialog .row {
+    display: flex;
+    flex-direction: row;
+    padding-top: 16px; }
+    #jupyterlab-openbis-upload-dialog .row .label {
+      width: 200px;
+      height: 32px;
+      line-height: 32px; }
+    #jupyterlab-openbis-upload-dialog .row .select {
+      margin-left: 10px;
+      padding-bottom: 16px; }
+      #jupyterlab-openbis-upload-dialog .row .select select {
+        width: 510px;
+        height: 32px; }
+    #jupyterlab-openbis-upload-dialog .row .input {
+      margin-left: 10px; }
+      #jupyterlab-openbis-upload-dialog .row .input input {
+        width: 500px; }
+  #jupyterlab-openbis-upload-dialog .header {
+    margin-top: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 5px; }
+  #jupyterlab-openbis-upload-dialog .upload-table td {
+    text-align: center;
+    height: 32px;
+    padding-left: 5px;
+    padding-right: 5px; }
+  #jupyterlab-openbis-upload-dialog .upload-table svg {
+    height: 20px; }
+  #jupyterlab-openbis-upload-dialog .upload-table .text-left {
+    text-align: left; }
+  #jupyterlab-openbis-upload-dialog .upload-table .pointer:hover {
+    cursor: pointer; }
+  #jupyterlab-openbis-upload-dialog button {
+    background-color: #2196f3;
+    color: #ffffff;
+    cursor: pointer;
+    height: 30px;
+    width: 710px;
+    border-width: 0;
+    border-style: none;
+    margin-top: 15px; }
+  #jupyterlab-openbis-upload-dialog button:disabled {
+    background-color: #c7d8e6;
+    cursor: default;
+    pointer-events: none !important; }
+  #jupyterlab-openbis-upload-dialog button:hover {
+    background-color: #1e88e5; }
+  #jupyterlab-openbis-upload-dialog .upload-message {
+    margin-top: 10px;
+    width: 710px; }
+
+.not-visible {
+  display: none !important; }
+
+.wide {
+  width: 100%; }
+
+.jp-Dialog-content {
+  max-width: 1000px !important;
+  max-height: 1000px !important; }
+
+.openbis-table-striped tr:nth-child(even) {
+  background-color: #f9f9f9; }
+
+.openbis-table {
+  border-collapse: collapse;
+  width: calc(100% - 1px); }
+
+.openbis-table-bordered th,
+.openbis-table-bordered td {
+  border: 1px solid #d8d5d5 !important; }
+
+.openbis-flex-vertical {
+  display: flex;
+  flex-direction: column; }
+
+.openbis-flex-horizontal {
+  display: flex;
+  flex-direction: row; }
+
+.openbis-table input {
+  margin-left: 10px;
+  margin-right: 10px;
+  margin-top: 3px;
+  margin-bottom: 3px;
+  height: 20px; }
+
+.openbis-table span {
+  margin: auto; }
+
+.openbis-table button {
+  margin-left: 10px;
+  margin-right: 10px;
+  margin-top: 3px;
+  margin-bottom: 3px;
+  height: 20px;
+  background-color: #2196f3;
+  color: #ffffff;
+  cursor: pointer; }
+
+.openbis-table .connect-button {
+  flex-grow: 1;
+  margin-left: 10px;
+  margin-right: 2px;
+  margin-top: 3px;
+  margin-bottom: 3px;
+  height: 20px;
+  background-color: #2196f3;
+  color: #ffffff;
+  cursor: pointer; }
+
+.openbis-table .delete-button {
+  flex-grow: 1;
+  margin-left: 2px;
+  margin-right: 10px;
+  margin-top: 3px;
+  margin-bottom: 3px;
+  height: 20px;
+  background-color: #f35921;
+  color: #ffffff;
+  cursor: pointer; }
+
+.openbis-table button:disabled {
+  background-color: #c7d8e6;
+  cursor: default; }
+
+.openbis-table a {
+  margin-left: 10px; }
+
+.openbis-error {
+  color: #990000; }
+
+/*
+  .openbis-working-directory {
+    width: 70%;
+    height: 20px;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-top: 3px;
+  }
+  */
+.openbis-connection-dialog-header {
+  font-weight: bold;
+  margin-top: 0px;
+  margin-bottom: 20px; }
+
+.openbis-connection-dialog-header ~ .openbis-connection-dialog-header {
+  margin-top: 20px; }
+
+.openbis-link {
+  margin-left: 50px;
+  color: #9a9ae9; }
+
+.openbis-link:hover {
+  color: #8787e4; }
+
+/* radio button */
+.openbis-connection-list td:nth-child(1) {
+  width: 25px; }
+
+/* status column */
+.openbis-connection-list td:nth-child(4) {
+  width: 200px; }
+
+/* credentials column */
+.openbis-connection-list td:nth-child(5) {
+  width: 150px; }
+
+.openbis-table .openbis-connection-status-not-connected {
+  color: white;
+  background-color: #d9534f;
+  border-radius: 0.25em;
+  padding-left: 15px;
+  padding-right: 15px; }
+
+.openbis-table .openbis-connection-status-connected {
+  color: white;
+  background-color: #5cb85c;
+  border-radius: 0.25em;
+  padding-left: 15px;
+  padding-right: 15px; }
+
+/* last column */
+.openbis-connection-creation td:nth-child(4) {
+  width: 150px; }
+
+.openbis-working-directory td:nth-child(1) {
+  width: 300px; }

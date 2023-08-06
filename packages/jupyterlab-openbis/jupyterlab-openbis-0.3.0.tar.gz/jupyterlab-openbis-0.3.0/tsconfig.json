@@ -1,0 +1,25 @@
+{
+  "compilerOptions": {
+    "allowSyntheticDefaultImports": true,
+    "composite": true,
+    "declaration": true,
+    "esModuleInterop": true,
+    "incremental": true,
+    "jsx": "react",
+    "module": "esnext",
+    "moduleResolution": "node",
+    "noEmitOnError": true,
+    "noImplicitAny": true,
+    "noUnusedLocals": false,
+    "preserveWatchOutput": true,
+    "resolveJsonModule": true,
+    "outDir": "js",
+    "rootDir": ".",
+    "strict": true,
+    "strictNullChecks": false,
+    "target": "es2017",
+    "types": [],
+    "allowJs": true
+  },
+  "include": ["index.ts", "patches.js", "common.ts", "actions/*.ts", "context/*.ts", "reducers/*.ts", "middleware/*.ts", "components/**/*.tsx"]
+}

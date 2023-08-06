@@ -1,0 +1,70 @@
+.jupyterlab-openbis-dialog {
+  display: flex;
+  flex-direction: column;
+  padding-bottom: 30px; }
+  .jupyterlab-openbis-dialog .main-text, .jupyterlab-openbis-dialog .main-error, .jupyterlab-openbis-dialog .main-info {
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 30px;
+    padding-bottom: 30px; }
+  .jupyterlab-openbis-dialog .main-error {
+    color: red; }
+  .jupyterlab-openbis-dialog .main-info {
+    color: black; }
+
+.openbis-toolbar-button {
+  color: var(--jp-layout-color4); }
+
+#jupyterlab-openbis-download-dialog .row {
+  display: flex;
+  flex-direction: row;
+  padding-top: 16px; }
+  #jupyterlab-openbis-download-dialog .row .label {
+    width: 200px;
+    height: 32px;
+    line-height: 32px; }
+  #jupyterlab-openbis-download-dialog .row .input {
+    margin-left: 10px; }
+
+#jupyterlab-openbis-download-dialog button {
+  width: 140px;
+  background-color: #2196f3;
+  color: #ffffff;
+  cursor: pointer;
+  height: 30px;
+  border-width: 0;
+  border-style: none;
+  margin-left: 10px;
+  flex-grow: 0;
+  flex-shrink: 0; }
+
+#jupyterlab-openbis-download-dialog .browser td {
+  text-align: center; }
+
+#jupyterlab-openbis-download-dialog .browser .footer {
+  padding-top: 16px;
+  display: flex;
+  flex-direction: row; }
+  #jupyterlab-openbis-download-dialog .browser .footer .position {
+    flex-shrink: 1;
+    margin-right: 15px;
+    line-height: 32px; }
+  #jupyterlab-openbis-download-dialog .browser .footer .link:hover {
+    cursor: pointer; }
+  #jupyterlab-openbis-download-dialog .browser .footer .disabled {
+    cursor: default;
+    pointer-events: none;
+    color: #c8c8c8; }
+  #jupyterlab-openbis-download-dialog .browser .footer .message {
+    flex-grow: 1;
+    text-align: right;
+    line-height: 32px;
+    padding-right: 100px; }
+
+#jupyterlab-openbis-download-dialog button:disabled {
+  background-color: #c7d8e6;
+  cursor: default;
+  pointer-events: none !important; }
+
+#jupyterlab-openbis-download-dialog button:hover {
+  background-color: #1e88e5; }
