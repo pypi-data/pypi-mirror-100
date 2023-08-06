@@ -1,0 +1,7 @@
+discord.py
+requests
+pytz
+grapheme
+emoji
+Pillow
+dataclasses
