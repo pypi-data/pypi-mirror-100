@@ -1,0 +1,12 @@
+README.md
+setup.py
+gingko/__init__.py
+gingko/core.py
+gingko/dataframes.py
+gingko/utils.py
+gingko/wikiscraper.py
+gingko.egg-info/PKG-INFO
+gingko.egg-info/SOURCES.txt
+gingko.egg-info/dependency_links.txt
+gingko.egg-info/requires.txt
+gingko.egg-info/top_level.txt
