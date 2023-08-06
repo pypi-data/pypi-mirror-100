@@ -1,0 +1,13 @@
+README.md
+setup.py
+src/tokema/__init__.py
+src/tokema/eof.py
+src/tokema/grammar.py
+src/tokema/parsing.py
+src/tokema/table.py
+src/tokema/text.py
+src/tokema/utils.py
+src/tokema.egg-info/PKG-INFO
+src/tokema.egg-info/SOURCES.txt
+src/tokema.egg-info/dependency_links.txt
+src/tokema.egg-info/top_level.txt
