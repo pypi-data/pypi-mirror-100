@@ -1,0 +1,15 @@
+django>=1.8
+six
+jsonpickle
+
+[dev]
+django>=1.8
+six
+jsonpickle
+pytz
+
+[html2text]
+html2text
+
+[twilio]
+twilio
