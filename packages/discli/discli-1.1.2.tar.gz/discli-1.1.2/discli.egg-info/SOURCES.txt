@@ -1,0 +1,14 @@
+MANIFEST.in
+README.md
+setup.cfg
+setup.py
+discli/__init__.py
+discli/__main__.py
+discli.egg-info/PKG-INFO
+discli.egg-info/SOURCES.txt
+discli.egg-info/dependency_links.txt
+discli.egg-info/entry_points.txt
+discli.egg-info/not-zip-safe
+discli.egg-info/requires.txt
+discli.egg-info/top_level.txt
+discli/_ext/moderation.py

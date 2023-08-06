@@ -1,0 +1,66 @@
+Metadata-Version: 2.1
+Name: discli
+Version: 1.1.2
+Summary: 🎲 Discord Bot CLI for creating / deploying your discord bots!
+Home-page: https://github.com/zenqii/discli
+Author: Zenqi
+License: MIT
+Download-URL: https://github.com/zenqii/discli/tarball/main
+Description: <h1 align='center'>
+          discli
+        </h1>
+        <p align='center'>(still in progress)<p>
+        <p align='center'>
+          🎲 Discord Bot CLI for creating / deploying your discord bots!
+        </p>
+        
+        <p align="center">
+           <a href="https://github.com/zenqii">
+            <img src="https://img.shields.io/github/followers/zenqii?label=Follow&logo=github&style=flat-square"
+                 alt="GitHub">
+             <a href="#License">
+             <img src=https://img.shields.io/github/license/flatipie/Flatipie?color=5087F4&label=License&style=flat-square
+                  alt="License">
+        </p>
+        
+        
+        <p align="center">
+          <a href="#about">About</a> | 
+          <a href="#installation">Installation</a> | 
+          <a href="#usage">Usage</a> | 
+          <a href="#author">Author</a> | 
+          <a href="#contributors">Contributors</a> |
+          <a href="#help">Help</a> | 
+          <a href="#license">License</a>
+        </p>
+        
+        ## About 
+        
+        **discli** is a discord cli (bot) for bot developers out there who want to develop bots, easily and fast!
+        Discli offers you a development and deployment system (heroku) (comming soon). It's easy to use and reliable.
+        
+        ## Usage
+        ```
+        discli create
+        ```
+        <img src='https://github.com/zenqii/discli/raw/main/preview/discli.gif'/>
+        
+        ## License
+        MIT
+        
+Keywords: command line,discord.py,cli
+Platform: Windows
+Classifier: Development Status :: 4 - Beta
+Classifier: Intended Audience :: Developers
+Classifier: Intended Audience :: Education
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Natural Language :: English
+Classifier: Operating System :: Microsoft :: Windows
+Classifier: Programming Language :: Python :: 3.5
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Topic :: Software Development
+Classifier: Topic :: Software Development :: Libraries :: Python Modules
+Requires-Python: >=3.5
+Description-Content-Type: text/markdown
