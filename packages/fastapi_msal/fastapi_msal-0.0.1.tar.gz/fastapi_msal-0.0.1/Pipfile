@@ -1,0 +1,25 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+pydantic = "*"
+starlette = "*"
+fastapi = "*"
+msal = "*"
+
+
+[dev-packages]
+black = "*"
+pylint = "*"
+setuptools = "*"
+# fastapi-msal = {editable = true, path = "."}
+mypy = "*"
+flit = "*"
+
+[requires]
+python_version = "3.9"
+
+[pipenv]
+allow_prereleases = true
