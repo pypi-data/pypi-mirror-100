@@ -1,0 +1,11 @@
+Metadata-Version: 1.0
+Name: smay
+Version: 0.0.1
+Summary: A finite state machine based on Python
+Home-page: https://github.com/xkgeng/smay
+Author: Geng Xinkuang
+Author-email: UNKNOWN
+License: MIT Licence
+Description: A finite state machine based on Python
+Keywords: pip,state,fsm,smay
+Platform: any

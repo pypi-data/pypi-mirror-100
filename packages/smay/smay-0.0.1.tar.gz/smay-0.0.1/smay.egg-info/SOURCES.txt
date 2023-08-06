@@ -1,0 +1,6 @@
+setup.py
+smay/__init__.py
+smay.egg-info/PKG-INFO
+smay.egg-info/SOURCES.txt
+smay.egg-info/dependency_links.txt
+smay.egg-info/top_level.txt
