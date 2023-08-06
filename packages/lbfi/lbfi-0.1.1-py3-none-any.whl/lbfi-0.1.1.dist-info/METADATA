@@ -1,0 +1,12 @@
+Metadata-Version: 2.1
+Name: lbfi
+Version: 0.1.1
+Summary: lbfi stands for Linux Bangla Font Installer. You can avail the fonts for your linux desktop easily with this tool.
+License: MIT
+Author: fahadahammed
+Author-email: iamfahadahammed@gmail.com
+Requires-Python: >=3.8,<4.0
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
