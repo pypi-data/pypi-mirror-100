@@ -1,0 +1,36 @@
+Metadata-Version: 2.1
+Name: fuzzer-cov
+Version: 0.1.2
+Summary: UNKNOWN
+Home-page: https://github.com/Myriad-Dreamin/fuzzer-cov
+Author: Myriad Dreamin
+Author-email: camiyoru@gmail.com
+License: MIT
+Download-URL: https://github.com/Myriad-Dreamin/fuzzer-cov/archive/v0.1.2.tar.gz
+Description: 
+        # fuzzer-cov
+        
+        fuzzer coverage tool, generate readable coverage report in html format
+        
+        ## Prerequisite: Install lcov package
+        
+        on ubuntu:
+        
+        ```shell
+        apt-get install lcov
+        ```
+        
+        ## Installation
+        
+        ```shell
+        python3 -m pip install fuzzer-cov
+        ```
+        
+Platform: UNKNOWN
+Classifier: Development Status :: 4 - Beta
+Classifier: Intended Audience :: Developers
+Classifier: Topic :: Software Development
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Classifier: Programming Language :: Python :: 3.6
+Description-Content-Type: text/markdown
