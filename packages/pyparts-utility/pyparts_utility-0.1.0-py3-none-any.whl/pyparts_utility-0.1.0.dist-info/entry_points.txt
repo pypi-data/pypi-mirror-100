@@ -1,0 +1,3 @@
+[console_scripts]
+pyparts=pyparts_utility.main:main
+
