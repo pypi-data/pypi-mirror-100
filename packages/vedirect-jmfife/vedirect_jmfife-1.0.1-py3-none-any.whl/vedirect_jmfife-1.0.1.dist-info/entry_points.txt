@@ -1,0 +1,4 @@
+[console_scripts]
+vedirect = vedirect.vedirect:main
+vedirect_device_emulator = vedirect.vedirect_device_emulator:main
+
