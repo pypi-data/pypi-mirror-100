@@ -1,0 +1,12 @@
+src/__init__.py,sha256=3KDLejhQPn75GT-ffEylLlgnIy23BA46z3vLE4wXER4,1568
+src/conf.py,sha256=StV3t7cIehsVmTn9OKipf3H_nSXbLlrrJZpwl93zxFI,371
+src/tidy_project_pbxproj.py,sha256=PZaEPcnoWAMzgLDJJ1xDFZmYkseZgJL47qD9-SF_L9c,5045
+src/xcode_helper.py,sha256=VPcdAJM68nw1HV-v2-d9QKZQBH0S8IpNRKCF5n0b61I,16095
+src/xcode_helper_test.py,sha256=Y1OeXXia1m6opcrU-5w4etTX6GcL2rillKnRXA7TkDY,12366
+src/xcode_helper_v2.py,sha256=Jjtk6kALvAOzzvLW6-EvzPSnIVlKzhNoCOIVisKn-GA,17284
+tidy_project-0.1.dist-info/LICENSE,sha256=02cftlLs1L4AY7VY2uIYg1CKUYKg030h6B-DELPcn9c,1070
+tidy_project-0.1.dist-info/METADATA,sha256=2LyTt1xIC7CekBQNr7usBCHF9PAcu8ei9zx7_JQMWbQ,2568
+tidy_project-0.1.dist-info/WHEEL,sha256=OqRkF0eY5GHssMorFjlbTIq072vpHpF60fIQA6lS9xA,92
+tidy_project-0.1.dist-info/entry_points.txt,sha256=YianqRwukwm-26zDsZ1zIdEM7Mur5sVyD6vnnqh-aEs,52
+tidy_project-0.1.dist-info/top_level.txt,sha256=74rtVfumQlgAPzR5_2CgYN24MB0XARCg0t-gzk6gTrM,4
+tidy_project-0.1.dist-info/RECORD,,
