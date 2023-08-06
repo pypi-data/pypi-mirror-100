@@ -1,0 +1,5 @@
+keyring
+snowflake-connector-python
+pandas
+pyarrow
+snowflake-sqlalchemy
