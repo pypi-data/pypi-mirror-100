@@ -1,0 +1,9 @@
+opencv-python
+click
+open3d
+numpy
+scikit-spatial
+cupoch
+pydub
+pyrealsense2
+gdown

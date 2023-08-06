@@ -1,0 +1,2 @@
+https://github.com/xiong-jie-y/remimi.git
+https://github.com/xiong-jie-y/mmdetection.git

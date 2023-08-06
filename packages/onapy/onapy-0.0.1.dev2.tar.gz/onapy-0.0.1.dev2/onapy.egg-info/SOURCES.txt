@@ -1,0 +1,17 @@
+README.md
+setup.py
+onapy/__init__.py
+onapy/detector3d.py
+onapy/motion_recognizer.py
+onapy/tracker2d.py
+onapy/tracker3d.py
+onapy.egg-info/PKG-INFO
+onapy.egg-info/SOURCES.txt
+onapy.egg-info/dependency_links.txt
+onapy.egg-info/requires.txt
+onapy.egg-info/top_level.txt
+onapy/configs/camera_intrinsic.json
+onapy/configs/default_runtime.py
+onapy/configs/yolact_onaho.py
+scripts/recognize_onaho_motion
+scripts/recognize_waist_motion
