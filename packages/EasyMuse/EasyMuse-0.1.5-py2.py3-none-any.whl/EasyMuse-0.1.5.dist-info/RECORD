@@ -1,0 +1,16 @@
+EasyMuse/FilterTester_noMuse.py,sha256=va40JjOYI6xKD53__wVzwY7urIsGgsLuDOmpjYInVDk,2899
+EasyMuse/Muse.py,sha256=jVeT_J1A1BbmKDOJeb8fz9Z2QGxIfPsmO4khIbNVdQc,10607
+EasyMuse/MuseBLE.py,sha256=PjpWzCyF6stiW-DIQdLLo4xwGN2s0XLGxy109FGl0fU,14277
+EasyMuse/MuseFinder.py,sha256=4UWr_Pjr9kFyj-D8EOY0LRuUk-vOjfozIcxpDTt6DK0,1085
+EasyMuse/__init__.py,sha256=3CUt2l_gopfNBTXwZTXXjSNinWaOzaYeVtRt5KVW2Jg,29
+EasyMuse/biQuadFilters.py,sha256=Csi4fPfu6ndoFv0p8N39Yj1dQhCSZD1gKNgiBFMg_wQ,3324
+EasyMuse/butterFilters.py,sha256=t96mJnIcL0M64yBcIam9cqeE-nZPiKfr1tG-0dLsMEU,1213
+EasyMuse/constants.py,sha256=jbcqqaMrx2o0nFjcK52IiCwQO8XyC8ZAX41lm7Q3L48,1379
+EasyMuse/helper.py,sha256=VVeFkxz067poGj4f8lpP6YEle_Sa7fWiTV_Q83SD0T4,2569
+EasyMuse/plotter.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+EasyMuse/plotter_noMuse.py,sha256=2y6ZhFXiQ-BQfpphHrZBT4qNcOfWdNnPdVttHF4g2_c,4935
+EasyMuse-0.1.5.dist-info/LICENSE,sha256=OXLcl0T2SZ8Pmy2_dmlvKuetivmyPd5m1q-Gyd-zaYY,35149
+EasyMuse-0.1.5.dist-info/METADATA,sha256=-zZ8dJU0VnS1XORnKtpMY-mvc7rcyf8Q4Px6pubbeWs,985
+EasyMuse-0.1.5.dist-info/WHEEL,sha256=ADKeyaGyKF5DwBNE0sRE5pvW-bSkFMJfBuhzZ3rceP4,110
+EasyMuse-0.1.5.dist-info/top_level.txt,sha256=mWRAyTTY5saXSvM_lzwN06mAgb76Uj7aIirt5mhn-0w,9
+EasyMuse-0.1.5.dist-info/RECORD,,
