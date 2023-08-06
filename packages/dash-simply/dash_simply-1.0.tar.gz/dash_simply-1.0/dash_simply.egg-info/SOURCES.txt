@@ -1,0 +1,9 @@
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+/Users/cinema/Desktop/Projects/dash_simply/setup.py
+dash_simply.egg-info/PKG-INFO
+dash_simply.egg-info/SOURCES.txt
+dash_simply.egg-info/dependency_links.txt
+dash_simply.egg-info/top_level.txt
