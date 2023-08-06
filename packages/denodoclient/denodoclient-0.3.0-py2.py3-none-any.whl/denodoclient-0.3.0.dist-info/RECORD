@@ -1,0 +1,11 @@
+denodoclient/__init__.py,sha256=0mlc_u-QeI6Rb990m8gnrOwJks5iWx6xeR3_oy8h_DI,273
+denodoclient/denodoclient.py,sha256=LEeMhIUJPmjlUiIPzLKoqj-pmF_UJJ72pvN9d8tCnnM,2895
+denodoclient/vqlquery.py,sha256=-W-WgXMKkg6lqsGB-cc9RKprX--YsKgEForXG3INoyI,1089
+denodoclient/dataframes/__init__.py,sha256=oO2ZbwA8nLXT8nETN94wAhoUn4Kz5NyTLP42XI4jMiQ,127
+denodoclient/dataframes/denododataframeclient.py,sha256=NBplJA1zyzXqoqoluFBxRJcx11ziQOn131jWlwcXWOA,922
+denodoclient-0.3.0.dist-info/AUTHORS.rst,sha256=6wRUE-P-Ig1C0Rl7CV1Tw_4HPbCzC-5ePrXTo2PXA70,153
+denodoclient-0.3.0.dist-info/LICENSE,sha256=vj1xnTPk4wdoBe8oa55T2oIp8x1DUoWKqML1aThnKnI,1072
+denodoclient-0.3.0.dist-info/METADATA,sha256=ywPHLyUXcaBCo9Um14aXOxP39fPhoRTCxpCvAZuYEPA,1780
+denodoclient-0.3.0.dist-info/WHEEL,sha256=Z-nyYpwrcSqxfdux5Mbn_DQ525iP7J2DG3JgGvOYyTQ,110
+denodoclient-0.3.0.dist-info/top_level.txt,sha256=jNLYCXw5w2uSHhBxEAdGCztXSB0XLb6LTzQIU1QRa-U,13
+denodoclient-0.3.0.dist-info/RECORD,,
