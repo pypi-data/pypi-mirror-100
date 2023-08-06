@@ -1,0 +1,15 @@
+LICENSE
+MANIFEST.in
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+drf_filtermapbackend.egg-info/PKG-INFO
+drf_filtermapbackend.egg-info/SOURCES.txt
+drf_filtermapbackend.egg-info/dependency_links.txt
+drf_filtermapbackend.egg-info/requires.txt
+drf_filtermapbackend.egg-info/top_level.txt
+filter_map/__init__.py
+filter_map/backends.py
+filter_map/utils.py
+filter_map/templates/filter_map/form.html
