@@ -1,0 +1,8 @@
+README.md
+setup.py
+genCode.egg-info/PKG-INFO
+genCode.egg-info/SOURCES.txt
+genCode.egg-info/dependency_links.txt
+genCode.egg-info/entry_points.txt
+genCode.egg-info/requires.txt
+genCode.egg-info/top_level.txt

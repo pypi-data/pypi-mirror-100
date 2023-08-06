@@ -1,0 +1,3 @@
+[console_scripts]
+driver = gcode.main:run
+
