@@ -1,0 +1,10 @@
+Metadata-Version: 1.0
+Name: BoneTeX
+Version: 0.0.1
+Summary: BoneTeX-GUI是一个基于BoneTeX的高效LaTeX文档编写工具，通过使用Python脚本自动生产大量繁琐重复的高质量代码，大大提高了编写文档的效率和质量。
+Home-page: https://gitee.com/zrr1999/bonetex
+Author: 六个骨头
+Author-email: 2742392377@qq.com
+License: UNKNOWN
+Description: UNKNOWN
+Platform: UNKNOWN
