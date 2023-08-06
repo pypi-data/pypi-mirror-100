@@ -1,0 +1,2 @@
+recursive_include koksszachy/static
+include koksszachy/index.html
