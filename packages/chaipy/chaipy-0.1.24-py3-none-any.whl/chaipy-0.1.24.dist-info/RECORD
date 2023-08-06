@@ -1,0 +1,14 @@
+chai_py/__init__.py,sha256=aNaV7O05ah3Hb3MU1jqTocznMnquDHBym4rAzPqpvrE,239
+chai_py/chai_bot.py,sha256=1GS1T6a-AvV4cVDuxKWd9uaL3Md7t9KgLPYqQhRLYFw,1962
+chai_py/defaults.py,sha256=ffnnNbM6h0bvxnA5UpNsJwHz1yvFRvWtbE2zeCD99dE,348
+chai_py/deployment.py,sha256=GfYwyzw0pzbGPkii4TCuGOkrIEBiuvXSzhA4hvbD9Rw,6560
+chai_py/logger.py,sha256=FLFeAWFYetAzFQcDII4pv41pRfjkrPMveEVFa7TpSLw,1191
+chai_py/notebook_utils.py,sha256=39g7AaaBUTt5SDM-X4dc_rVO5Vd5Y0p-bE9fwPcm0DU,735
+chai_py/packaging.py,sha256=q-7G4K6Www3BYOv7mYRU48wtdFsDbCSzjtGJ7srPZM8,7205
+chai_py/t_room.py,sha256=pQkt0ffe8ZVT6lo5n43Q3fYewieVuIvUn3NEFrLf9yY,2247
+chai_py/types.py,sha256=cRjE8V0_ayxpfGJo1_hPWRI1tRZ4PRakYnzaSpIAkI8,421
+chaipy-0.1.24.dist-info/LICENSE,sha256=xx0jnfkXJvxRnG63LTGOxlggYnIysveWIZ6H3PNdCrQ,11357
+chaipy-0.1.24.dist-info/METADATA,sha256=E13JaxMUM1Ciy6ZUhC6Fc09QEPYDVQZGbTVGjAnOHUg,1592
+chaipy-0.1.24.dist-info/WHEEL,sha256=OqRkF0eY5GHssMorFjlbTIq072vpHpF60fIQA6lS9xA,92
+chaipy-0.1.24.dist-info/top_level.txt,sha256=IzHnz8wIQ03XPswQbxrEeWQ68ufp0Tn-OVDMna5US1A,8
+chaipy-0.1.24.dist-info/RECORD,,
