@@ -1,0 +1,9 @@
+README.md
+setup.py
+transcription-burato/__init__.py
+transcription-burato/io.py
+transcription-burato/process.py
+transcription_burato.egg-info/PKG-INFO
+transcription_burato.egg-info/SOURCES.txt
+transcription_burato.egg-info/dependency_links.txt
+transcription_burato.egg-info/top_level.txt

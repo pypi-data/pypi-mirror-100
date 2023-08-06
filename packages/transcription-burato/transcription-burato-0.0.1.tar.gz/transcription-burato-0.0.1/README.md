@@ -1,0 +1,42 @@
+# transcription-burato
+
+transcription
+The package transcription-burato is used to:
+	- create RNA from DNA
+
+## What is a transcription?
+
+During the transcription process, the information encoded in the DNA sequence of one or more genes, adenine (A), cytosine (C), guanine (G) and thymine (T), is transcribed on an RNA strand, also called RNA transcription. The resulting single-stranded RNA molecule, composed of ribonucleotides containing the bases uracil (U),guanine (G), cytosine (C) and adenine (A)
+
+![image](https://s3-us-west-2.amazonaws.com/courses-images/wp-content/uploads/sites/1094/2016/11/03164619/OSC_Microbio_11_03_TxnElong.jpg)
+
+fonte [link](https://courses.lumenlearning.com/suny-microbiology/chapter/rna-transcription/)
+
+## Installation
+
+Use the package manager [pip](https://pip.pypa.io/en/stable/) to install transcription-burato
+
+```bash
+pip install transcription-burato
+```
+
+
+## Usage
+
+``` python
+from transcription-burato import io, process
+gen = io.read(path_to_file)
+result_gen = process.gen_from(gen)
+io.plot(result_gen)
+```
+
+## Test with
+
+you can find a genome to test the package at [ncbi](www.ncbi.nlm.nih.gov) or find by [organism](https://www.ncbi.nlm.nih.gov/assembly/organism/)
+
+## Author
+
+Otavio Burato de Oliveira
+
+## License
+[MIT](https://choosealicense.com/licenses/mit/)
