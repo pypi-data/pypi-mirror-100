@@ -1,0 +1,12 @@
+# Installation and deployment
+setuptools==54.2.0
+wheel==0.36.2
+twine==3.4.1
+bernardomg.tox-test-command==1.1.6
+
+# Testing
+tox==3.23.0
+
+# Documentation
+Sphinx==3.5.3
+Pygments==2.8.1
