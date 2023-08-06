@@ -1,0 +1,22 @@
+Metadata-Version: 2.1
+Name: cron-utils
+Version: 0.0.0
+Summary: Utility code for cron alerting and monitoring
+Home-page: https://https://gitlab.com/trell/cron-utils/
+Author: Rahul Kumar
+Author-email: rahul@trell.in
+License: UNKNOWN
+Platform: UNKNOWN
+Classifier: Development Status :: 2 - Pre-Alpha
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Topic :: Scientific/Engineering :: Artificial Intelligence
+Requires-Python: >=3.6.9
+Requires-Dist: requests
+Requires-Dist: psutil
+
+# Cron Utils
+
+Trell internal Crons alerting and monitoring pip package.
+
+
+
