@@ -1,0 +1,20 @@
+Metadata-Version: 1.1
+Name: aztools
+Version: 0.1.0
+Summary: Tools for spectral/timing analysis in X-ray astronomy
+Home-page: https://zoghbi-a.github.io/aztools/
+Author: Abdu Zoghbi
+Author-email: astrozoghbi@gmail.com
+License: MIT
+Download-URL: https://github.com/zoghbi-a/aztools/archive/refs/tags/0.1.1.tar.gz
+Description: UNKNOWN
+Keywords: Astronomy,Time-Series,X-ray,Spectroscopy
+Platform: UNKNOWN
+Classifier: Development Status :: 3 - Alpha
+Classifier: Intended Audience :: Developers
+Classifier: Topic :: Software Development :: Build Tools
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.4
+Classifier: Programming Language :: Python :: 3.5
+Classifier: Programming Language :: Python :: 3.6
