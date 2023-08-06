@@ -1,0 +1,7 @@
+README.md
+setup.py
+PlantTraitEnrichment.egg-info/PKG-INFO
+PlantTraitEnrichment.egg-info/SOURCES.txt
+PlantTraitEnrichment.egg-info/dependency_links.txt
+PlantTraitEnrichment.egg-info/top_level.txt
+example_pkg/__init__.py
