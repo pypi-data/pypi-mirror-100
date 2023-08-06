@@ -1,0 +1,5 @@
+dataclasses
+numpy
+pandas
+auto_mix_prep
+beautifulsoup4
