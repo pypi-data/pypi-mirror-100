@@ -1,0 +1,25 @@
+Metadata-Version: 1.1
+Name: animerim
+Version: 0.0.1
+Summary: A simle package to scrap anime infos 
+Home-page: UNKNOWN
+Author: alaa petanon
+Author-email: kofdjka@gmail.com
+License: MIT
+Description: This is a simple anime scrapper can scrap anime infos or watching/download links of episodes of anime
+        
+        
+        Change Log
+        ==========
+        
+        0.1 (29/03/2021)
+        -------------------
+        - First Release
+        
+Keywords: anime scrapper
+Platform: UNKNOWN
+Classifier: Development Status :: 5 - Production/Stable
+Classifier: Intended Audience :: Education
+Classifier: Operating System :: Microsoft :: Windows :: Windows 10
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3
