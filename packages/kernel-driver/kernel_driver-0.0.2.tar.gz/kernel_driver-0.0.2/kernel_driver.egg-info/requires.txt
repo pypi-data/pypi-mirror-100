@@ -1,0 +1,8 @@
+
+[test]
+xeus-python
+ipykernel
+pytest
+pytest-asyncio
+mypy
+flake8
