@@ -1,0 +1,17 @@
+Metadata-Version: 1.1
+Name: scmpy
+Version: 0.1.1
+Summary: Set Covering Machine is a binary classification algorithm
+Home-page: https://github.com/younik
+Author: Omar Younis
+Author-email: omar.younis98@gmail.com
+License: MIT
+Download-URL: https://github.com/younik/SetCoveringMachine/archive/refs/tags/v0.1.1.tar.gz
+Description: UNKNOWN
+Keywords: SET,COVER,BINARY,CLASSIFICATION,MACHINE,LEARNING
+Platform: UNKNOWN
+Classifier: Development Status :: 3 - Alpha
+Classifier: Intended Audience :: Science/Research
+Classifier: Topic :: Software Development :: Build Tools
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3
