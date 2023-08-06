@@ -1,0 +1,4 @@
+asyncio
+aiomysql
+sqlalchemy==1.3.24
+pandas
