@@ -1,0 +1,10 @@
+niftypet/__init__.py,sha256=ED6jHcYiuYpr_0vjGz0zx2lrrmJT9sDJCzIljoDfmlM,65
+niftypet/ml/__init__.py,sha256=JYEnDNkZRGsjwiwIbLJrUB4yDKP8qJZZNyIiFOlAPyI,526
+niftypet/ml/_dist_ver.py,sha256=7Mp8iqklf3_AKmDXbtfWFufmP2NUURhE5CXW4A0vn-c,22
+niftypet/ml/layers.py,sha256=YYmGdwSz0CTrHON3dn7dVc0CQRDKQOakugW88oUZi3M,5035
+niftypet/ml/models.py,sha256=PmK_RFTG6Fb-vltg9kbXyIii8bjrQ43Gc0NRnyo0A9o,4059
+niftyml-0.0.0.dist-info/LICENCE,sha256=yWFpLYWiHR44pLrHDGLlpU-81Vw9osGPN__xNfDDKck,16488
+niftyml-0.0.0.dist-info/METADATA,sha256=e2NG2R21U2FAOmuRW22a03thNOTtDrvWf8S3DEjlS74,2233
+niftyml-0.0.0.dist-info/WHEEL,sha256=OqRkF0eY5GHssMorFjlbTIq072vpHpF60fIQA6lS9xA,92
+niftyml-0.0.0.dist-info/top_level.txt,sha256=qwT0BAG28Bkhiohl9xc3a64TyyYdWMvTYNxkt8rx-a8,9
+niftyml-0.0.0.dist-info/RECORD,,

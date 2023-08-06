@@ -1,0 +1,62 @@
+Metadata-Version: 2.1
+Name: niftyml
+Version: 0.0.0
+Summary: PET-MR Machine Learning
+Home-page: https://github.com/NiftyPET/niftyml
+Author: Casper da Costa-Luis
+Author-email: imaging@cdcl.ml
+License: MPL 2.0
+Project-URL: Changelog, https://github.com/NiftyPET/niftyml/releases
+Keywords: PET,ML
+Platform: UNKNOWN
+Classifier: Development Status :: 4 - Beta
+Classifier: Intended Audience :: Developers
+Classifier: Intended Audience :: Education
+Classifier: Intended Audience :: Science/Research
+Classifier: License :: OSI Approved :: Mozilla Public License 2.0 (MPL 2.0)
+Classifier: Operating System :: MacOS
+Classifier: Operating System :: Microsoft :: Windows
+Classifier: Operating System :: POSIX :: Linux
+Classifier: Operating System :: Unix
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Topic :: Software Development :: Libraries
+Classifier: Topic :: Software Development :: Libraries :: Python Modules
+Provides: niftypet.ml
+Requires-Python: >=3.6
+Description-Content-Type: text/x-rst
+Requires-Dist: numpy
+Provides-Extra: dev
+Requires-Dist: pre-commit ; extra == 'dev'
+Requires-Dist: pytest ; extra == 'dev'
+Requires-Dist: pytest-cov ; extra == 'dev'
+Requires-Dist: pytest-timeout ; extra == 'dev'
+Requires-Dist: codecov ; extra == 'dev'
+
+PET-MR Machine Learning
+=======================
+
+|Version| |Py-Versions| |Licence| |Tests|
+
+
+Licence
+~~~~~~~
+
+|Licence|
+
+Copyright 2021
+
+.. |Licence| image:: https://img.shields.io/pypi/l/niftyml.svg?label=licence
+   :target: https://github.com/NiftyPET/niftyml/blob/master/LICENCE
+.. |Tests| image:: https://img.shields.io/github/workflow/status/NiftyPET/niftyml/Test?logo=GitHub
+   :target: https://github.com/NiftyPET/niftyml/actions
+.. |Version| image:: https://img.shields.io/pypi/v/niftyml.svg?logo=python&logoColor=white
+   :target: https://github.com/NiftyPET/niftyml/releases
+.. |Py-Versions| image:: https://img.shields.io/pypi/pyversions/niftyml.svg?logo=python&logoColor=white
+   :target: https://pypi.org/project/niftyml
+
+
