@@ -1,0 +1,11 @@
+angelsaechsisch_telegram/__init__.py,sha256=AbpHGcgLb-kRsJGnwFEktk7uzpZOCcBY74-YBdrKVGs,1
+angelsaechsisch_telegram/__main__.py,sha256=JrLOZmvz8eGPUwjAMhtRDBu4jBELgJsjh5_R4nfQDys,322
+angelsaechsisch_telegram/bot.py,sha256=7Fufa-5WSZrny4F64i3i5Uh8eImoU8gmzRWGafawUqg,7408
+angelsaechsisch_telegram/data/antworten.txt,sha256=JFvZYoQLIgVJffrPNo_eDyl8LWiHEULpVekfdw5n6U8,394
+angelsaechsisch_telegram/data/ausnahmen.txt,sha256=kLqb2YbK_r-6NfiAWpho8E3IqdnNuRLC36iyPPnpaIY,10
+angelsaechsisch_telegram/data/de.txt,sha256=ZS0oaNyL99bVhefLXTa2yVxEU_YubUg56i8HuAD8TMs,25867742
+angelsaechsisch_telegram/data/google-10000-english.txt,sha256=nJZdOEUm-sxZJg6U-Mz_FYJjP6OFAEq-FFXtRXBirLw,75888
+angelsaechsisch_telegram/logik.py,sha256=DdSqwZAwKK2hVaIT3pIm7TZI0i8R1bFfMGE1xGPgCmo,5702
+angelsaechsisch_telegram-0.1.0.dist-info/WHEEL,sha256=VN2eEg4PHbTOniXb-cCYQPc6zUTS4dAcATjlgU3q-Lo,83
+angelsaechsisch_telegram-0.1.0.dist-info/METADATA,sha256=6l-t9FGufoa_F2ASf2lXyiV0dbRD1MHkTr96xRGcrY4,588
+angelsaechsisch_telegram-0.1.0.dist-info/RECORD,,
