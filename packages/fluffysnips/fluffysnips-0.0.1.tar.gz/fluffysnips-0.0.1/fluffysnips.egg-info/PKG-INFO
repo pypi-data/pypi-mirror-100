@@ -1,0 +1,36 @@
+Metadata-Version: 2.1
+Name: fluffysnips
+Version: 0.0.1
+Summary: Various useful CLI tools
+Home-page: https://github.com/jackadamson/fluffysnips
+Author: Jack Adamson
+Author-email: jack@mrfluffybunny.com
+License: MIT
+Description: # Fluffy Snips
+        
+        CLI tools that I find useful
+        
+        ## Installation
+        
+        ```bash
+        pip install fluffysnips
+        ```
+        
+        ## Commands
+        
+        ### mvscreenshot
+        
+        Move your most recent screenshot to a destination
+        
+        ```bash
+        $ mvscreenshot pictures/example_1
+        Screenshot from 18 hours ago
+        Move to: /home/user/current/directory/pictures/example_1.png
+        Confirm [Y/n]: y
+        ```
+        
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.7
+Description-Content-Type: text/markdown
