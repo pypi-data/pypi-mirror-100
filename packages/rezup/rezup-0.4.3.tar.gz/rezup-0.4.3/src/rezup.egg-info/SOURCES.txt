@@ -1,0 +1,12 @@
+README.md
+pyproject.toml
+setup.py
+src/rezup/__init__.py
+src/rezup/_version.py
+src/rezup/cli.py
+src/rezup.egg-info/PKG-INFO
+src/rezup.egg-info/SOURCES.txt
+src/rezup.egg-info/dependency_links.txt
+src/rezup.egg-info/entry_points.txt
+src/rezup.egg-info/requires.txt
+src/rezup.egg-info/top_level.txt
