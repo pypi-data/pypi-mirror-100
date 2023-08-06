@@ -1,0 +1,10 @@
+LICENSE.txt
+MANIFEST.in
+README.rst
+dokuwikixmlrpc.py
+setup.cfg
+setup.py
+dokuwikixmlrpc.egg-info/PKG-INFO
+dokuwikixmlrpc.egg-info/SOURCES.txt
+dokuwikixmlrpc.egg-info/dependency_links.txt
+dokuwikixmlrpc.egg-info/top_level.txt
