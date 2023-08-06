@@ -1,0 +1,3 @@
+[console_scripts]
+errgrep = errgrep.__main__:main
+
