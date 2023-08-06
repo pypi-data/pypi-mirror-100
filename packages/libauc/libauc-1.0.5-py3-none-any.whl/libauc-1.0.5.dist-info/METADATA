@@ -1,0 +1,58 @@
+Metadata-Version: 2.1
+Name: libauc
+Version: 1.0.5
+Summary: AUC Optimization
+Home-page: https://libauc.org
+Author: zhuoning
+Author-email: yzhuoning@gmail.com
+License: UNKNOWN
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: GNU General Public License (GPL)
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
+
+LibAUC
+======
+An end-to-end machine learning library for auc optimization.
+
+
+Original Links
+--------------
+
+-  Repository: https://github.com/yzhuoning/libauc
+-  Library website: https://libauc.org
+
+
+How to install
+--------------
+```
+$ pip install libauc
+```
+
+Example
+-------
+Run the following commands
+
+```shell
+$ python
+```
+```python
+>>> from libauc import *
+>>> ...
+>>> Losss = AUCMLoss(imratio=0.1)
+>>> optimizer = PESG(model, a=Loss.a, b=Loss.b, alpha=Loss.alpha, lr=0.1, gamma=500, weight_decay=1e-5)
+>>> ...
+>>> loss = Loss(y_pred, targets)
+>>> optimizer.zero_grad()
+>>> loss.backward(retain_graph=True)
+>>> optimizer.step()
+```
+
+Maintainer
+----------
+
+-  Zhuoning Yuan yzhuoning@gmail.com
+
+
