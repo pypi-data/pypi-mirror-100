@@ -1,0 +1,16 @@
+fullresattn/__init__.py,sha256=xbcIhoOVelSsNAM3ZRiMMv8dJgfonYfN4lq5qaGdwsI,1596
+fullresattn/data/__init__.py,sha256=rJdox-ZMXcmWezMixrP4SQEsmbIdipSKtmc9Y4IUsjw,91
+fullresattn/data/data.py,sha256=3fBABRpbJOH2r5PdyJXIA7YKdxLlVPnPXPJZln-0BtE,2957
+fullresattn/data/pm25selsample.csv,sha256=Z74i1mPEwKA_18nw7lukcF-Bj7P3EhjH3pHlP719W7w,6233767
+fullresattn/data/simdata.csv,sha256=449npFFbthh3auhknmrZ1O9BjZvcUQ0X5a8sprlKj2w,202910
+fullresattn/data/simulatedata.py,sha256=gcVfBWaCvhVex0HpPWQEMQD2tSc_QN5pYqle6-TtodE,1565
+fullresattn/model/__init__.py,sha256=Q_gY9SdKiLs_E_bUDbhbFQfIXQZEZcLjm--FIe_0Kd4,100
+fullresattn/model/fullresatt.py,sha256=fbEWmvt0vSMS3gAkCOl7r19xc-Lfmkc6IBKtdCIBgaM,12287
+fullresattn/model/pmetrics.py,sha256=Mx5NPc8Y7Pe0YE5qK-n_tO6Njv--U0M8sQcjiPvV1zQ,1948
+fullresattn-0.1.0.data/data/csv/pm25selsample.csv,sha256=Z74i1mPEwKA_18nw7lukcF-Bj7P3EhjH3pHlP719W7w,6233767
+fullresattn-0.1.0.data/data/csv/simdata.csv,sha256=449npFFbthh3auhknmrZ1O9BjZvcUQ0X5a8sprlKj2w,202910
+fullresattn-0.1.0.dist-info/LICENSE,sha256=P1m8JI8HE2t31qlOG5x_glxl5G71iRSQd5kYdrS0UkE,1108
+fullresattn-0.1.0.dist-info/METADATA,sha256=DFeKGtAMQD2JJtLnrJ91oEkqn2oYkEKdTsnesnrXHXk,4587
+fullresattn-0.1.0.dist-info/WHEEL,sha256=EVRjI69F5qVjm_YgqcTXPnTAv3BfSUr0WVAHuSP3Xoo,92
+fullresattn-0.1.0.dist-info/top_level.txt,sha256=gC5XjnSkZjXVH8d0SvIDGkEsoUznJ1V4RvU63paryOI,12
+fullresattn-0.1.0.dist-info/RECORD,,
