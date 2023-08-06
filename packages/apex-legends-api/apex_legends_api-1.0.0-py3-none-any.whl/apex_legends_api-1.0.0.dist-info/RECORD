@@ -1,0 +1,9 @@
+apex_legends_api/__init__.py,sha256=nN9D5VAOxcdUiH_rVILnI3uebQcKhOu8qwvnvu6Row8,234
+apex_legends_api/al_api.py,sha256=UirVCwlW1xH4YDGyXROzlzV0oDFzxNLjNwdfYt-gqko,5873
+apex_legends_api/al_base.py,sha256=7cSmvsOUUDypcmVMFHKCKmJiI9iFziJwfGDXTAC9P18,1295
+apex_legends_api/al_domain.py,sha256=Xn1Ag3jog7SNsvWL8djD3sQnV-ODVi2G4WUgfCL5uBA,8253
+apex_legends_api-1.0.0.dist-info/LICENSE,sha256=z2VanTnXFhnGT-ip6e8nJP8PwJSu585UKd0FkL8K25g,1070
+apex_legends_api-1.0.0.dist-info/METADATA,sha256=XIo51qZ3MVVN9y8prGgqanR4UVnNXzggUBt8BuvWt1c,1739
+apex_legends_api-1.0.0.dist-info/WHEEL,sha256=OqRkF0eY5GHssMorFjlbTIq072vpHpF60fIQA6lS9xA,92
+apex_legends_api-1.0.0.dist-info/top_level.txt,sha256=ymaTDZ88kW9Vfy0llLVNO5-aXAfU4RFKjIlg2W-YRug,17
+apex_legends_api-1.0.0.dist-info/RECORD,,
