@@ -1,0 +1,9 @@
+numpy
+tabulate
+tqdm
+
+[dev]
+black
+matplotlib
+pytest
+pytest-cov
