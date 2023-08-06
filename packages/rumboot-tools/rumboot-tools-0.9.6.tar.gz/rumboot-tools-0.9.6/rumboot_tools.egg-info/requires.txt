@@ -1,0 +1,13 @@
+gdbgui
+getmac
+heatshrink2==0.10.0
+hexdump
+netaddr
+netifaces
+parse
+pyft232
+pyserial
+pyusb>=1.0.0
+pyyaml
+tqdm
+xmodem
