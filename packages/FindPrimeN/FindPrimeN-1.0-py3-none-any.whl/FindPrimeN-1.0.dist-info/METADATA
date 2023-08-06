@@ -1,0 +1,30 @@
+Metadata-Version: 2.1
+Name: FindPrimeN
+Version: 1.0
+Summary: A tool to find prime numbers
+Home-page: UNKNOWN
+Author: Jose Manuel Iniesta Fernandez
+Author-email: jiniesta.fr2@gmail.com
+License: GNU GPLv3
+Keywords: Prime number searcher
+Platform: UNKNOWN
+Classifier: Development Status :: 4 - Beta
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: GNU General Public License v3 (GPLv3)
+Classifier: Programming Language :: Python :: 3
+Classifier: Operating System :: OS Independent
+
+Funcion que calcula los numeros primos entre 1 y n/n                    GNU GENERAL PUBLIC LICENSE
+                       Version 3, 29 June 2007
+
+ Copyright (C) 2007 Free Software Foundation, Inc. <https://fsf.org/>
+ Everyone is permitted to copy and distribute verbatim copies
+ of this license document, but changing it is not allowed.
+
+                            Preamble
+
+This program is free software: you can redistribute it and/or modify it
+under the terms of the GNU General Public License as published 
+by the Free Software Foundation, either version 3 of the License, 
+or (at your option) any later version/n
+
