@@ -1,0 +1,9 @@
+README.md
+setup.py
+Simplesquare/__init__.py
+Simplesquare/__main__.py
+Simplesquare.egg-info/PKG-INFO
+Simplesquare.egg-info/SOURCES.txt
+Simplesquare.egg-info/dependency_links.txt
+Simplesquare.egg-info/entry_points.txt
+Simplesquare.egg-info/top_level.txt

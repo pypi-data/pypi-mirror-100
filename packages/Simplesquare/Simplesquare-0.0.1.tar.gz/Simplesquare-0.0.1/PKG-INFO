@@ -1,0 +1,31 @@
+Metadata-Version: 2.1
+Name: Simplesquare
+Version: 0.0.1
+Summary: It square the number
+Home-page: https://github.com/DPrakashMewari/Mathsimple
+Author: Chandra Prakash Mewari
+Author-email: Prakash.mewari@yahoo.com
+License: MIT
+Description: ## INFO
+        It is the demo Package created for learning purpose, it has two 
+        function for square root
+        
+        ## Installation 
+        """pip install Simplesquare"""
+        
+        ## How to Use it ?
+        Open terminal or cmd type square
+        And then input the integer
+        
+        ## License
+        
+        @ 2021 Prakash Mewari
+        
+        This is repo is licensed under the MIT license.
+        
+Platform: UNKNOWN
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Description-Content-Type: text/markdown
