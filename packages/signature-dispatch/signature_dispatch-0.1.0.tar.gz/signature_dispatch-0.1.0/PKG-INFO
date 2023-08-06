@@ -1,0 +1,7 @@
+Metadata-Version: 1.1
+Name: signature_dispatch
+Version: 0.1.0
+Summary: Execute the first function that matches the given arguments.
+Home-page: https://github.com/kalekundert/signature_dispatch
+Author: Kale Kundert
+Author-email: kale@thekunderts.net
