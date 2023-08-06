@@ -1,0 +1,15 @@
+LICENSE
+MANIFEST.in
+Makefile
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+tox.ini
+src/typeless_dataclasses.py
+src/typeless_dataclasses.egg-info/PKG-INFO
+src/typeless_dataclasses.egg-info/SOURCES.txt
+src/typeless_dataclasses.egg-info/dependency_links.txt
+src/typeless_dataclasses.egg-info/requires.txt
+src/typeless_dataclasses.egg-info/top_level.txt
+tests/test_typeless_dataclasses.py

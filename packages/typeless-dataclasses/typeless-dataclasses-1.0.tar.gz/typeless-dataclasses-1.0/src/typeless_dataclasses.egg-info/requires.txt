@@ -1,0 +1,14 @@
+
+[dev]
+twine
+build
+pre-commit
+tox
+
+[tests]
+pytest
+coverage
+pytest-cov
+
+[tests:python_version < "3.7"]
+dataclasses
