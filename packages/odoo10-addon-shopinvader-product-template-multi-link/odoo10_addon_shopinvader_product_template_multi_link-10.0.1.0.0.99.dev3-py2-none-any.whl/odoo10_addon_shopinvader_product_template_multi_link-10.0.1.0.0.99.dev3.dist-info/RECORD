@@ -1,0 +1,14 @@
+odoo10_addon_shopinvader_product_template_multi_link-10.0.1.0.0.99.dev3-nspkg.pth,sha256=3hYKiD3YF7y9FeWjACJq1b9R_GVRzuQo9SAZlvZgumg,1672
+odoo/addons/shopinvader_product_template_multi_link/README.rst,sha256=J5ipnBNCoUWayvqEBh4DTFya6NGqLklr8qhRxIxIm2c,1048
+odoo/addons/shopinvader_product_template_multi_link/__init__.py,sha256=aRu7McAxAVHSZkYX_lU8lW6OnJg1weRumhgA8uaO1UM,37
+odoo/addons/shopinvader_product_template_multi_link/__manifest__.py,sha256=zw0W63VojeGDQFRi8J-YA9d4wI2sUse0CL-MOrXDGo8,702
+odoo/addons/shopinvader_product_template_multi_link/data/ir_exports_line.xml,sha256=uGSygXcZZm_zxh6bVYFG01CveVvQ7kaMkswODHnzhzI,690
+odoo/addons/shopinvader_product_template_multi_link/models/__init__.py,sha256=7QjKIQLxRwuapmYa1bH53OfYqx32sEohBiTYqYhHaGg,50
+odoo/addons/shopinvader_product_template_multi_link/models/shopinvader_product.py,sha256=F-ALVmqamMdUK26sC81d_Gvg1rLavlTPloXsFxGdZqA,2045
+odoo/addons/shopinvader_product_template_multi_link/tests/__init__.py,sha256=lj99uCf9jNE2dhb4Q5kpIvN81Kkkr_Bf59l3PuImamo,43
+odoo/addons/shopinvader_product_template_multi_link/tests/test_product.py,sha256=KfT8hWKNIovQzTXIo8d3Jqgr5wPf5rfE3-S-hwnYJxc,770
+odoo10_addon_shopinvader_product_template_multi_link-10.0.1.0.0.99.dev3.dist-info/METADATA,sha256=f-h-uuQpXfuOEhJgMkYBGTS9veEcEzvaFiqT9pWQwUw,1588
+odoo10_addon_shopinvader_product_template_multi_link-10.0.1.0.0.99.dev3.dist-info/WHEEL,sha256=Ph_z28wTcU7HnQwSQ6yCQ-zkcGK4h4ehDfP8b6UoHVE,92
+odoo10_addon_shopinvader_product_template_multi_link-10.0.1.0.0.99.dev3.dist-info/namespace_packages.txt,sha256=igDP6S4ywc6jzcMqzrKZpRtAUXrS-iYaA_Hu1EtlI48,17
+odoo10_addon_shopinvader_product_template_multi_link-10.0.1.0.0.99.dev3.dist-info/top_level.txt,sha256=qBj40grFkGOfDZ2WDSw3y1RnDlgG0u8rP8pvGNdbz4w,5
+odoo10_addon_shopinvader_product_template_multi_link-10.0.1.0.0.99.dev3.dist-info/RECORD,,
