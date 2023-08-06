@@ -1,0 +1,11 @@
+LICENSE.txt
+MANIFEST.in
+README.rst
+dir_edit.py
+pyproject.toml
+setup.py
+dir_edit.egg-info/PKG-INFO
+dir_edit.egg-info/SOURCES.txt
+dir_edit.egg-info/dependency_links.txt
+dir_edit.egg-info/entry_points.txt
+dir_edit.egg-info/top_level.txt
