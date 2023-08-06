@@ -1,0 +1,8 @@
+README.md
+pyproject.toml
+setup.cfg
+src/apifipecons/__init__.py
+src/apifipecons.egg-info/PKG-INFO
+src/apifipecons.egg-info/SOURCES.txt
+src/apifipecons.egg-info/dependency_links.txt
+src/apifipecons.egg-info/top_level.txt
