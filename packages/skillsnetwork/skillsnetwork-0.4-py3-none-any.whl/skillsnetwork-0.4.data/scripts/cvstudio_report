@@ -1,0 +1,29 @@
+#!python
+
+import json
+import argparse
+from datetime import datetime, date
+import skillsnetwork.cvstudio
+
+def report(data):
+    cvstudio = skillsnetwork.cvstudio.CVStudio()
+
+    result = cvstudio.report(**data)
+
+    if result.ok:
+        print('Congratulations your results have been reported back to CV Studio!')
+    else:
+        print('Failed to report results.')
+        print(result.text)
+
+
+parser = argparse.ArgumentParser()
+parser.add_argument('--report', help='Send a Report')
+parser.add_argument('jsonFilename', nargs='+', help='Filename(s) of JSON files containing data to send to CV Studio')
+args = parser.parse_args()
+
+for filename in args.jsonFilename:
+    with open(filename) as f:
+        data = json.load(f)
+
+    report(data)
