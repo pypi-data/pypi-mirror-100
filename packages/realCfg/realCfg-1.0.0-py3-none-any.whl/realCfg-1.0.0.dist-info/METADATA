@@ -1,0 +1,47 @@
+Metadata-Version: 2.1
+Name: realCfg
+Version: 1.0.0
+Summary: A single machine config mgr base on sqlite.
+Home-page: https://e.coding.net/dataframe/real_py/PyPI_src_of_real.git
+Author: Real He
+Author-email: i874u@hotmail.com
+License: BSD
+Platform: UNKNOWN
+Classifier: Development Status :: 5 - Production/Stable
+Classifier: Operating System :: OS Independent
+Classifier: License :: OSI Approved :: BSD License
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Programming Language :: Python :: Implementation :: CPython
+Requires-Python: >=3.6.0
+Description-Content-Type: text/markdown
+Requires-Dist: RealToolkits
+
+
+#realDB
+基于sqlite的单机配置管理器
+
+###版本日志：
+* 1.0.0
+  * 一个配置项可以有：
+    * 父配置项
+    * 子配置项
+    * 配置项自身的值
+  * 配置项的值支持如下类型：
+    * 数字（int、float）
+    * 字符串（str）
+    * 布尔值（bool）
+    * 数组（list）
+    * 字典（dict）
+
+* 后续会考虑提升配置项大批量增删改的效率
+
+###关于作者
+Real He
+
+i874u@hotmail.com
+
