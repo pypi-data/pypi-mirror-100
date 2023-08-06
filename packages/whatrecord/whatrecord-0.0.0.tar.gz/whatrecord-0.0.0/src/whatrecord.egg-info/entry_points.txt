@@ -1,0 +1,3 @@
+[console_scripts]
+whatrec = whatrecord.bin.main:main
+
