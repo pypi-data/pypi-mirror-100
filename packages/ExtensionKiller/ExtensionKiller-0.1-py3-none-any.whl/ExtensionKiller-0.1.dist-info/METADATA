@@ -1,0 +1,15 @@
+Metadata-Version: 2.1
+Name: ExtensionKiller
+Version: 0.1
+Summary: A small script to kill a chrome extension that you specify the ID for, but it only works on Windows
+Home-page: https://github.com/void5/BadExtension
+Author: Finnegan McCarthy
+Author-email: mccarthy.finnegan@gmail.com
+License: UNKNOWN
+Platform: UNKNOWN
+Requires-Python: >=3.7
+Requires-Dist: Click
+
+UNKNOWN
+
+
