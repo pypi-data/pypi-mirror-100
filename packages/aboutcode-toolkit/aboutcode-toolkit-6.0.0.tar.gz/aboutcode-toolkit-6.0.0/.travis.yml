@@ -1,0 +1,10 @@
+language: python
+
+python:
+  - "3.6"
+
+install:
+    - ./configure etc/conf/dev
+
+script:
+    - bin/py.test -vvs
