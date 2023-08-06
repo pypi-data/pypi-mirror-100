@@ -1,0 +1,16 @@
+onapy/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+onapy/detector3d.py,sha256=TSmmO-3ERhEGefbNbpz2rz6O8hIYbdxcinvSr5DkzEc,6432
+onapy/motion_recognizer.py,sha256=uojiqs9rK4X27Nn4cIft-M3Lue7AztJDAH62qy-1tJ4,5061
+onapy/tracker2d.py,sha256=Yx5-gca0qUxoiJujN-65kqBZqRtOKVS8CSzII5ZZodQ,6493
+onapy/tracker3d.py,sha256=hbKmtO099sflgw_2fp3b4tgKxgB4FsRCz_vRws-R9SQ,4994
+onapy/configs/camera_intrinsic.json,sha256=-8yo_uQIWo3da6a80G0Gdx5hFIwF6A9WEZBF5vkbSJA,230
+onapy/configs/default_runtime.py,sha256=rYwVK9NZ-OXDp7uiT6NTnJu2a3Qiu6KHLi_lEFJJZfc,368
+onapy/configs/yolact_onaho.py,sha256=w5FtPT5oAGTKQMw4tEodxGZY0OF-SeamWkWBzewcSdg,5135
+onapy-0.0.1.dev2.data/scripts/recognize_onaho_motion,sha256=j9L9HNJDmQ8EaGuJJ5uUf_Cr3dfrK5GTan6cfmfXx0o,3955
+onapy-0.0.1.dev2.data/scripts/recognize_waist_motion,sha256=tfWDgnT7FZ95FuZikByqaLmm6TaWPAws0MW-Az3aiGg,1373
+onapy-0.0.1.dev2.dist-info/LICENSE,sha256=wS8S7QQW4UDXzfeA0zdMoTM-HTuYosVT3KvLv_MMDm4,1050
+onapy-0.0.1.dev2.dist-info/METADATA,sha256=e0ISMbb603A0SP5hqOPbsFLiY7BrhoM39pezSe5anJA,2019
+onapy-0.0.1.dev2.dist-info/WHEEL,sha256=OqRkF0eY5GHssMorFjlbTIq072vpHpF60fIQA6lS9xA,92
+onapy-0.0.1.dev2.dist-info/dependency_links.txt,sha256=05XqcBo31o9iBwch7z2JaY9l5ZcPUl_WTYA1R4K7q4M,89
+onapy-0.0.1.dev2.dist-info/top_level.txt,sha256=alEa1qFHwECwtNX-jKjHiNAQPs25pQv9c16rj5mSuZQ,6
+onapy-0.0.1.dev2.dist-info/RECORD,,
