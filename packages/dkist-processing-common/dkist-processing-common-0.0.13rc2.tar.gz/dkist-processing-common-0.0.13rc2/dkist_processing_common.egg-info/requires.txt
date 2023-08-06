@@ -1,0 +1,15 @@
+dkist-processing-core
+dkist-header-validator
+globus-sdk
+gqlclient
+talus
+astropy
+redis
+numpy
+
+[test]
+pytest
+pytest-cov
+pytest-mock
+hypothesis
+dkist-data-simulator
