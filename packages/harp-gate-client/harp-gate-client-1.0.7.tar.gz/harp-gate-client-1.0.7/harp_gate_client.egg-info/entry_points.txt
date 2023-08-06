@@ -1,0 +1,4 @@
+[console_scripts]
+harp-agent = cmd_command.test_commands:main
+harp-gate-client = harp_gate_client.app:main
+
