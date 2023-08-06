@@ -1,0 +1,15 @@
+makefun
+graphviz
+numpydoc
+dask
+cloudpickle
+ray
+rich
+
+[dev]
+pytest
+pytest-cov
+matplotlib
+httpimport
+autodocsumm
+loky
