@@ -1,0 +1,10 @@
+ndapfirstuseauthenticator/__init__.py,sha256=XDWWZyH5W3mA17OxYNyvFnlDYwQbOTKSx4N3uE_bhuU,333
+ndapfirstuseauthenticator/_version.py,sha256=SHyh5nXppY_x5BENqZrK116flbn_WgO61ODAuprNlb4,371
+ndapfirstuseauthenticator/firstuseauthenticator.py,sha256=pXIDYRk7sRdvwEmCzOYNVbEbA51900l_T04MaSPJZEg,8635
+ndapfirstuseauthenticator/templates/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+ndapfirstuseauthenticator/templates/reset.html,sha256=4Q9Zy8LdmWJgE_6wdOlMYgwI5jmXcwlaYnyO0gPb1Gw,843
+jupyterhub_ndapfirstuseauthenticator-0.14.2.dev0.dist-info/LICENSE,sha256=8mkBCwpTwezEr91F5vzGUNN72yD3dE-cJv1K_B12U-E,1501
+jupyterhub_ndapfirstuseauthenticator-0.14.2.dev0.dist-info/METADATA,sha256=URkdc7Eh0K9nFAlvdhEKb2A3Q_R8gQD-gVfMMDxYjco,3728
+jupyterhub_ndapfirstuseauthenticator-0.14.2.dev0.dist-info/WHEEL,sha256=OqRkF0eY5GHssMorFjlbTIq072vpHpF60fIQA6lS9xA,92
+jupyterhub_ndapfirstuseauthenticator-0.14.2.dev0.dist-info/top_level.txt,sha256=d2a1LF_fjuPReJaAfuk6oN2gdenfGo3tM2911oc0Jbw,26
+jupyterhub_ndapfirstuseauthenticator-0.14.2.dev0.dist-info/RECORD,,
