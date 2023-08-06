@@ -1,0 +1,10 @@
+savestate/__init__.py,sha256=A4i4VKITQT-r7wE0NFflhh6XWsVoV-uO8BCNKLTwghw,145
+savestate/savestate.py,sha256=bzgUGDdA0pSMyjKc1ne-8UyOYKoz_-O7vrKx7rTpxwI,28900
+tests/__init__.py,sha256=Pc27z-_d2vVUDFLQEwWJ1dmcPnzO3quhPq0QYz9rP8g,89
+tests/benchmark.py,sha256=ATpNbNm8JcCyO4bYoP_7eje2CXa-5uMZkDVYNovXfzA,5272
+tests/test_savestate.py,sha256=nlkBHvVtC5G9tFTE9bwLy3xAB8u7iKtrqctayfZSmFI,23336
+savestate-0.0.3.dist-info/LICENSE,sha256=aVX99MHe0Uow-2bjeqfTl5aEIdLgYWhrvYioTrZI_js,1090
+savestate-0.0.3.dist-info/METADATA,sha256=6oSUK9_6Ib-NZqhtth8-K7mH_okO4_zRUPymAC5ztWQ,6293
+savestate-0.0.3.dist-info/WHEEL,sha256=OqRkF0eY5GHssMorFjlbTIq072vpHpF60fIQA6lS9xA,92
+savestate-0.0.3.dist-info/top_level.txt,sha256=ZvYoukzfuP1Zmzf2iMUxF_0VcdnFXwMFEita357jRJE,16
+savestate-0.0.3.dist-info/RECORD,,
