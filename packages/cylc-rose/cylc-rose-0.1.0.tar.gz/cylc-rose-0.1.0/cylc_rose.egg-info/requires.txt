@@ -1,0 +1,8 @@
+metomi-rose>=2.0b1
+cylc-flow>=8.0b0
+
+[all]
+coverage>=5.0.0
+flake8
+pytest
+pytest_cov
