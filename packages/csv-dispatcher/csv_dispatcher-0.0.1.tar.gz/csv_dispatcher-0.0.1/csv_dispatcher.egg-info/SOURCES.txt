@@ -1,0 +1,12 @@
+README.md
+setup.cfg
+setup.py
+bin/csv_dispatch.py
+csv_dispatcher/__init__.py
+csv_dispatcher/parser.py
+csv_dispatcher/test_foo.py
+csv_dispatcher.egg-info/PKG-INFO
+csv_dispatcher.egg-info/SOURCES.txt
+csv_dispatcher.egg-info/dependency_links.txt
+csv_dispatcher.egg-info/requires.txt
+csv_dispatcher.egg-info/top_level.txt
