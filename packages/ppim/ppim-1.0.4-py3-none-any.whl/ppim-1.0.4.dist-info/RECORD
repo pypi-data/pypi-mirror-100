@@ -1,0 +1,14 @@
+ppim/__init__.py,sha256=GECZ9lQGbquemFMPqajg5-q1BdtNL9z56N35QemT320,23
+ppim/models/__init__.py,sha256=Z9OwicV4q5aAWjOrvkKjqhPumMhanHlrKpnkL_AKIzo,110
+ppim/models/deit.py,sha256=e62TAmvBehXoUoL3tHPGoKZq8c5_U5B7G2qOK0qD1gM,7891
+ppim/models/rednet.py,sha256=kesVZBT-zysi0ZFVwMoRtl_80-rX3zC661YH_Om7Nxk,7084
+ppim/models/repvgg.py,sha256=cQKdj8_HamT6NbkEFBELMRRYifRZ1R1GwUmQLZOUE8c,12865
+ppim/models/rexnetv1.py,sha256=dFIlM3jD6euL3jwzdtUBmSXs1N2pmaGo8GlBegzDyHE,7603
+ppim/models/vit.py,sha256=qgZosvq7cO-b-Pj_TGygLvXyTAapWxFZU4sASvA3PxY,8743
+ppim/units/__init__.py,sha256=e9UHjLwb4ZNOEu8rEIMM3JL-kswXDCjFueAINPIvL-M,36
+ppim/units/load_model.py,sha256=Rv091fefOcUfK8NXaa7piystA0EkT_RDKfEqiXyxZAM,446
+ppim-1.0.4.dist-info/LICENSE,sha256=HrhfyXIkWY2tGFK11kg7vPCqhgh5DcxleloqdhrpyMY,11558
+ppim-1.0.4.dist-info/METADATA,sha256=_NXs1iRYHosJmId7Yhe9jh-HFoLYlsus3nr_dPG3DXM,221
+ppim-1.0.4.dist-info/WHEEL,sha256=v8slff5hmCpvciQ3G55d2d1CnOBupjDFJHDE2dUb1Ao,97
+ppim-1.0.4.dist-info/top_level.txt,sha256=FxRaxUV9ubQp6wgQsxvp2LIdiprrCLz0DGNXXMQN2ME,5
+ppim-1.0.4.dist-info/RECORD,,
