@@ -1,0 +1,2 @@
+recursive-include koksszachy/static/*
+include koksszachy/*
