@@ -1,0 +1,10 @@
+model_mail/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+model_mail/library.py,sha256=F7_J9Lq__1GJTT_x9sLEivs73ufrW2zsLOEt-UOzBiM,583
+model_mail/model_mail.py,sha256=osU-S-8ZBc70IvjT0Id2pGuuLzevVKQYGaZTgduEvRs,726
+model_mail/renderers.py,sha256=mUPsMBdPhc9YzEFVyPNMocQlWwb2e2dMXmnaTAg4yho,494
+model_mail/templates/model_mail/email.html,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+model_mail/utils.py,sha256=FQDBY5NwCqQsM7oyTI-pkafgRbAhnVtKVKFiwEGyF60,319
+django_model_mail-0.3.0.dist-info/LICENSE,sha256=7EKpJpSmMV1ocWIOQ2spsPE6XSjWRBSAed8nc62gumA,1102
+django_model_mail-0.3.0.dist-info/WHEEL,sha256=VN2eEg4PHbTOniXb-cCYQPc6zUTS4dAcATjlgU3q-Lo,83
+django_model_mail-0.3.0.dist-info/METADATA,sha256=63FLVuKPFqOCzW8KA8xX4R-9wrsi19smo_YoFutkM-Y,2106
+django_model_mail-0.3.0.dist-info/RECORD,,

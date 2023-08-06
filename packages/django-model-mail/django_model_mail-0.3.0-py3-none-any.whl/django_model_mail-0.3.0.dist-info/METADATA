@@ -1,0 +1,67 @@
+Metadata-Version: 2.1
+Name: django-model-mail
+Version: 0.3.0
+Summary: Django package that helps to create emails from models (e.g. for admins' notifications)
+Home-page: https://github.com/la1t/django-model-mail
+License: MIT
+Keywords: django-model-mail
+Author: Anatoly Gusev
+Author-email: gusev.tolia@yandex.ru
+Requires-Python: >=3.7,<4.0
+Classifier: Development Status :: 2 - Pre-Alpha
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Natural Language :: English
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Programming Language :: Python :: Implementation :: CPython
+Classifier: Programming Language :: Python :: Implementation :: PyPy
+Classifier: Topic :: Software Development
+Requires-Dist: Django (>=3.0.0,<4.0.0)
+Project-URL: Bug Tracker, https://github.com/la1t/django-model-mail/issues
+Project-URL: Documentation, https://django-model-mail.readthedocs.io
+Project-URL: Repository, https://github.com/la1t/django-model-mail
+Project-URL: Source, https://github.com/la1t/django-model-mail
+Description-Content-Type: text/x-rst
+
+=================
+Django Model Mail
+=================
+
+
+.. image:: https://img.shields.io/pypi/v/django-model-mail.svg
+        :target: https://pypi.python.org/pypi/django-model-mail
+
+.. image:: https://img.shields.io/travis/la1t/django-model-mail.svg
+        :target: https://travis-ci.org/la1t/django-model-mail
+
+
+Django package that helps to create emails from models (e.g. for admins' notifications)
+
+
+* Free software: MIT license
+
+
+Features
+--------
+
+* TODO
+
+
+Deploying
+---------
+
+A reminder for the maintainers on how to deploy.
+Make sure all your changes are committed (including an entry in HISTORY.rst).
+Then run::
+
+$ poetry version patch # possible: major / minor / patch
+$ git push
+$ git push --tags
+
+Travis will then deploy to PyPI if tests pass.
+
