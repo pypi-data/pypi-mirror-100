@@ -1,0 +1,16 @@
+phrase_detective/__init__.py,sha256=pUFSApDYUc0t5fWyO0oi-vVYElAcIIu160OvT2X3RbQ,2223
+phrase_detective/components/__init__.py,sha256=YzSM__P4xRQpjWs5QVaH1V_3jK_4HRr7LctyHLLMORU,310
+phrase_detective/components/noun_phrases.py,sha256=OgZD9ETdpnXFxpHkZZ4O7obtJwp0FYHIVOzRbKc-ijE,1515
+phrase_detective/components/prep_phrases.py,sha256=L0mKVCgxUFicOP1AqCImHgiDjCyP7gysH9UZoy0rkOo,1620
+phrase_detective/components/verb_knowledge.py,sha256=fs9hs8aoSrYzDQe-sSWYADC7VDkLbntRr6nAPdKFj5I,2842
+phrase_detective/constants.py,sha256=sigekvFdFW5ATw6ATASOUyn5k24hZws63dyUUy-sVgk,292
+phrase_detective/lib.py,sha256=NuHsiz8sMek-fKttNmdJvUbcneXJ0rB4pjSjpOYfXAo,1067
+phrase_detective/regx/__init__.py,sha256=9H8rYnJpfhCxuyi_WpxPplcr04gyyR151lMVIY-V3KM,220
+phrase_detective/regx/en.py,sha256=XY5SPzKjGyAmxQWMr7Tv_dTneTMC-OmV9kKSxn-HQUw,810
+phrase_detective/regx/es.py,sha256=FlJdcd1DMFHuT0JxGNt9tojEL0qJRX3khvdWx7aqZpM,1085
+phrase_detective/rules/__init__.py,sha256=1YLiol3_J9qg5hRVsOsuabXWaSNG2zAqYpeAfRW6yL8,98
+phrase_detective/rules/en.py,sha256=quuz1MqPJgR1zJtq2PLKBOMqer5v6tYe5BqXyda3AUE,961
+phrase_detective/rules/es.py,sha256=_3ZztPZgicGA6J0aiEobztkn1gnKIQx-tYZ11S4NFqk,957
+phrase_detective-0.1.8.dist-info/WHEEL,sha256=VN2eEg4PHbTOniXb-cCYQPc6zUTS4dAcATjlgU3q-Lo,83
+phrase_detective-0.1.8.dist-info/METADATA,sha256=JDbn1YRJk79UWsB3fCR52xudxp4a0mw5aQhj5dH6-DU,3599
+phrase_detective-0.1.8.dist-info/RECORD,,
