@@ -1,0 +1,32 @@
+Metadata-Version: 2.1
+Name: pytorchipfs
+Version: 1.0.1
+Summary: IPFS support for PyTorch
+Home-page: https://github.com/kenthorn95/PyTorchIPFS
+Author: Ken Thorn
+Author-email: kenthorn95@protonmail.com
+License: MIT
+Project-URL: Bug Tracker, https://github.com/kenthorn95/PyTorchIPFS/issues
+Keywords: torch,,pytorch,,ipfs
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.7
+Description-Content-Type: text/markdown
+
+# pytorchipfs
+A PyTorch utility for integrating IPFS (InterPlanetary File System) with PyTorch.
+
+Supports IPFS datasets, as well as model backups.
+
+# How to Install
+
+```
+pip install pytorchipfs
+```
+
+# Usage
+
+Check out the [example notebook](https://github.com/kenthorn95/PyTorchIPFS/blob/main/example.ipynb).
+
