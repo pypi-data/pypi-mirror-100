@@ -1,0 +1,28 @@
+Metadata-Version: 2.1
+Name: sdamgia-api
+Version: 0.0.1
+Summary: Python модуль для взаимодействия с образовательным порталом СДАМ ГИА
+Home-page: https://github.com/anijackich/sdamgia-api
+Author: anijack
+Author-email: anijackich@gmail.com
+License: MIT
+Description: sdamgia-api
+        =================================================================================================================================================================================
+        **sdamgia-api** – Python модуль для взаимодействия с образовательным порталом СДАМ ГИА
+        
+        
+        ```python
+        import sdamgia
+        
+        print(sdamgia.get_problem_by_id('math','1001'))
+        ```
+        
+        Установка
+        ------------
+            $ pip3 install sdamgia-api
+        
+Platform: UNKNOWN
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Classifier: Programming Language :: Python :: 3
+Description-Content-Type: text/markdown
