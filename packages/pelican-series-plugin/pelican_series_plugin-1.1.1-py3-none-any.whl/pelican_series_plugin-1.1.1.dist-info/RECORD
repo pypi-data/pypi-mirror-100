@@ -1,0 +1,6 @@
+pelican/plugins/series/__init__.py,sha256=aT4AfU6kRbJTVQ0WA4UY8iZ8PArgTtBEjuGX62Cn1no,30
+pelican/plugins/series/series.py,sha256=dzEmWcRlxye7-er8dW5gUYbUPG5D32dVJk1tSoHBWys,2903
+pelican/plugins/series/test_series.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+pelican_series_plugin-1.1.1.dist-info/WHEEL,sha256=SrtnPGVTMeYWttls9xnWA01eUhCZ3ufFdJUYb1J3r-U,83
+pelican_series_plugin-1.1.1.dist-info/METADATA,sha256=cED9Rb1RrJIPvixNoeaTAQzVnhdBphM0LzzrAnMwvHM,4846
+pelican_series_plugin-1.1.1.dist-info/RECORD,,
