@@ -1,0 +1,9 @@
+ai_core/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+ai_core/test.py,sha256=93I3Ji22RsYkp4OFqVctwyymqvIb72dl-x8Uxptky7o,43
+ai_core/utils.py,sha256=SuJanPpxpTIvC5hsybpt4GzWaJL16wtkw_cMZhMOYZ4,2207
+ai_core/datasets/__init__.py,sha256=hrQIizCNcbgw4vngM-H4pJuyTaP4Ynfg8EdkXZkahCY,32
+ai_core/datasets/furniture.py,sha256=hw4NrL1wGqYoylD-oHYsI9u91KxpP1hlCRWzLo-9LaU,4353
+ai_core-0.0.2.dist-info/METADATA,sha256=Y1aYk9pC3xjoa-1NFPeDzH1MMRXv_NVLVLEFN57lLmo,421
+ai_core-0.0.2.dist-info/WHEEL,sha256=OqRkF0eY5GHssMorFjlbTIq072vpHpF60fIQA6lS9xA,92
+ai_core-0.0.2.dist-info/top_level.txt,sha256=TIVhbR4Nyw4vODHXyaoZAi_RFA5orfjfYfz1FijyfKo,8
+ai_core-0.0.2.dist-info/RECORD,,
