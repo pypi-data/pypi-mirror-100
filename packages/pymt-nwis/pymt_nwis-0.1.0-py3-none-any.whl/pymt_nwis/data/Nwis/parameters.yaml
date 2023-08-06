@@ -1,0 +1,35 @@
+site:
+  name: Site
+  description: The Identifier of the USGS Gauge Site
+  value:
+    type: string
+    default: 03339000
+    units: 1
+data_type:
+  name: Data type
+  description: The data type of the download datasets.
+  value:
+    type: string
+    default: dv
+    units: 1
+start_date:
+  name: Start date
+  description: The start date of the time series dataset.
+  value:
+    type: string
+    default: "2020-01-01"
+    units: 1
+end_date:
+  name: End date
+  description: The end date of the time series dataset.
+  value:
+    type: string
+    default: "2020-01-15"
+    units: 1
+nc_output:
+  name: NetCDF file output
+  description: The file path of the NetCDF file to store the time series data.
+  value:
+    type: string
+    default: demo.nc
+    units: 1
