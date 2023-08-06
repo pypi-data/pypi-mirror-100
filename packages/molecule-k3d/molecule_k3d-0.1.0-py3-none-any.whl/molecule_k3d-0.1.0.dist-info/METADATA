@@ -1,0 +1,47 @@
+Metadata-Version: 2.1
+Name: molecule-k3d
+Version: 0.1.0
+Summary: molecule-k3d - Molecule K3D Driver allows Molecule users to test Ansible code using K3D.
+Home-page: https://github.com/retr0h/molecule-k3d
+Keywords: ansible,k3d,k8s,kubernetes,testing,molecule
+Author: John Dewey
+Author-email: john@dewey.ws
+Maintainer: John Dewey
+Maintainer-email: john@dewey.ws
+Requires-Python: >=3.6,<4.0
+Classifier: Development Status :: 5 - Production/Stable
+Classifier: Environment :: Console
+Classifier: Intended Audience :: Developers
+Classifier: Intended Audience :: Information Technology
+Classifier: Intended Audience :: System Administrators
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Natural Language :: English
+Classifier: Operating System :: OS Independent
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Topic :: System :: Systems Administration
+Classifier: Topic :: Utilities
+Project-URL: Documentation, https://github.com/retr0h/molecule-k3d
+Project-URL: Repository, https://github.com/retr0h/molecule-k3d
+Description-Content-Type: text/markdown
+
+# molecule-k3d
+
+molecule-k3d - Molecule K3D Driver allows Molecule users to test Ansible code using K3D.
+
+## Testing
+
+To execute unit tests.
+
+    $ make dep
+    $ make test
+
+## License
+
+The [MIT] License.
+
+[MIT]: LICENSE
+
