@@ -1,0 +1,13 @@
+.gitignore
+README.md
+requirements.txt
+setup.py
+depack.egg-info/PKG-INFO
+depack.egg-info/SOURCES.txt
+depack.egg-info/dependency_links.txt
+depack.egg-info/entry_points.txt
+depack.egg-info/not-zip-safe
+depack.egg-info/requires.txt
+depack.egg-info/top_level.txt
+src/__init__.py
+src/main.py

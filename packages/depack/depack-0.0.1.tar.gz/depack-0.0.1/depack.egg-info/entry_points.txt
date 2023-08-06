@@ -1,0 +1,4 @@
+[console_scripts]
+depack = src.main:main
+unpack = src.main:main
+
