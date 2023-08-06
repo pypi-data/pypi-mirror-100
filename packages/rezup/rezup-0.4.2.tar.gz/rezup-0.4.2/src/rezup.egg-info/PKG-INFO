@@ -1,0 +1,75 @@
+Metadata-Version: 2.1
+Name: rezup
+Version: 0.4.2
+Summary: Rez launching environment manager
+Home-page: https://github.com/davidlatwe/rezup
+Author: davidlatwe
+Author-email: davidlatwe@gmail.com
+License: GPLv3
+Description: # rezup
+        
+        [Rez](https://github.com/nerdvegas/rez) launching environment manager
+        
+        ### Install
+        
+        ```
+        pip install rezup
+        ```
+        
+        ### Usage
+        
+        use default, if container default not exists, get rez from pypi
+        ```
+        $ rezup
+        ```
+        
+        use foo
+        ```
+        $ rezup use foo
+        ```
+        
+        use foo and do job
+        ```
+        $ rezup use foo --do job
+        ```
+        
+        install rez into container default
+        ```
+        $ rezup add
+        ```
+        
+        install rez into container foo
+        ```
+        $ rezup add foo
+        ```
+        
+        install rez into container live, which will be in edit mode
+        ```
+        $ rezup add live
+        ```
+        
+        remove container foo
+        ```
+        $ rezup drop foo
+        ```
+        
+        list containers
+        ```
+        $ rezup list
+        ```
+        
+Keywords: package resolve version build install software management
+Platform: UNKNOWN
+Classifier: Development Status :: 3 - Alpha
+Classifier: License :: OSI Approved :: GNU General Public License v3 (GPLv3)
+Classifier: Intended Audience :: Developers
+Classifier: Operating System :: OS Independent
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 2
+Classifier: Programming Language :: Python :: 2.7
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Topic :: Software Development
+Classifier: Topic :: System :: Software Distribution
+Description-Content-Type: text/markdown
