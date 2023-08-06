@@ -1,0 +1,26 @@
+[build-system]
+requires = ["flit_core >=2,<4"]
+build-backend = "flit_core.buildapi"
+
+[tool.flit.metadata]
+module = "gupy"
+author = "davycloud"
+author-email = "daweisi2006@gmail.com"
+home-page = "https://github.com/davycloud/gupy"
+requires-python=">=3.7"
+classifiers = [ 
+    "License :: OSI Approved :: MIT License",
+    "Development Status :: 1 - Planning",
+    "Operating System :: OS Independent",
+    "Programming Language :: Python :: 3 :: Only",
+    "Programming Language :: Python :: 3.7",
+    "Programming Language :: Python :: 3.8",
+    "Programming Language :: Python :: 3.9",
+    "Framework :: AsyncIO",
+    "Topic :: Office/Business :: Financial",
+    "Intended Audience :: Financial and Insurance Industry",
+    "Intended Audience :: Developers",
+    "Intended Audience :: Information Technology"
+]
+description-file = "README.md"
+
