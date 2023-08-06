@@ -1,0 +1,29 @@
+Metadata-Version: 2.1
+Name: lwlpackage
+Version: 0.1.4
+Summary: lwl的pythpn库进行测试.
+Home-page: https://github.com/2892211452/myPackage
+Author: xingzhe
+Author-email: 2892211452@qq.com
+License: MIT
+Description: 
+        # lwl的常用工具包
+        
+        ## 变量存储
+        
+        ## 路径管理
+        
+        ## 邮件发送
+        
+        ## md文档图源转换
+        
+        ## 图像处理相关
+Platform: UNKNOWN
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: Implementation :: CPython
+Classifier: Programming Language :: Python :: Implementation :: PyPy
+Requires-Python: >=3.6.0
+Description-Content-Type: text/markdown
