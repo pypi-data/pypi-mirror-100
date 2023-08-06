@@ -1,0 +1,38 @@
+[tool.poetry]
+name = "sweetcurves"
+version = "0.1.5"
+description = "Slight build automation and changes."
+authors = ["Kevin Hill <kah.kevin.hill@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.scripts]
+sweets = "sweetcurves.main:app"
+
+# pypi-AgEIcHlwaS5vcmcCJGU2ZmYwYWE5LTQzMzMtNDE1ZC1hNzQwLWQ2NjBiM2RmMDY1YQACJXsicGVybWlzc2lvbnMiOiAidXNlciIsICJ2ZXJzaW9uIjogMX0AAAYgIszRP902K_tO4YEXVwYP8QASxXy-1TqtILZLP7oISdk
+[tool.poetry.dependencies]
+python = ">=3.7.0,<4.0.0"
+typer = {extras = ["all"], version = "^0.3.2"}
+toolz = "^0.11.0"
+PyYAML = "^5.4.1"
+sh = "^1.14.1"
+decorator = "^4.4.2"
+pydantic = "^1.8.1"
+pyperclip = "^1.8.2"
+loguru = "^0.5.3"
+devtools = "^0.6.1"
+
+[tool.poetry.dev-dependencies]
+pytest = "^5.2"
+yapf = "^0.31.0"
+datamodel-code-generator = "^0.9.4"
+docker = "^4.4.4"
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
+
+
+[tool.dephell.main]
+from = {format = "poetry", path="pyproject.toml"}
+to = {format = "setuppy", path = "setup.py"}
+
