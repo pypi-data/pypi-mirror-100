@@ -1,0 +1,13 @@
+README.md
+pyproject.toml
+setup.py
+src/seleniumqt/__init__.py
+src/seleniumqt/attr_ele.py
+src/seleniumqt/compress_image.py
+src/seleniumqt/ele_high_show.py
+src/seleniumqt/is_alpha.py
+src/seleniumqt/screen_change.py
+src/seleniumqt.egg-info/PKG-INFO
+src/seleniumqt.egg-info/SOURCES.txt
+src/seleniumqt.egg-info/dependency_links.txt
+src/seleniumqt.egg-info/top_level.txt
