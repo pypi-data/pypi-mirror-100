@@ -1,0 +1,7 @@
+CHANGES
+=======
+
+v1.5.2
+------
+
+* Added .replace() to Items. (#10)
