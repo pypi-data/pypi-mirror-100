@@ -1,0 +1,19 @@
+Metadata-Version: 2.1
+Name: oae5
+Version: 0.1.4
+Summary: Paquete para resolver método de gradiente conjugado
+Home-page: UNKNOWN
+Author: eq_5
+Author-email: UNKNOWN
+License: MIT
+Platform: UNKNOWN
+Requires-Dist: sympy
+Requires-Dist: numpy
+Requires-Dist: pandas
+Requires-Dist: matplotlib
+Requires-Dist: sphinx
+Requires-Dist: ipython
+
+UNKNOWN
+
+
