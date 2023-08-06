@@ -1,0 +1,10 @@
+aws_cdk/aws_ram/__init__.py,sha256=1thrDmpDAMMeenvobkexp-PCirN5ng8xTAnciZ_TNnQ,11657
+aws_cdk/aws_ram/py.typed,sha256=AbpHGcgLb-kRsJGnwFEktk7uzpZOCcBY74-YBdrKVGs,1
+aws_cdk/aws_ram/_jsii/__init__.py,sha256=BgjaQ5InvQTTSgzgHITpB2zoPtLfzRQuN0PXuTsC02w,363
+aws_cdk/aws_ram/_jsii/aws-ram@1.96.0.jsii.tgz,sha256=PL5ZUpN3OUiCLXZWUvvS2pAfQHOLTYyfz0Al43QZ01A,16146
+aws_cdk.aws_ram-1.96.0.dist-info/LICENSE,sha256=PPdRlpoLCV1CRrCV1eKpp3m0lNjchFAP4a9zfc8tRLo,11391
+aws_cdk.aws_ram-1.96.0.dist-info/METADATA,sha256=mhtlQ5SYN33nzBHAV9tJUws7AirrDIvMQGn2vUnHuZc,1696
+aws_cdk.aws_ram-1.96.0.dist-info/NOTICE,sha256=xo56krus2e5ShfXqz_B7vuvGcMn_D0F7TjjpfTz8YMw,113
+aws_cdk.aws_ram-1.96.0.dist-info/WHEEL,sha256=OqRkF0eY5GHssMorFjlbTIq072vpHpF60fIQA6lS9xA,92
+aws_cdk.aws_ram-1.96.0.dist-info/top_level.txt,sha256=1TALAKbuUGsMSrfKWEf268lySCmcqSEO6cDYe_XlLHM,8
+aws_cdk.aws_ram-1.96.0.dist-info/RECORD,,
