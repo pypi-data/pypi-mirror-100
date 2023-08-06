@@ -1,0 +1,1 @@
+KGs is a library for building Knowledge Graph with Python, and this library was writen by Wei Wei.
