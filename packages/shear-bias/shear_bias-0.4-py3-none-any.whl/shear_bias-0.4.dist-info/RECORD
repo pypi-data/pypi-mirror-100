@@ -1,0 +1,12 @@
+shear_bias/__init__.py,sha256=5Gfqt4jMLGKhsQvlEvvI3Vi8MdUcFi-chBDF2t1SM0I,393
+shear_bias/data.py,sha256=yYU92zId0POhiwr7MDtETiJ5qaWnYzfTG2EpTORhkXM,1239
+shear_bias/errors.py,sha256=NKvVmzSRGcGbne1VpMWq_Vn5i1bD82UVd1GYXMhjAkw,3230
+shear_bias/info.py,sha256=0BAyTTvMJt4H-oy3ovl__PccOP7ACAZ3LdYbs1vT5-k,461
+shear_bias/misc.py,sha256=uZBwQklqtqp2Geq_eVWyPeGUJju0sEe4jvzKW93B1JU,3640
+shear_bias/plot.py,sha256=DXnkpqg-58UId9CMP0RV6R5-tzdw7uIHzmOjeauSrMU,6068
+shear_bias/shapes.py,sha256=xfX1aCJvAvOyRdDym0SOJ5_nIsRiRxgewUeKBRQpiGs,10616
+shear_bias/simulations.py,sha256=2BOw0tE1GRYQ6aKSsCUR4_XiSCkJBXNOC2ggY3Abq7A,6779
+shear_bias-0.4.dist-info/METADATA,sha256=2TvdA9CrEUoopEQ_-tr_BqcR9htLhtEL9TEZHx7tuMM,2056
+shear_bias-0.4.dist-info/WHEEL,sha256=OqRkF0eY5GHssMorFjlbTIq072vpHpF60fIQA6lS9xA,92
+shear_bias-0.4.dist-info/top_level.txt,sha256=y18LeqnTC0CI9DdqawEe82mTn-TFCd2NXRv4OMFJpfU,11
+shear_bias-0.4.dist-info/RECORD,,
