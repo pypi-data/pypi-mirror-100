@@ -1,0 +1,9 @@
+setup.py
+pednav/__init__.py
+pednav/main.py
+pednav.egg-info/PKG-INFO
+pednav.egg-info/SOURCES.txt
+pednav.egg-info/dependency_links.txt
+pednav.egg-info/not-zip-safe
+pednav.egg-info/requires.txt
+pednav.egg-info/top_level.txt
