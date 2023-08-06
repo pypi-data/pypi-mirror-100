@@ -1,0 +1,13 @@
+LICENSE
+MANIFEST.in
+README.md
+setup.py
+calqtator/__init__.py
+calqtator/__main__.py
+calqtator/_calqtator.py
+calqtator.egg-info/PKG-INFO
+calqtator.egg-info/SOURCES.txt
+calqtator.egg-info/dependency_links.txt
+calqtator.egg-info/entry_points.txt
+calqtator.egg-info/requires.txt
+calqtator.egg-info/top_level.txt
