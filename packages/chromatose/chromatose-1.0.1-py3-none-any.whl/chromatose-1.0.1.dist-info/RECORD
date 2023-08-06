@@ -1,0 +1,17 @@
+chromatose/__init__.py,sha256=JIR290Sq2CK876Pb2z_vErbFIiA49etgZ4ku4AcqXQU,951
+chromatose/chromatrieve.py,sha256=gKqgf1i3fdXtmyi2hWpIVkc0x-9t08zPDhbhYtYZfyU,425
+chromatose/chromextract.py,sha256=ntKFbubUKKSBf7oYRcEeCTnTp65fOV4c4DW1p4QCQWs,2142
+chromatose/colorpicker.py,sha256=aN6DODHqZYP7NqoqqrrchXh5feoaPpqZdoMLcE5EHLI,7704
+chromatose/extraction.py,sha256=rHteBwo4Gf4igcK1KAjru5XdQKhwgxFO_NOib1bxr4E,5409
+chromatose/heat.py,sha256=kmwUoyGK-9z25iNvQ4Uq88E3EEpBhEpPQ1Rhg9__azQ,4313
+chromatose/interpolate.py,sha256=sD8onXJpC1uXtzakCLS7aIzQv4WroqIjjLeCRVGDIpk,3849
+chromatose/palettes.py,sha256=Fn5UHD9LhhETtLTj81uabT7ZOX5Poou771AleAHFYnI,85909
+chromatose/utils.py,sha256=rWdidzjfuy7Ql7tu5GMBFQhsRdyi82glEHMOIBi_zy0,8992
+chromatose/viz.py,sha256=nYni_-S2TUL0FFsFOATVudkJefWaijeP2PdqfUlKujU,14328
+chromatose/volcanoes.csv,sha256=D71xGvDu9w45gSCIEOh8_Cu-pvrVicyJScWU5RCN9dI,25635
+chromatose-1.0.1.dist-info/LICENSE.md,sha256=t0vfx-Orn9B9FzvyhsolPX9fr9fSTS-xBpLu1fAVe5A,1066
+chromatose-1.0.1.dist-info/METADATA,sha256=wFtHJlkV8eqm8fxw2I68VfK0oM138aQXsFrD_ZV6UTo,1388
+chromatose-1.0.1.dist-info/WHEEL,sha256=OqRkF0eY5GHssMorFjlbTIq072vpHpF60fIQA6lS9xA,92
+chromatose-1.0.1.dist-info/entry_points.txt,sha256=e7hl68Dqcmc41X6OsB8Zd3O1rAupVK9JqrAF9DdcGEc,100
+chromatose-1.0.1.dist-info/top_level.txt,sha256=JO9JeWGBA_iKRQntJWkz5XEHCNBAjGbXmbYm0c4GU6A,11
+chromatose-1.0.1.dist-info/RECORD,,
