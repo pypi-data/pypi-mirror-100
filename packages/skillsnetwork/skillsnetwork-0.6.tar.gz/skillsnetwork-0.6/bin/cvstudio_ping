@@ -1,0 +1,30 @@
+#!/usr/bin/env python3
+
+import json
+import argparse
+from datetime import datetime, date
+import skillsnetwork.cvstudio
+
+def ping():
+    cvstudio = skillsnetwork.cvstudio.CVStudio()
+
+    result = cvstudio.ping()
+
+    if result.ok:
+        print('Congratulations you are connected to CV Studio!')
+        item = json.loads(result.text)
+        if 'trainingrun' in item:
+            print('Training Run: ' + item['trainingrun']['name'])
+        elif 'app' in item:
+            print('Application: ' + item['app']['name'])
+    else:
+        print('Failed to contact CV Studio.')
+        print(result.text)
+
+
+parser = argparse.ArgumentParser()
+parser.add_argument('--ping', help='Ping CV Studio')
+args = parser.parse_args()
+
+
+ping()

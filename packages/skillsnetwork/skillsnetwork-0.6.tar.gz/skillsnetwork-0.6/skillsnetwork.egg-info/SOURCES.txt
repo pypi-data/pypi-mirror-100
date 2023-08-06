@@ -1,0 +1,14 @@
+MANIFEST.in
+README.md
+pyproject.toml
+setup.py
+bin/cvstudio_download_all
+bin/cvstudio_ping
+bin/cvstudio_report
+skillsnetwork/__init__.py
+skillsnetwork/cvstudio.py
+skillsnetwork.egg-info/PKG-INFO
+skillsnetwork.egg-info/SOURCES.txt
+skillsnetwork.egg-info/dependency_links.txt
+skillsnetwork.egg-info/requires.txt
+skillsnetwork.egg-info/top_level.txt
