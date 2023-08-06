@@ -1,0 +1,10 @@
+solitairenet/__init__.py,sha256=ZQhXtFuXIGDwpCAUqfQWo3IQMf-8Lz9t5nYhJnOYBdI,23
+solitairenet/_nbdev.py,sha256=IXBAT_udSPbH-jiUDrz6Wg2GbWrnYGQvBMxThMQlD4Y,400
+solitairenet/core.py,sha256=GwtJn_bdUGTcz58p44Sqe1iZLmTBoYRrukfzoclar3M,656
+solitairenet/game.py,sha256=8jiigUOWQ48-zcsAPFICCoU8GBRS-YSB_CZ8-LLX7ic,680
+solitairenet-0.0.25.dist-info/LICENSE,sha256=xx0jnfkXJvxRnG63LTGOxlggYnIysveWIZ6H3PNdCrQ,11357
+solitairenet-0.0.25.dist-info/METADATA,sha256=0cvG2QpcITjZBxs_9G3ZWaA9YZpqW4NgRZhJUpRlsjM,1292
+solitairenet-0.0.25.dist-info/WHEEL,sha256=OqRkF0eY5GHssMorFjlbTIq072vpHpF60fIQA6lS9xA,92
+solitairenet-0.0.25.dist-info/entry_points.txt,sha256=eqGnTHtEVMYwfXVk1Z9MhC8O2N8wuqAbr0lisLmrkxs,20
+solitairenet-0.0.25.dist-info/top_level.txt,sha256=2U5deW9e6K5KgR2c9n_NItKL_27AFZ2YPbD16YGEDC4,13
+solitairenet-0.0.25.dist-info/RECORD,,
