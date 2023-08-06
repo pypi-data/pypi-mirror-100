@@ -1,0 +1,14 @@
+Metadata-Version: 1.0
+Name: resolos
+Version: 0.2.0
+Summary: Reproducible research made easy
+Home-page: https://github.com/nuvolos-cloud/resolos
+Author: Alphacruncher
+Author-email: support@nuvolos.cloud
+License: MIT
+Description: resolos - Reproducible research made easy
+        =======================================================
+        
+        Documentation available at `resolos.readthedocs.io <https://resolos.readthedocs.io/en/latest/>`_.
+        
+Platform: UNKNOWN
