@@ -1,0 +1,15 @@
+khquizgen/__init__.py,sha256=ERT2AZ9FZvFV97r9sMEJDj8OJ6gfCwD8h7d93VVu1RM,3028
+khquizgen/__main__.py,sha256=4yWHaAPV4TXNm49d-22RC6thvDdRbZDiIr3ScT_LlcM,1048
+khquizgen/config/CONFIG.py,sha256=d9NA3lisUCC5MdwHZmepcasjZH5jx7zxOcAju_aG4Bk,723
+khquizgen/inputs/KahootQuizTemplate.xlsx,sha256=YXfVqprPgUeKb7c-ahr-ryClrDaKcmtS16q5JbqW8Q8,29183
+khquizgen/inputs/questions.txt,sha256=fYTF3tFAPN6xFMnVMyB0-b01Wz58Kif8rzgwPNLhRKw,9941
+khquizgen/outputs/KahootQuiz.xlsx,sha256=IXZlrPoZQn-x6ONnlyPL4ly_gR7_4efqNoPvZPYTnRM,15319
+khquizgen/outputs/questions.json,sha256=Ta2nzaFhA-Qw5zFbLzL8uzbnoox_mMmK-qRnX6tbhPI,17727
+khquizgen/src/gen_quiz.py,sha256=1jXCAyceqj3bHca21koWagVhMPSHpwBNCYWGmYW5Mu4,4798
+khquizgen/src/parse_questions.py,sha256=O89waCBqw0vsxQyrOwbeZkyiW9IZ1QM7x6lDE8hsFt0,2086
+khquizgen/src/use_template.py,sha256=GPqIFnc1iEsVR4z9oDlu49w0vZA0LgLGjpabpgMbbgM,3980
+khquizgen/src/utils.py,sha256=1Go_Q8eHQU6Rhcs9Lc_isjch2ebN78bPgmNCAaaFghE,585
+khquizgen-0.1.1.dist-info/LICENSE,sha256=Z3yN6agBNSFCifrtY3BpWz5OwXAJsjDomMsBUTkvy5U,1061
+khquizgen-0.1.1.dist-info/WHEEL,sha256=VN2eEg4PHbTOniXb-cCYQPc6zUTS4dAcATjlgU3q-Lo,83
+khquizgen-0.1.1.dist-info/METADATA,sha256=gL0TSkgSyB0TSisGCnGpY4CJkSc3LP6EbdJnWoEaTso,568
+khquizgen-0.1.1.dist-info/RECORD,,
