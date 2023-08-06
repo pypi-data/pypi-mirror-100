@@ -1,0 +1,7 @@
+boto3
+elasticsearch
+jsonref
+psycopg2
+pyyaml
+requests-aws4auth
+simplejson
