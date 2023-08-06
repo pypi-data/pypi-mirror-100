@@ -1,0 +1,6 @@
+distro
+pyyaml
+
+[packaging]
+stdeb
+twine
