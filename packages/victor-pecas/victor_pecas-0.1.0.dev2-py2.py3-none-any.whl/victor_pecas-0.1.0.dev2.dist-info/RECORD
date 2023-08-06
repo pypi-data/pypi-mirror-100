@@ -1,0 +1,9 @@
+victor_pecas/__init__.py,sha256=Ok7bVCmtVBPj5eGNJPaj4J2v626rg3LQ9j14X6Y6aIQ,163
+victor_pecas/__version__.py,sha256=njbWM3TEZYvcuYvwka0xuGnHkcz7YX1ZvGC9gdbzzkI,27
+victor_pecas/tfidf_vectorizer.py,sha256=BOMIMp2HI69fBTf5J_5QpBnJS0zDYXVsTYfY7fQ6hds,6733
+victor_pecas/victor_pieces.py,sha256=yUNY-JcjEJeCL64D8NYN2E5_UQuJEnddrXMq_j0F62I,1585
+victor_pecas-0.1.0.dev2.dist-info/LICENSE,sha256=2GIewu7luco8ZfhJJQXzWQ3oV0-sD99RMqdyMtukerw,11326
+victor_pecas-0.1.0.dev2.dist-info/METADATA,sha256=lnveNsql6RHHGU_zoTXwzQfuaMqUp99dvtfIxlpH2x8,1253
+victor_pecas-0.1.0.dev2.dist-info/WHEEL,sha256=Z-nyYpwrcSqxfdux5Mbn_DQ525iP7J2DG3JgGvOYyTQ,110
+victor_pecas-0.1.0.dev2.dist-info/top_level.txt,sha256=HnGsiBLIg8-o84fhphYLxtC1nHHoQTNTxmtMnJMItXw,13
+victor_pecas-0.1.0.dev2.dist-info/RECORD,,
