@@ -1,0 +1,9 @@
+proximatic/__init__.py,sha256=SH6nmkShYd1crcUguNIK0ssBdFI_-snqJrmBYFNgjQE,65
+proximatic/core.py,sha256=oAzYd4D3zAeXMdXLNygZmy5uzS1-T-rHtaTM_gcqcdQ,2734
+proximatic/main.py,sha256=4Qw4k_j3lWmyPyePL8JdvdqmGk3cnuIoD1ejkIqqhcE,1382
+proximatic/templates/domain.j2.yml,sha256=h0HSp6XO-lnQw7OMq-TJaLJEkHq0GbOTaYDcfNUgnC4,623
+proximatic-0.1.2.dist-info/entry_points.txt,sha256=PLhkvNjERCRYqiJvo16jAeLjsBdk1Fxxc0nUyAae5o8,50
+proximatic-0.1.2.dist-info/LICENSE.md,sha256=QlSj3AfMB2vVvX5nmnRe-Ibl6VmKrya7yHHyaOzYD8g,1079
+proximatic-0.1.2.dist-info/WHEEL,sha256=VN2eEg4PHbTOniXb-cCYQPc6zUTS4dAcATjlgU3q-Lo,83
+proximatic-0.1.2.dist-info/METADATA,sha256=zuvM3Oe9_Kx3ciTcHsJAcYtcESaOQjX07aij2QlQeK8,2265
+proximatic-0.1.2.dist-info/RECORD,,
