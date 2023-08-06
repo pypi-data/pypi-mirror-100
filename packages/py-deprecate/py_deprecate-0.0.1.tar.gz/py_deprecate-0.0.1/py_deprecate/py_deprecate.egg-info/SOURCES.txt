@@ -1,0 +1,7 @@
+README.md
+pyproject.toml
+setup.cfg
+py_deprecate/py_deprecate.egg-info/PKG-INFO
+py_deprecate/py_deprecate.egg-info/SOURCES.txt
+py_deprecate/py_deprecate.egg-info/dependency_links.txt
+py_deprecate/py_deprecate.egg-info/top_level.txt
