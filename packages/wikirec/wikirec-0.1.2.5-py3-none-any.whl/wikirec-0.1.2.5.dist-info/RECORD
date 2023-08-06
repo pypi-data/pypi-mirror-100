@@ -1,0 +1,10 @@
+wikirec/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+wikirec/data_utils.py,sha256=TlPAnq7CtXi44UXAPxfKQ66lSqvWpWaVeuIXYijX7_Q,30644
+wikirec/languages.py,sha256=cVqJN5u9cjzyEuhTLqqGatGEQH3ohU8fKbpFy1Z60Mw,3078
+wikirec/model.py,sha256=HePmDWv_O5TctvPpodGKxAYsYXlMYUmWHjKALVA9vns,9804
+wikirec/utils.py,sha256=N_VKU3TowjxQOZBnKhqX6umTmXHS4LpchdjCYWNyh8Y,7468
+wikirec-0.1.2.5.dist-info/LICENSE.txt,sha256=vlyyycop3D3GrnqnpFHnwgON_7KrbcjRnIDBwLkaEMQ,1528
+wikirec-0.1.2.5.dist-info/METADATA,sha256=mlzYR8xBDKwdXiuPL3aHLZ0dSaFBHVxlwXC3XHIX1A4,19621
+wikirec-0.1.2.5.dist-info/WHEEL,sha256=OqRkF0eY5GHssMorFjlbTIq072vpHpF60fIQA6lS9xA,92
+wikirec-0.1.2.5.dist-info/top_level.txt,sha256=4ltFHpdwmGrF27uHfo9HHsmQNAFTwXrQvlSMZxBDItc,8
+wikirec-0.1.2.5.dist-info/RECORD,,
