@@ -1,0 +1,13 @@
+README.md
+anonfiles
+setup.py
+anonfiles/__init__.py
+anonfiles/anonfiles.py
+anonfiles/resp.py
+anonfiles_py.egg-info/PKG-INFO
+anonfiles_py.egg-info/SOURCES.txt
+anonfiles_py.egg-info/dependency_links.txt
+anonfiles_py.egg-info/entry_points.txt
+anonfiles_py.egg-info/requires.txt
+anonfiles_py.egg-info/top_level.txt
+test/test_wrapper.py
