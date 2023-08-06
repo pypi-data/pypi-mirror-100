@@ -1,0 +1,17 @@
+CONTRIBUTING.md
+LICENSE
+MANIFEST.in
+README.md
+settings.ini
+setup.py
+solitairenet/__init__.py
+solitairenet/_nbdev.py
+solitairenet/core.py
+solitairenet/game.py
+solitairenet.egg-info/PKG-INFO
+solitairenet.egg-info/SOURCES.txt
+solitairenet.egg-info/dependency_links.txt
+solitairenet.egg-info/entry_points.txt
+solitairenet.egg-info/not-zip-safe
+solitairenet.egg-info/requires.txt
+solitairenet.egg-info/top_level.txt
