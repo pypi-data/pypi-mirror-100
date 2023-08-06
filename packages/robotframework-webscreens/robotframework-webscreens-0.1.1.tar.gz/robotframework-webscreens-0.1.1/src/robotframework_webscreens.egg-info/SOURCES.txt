@@ -1,0 +1,10 @@
+README.md
+setup.py
+src/WebScreens/__init__.py
+src/WebScreens/version.py
+src/WebScreens/web.py
+src/robotframework_webscreens.egg-info/PKG-INFO
+src/robotframework_webscreens.egg-info/SOURCES.txt
+src/robotframework_webscreens.egg-info/dependency_links.txt
+src/robotframework_webscreens.egg-info/requires.txt
+src/robotframework_webscreens.egg-info/top_level.txt

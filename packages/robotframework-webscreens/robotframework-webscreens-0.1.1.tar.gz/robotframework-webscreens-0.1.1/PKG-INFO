@@ -1,0 +1,14 @@
+Metadata-Version: 1.1
+Name: robotframework-webscreens
+Version: 0.1.1
+Summary: Library to simulate different web screen resolutions using selenium library
+Home-page: https://github.com/adiralashiva8/robotframework-webscreens
+Author: Shiva Adirala
+Author-email: adiralashiva8@gmail.com
+License: MIT
+Description: Library to simulate different web screen resolutions using selenium library
+Keywords: robotframework testing automation selenium web screen resolution
+Platform: any
+Classifier: Operating System :: OS Independent
+Classifier: Programming Language :: Python
+Classifier: Topic :: Software Development :: Testing
