@@ -1,0 +1,28 @@
+Metadata-Version: 2.1
+Name: numerosprimosDavid
+Version: 0.1
+Summary: A tool to perform mathematical operations.
+Home-page: UNKNOWN
+Author: David Cadena
+Author-email: dc1020mw2@gmail.com
+License: GNU GPLv3
+Keywords: pyoperaciones numeros primos
+Platform: UNKNOWN
+Classifier: Development Status :: 4 - Beta
+Classifier: Intended Audience :: Developers
+Classifier: Topic :: Utilities
+Classifier: License :: OSI Approved :: GNU General Public License v3 (GPLv3)
+Classifier: Programming Language :: Python :: 3
+Classifier: Operating System :: OS Independent
+
+Actividad relacionada con la lecciÃ³n 4:
+Haciendo uso de la librerÃ­a rpy2, implemente una funciÃ³n en R para calcular los 
+nÃºmeros primos entre 1 y n, donde n es un parÃ¡metro de la funciÃ³n. 
+A continuaciÃ³n, haciendo uso de las herramientas de distribuciÃ³n de cÃ³digo 
+estudiadas en esta lecciÃ³n, empaquete el cÃ³digo realizado de modo que pueda 
+ser utilizado por otro usuario (por medio del gestor de paquetes pip)
+This program is free software: 
+you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, 
+either version 3 of the License, or (at your option) any later version
+
+
