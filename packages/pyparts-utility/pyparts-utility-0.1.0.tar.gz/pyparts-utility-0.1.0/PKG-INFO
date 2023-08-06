@@ -1,0 +1,11 @@
+Metadata-Version: 2.1
+Name: pyparts-utility
+Version: 0.1.0
+Summary: 
+Author: Andy Jackson
+Author-email: amjack100@gmail.com
+Requires-Python: >=3.8,<4.0
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Requires-Dist: click (>=7.1.2,<8.0.0)
