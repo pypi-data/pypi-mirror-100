@@ -1,0 +1,11 @@
+CHANGELOG.txt
+LICENSE.txt
+MANIFEST.in
+README.txt
+setup.py
+test.py
+stoacalculator/__init__.py
+stoacalculator.egg-info/PKG-INFO
+stoacalculator.egg-info/SOURCES.txt
+stoacalculator.egg-info/dependency_links.txt
+stoacalculator.egg-info/top_level.txt
