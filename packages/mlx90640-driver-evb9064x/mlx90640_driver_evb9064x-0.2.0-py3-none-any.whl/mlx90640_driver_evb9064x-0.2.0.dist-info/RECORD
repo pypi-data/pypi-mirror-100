@@ -1,0 +1,14 @@
+mlx90640_evb9064x/__init__.py,sha256=9TcI2P90o9bKXBPcnSV9CQSTUw7YXHA_IC3uhX90kLg,104
+mlx90640_evb9064x/cli.py,sha256=nU062hLyPCz99uku-x1SP75tI88ddVkgFNPXkpJBczg,125
+mlx90640_evb9064x/evb9064x.py,sha256=KGVPDBDvPyW7tUaKtnN6-wH-6slsUq7A7TIvNUZ-t_Y,2457
+mlx90640_evb9064x/libs/aarch64/libmlx90640_driver_evb9064x.so,sha256=zO4J7Bs0djcnfReXuR3Rs7DVZpGoxOjT5yanlnlaEXs,25370
+mlx90640_evb9064x/libs/armv7l/libmlx90640_driver_evb9064x.so,sha256=lHXulvSVcjA5hpd4JDR7ZhmiK4NMreEdMdUXuGs0AAQ,24261
+mlx90640_evb9064x/libs/windows/mlx90640_driver_evb9064x.dll,sha256=xbtp5lGbM98NOxhkMFDutFwvfdXRE83N-Sva5mzQ2pE,280415
+mlx90640_evb9064x/libs/x86_64/libmlx90640_driver_evb9064x.so,sha256=RsN3-mzFg7PzbI2fwSpodyqpkbP7hXqZGkEMUm_MpC0,32296
+mlx90640_driver_evb9064x-0.2.0.dist-info/LICENSE,sha256=JAOxCWgxUQCNKLFnAwOLPGfAJWFLTWDGX41z9EVmkTs,576
+mlx90640_driver_evb9064x-0.2.0.dist-info/METADATA,sha256=jnp9fQmhw7oowv2P6idzGHj3VM1uN83sV4z6MhBjZ6A,3352
+mlx90640_driver_evb9064x-0.2.0.dist-info/NOTICE,sha256=JeyWwImY4fwgVSCNNil_YgwE-65-Ad5eTl7mKlXvnMU,194
+mlx90640_driver_evb9064x-0.2.0.dist-info/WHEEL,sha256=OqRkF0eY5GHssMorFjlbTIq072vpHpF60fIQA6lS9xA,92
+mlx90640_driver_evb9064x-0.2.0.dist-info/entry_points.txt,sha256=ZJp6uy1Nx4icNMTrbUZaForyCjVX9cshcXScvW8ok-I,71
+mlx90640_driver_evb9064x-0.2.0.dist-info/top_level.txt,sha256=6HR7hfs-eKRPVxT892WmqzaZxwuqDxR12NM6vrx5mPQ,18
+mlx90640_driver_evb9064x-0.2.0.dist-info/RECORD,,
