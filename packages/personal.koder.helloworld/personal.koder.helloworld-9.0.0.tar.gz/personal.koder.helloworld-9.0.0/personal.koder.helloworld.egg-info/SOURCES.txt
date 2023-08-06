@@ -1,0 +1,10 @@
+README
+setup.cfg
+setup.py
+helloworld/__init__.py
+helloworld/server.py
+personal.koder.helloworld.egg-info/PKG-INFO
+personal.koder.helloworld.egg-info/SOURCES.txt
+personal.koder.helloworld.egg-info/dependency_links.txt
+personal.koder.helloworld.egg-info/requires.txt
+personal.koder.helloworld.egg-info/top_level.txt
