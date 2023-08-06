@@ -1,0 +1,6 @@
+numpy
+scipy
+cyvcf2
+zarr
+h5py
+fastphase
