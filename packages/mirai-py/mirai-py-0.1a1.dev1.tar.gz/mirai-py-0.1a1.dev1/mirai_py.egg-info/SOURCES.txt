@@ -1,0 +1,17 @@
+README.md
+setup.py
+mirai/__init__.py
+mirai/api.py
+mirai/application.py
+mirai/event.py
+mirai/httpapi.py
+mirai/sender.py
+mirai/session.py
+mirai/message/__init__.py
+mirai/message/chain.py
+mirai/message/element.py
+mirai/message/messages.py
+mirai_py.egg-info/PKG-INFO
+mirai_py.egg-info/SOURCES.txt
+mirai_py.egg-info/dependency_links.txt
+mirai_py.egg-info/top_level.txt
