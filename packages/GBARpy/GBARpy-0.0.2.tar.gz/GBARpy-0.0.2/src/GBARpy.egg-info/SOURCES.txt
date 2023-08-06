@@ -1,0 +1,9 @@
+README.md
+pyproject.toml
+setup.cfg
+src/GBARpy/MCPPicture.py
+src/GBARpy/__init__.py
+src/GBARpy.egg-info/PKG-INFO
+src/GBARpy.egg-info/SOURCES.txt
+src/GBARpy.egg-info/dependency_links.txt
+src/GBARpy.egg-info/top_level.txt
