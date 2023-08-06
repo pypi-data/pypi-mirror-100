@@ -1,0 +1,12 @@
+folium
+lxml
+matplotlib
+openpyxl
+pygeoogc
+pygeoutils
+pynhd
+
+[test]
+flaky
+pytest
+pytest-xdist
