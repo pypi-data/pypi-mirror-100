@@ -1,0 +1,7 @@
+{{ header | heading }}
+
+{% for docname in docnames %}
+{{ docname }}
+{% for i in range(docname|length) %}-{% endfor%}
+.. include:: {{ docname }}.rst
+{% endfor %}

@@ -1,0 +1,127 @@
+name: Run tests and linters
+ 
+on: [push, pull_request]
+
+env:
+  PYTHON_VERSION: 3.7.10
+
+jobs:
+  unittests:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v2
+
+      - name: Setup Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: ${{ env.PYTHON_VERSION }}
+
+      - name: Install dependencies
+        run: |
+          pip install pipenv==2020.11.4
+          pipenv sync --dev --python ${PYTHON_VERSION}
+
+      - name: Run unit tests
+        run: pipenv run tests
+
+  isort:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v2
+
+      - name: Setup Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: ${{ env.PYTHON_VERSION }}
+
+      - name: Install dependencies
+        run: |
+          pip install pipenv==2020.11.4
+          pipenv sync --dev --python ${PYTHON_VERSION}
+
+      - name: Run isort
+        run: pipenv run isort
+
+  black:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v2
+
+      - name: Setup Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: ${{ env.PYTHON_VERSION }}
+
+      - name: Install dependencies
+        run: |
+          pip install pipenv==2020.11.4
+          pipenv sync --dev --python ${PYTHON_VERSION}
+
+      - name: Run black 
+        run: pipenv run black
+
+  flake8:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v2
+
+      - name: Setup Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: ${{ env.PYTHON_VERSION }}
+
+      - name: Install dependencies
+        run: |
+          pip install pipenv==2020.11.4
+          pipenv sync --dev --python ${PYTHON_VERSION}
+
+      - name: Run flake8 
+        run: pipenv run flake8
+
+  markdownlint:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v2
+
+      - name: Setup Ruby 2.7.2
+        uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: 2.7.2
+
+      - name: Install dependencies
+        run: gem install mdl -v 0.11.0 # if version changed, change also on .pre-commit-config.yaml and bitbucket-pipelines.yml!
+
+      - name: Run markdownlint
+        run: mdl --style '.mdl-style.rb' .
+
+  codespell:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v2
+
+      - name: Setup Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: ${{ env.PYTHON_VERSION }}
+
+      - name: Install dependencies
+        run: |
+          pip install pipenv==2020.11.4
+          pipenv sync --dev --python ${PYTHON_VERSION}
+
+      - name: Run codespell
+        run: pipenv run codespell
+
+
