@@ -1,0 +1,5 @@
+numpy
+xbin
+getpy
+pynerf
+h5py

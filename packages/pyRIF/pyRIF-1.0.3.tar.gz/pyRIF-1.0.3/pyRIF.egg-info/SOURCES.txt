@@ -1,0 +1,10 @@
+README.md
+setup.py
+pyRIF/__init__.py
+pyRIF/pyRIF.py
+pyRIF.egg-info/PKG-INFO
+pyRIF.egg-info/SOURCES.txt
+pyRIF.egg-info/dependency_links.txt
+pyRIF.egg-info/not-zip-safe
+pyRIF.egg-info/requires.txt
+pyRIF.egg-info/top_level.txt
