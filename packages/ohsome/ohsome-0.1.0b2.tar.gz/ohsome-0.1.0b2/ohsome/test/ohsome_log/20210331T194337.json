@@ -1,0 +1,11 @@
+{
+    "timestamp": "20210331T194337",
+    "status": null,
+    "message": "Connection Error: Query could not be sent. Make sure there are no network problems and that the ohsome API URL http://localhost:9999/elements/count is valid.",
+    "requestUrl": "http://localhost:9999/elements/count",
+    "parameters": {
+        "bboxes": "8.67066,49.41423,8.68177,49.4204",
+        "time": "2010-01-01/2011-01-01/P1Y",
+        "filter": "building=* and type:way"
+    }
+}

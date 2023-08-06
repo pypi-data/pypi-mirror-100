@@ -1,0 +1,11 @@
+{
+    "timestamp": "20210331T193629",
+    "status": 440,
+    "message": "Keyboard Interrupt: Query was interrupted by the user.",
+    "requestUrl": "http://localhost:9999/elements/count",
+    "parameters": {
+        "bboxes": "8.67066,49.41423,8.68177,49.4204",
+        "time": "2010-01-01/2011-01-01/P1Y",
+        "filter": "building=* and type:way"
+    }
+}
