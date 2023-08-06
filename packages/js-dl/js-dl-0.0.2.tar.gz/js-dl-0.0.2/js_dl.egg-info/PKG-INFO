@@ -1,0 +1,44 @@
+Metadata-Version: 2.1
+Name: js-dl
+Version: 0.0.2
+Summary: Download javascript libraries  from https://cdnjs.com
+Home-page: https://github.com/rand-net/js-dl
+Author: rand-net
+License: MIT
+Description: # js-dl
+        * A trivial python script to download javascript libraries from https://cdnjs.com.
+        
+        ![PyPI](https://img.shields.io/pypi/v/khan-dl?style=flat-square)
+        
+        # Usage
+        ```
+        $ js-dl
+        
+            _                  _  _
+           (_) ___          __| || |
+           | |/ __| _____  / _` || |
+           | |\__ \|_____|| (_| || |
+         _/ ||___/        \__,_||_|
+        |__/
+        
+        
+        
+        Downloading libraries list....
+        
+        Library: d3
+        d3
+        
+        Version: 6.6.1
+        6.6.1
+        
+        File: d3.min.js
+        https://cdnjs.cloudflare.com/ajax/libs/d3/6.6.1/d3.min.js
+        
+        ```
+        
+Keywords: cdnjs,javascript,javascript libraries
+Platform: UNKNOWN
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.7
+Description-Content-Type: text/markdown
