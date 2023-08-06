@@ -1,0 +1,15 @@
+Metadata-Version: 2.1
+Name: the-conf
+Version: 0.0.16
+Summary: Config build from multiple sources
+License: GPLv3
+Author: François Schmidts
+Author-email: francois@schmidts.fr
+Requires-Python: >=3.6,<4.0
+Classifier: License :: Other/Proprietary License
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Requires-Dist: pyyaml (>=5.3,<6.0)
