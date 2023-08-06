@@ -1,0 +1,8 @@
+
+[cairo]
+cairosvg
+
+[math]
+ziamath
+ziafont
+latex2mathml
