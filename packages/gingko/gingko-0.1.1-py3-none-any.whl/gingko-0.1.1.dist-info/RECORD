@@ -1,0 +1,9 @@
+gingko/__init__.py,sha256=ez8G9nNcRspQgknLuf-cmr6VDRAf_UqmaSafr0EF7EI,25
+gingko/core.py,sha256=r0s99IokRCbJzmNSQ71L15cQcqUtNFnd9WxMVotE_yo,4052
+gingko/dataframes.py,sha256=dVXhR5Ef8_pKDtanbk3e6ag5FM6dv4kPYcN1qd0fidk,2797
+gingko/utils.py,sha256=UDFVscO9-BkxmzMTTjyKvzLNwNTpbuMrogBJhkFciQk,1275
+gingko/wikiscraper.py,sha256=Vp0X_SFmkDXHapDz-_panWa_I2Fr9r4kMl5zK548MlQ,3887
+gingko-0.1.1.dist-info/METADATA,sha256=_Ca14iDBmrmrHvxka3CGBMiA9M8oRVMUyQF7CSPomwA,299
+gingko-0.1.1.dist-info/WHEEL,sha256=OqRkF0eY5GHssMorFjlbTIq072vpHpF60fIQA6lS9xA,92
+gingko-0.1.1.dist-info/top_level.txt,sha256=C2rq9luxeBYicc90MLvgizQJLnOdTh4f7cL-jm4x_Ig,7
+gingko-0.1.1.dist-info/RECORD,,
