@@ -1,0 +1,3 @@
+twitcasting-py
+websocket-client
+cursor
