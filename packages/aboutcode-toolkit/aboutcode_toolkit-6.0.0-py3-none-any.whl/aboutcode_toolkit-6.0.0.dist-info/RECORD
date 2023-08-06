@@ -1,0 +1,17 @@
+aboutcode_toolkit-6.0.0.dist-info/LICENSE.txt,sha256=k2LZEQXZUN7nFtgwVTA9dnLbeuvnJTbfvvUSVldrcuY,600
+aboutcode_toolkit-6.0.0.dist-info/METADATA,sha256=dxeFzkTk6k1ECuYOwb1-0xhQiZm1k-mxAD3fnYLsLf4,1690
+aboutcode_toolkit-6.0.0.dist-info/RECORD,,
+aboutcode_toolkit-6.0.0.dist-info/WHEEL,sha256=NzFAKnL7g-U64xnS1s5e3mJnxKpOTeOtlXdFwS9yNXI,92
+aboutcode_toolkit-6.0.0.dist-info/entry_points.txt,sha256=5R-31eRQoetd1QlaJ6EtE4eLUCANF1Qw1hBeN8uLFWk,51
+aboutcode_toolkit-6.0.0.dist-info/top_level.txt,sha256=AZqc0bTnzp-gGSKh0dHQ6HyO7yAidVQFShB88ntF_yA,14
+attributecode/__init__.py,sha256=th_78MEealM89Eos9UhxyZ5yYgP7GEAwzlFBjVz95ok,3529
+attributecode/__main__.py,sha256=vQg4laOfHZB8a66tnRd2sjgwnTDPPN7dF3oYJJErFQg,921
+attributecode/api.py,sha256=ZCqpJrS-X24ERGN8KzEJ2CowFU_6iXqpXXUFycYZvnA,3714
+attributecode/attrib.py,sha256=BWlf-p519md9ELlMfwN8DXUX65y5iQPmbK18eCdseug,11053
+attributecode/attrib_util.py,sha256=xUdkpcOX3_oO7oC8dpO1q9jrBFhJt1Ih62Li_KORD7A,4179
+attributecode/cmd.py,sha256=hbXlWT-7B5IFJ8WHTXrrgKRpMQFc5rHIhnmQKKkBMxg,22194
+attributecode/gen.py,sha256=BoK_biB_fJEw5bzOI8H5qWQNC9J4FLNzMCWFQp5269o,13743
+attributecode/licenses.py,sha256=jSDAc9VlMhMwS_ciwdkvBFNFUMRPO2uxojT6SVctCKA,2050
+attributecode/model.py,sha256=Y80oP_JdTi03MzOQirD6p5nonWJ0bd933ih8A6PX4tQ,61597
+attributecode/transform.py,sha256=IR7kbPVNx671NvuE4PXF62yEjPEFj5eC_Rt5IezdcdU,13222
+attributecode/util.py,sha256=BM56PynDZKqztBNQg7tcujw0tUMDInHA6rkfgUxOJUs,20907
