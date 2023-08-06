@@ -1,0 +1,25 @@
+Metadata-Version: 2.1
+Name: perfting.setuptools
+Version: 1.1
+Summary: better setuptools with type hinting support
+Home-page: https://github.com/perfting/setuptools
+License: MIT
+Platform: UNKNOWN
+Classifier: Development Status :: 4 - Beta
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Programming Language :: Python :: 3.10
+Classifier: Topic :: Software Development :: Build Tools
+Classifier: Framework :: Setuptools Plugin
+Description-Content-Type: text/markdown
+
+# PERFTING.SETUPTOOLS
+Better setuptools with type hinting support
+
+Installation
+------------
+```bash
+$ pip3 install perfting.setuptools
+```
+
