@@ -1,0 +1,11 @@
+MANIFEST.in
+requirements.txt
+setup.py
+image_uploader/__init__.py
+image_uploader/helpers.py
+rl_image_uploader.egg-info/PKG-INFO
+rl_image_uploader.egg-info/SOURCES.txt
+rl_image_uploader.egg-info/dependency_links.txt
+rl_image_uploader.egg-info/entry_points.txt
+rl_image_uploader.egg-info/requires.txt
+rl_image_uploader.egg-info/top_level.txt
