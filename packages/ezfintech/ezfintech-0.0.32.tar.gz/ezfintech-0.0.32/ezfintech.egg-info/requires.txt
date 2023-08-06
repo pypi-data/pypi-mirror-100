@@ -1,0 +1,7 @@
+numpy
+pandas
+matplotlib
+requests
+mplfinance
+pandas_datareader
+tensorflow
