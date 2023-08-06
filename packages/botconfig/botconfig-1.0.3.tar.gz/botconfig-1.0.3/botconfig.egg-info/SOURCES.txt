@@ -1,0 +1,9 @@
+README.md
+setup.py
+botconfig/__init__.py
+botconfig/client.py
+botconfig.egg-info/PKG-INFO
+botconfig.egg-info/SOURCES.txt
+botconfig.egg-info/dependency_links.txt
+botconfig.egg-info/requires.txt
+botconfig.egg-info/top_level.txt
