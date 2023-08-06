@@ -1,0 +1,17 @@
+LICENSE
+MANIFEST.in
+README.md
+setup.py
+dis_cover/__init__.py
+dis_cover/__main__.py
+dis_cover/__version__.py
+dis_cover/analysis.py
+dis_cover/cli.py
+dis_cover/compilation.py
+dis_cover/scenarios.py
+dis_cover.egg-info/PKG-INFO
+dis_cover.egg-info/SOURCES.txt
+dis_cover.egg-info/dependency_links.txt
+dis_cover.egg-info/entry_points.txt
+dis_cover.egg-info/requires.txt
+dis_cover.egg-info/top_level.txt
