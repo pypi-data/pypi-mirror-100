@@ -1,0 +1,9 @@
+README.rst
+setup.py
+sdypy/__init__.py
+sdypy/__main__.py
+sdypy.egg-info/PKG-INFO
+sdypy.egg-info/SOURCES.txt
+sdypy.egg-info/dependency_links.txt
+sdypy.egg-info/requires.txt
+sdypy.egg-info/top_level.txt
