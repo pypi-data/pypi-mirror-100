@@ -1,0 +1,15 @@
+name: geocat_f2py_build
+channels:
+  - conda-forge
+  - ncar
+dependencies:
+  - python
+  - numpy=1.19
+  - xarray
+  - dask
+  - pytest  # for tests
+  - pytest-cov  # for tests
+  - gfortran_osx-64
+  - liblapack
+  - pip:
+      - pre-commit
