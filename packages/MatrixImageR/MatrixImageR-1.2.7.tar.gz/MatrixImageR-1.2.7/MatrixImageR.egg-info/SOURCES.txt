@@ -1,0 +1,11 @@
+LICENSE
+MANIFEST.in
+README.md
+setup.py
+MatrixImageR/__init__.py
+MatrixImageR/__version__.py
+MatrixImageR/core.py
+MatrixImageR.egg-info/PKG-INFO
+MatrixImageR.egg-info/SOURCES.txt
+MatrixImageR.egg-info/dependency_links.txt
+MatrixImageR.egg-info/top_level.txt
