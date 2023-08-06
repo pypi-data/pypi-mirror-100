@@ -1,0 +1,4 @@
+[console_scripts]
+jenkins_exporter = jenkins_jobs.exporter:main
+jenkins_jobs = jenkins_jobs.reporter:main
+
