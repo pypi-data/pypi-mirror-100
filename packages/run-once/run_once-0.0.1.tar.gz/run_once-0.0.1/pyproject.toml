@@ -1,0 +1,19 @@
+[tool.poetry]
+name = "run_once"
+version = "0.0.1"
+description = ""
+authors = ["Daeyun Shin <daeyuns@uci.edu>"]
+license = "MIT"
+exclude = ["**"]
+
+[tool.poetry.dependencies]
+python = "^3.6"
+grpcio = "^1.36.1"
+joblib = "^1.0.1"
+
+[tool.poetry.dev-dependencies]
+pytest = "^6.2.2"
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
