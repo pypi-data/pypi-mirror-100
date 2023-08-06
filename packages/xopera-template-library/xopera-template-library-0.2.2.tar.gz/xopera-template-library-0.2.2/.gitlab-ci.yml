@@ -1,0 +1,46 @@
+variables:
+  PYTHON_STRETCH_IMAGE: $CI_REGISTRY/radon/template-library-service:python-3.7.3-stretch
+
+stages:
+  - test-deploy
+  - deploy
+
+pypi-test-upload:
+  stage: test-deploy
+  image: $PYTHON_STRETCH_IMAGE
+  variables:
+    TWINE_USERNAME: $STAGING_USERNAME
+    TWINE_PASSWORD: $STAGING_PASSWORD
+  script:
+    - apt-get update
+    - pip install --upgrade pip twine
+    - pip install setuptools wheel
+    - python3 setup.py sdist bdist_wheel
+    - python3 -m twine upload --repository testpypi --skip-existing dist/*
+  artifacts:
+    name: pypi-test-dist
+    paths:
+      - dist/
+    expire_in: 1 week
+  only:
+    - /^master$/
+
+pypi-upload:
+  stage: deploy
+  image: $PYTHON_STRETCH_IMAGE
+  variables:
+    TWINE_USERNAME: $PRODUCTION_USERNAME
+    TWINE_PASSWORD: $PRODUCTION_PASSWORD
+  script:
+    - apt-get update
+    - pip install --upgrade pip twine
+    - pip install setuptools wheel
+    - python3 setup.py sdist bdist_wheel
+    - python3 -m twine upload dist/*
+  artifacts:
+    name: pypi-dist
+    paths:
+      - dist/
+    expire_in: 1 week
+  only:
+    - tags

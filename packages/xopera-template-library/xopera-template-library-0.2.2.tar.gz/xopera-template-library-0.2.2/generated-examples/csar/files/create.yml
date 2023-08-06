@@ -1,0 +1,7 @@
+- hosts: localhost
+  tasks:
+  - name: Create test example
+    register: test_var
+    test_module:
+      name: TestName
+      state: present

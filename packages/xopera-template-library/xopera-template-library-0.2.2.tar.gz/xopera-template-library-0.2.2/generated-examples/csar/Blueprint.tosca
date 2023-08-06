@@ -1,0 +1,15 @@
+tosca_definitions_version: tosca_simple_yaml_1_3
+node_types:
+  my.nodes.csar:
+    attributes:
+      test_attribute:
+        type: string
+    interfaces:
+      Standard:
+        operations:
+          create: files/create.yml
+          delete: files/delete.yml
+    properties:
+      test_property:
+        description: The name of the property
+        type: string
