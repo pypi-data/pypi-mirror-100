@@ -1,0 +1,85 @@
+; bicycle AF
+
+CT ; continue
+ST ; stop
+
+; lidar
+LD
+LD-M
+NLD
+NLD-NM
+
+; camera left
+CL
+CL-L
+CL-M
+NCL
+NCL-NL
+NCL-NM
+
+; camera right
+CR
+CR-R
+CR-M
+NCR
+NCR-NR
+NCR-NM
+
+# ; attacks
+
+CT ST
+
+LD NLD
+LD NLD-NM
+
+NLD LD
+NLD LD-M
+
+LD-M NLD-NM
+LD-M NCL-NM
+LD-M NCR-NM
+LD-M CT
+
+NLD-NM LD-M
+NLD-NM CL-M
+NLD-NM CR-M
+
+CL NCL
+CL NCL-NL
+CL NCL-NM
+
+NCL CL
+NCL CL-L
+NCL CL-M
+
+CL-M NLD-NM
+CL-M NCL-NM
+CL-M NCR-NM
+CL-M CT
+
+NCL-NM LD-M
+NCL-NM CL-M
+NCL-NM CR-M
+
+CL-L NCL-NL
+NCL-NL CL-L
+
+CR NCR
+CR NCR-NR
+CR NCR-NM
+
+NCR CR
+NCR CR-R
+NCR CR-M
+
+CR-M NLD-NM
+CR-M NCL-NM
+CR-M NCR-NM
+CR-M CT
+
+NCR-NM LD-M
+NCR-NM CL-M
+NCR-NM CR-M
+
+CR-R NCR-NR
+NCR-NR CR-R
