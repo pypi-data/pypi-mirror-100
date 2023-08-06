@@ -1,0 +1,9 @@
+chapar/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+chapar/__main__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+chapar/message_broker.py,sha256=CirVFFSedWChplUjbnYqKhFRo1dH87Gbr_3OFTKYIqU,2348
+chapar/schema_repo.py,sha256=QM38kmhGj7tmxzRz7ibIWlrdpqrQj9xgQtzM-qyqhr4,459
+chapar-0.4.5.dist-info/METADATA,sha256=nQySXvA2luj-R14b2JzdwIOBTHsvtll64-_0TkvsLSk,482
+chapar-0.4.5.dist-info/WHEEL,sha256=OqRkF0eY5GHssMorFjlbTIq072vpHpF60fIQA6lS9xA,92
+chapar-0.4.5.dist-info/entry_points.txt,sha256=-Snvy0Db-EIVsR06Wf0ObG6yCjakTgGhxAVMCSazNAk,49
+chapar-0.4.5.dist-info/top_level.txt,sha256=iBvhUFHsaZ9w4oGJEyk8pABfapbBuwl279fuHVCLSPk,7
+chapar-0.4.5.dist-info/RECORD,,
