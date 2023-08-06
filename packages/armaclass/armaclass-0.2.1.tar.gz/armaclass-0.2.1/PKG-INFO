@@ -1,0 +1,21 @@
+Metadata-Version: 1.1
+Name: armaclass
+Version: 0.2.1
+Summary: Python parser and generator for Arma class definitions (e.g. sqm files)
+Home-page: https://github.com/overfl0/Armaclass
+Author: Lukasz Taczuk
+Author-email: UNKNOWN
+License: MIT
+Description: UNKNOWN
+Keywords: arma pbo sqm class parser generator
+Platform: UNKNOWN
+Classifier: Development Status :: 4 - Beta
+Classifier: Intended Audience :: Developers
+Classifier: Topic :: Software Development :: Build Tools
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.5
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Classifier: License :: OSI Approved :: MIT License
