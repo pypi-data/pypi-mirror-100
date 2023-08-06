@@ -1,0 +1,1 @@
+recursive-include pyworks_generator/model/template/ *.jinja2
