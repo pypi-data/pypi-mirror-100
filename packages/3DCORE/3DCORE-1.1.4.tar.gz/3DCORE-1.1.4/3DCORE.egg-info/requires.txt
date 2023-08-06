@@ -1,0 +1,5 @@
+heliosat
+numba
+numpy
+scipy
+spiceypy
