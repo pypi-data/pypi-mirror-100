@@ -1,0 +1,8 @@
+setup.py
+django_restful_response/__init__.py
+django_restful_response/setup.py
+django_restful_response.egg-info/PKG-INFO
+django_restful_response.egg-info/SOURCES.txt
+django_restful_response.egg-info/dependency_links.txt
+django_restful_response.egg-info/requires.txt
+django_restful_response.egg-info/top_level.txt

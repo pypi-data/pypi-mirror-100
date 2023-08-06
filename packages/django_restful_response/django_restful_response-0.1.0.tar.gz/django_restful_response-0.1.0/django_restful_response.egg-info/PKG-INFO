@@ -1,0 +1,14 @@
+Metadata-Version: 2.1
+Name: django-restful-response
+Version: 0.1.0
+Summary: django rest_framework 框架返回的Respone的异常不符合规范、增加error和message的描述
+Home-page: https://www.cnblogs.com/Evan-fanfan/
+Author: evanyang
+Author-email: lightyiyi@qq.com
+License: MIT tencent_message
+Description: 
+        0.1.0根据django rest framework的框架的status，优化异常时返回的结构
+        
+        
+Platform: UNKNOWN
+Description-Content-Type: text/markdown
