@@ -1,0 +1,2 @@
+dbt-core==0.18.2
+clickhouse-driver>=0.1.4
