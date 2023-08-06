@@ -1,0 +1,9 @@
+gsql_client/__init__.py,sha256=fk88RjGSwYX4jTpAvukeHJqbCZ032wOH0KGVmRBixuA,229
+gsql_client/common.py,sha256=cGA6b5Z6PVsYGLJxb83l_zrjPtae97aJk430UkW85pU,1125
+gsql_client/gsql.py,sha256=_THXiQZJUSlJqsc3FGqIuOIw4j0PTE-b739WzVsxDas,31457
+gsql_client/restpp.py,sha256=-Ae6HR8Sx7GmhHSVJv527a1NT3Eax0jo0PVd6ed2HxE,10278
+gsql_client-0.1.6.dist-info/LICENSE,sha256=uJZMQH8N60OHJEiVPA7XyNlFixqgiYTOEU9rNy6IN_I,1064
+gsql_client-0.1.6.dist-info/METADATA,sha256=K6aH5E9aBvkktcQ2wGAs8jodO-7kUr5qiVjrj2SVI28,3746
+gsql_client-0.1.6.dist-info/WHEEL,sha256=pqI-DBMA-Z6OTNov1nVxs7mwm6Yj2kHZGNp_6krVn1E,92
+gsql_client-0.1.6.dist-info/top_level.txt,sha256=GInaLV_9x6v0ytBO8p5HRhH8UBKw_UhKsQji0I8Gd8Y,12
+gsql_client-0.1.6.dist-info/RECORD,,
