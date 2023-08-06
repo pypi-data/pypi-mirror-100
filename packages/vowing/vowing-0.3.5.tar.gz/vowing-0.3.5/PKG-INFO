@@ -1,0 +1,23 @@
+Metadata-Version: 1.1
+Name: vowing
+Version: 0.3.5
+Summary: 'Vowing' is an alternative to Python's built in async/await system that has been inspired by Javascript's Promise.
+Home-page: https://github.com/RealCreepi/vowing
+Author: Creepi
+Author-email: UNKNOWN
+License: MIT
+Description: UNKNOWN
+Keywords: async,threading,vowing,promise,javascript
+Platform: UNKNOWN
+Classifier: Development Status :: 4 - Beta
+Classifier: Intended Audience :: Developers
+Classifier: Topic :: Software Development
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.4
+Classifier: Programming Language :: Python :: 3.5
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Programming Language :: Python :: 3.10
