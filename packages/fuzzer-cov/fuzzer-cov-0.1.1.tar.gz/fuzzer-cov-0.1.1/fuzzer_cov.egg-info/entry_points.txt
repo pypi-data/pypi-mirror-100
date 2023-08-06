@@ -1,0 +1,3 @@
+[console_scripts]
+fcov = fuzzer_cov.commands:fuzzer_cov_main
+
