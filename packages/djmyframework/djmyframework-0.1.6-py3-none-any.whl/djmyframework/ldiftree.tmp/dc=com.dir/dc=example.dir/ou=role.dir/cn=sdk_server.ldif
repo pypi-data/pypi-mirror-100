@@ -1,0 +1,11 @@
+dn: cn=sdk_server,ou=role,dc=example,dc=com
+cn: sdk_server
+gidNumber: 16
+parent: sdk
+alias: 服务端组
+description: 
+objectclass: posixGroup
+objectclass: top
+
+
+

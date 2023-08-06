@@ -1,0 +1,11 @@
+dn: cn=sdk_client,ou=role,dc=example,dc=com
+cn: sdk_client
+gidNumber: 17
+parent: sdk
+alias: 客户端组
+description: 
+objectclass: posixGroup
+objectclass: top
+
+
+

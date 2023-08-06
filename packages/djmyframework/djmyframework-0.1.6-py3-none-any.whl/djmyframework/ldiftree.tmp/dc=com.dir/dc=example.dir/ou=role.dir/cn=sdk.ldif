@@ -1,0 +1,11 @@
+dn: cn=sdk,ou=role,dc=example,dc=com
+cn: sdk
+gidNumber: 2
+parent: tech
+alias: sdk组
+description: 
+objectclass: posixGroup
+objectclass: top
+memberUid: d2323
+
+

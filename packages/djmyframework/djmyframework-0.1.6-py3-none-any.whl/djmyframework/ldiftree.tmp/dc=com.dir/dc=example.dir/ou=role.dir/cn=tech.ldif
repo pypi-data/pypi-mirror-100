@@ -1,0 +1,11 @@
+dn: cn=tech,ou=role,dc=example,dc=com
+cn: tech
+gidNumber: 15
+parent: 
+alias: 公共技术组
+description: 
+objectclass: posixGroup
+objectclass: top
+
+
+
