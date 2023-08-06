@@ -1,0 +1,11 @@
+ntnx_api/__init__.py,sha256=ZygAIkX6Nbjag1czWdQa-yP-GM1mBE_9ss21Xh__JFc,34
+ntnx_api/_version.py,sha256=EDA-726QSU3uCkFhWAB_NA-OKNmRxQT0axWh1qdl45w,268
+ntnx_api/client.py,sha256=cl6HtSelMQrLbBZOYihrXtqgKK0WzC8jA1ONLSQza1U,26833
+ntnx_api/prism.py,sha256=euqgzIMF4cwSaiOisNawnpvzMpZlZ1jNeF_yObb2kIA,142566
+ntnx_api/test/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+ntnx_api/test/test_client.py,sha256=0HSZgiv6w45AQ_hpdBuGuoF4mIfLrW_pUzrQF5DQE0o,488
+ntnx_api-1.1.17.dist-info/LICENSE.txt,sha256=FRQTC7FdtwdofomEU1ibsYKombPZn3zANO4kB091lc8,1325
+ntnx_api-1.1.17.dist-info/METADATA,sha256=BCx9Y33pXXaNkMyIslm5j2FlRxt8W4a7c96LxZxmeDQ,2482
+ntnx_api-1.1.17.dist-info/WHEEL,sha256=OqRkF0eY5GHssMorFjlbTIq072vpHpF60fIQA6lS9xA,92
+ntnx_api-1.1.17.dist-info/top_level.txt,sha256=K_Oxt8psFTZNqRjdzTHyhaduwMC5PY6ekseaFfkj_H0,9
+ntnx_api-1.1.17.dist-info/RECORD,,
