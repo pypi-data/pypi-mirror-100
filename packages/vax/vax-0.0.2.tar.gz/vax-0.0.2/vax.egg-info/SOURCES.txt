@@ -1,0 +1,10 @@
+README.md
+setup.cfg
+setup.py
+vax/__init__.py
+vax.egg-info/PKG-INFO
+vax.egg-info/SOURCES.txt
+vax.egg-info/dependency_links.txt
+vax.egg-info/not-zip-safe
+vax.egg-info/requires.txt
+vax.egg-info/top_level.txt
