@@ -1,0 +1,14 @@
+Metadata-Version: 2.1
+Name: scrapertools
+Version: 1.2.2
+Summary: scraping for humans
+Home-page: https://github.com/ultrafunkamsterdam/scrapertools
+Author: ultrafunkamsterdam
+Author-email: info@ultrafunk.nl
+License: GPL3.0 License
+Description: UNKNOWN
+Platform: UNKNOWN
+Classifier: License :: OSI Approved :: GNU General Public License v3 (GPLv3)
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.7
+Provides-Extra: video
