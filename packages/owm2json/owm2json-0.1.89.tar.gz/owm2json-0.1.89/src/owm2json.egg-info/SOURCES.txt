@@ -1,0 +1,10 @@
+README.md
+pyproject.toml
+setup.cfg
+src/owm2json/__init__.py
+src/owm2json/owm2json.py
+src/owm2json/version.py
+src/owm2json.egg-info/PKG-INFO
+src/owm2json.egg-info/SOURCES.txt
+src/owm2json.egg-info/dependency_links.txt
+src/owm2json.egg-info/top_level.txt
