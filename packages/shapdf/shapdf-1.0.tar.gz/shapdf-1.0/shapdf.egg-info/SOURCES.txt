@@ -1,0 +1,8 @@
+README.md
+setup.py
+pdftotxt/__init__.py
+pdftotxt/convert.py
+shapdf.egg-info/PKG-INFO
+shapdf.egg-info/SOURCES.txt
+shapdf.egg-info/dependency_links.txt
+shapdf.egg-info/top_level.txt
