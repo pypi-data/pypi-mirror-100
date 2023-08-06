@@ -1,0 +1,76 @@
+Metadata-Version: 2.1
+Name: yt-auto-search-python
+Version: 1.0.0
+Summary: A python library to search keyword on youtube and get search results automatically.
+Home-page: https://youtube-api.datakund.com/en/latest/
+Author: DataKund
+Author-email: datakund@gmail.com
+License: Apache License 2.0
+Description: Yt-Auto-Search-Python is a python library to search keyword automatically on youtube and get search results using browser automation. 
+        It currently runs only on windows.
+        
+        ### Example
+        In this example, we are searching a keyword and then getting search results. 
+        ```sh
+        from yt_auto_search_python import *
+        youtube.search(keyword='cbse exams')
+        response=youtube.search_results()
+        data=response['body']
+        #data=[{"viewsandtime": "220K views 2 months ago", "channel": "the quint", "title": "CBSE Exams 2021: When Will Board Exams Happen?", "link": "https://www.youtube.com/watch?v=KSg1RleLs3M"},{},...]
+        ```
+        
+        
+        This module depends on the following python modules
+        * [requests](https://pypi.org/project/requests/)
+        * [btstudio](https://pypi.org/project/btstudio/)
+        
+        #### BotStudio
+        [btstudio](https://pypi.org/project/btstudio/) is needed for browser automation. As soon as this library is imported in code, automated browser will open up. Then you can search on browser using simple functions and get search results.
+        
+        Complete documentation for YouTube Automation available [here](https://youtube-api.datakund.com/en/latest/)
+        
+        ### Installation
+        
+        ```sh
+        pip install yt-auto-search-python
+        ```
+        
+        ### Import
+        ```sh
+        from yt_auto_search_python import *
+        ```
+        
+        ### Login with credentials
+        ```sh
+        youtube.login(username="youtube username",password="youtube password")
+        ```
+        
+        ### Login with cookies
+        ```sh
+        youtube.login_cookie(cookies=list_of_cookies)
+        ```
+        
+        ### Search
+        ```sh
+        youtube.search(keyword='search keyword')
+        ```
+        
+        ### Search Results
+        ```sh
+        response=youtube.search_results()
+        data=response['body']
+        ```
+        
+        ### Send Feedback to Developers
+        ```sh
+        btstudio.send_feedback(feedback="Need help with this ......")
+        ```
+        
+        ### Contact Us
+        * [Telegram](https://t.me/datakund)
+        * [Website](https://datakund.com)
+        
+        
+Keywords: youtube python btstudio automation search search-results web-scraping data
+Platform: UNKNOWN
+Description-Content-Type: text/markdown
