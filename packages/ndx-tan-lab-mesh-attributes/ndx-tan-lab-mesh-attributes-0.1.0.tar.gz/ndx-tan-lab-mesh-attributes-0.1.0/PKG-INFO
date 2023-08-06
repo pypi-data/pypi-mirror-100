@@ -1,0 +1,23 @@
+Metadata-Version: 2.1
+Name: ndx-tan-lab-mesh-attributes
+Version: 0.1.0
+Summary: Extension for storing attributes of 3D meshes
+Home-page: UNKNOWN
+Author: Marike Reimer
+Author-email: marike.reimer@yale.edu
+License: BSD 3-Clause
+Description: # ndx-tan-lab-mesh-attributes Extension for NWB
+        
+        ## Installation
+        
+        
+        ## Usage
+        
+        
+        
+        This extension was created using [ndx-template](https://github.com/nwb-extensions/ndx-template).
+        
+Platform: UNKNOWN
+Classifier: Intended Audience :: Developers
+Classifier: Intended Audience :: Science/Research
+Description-Content-Type: text/markdown; charset=UTF-8

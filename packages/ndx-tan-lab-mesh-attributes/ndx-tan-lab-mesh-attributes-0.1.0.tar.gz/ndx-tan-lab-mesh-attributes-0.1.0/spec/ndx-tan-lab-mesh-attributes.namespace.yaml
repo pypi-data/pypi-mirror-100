@@ -1,0 +1,24 @@
+namespaces:
+- author:
+  - Marike Reimer
+  contact:
+  - marike.reimer@yale.edu
+  doc: Extension for storing attributes of 3D meshes
+  name: ndx-tan-lab-mesh-attributes
+  schema:
+  - namespace: core
+    neurodata_types:
+    - TimeSeries
+    - NWBDataInterface
+    - NWBContainer
+    - TwoPhotonSeries
+    - PlaneSegmentation
+  - namespace: hdmf-common
+    neurodata_types:
+    - DynamicTableRegion
+    - VectorData
+    - Data
+    - VectorIndex
+    - ElementIdentifiers
+  - source: ndx-tan-lab-mesh-attributes.extensions.yaml
+  version: 0.1.0
