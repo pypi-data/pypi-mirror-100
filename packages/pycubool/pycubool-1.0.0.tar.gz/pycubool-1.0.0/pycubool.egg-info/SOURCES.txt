@@ -1,0 +1,16 @@
+LICENSE
+MANIFEST.in
+README.md
+setup.py
+./pycubool/__init__.py
+./pycubool/__main__.py
+./pycubool/bridge.py
+./pycubool/gviz.py
+./pycubool/io.py
+./pycubool/matrix.py
+./pycubool/utils.py
+./pycubool/wrapper.py
+pycubool.egg-info/PKG-INFO
+pycubool.egg-info/SOURCES.txt
+pycubool.egg-info/dependency_links.txt
+pycubool.egg-info/top_level.txt
