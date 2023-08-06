@@ -1,0 +1,52 @@
+Metadata-Version: 2.1
+Name: django-polymorphic-foreignkey
+Version: 2.0.0
+Summary: A polymorphic ForeignKey field that acts like a generic ForeignKey
+Home-page: https://github.com/theatlantic/django-polymorphic-foreignkey
+Author: Frankie Dintino
+Author-email: fdintino@theatlantic.com
+Maintainer: The Atlantic
+Maintainer-email: programmers@theatlantic.com
+License: BSD
+Platform: UNKNOWN
+Classifier: Development Status :: 5 - Production/Stable
+Classifier: Environment :: Web Environment
+Classifier: Framework :: Django
+Classifier: Framework :: Django :: 2.2
+Classifier: Framework :: Django :: 3.0
+Classifier: Framework :: Django :: 3.1
+Classifier: Framework :: Django :: 3.2
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: BSD License
+Classifier: Operating System :: OS Independent
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3 :: Only
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Framework :: Django
+Classifier: Topic :: Software Development :: Libraries :: Python Modules
+Requires-Python: >=3.7
+Requires-Dist: Django (>=2.2.19)
+Requires-Dist: python-monkey-business
+Requires-Dist: django-polymorphic
+
+django-polymorphic-foreignkey
+=============================
+
+Testing
+-------
+
+In order to execute local tox tests, do::
+
+    $ python -m venv venv
+    $ . venv/bin/activate
+    $ pip install tox
+    $ tox -- --selenium=chrome-headless
+
+
+or a specific environment configuration::
+
+    $ tox -e py37-dj31 -- --selenium=chrome-headless
+
+
