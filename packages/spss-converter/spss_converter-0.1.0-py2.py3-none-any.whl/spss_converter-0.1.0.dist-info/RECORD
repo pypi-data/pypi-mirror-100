@@ -1,0 +1,11 @@
+spss_converter/Metadata.py,sha256=2BsnHjPYXehTJEKziSTyfFfP_EnkrxU4KqxkOxU8L2o,21417
+spss_converter/__init__.py,sha256=qRXyaAogQ3p9KNwPh_Qss-yngRXSbrjiXcVbAB9H_1E,561
+spss_converter/__version__.py,sha256=mq9orrXH7m6q_YDAIsel0V8dXrtJ5l8B5PJug72I7Qc,46
+spss_converter/errors.py,sha256=Dq5pj8ywjajDa9gyJqJiYEHaEBTfGD_ZEPPF1iga0tQ,492
+spss_converter/read.py,sha256=BENbsM6WV-SIIycVPjWBWeN661t078QLhQ0AANSH6AI,47325
+spss_converter/write.py,sha256=fBSnI2d8W5fQyyYpLkA9v__ZK1adnz06TYqIY-4c6mQ,17531
+spss_converter-0.1.0.dist-info/LICENSE,sha256=0zFRzsjdyE3NXqPAR2WLKaGdHCuKn13kYLVlMPKVG8U,1078
+spss_converter-0.1.0.dist-info/METADATA,sha256=SVCKvrbFIktRVWhaWk0IdyePab-HkdlsiqXbeWRojWY,8489
+spss_converter-0.1.0.dist-info/WHEEL,sha256=Z-nyYpwrcSqxfdux5Mbn_DQ525iP7J2DG3JgGvOYyTQ,110
+spss_converter-0.1.0.dist-info/top_level.txt,sha256=3gXlGLGoERJwNELDa6VAo4Y-I-2EAt7yKh5SqLT4EV4,15
+spss_converter-0.1.0.dist-info/RECORD,,
