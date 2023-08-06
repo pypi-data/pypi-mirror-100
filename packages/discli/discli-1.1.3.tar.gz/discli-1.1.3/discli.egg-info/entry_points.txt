@@ -1,0 +1,4 @@
+[console_scripts]
+discli = discli.__main__:discli
+discordcli = discli.__main__:discli
+
