@@ -1,0 +1,54 @@
+Metadata-Version: 2.1
+Name: smalldict
+Version: 0.1.0
+Summary: SmallDict: Python package to slim down a dict read from JSON or YAML to check the contents
+Home-page: https://github.com/Minyus/smalldict
+Author: Yusuke Minami
+Author-email: me@minyus.github.com
+License: Apache Software License (Apache 2.0)
+Keywords: dict,json,yaml,small,subset,sub,slim
+Platform: UNKNOWN
+Classifier: Development Status :: 3 - Alpha
+Classifier: Natural Language :: English
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Operating System :: OS Independent
+Description-Content-Type: text/markdown
+Requires-Dist: dataclasses (>=0.6) ; python_version < "3.7"
+Provides-Extra: dev
+Requires-Dist: isort ; extra == 'dev'
+Requires-Dist: black ; extra == 'dev'
+Requires-Dist: flake8 ; extra == 'dev'
+Requires-Dist: twine ; extra == 'dev'
+Requires-Dist: keyrings.alt (>=3.4.0) ; extra == 'dev'
+Requires-Dist: featuretools ; extra == 'dev'
+Requires-Dist: pytest ; extra == 'dev'
+Requires-Dist: pytest-cov ; extra == 'dev'
+Requires-Dist: pytest-mock ; extra == 'dev'
+Requires-Dist: requests-mock (>=1.8.0) ; extra == 'dev'
+Requires-Dist: Sphinx (==3.5.1) ; extra == 'dev'
+Requires-Dist: sphinx-rtd-theme (==0.5.1) ; extra == 'dev'
+Requires-Dist: recommonmark (==0.7.1) ; extra == 'dev'
+Requires-Dist: sphinx-autodoc-typehints (==1.11.1) ; extra == 'dev'
+Requires-Dist: typed-ast (==1.4.2) ; extra == 'dev'
+Requires-Dist: sphinx-copybutton (==0.3.1) ; extra == 'dev'
+Requires-Dist: PyYAML (>=4.2) ; extra == 'dev'
+Requires-Dist: dataclasses (>=0.6) ; (python_version < "3.7") and extra == 'dev'
+Provides-Extra: docs
+Requires-Dist: Sphinx (==3.5.1) ; extra == 'docs'
+Requires-Dist: sphinx-rtd-theme (==0.5.1) ; extra == 'docs'
+Requires-Dist: recommonmark (==0.7.1) ; extra == 'docs'
+Requires-Dist: sphinx-autodoc-typehints (==1.11.1) ; extra == 'docs'
+Requires-Dist: typed-ast (==1.4.2) ; extra == 'docs'
+Requires-Dist: sphinx-copybutton (==0.3.1) ; extra == 'docs'
+Requires-Dist: PyYAML (>=4.2) ; extra == 'docs'
+Requires-Dist: dataclasses (>=0.6) ; (python_version < "3.7") and extra == 'docs'
+Provides-Extra: optional
+Requires-Dist: PyYAML (>=4.2) ; extra == 'optional'
+Requires-Dist: dataclasses (>=0.6) ; (python_version < "3.7") and extra == 'optional'
+
+
+https://github.com/Minyus/smalldict
+
+
