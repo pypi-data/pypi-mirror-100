@@ -1,0 +1,12 @@
+tokema/__init__.py,sha256=J1wcONFRa6H--9NW-LQMJGxXwwnQrohntOmdY0vlARo,106
+tokema/eof.py,sha256=VZy3XA0KdL8cY_ac-ilSJBHHlw0goYXUpuoi8zYD_WM,1173
+tokema/grammar.py,sha256=k2Idqa3VWEbGux1zN092VjRV4ngjlsSLLRXhD8ARVzw,1248
+tokema/parsing.py,sha256=KZdxVb0J8IMaO90ZQDz1j_WQvjA-kxvANriru5-DX10,8898
+tokema/table.py,sha256=TTxB8_5CsmPR86AJKDrn0BjVk8kS0MfbOKb0aiy8QkY,10045
+tokema/text.py,sha256=pDIbvBQ0amlv_3p5KWF-A02fffNbNOCCT68Lufa0aXM,7399
+tokema/utils.py,sha256=jlVUQl9CZLl462rRpPSwMxlqyl2NWE5ySRbVmQRW0oM,2421
+tokema-0.0.1.dist-info/LICENCE,sha256=SxSV0J8bR8xpwQzVgZtdxxRJdb_hHwNEkwst6ANadQs,1069
+tokema-0.0.1.dist-info/METADATA,sha256=77c2wYDVq59GojeRDjljzOlGRCuDiLsOhOA7og7IkA8,3514
+tokema-0.0.1.dist-info/WHEEL,sha256=OqRkF0eY5GHssMorFjlbTIq072vpHpF60fIQA6lS9xA,92
+tokema-0.0.1.dist-info/top_level.txt,sha256=6CVMGViYWuHukrH6j8xaf4CRgSGyH1IsukVDGjxpfew,7
+tokema-0.0.1.dist-info/RECORD,,
