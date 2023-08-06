@@ -1,0 +1,3 @@
+asyncpg==0.22.0
+nyoibo==0.2.1
+uvloop==0.15.2
