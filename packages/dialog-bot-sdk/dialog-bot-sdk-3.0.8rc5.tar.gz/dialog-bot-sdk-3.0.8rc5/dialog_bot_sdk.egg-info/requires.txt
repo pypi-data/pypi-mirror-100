@@ -1,0 +1,9 @@
+dialog_api==1.89.1
+protobuf==4.0.0rc2
+grpcio==1.36.1
+grpcio-tools==1.36.1
+google-api-python-client==2.0.2
+googleapis-common-protos==1.53.0
+requests==2.25.1
+pyopenssl==20.0.1
+Pillow==8.1.2
