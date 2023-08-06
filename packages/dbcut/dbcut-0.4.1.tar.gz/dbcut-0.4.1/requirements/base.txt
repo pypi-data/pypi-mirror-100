@@ -1,0 +1,8 @@
+Click
+sqlalchemy<=1.4
+SQLAlchemy-Utils
+mlalchemy
+pptree
+python-dotenv
+tabulate
+tqdm
