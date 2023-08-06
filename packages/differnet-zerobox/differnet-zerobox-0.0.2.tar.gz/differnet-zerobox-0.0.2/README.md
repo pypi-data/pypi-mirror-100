@@ -1,0 +1,115 @@
+# Summary
+This module is used to auto train model from captured images and videos.
+
+The goal is to allow product be a black box which and start to capture images and videos then train model for defect detection.
+
+# Usage
+
+Create your configuration and create DiffernetUtil
+
+```py
+conf = settings.DIFFERNET_CONF
+        logger.info(f"working folder: {conf.get('differnet_work_dir')}")
+
+differnetutil = DiffernetUtil(conf, "pink1")
+```
+
+configuration like this. Any value not set will be taken from default
+
+```py
+#common settings.
+DIFFERNET_CONF = {
+    "differnet_work_dir": "./work",
+    "device": "cuda",  # cuda or cpu
+    "device_id": 5,
+    "verbose": True,
+    # "rotation_degree": 0,
+    # "crop_top": 0.10,
+    # "crop_left": 0.10,
+    # "crop_bottom": 0.10,
+    # "crop_right": 0.10,
+    # training setting
+    "meta_epochs": 5,
+    "sub_epochs": 8,
+    # # output settings
+    "grad_map_viz": False,
+    # "save_model": True,
+    "save_transformed_image": False,
+    # "visualization": False,
+    # "target_tpr": 0.76,
+    "test_anormaly_target": 10,
+}
+```
+## prepare the training and testing data
+The data structure under work folder looks like this. The model folder will save trained model.
+For experiment purpose, you would like to give test and validate folder with proper labled data. While, for zerobox 
+it only requires train folder and data. The minimum images is 16 based on the differnet paper.
+
+```
+pink1/
+├── model
+├── test
+│   ├── defect
+│   └── good
+├─── validate
+│    ├── defect
+│    └── good
+└── train
+    └── good
+        ├── 01.jpg
+        ├── 02.jpg
+        ├── 03.jpg
+        ├── 04.jpg
+        ├── 05.jpg
+        ├── 06.jpg
+        ├── 07.jpg
+        ├── 08.jpg
+        ├── 09.jpg
+        ├── 10.jpg
+        ├── 11.jpg
+        ├── 12.jpg
+        ├── 13.jpg
+        ├── 14.jpg
+        ├── 15.jpg
+        └── 16.jpg
+```
+
+
+# dependencies
+Python 3.9 + torch 1.8.1 + torchvision 0.9.1. In order to make proper use of cuda or cpu you may need install torch and torch vision based on instructions from [pytroch.org](https://pytorch.org/get-started/locally/)
+
+Notice: Older version of torch does not work with python 3.9
+
+```
+scikit-learn>=0.22
+scipy>=1.3.2
+numpy>=1.17.4
+torch=1.8.1
+torchvision=0.9.1
+matplotlib>=3.0.3
+tqdm>=4.59.2
+opencv-python>=4.5.1
+```
+
+# Design
+[Mermaid syntax](https://mermaid-js.github.io/mermaid-live-editor/)
+
+```mermaid
+graph TD
+    A[Python library] --> B(Vearch-Plugin)
+    B --> c(Vearch)
+    c --> |response| B
+```
+## Index service
+Index service uses vearch for index image and generate an ID as bottle category. 
+
+Workflow:
+- 
+
+
+
+# Dependancies
+
+- [vearch](https://github.com/vearch/vearch) base service for indexing images and categories
+- [vearch-python-plugin](https://github.com/vearch/python-algorithm-plugin), wrapper for base API and used for python SDK
+- [vearch Python SDK](https://github.com/vearch/vearch-python)
