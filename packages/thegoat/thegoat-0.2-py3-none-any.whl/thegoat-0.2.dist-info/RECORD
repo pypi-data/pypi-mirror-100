@@ -1,0 +1,10 @@
+thegoat/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+thegoat/cli.py,sha256=A0JDMWdjBjggZwf_Sj9REKixifcv-snSLenMSGF6Z4w,844
+thegoat/config.py,sha256=Pg4EAj1mb_UY39JfOTh6zSp6USUj5DoyD8yCw5gPYbw,95
+thegoat/whois.py,sha256=NnWGXRbLXsxfsk-3vzD01s6_PomF0fq1_0gBBI33kz8,780
+thegoat-0.2.dist-info/LICENSE,sha256=yqZLj5mqOh5E_s0dXlJvll0g_VdBBci86fzmsIKgs8c,1065
+thegoat-0.2.dist-info/METADATA,sha256=xu_LNf6A6MX-txqHUquswjjAKDyGA1zPeao4os1FxjU,445
+thegoat-0.2.dist-info/WHEEL,sha256=OqRkF0eY5GHssMorFjlbTIq072vpHpF60fIQA6lS9xA,92
+thegoat-0.2.dist-info/entry_points.txt,sha256=LsoTcyCDjy5UW1L4Ano98VXfJbHn-3scfYQTRU7HppU,46
+thegoat-0.2.dist-info/top_level.txt,sha256=i_wRN6x7fCRBSw1G8rauRb5QOYB-KysKZO8hY3kS-fA,8
+thegoat-0.2.dist-info/RECORD,,
