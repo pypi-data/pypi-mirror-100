@@ -1,0 +1,13 @@
+MANIFEST.in
+README.md
+pyproject.toml
+setup.py
+src/nija-test/__init__.py
+src/nija-test/py.typed
+src/nija-test/_jsii/__init__.py
+src/nija-test/_jsii/nija-test@1.0.0.jsii.tgz
+src/nija_test.egg-info/PKG-INFO
+src/nija_test.egg-info/SOURCES.txt
+src/nija_test.egg-info/dependency_links.txt
+src/nija_test.egg-info/requires.txt
+src/nija_test.egg-info/top_level.txt
