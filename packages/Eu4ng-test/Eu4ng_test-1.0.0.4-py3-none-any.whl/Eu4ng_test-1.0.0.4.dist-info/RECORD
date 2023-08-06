@@ -1,0 +1,8 @@
+__init__.py,sha256=9nm27yCqPK7zGzZvbO8_SCKwt3QS3rKcGdOjPB4L2Ck,22
+initTest.py,sha256=e31dn8CN0oFPka6RR1WtBWYK2D62fvy2hnM-0gGIAfM,31
+packageTest/__init__.py,sha256=fHFxRvHVPKThVexNwVjMqSXyPJeBuB32WxTNOziL3Jg,25
+packageTest/packageTest.py,sha256=_U7EP4OtUzDfyd7KYkp0P626YH7VkiB3a97dNBIk8EE,54
+Eu4ng_test-1.0.0.4.dist-info/METADATA,sha256=u3TkkFsRDGgvx04wr8DKx81Oirgq1cRUhfJDjTQJ3Dc,228
+Eu4ng_test-1.0.0.4.dist-info/WHEEL,sha256=OqRkF0eY5GHssMorFjlbTIq072vpHpF60fIQA6lS9xA,92
+Eu4ng_test-1.0.0.4.dist-info/top_level.txt,sha256=DiduL7tS5p80rK3cENs_80iM5ec1Q6AX7WuDV7bq_8I,13
+Eu4ng_test-1.0.0.4.dist-info/RECORD,,
