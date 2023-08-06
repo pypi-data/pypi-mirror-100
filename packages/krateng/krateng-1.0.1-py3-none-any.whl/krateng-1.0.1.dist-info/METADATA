@@ -1,0 +1,32 @@
+Metadata-Version: 2.1
+Name: krateng
+Version: 1.0.1
+Summary: Metapackage for my system setup
+Home-page: https://github.com/krateng/kratengpy
+Author: Johannes Krattenmacher
+Author-email: misc@dev.krateng.ch
+License: GPLv3
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: GNU General Public License v3 (GPLv3)
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
+Requires-Dist: MechanicalSoup
+Requires-Dist: PyYAML
+Requires-Dist: Send2Trash
+Requires-Dist: borgbackup
+Requires-Dist: doreah
+Requires-Dist: jinja2
+Requires-Dist: lxml
+Requires-Dist: requests
+Requires-Dist: s3cmd
+Requires-Dist: selenium
+Requires-Dist: tabulate
+Requires-Dist: waitress
+Requires-Dist: yeonji
+Requires-Dist: youtube-dl
+
+UNKNOWN
+
+
