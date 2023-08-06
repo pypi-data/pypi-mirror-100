@@ -1,0 +1,12 @@
+LICENSE
+MANIFEST.in
+README.md
+setup.py
+simpleweathercli/__init__.py
+simpleweathercli/cli.py
+simpleweathercli.egg-info/PKG-INFO
+simpleweathercli.egg-info/SOURCES.txt
+simpleweathercli.egg-info/dependency_links.txt
+simpleweathercli.egg-info/entry_points.txt
+simpleweathercli.egg-info/requires.txt
+simpleweathercli.egg-info/top_level.txt
