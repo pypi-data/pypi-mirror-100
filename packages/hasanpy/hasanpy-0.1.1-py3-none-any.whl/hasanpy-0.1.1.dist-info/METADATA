@@ -1,0 +1,15 @@
+Metadata-Version: 2.1
+Name: hasanpy
+Version: 0.1.1
+Summary: A Python implementation of the Chicken esoteric programming language, with Hasan as its only token
+Home-page: https://github.com/mdibaiee/hasanpy
+License: MIT
+Author: mdibaiee
+Author-email: mdibaiee@protonmail.com
+Requires-Python: >=3.8,<4.0
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Requires-Dist: click (>=7.1,<8.0)
+Project-URL: Repository, https://github.com/mdibaiee/hasanpy

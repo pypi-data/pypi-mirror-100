@@ -1,0 +1,3 @@
+[console_scripts]
+hasanpy=hasanpy.__main__:main
+
