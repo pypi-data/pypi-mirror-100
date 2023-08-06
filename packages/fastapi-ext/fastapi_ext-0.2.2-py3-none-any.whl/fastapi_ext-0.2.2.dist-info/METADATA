@@ -1,0 +1,32 @@
+Metadata-Version: 2.1
+Name: fastapi-ext
+Version: 0.2.2
+Summary: FastAPI extensions focused on productivity
+Home-page: https://github.com/dlski/fastapi-ext
+License: MIT
+Keywords: fastapi,extensions
+Author: Damian Łukawski
+Author-email: damian@lukawscy.pl
+Requires-Python: >=3.7,<3.10
+Classifier: Development Status :: 4 - Beta
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3 :: Only
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Topic :: Software Development :: Libraries :: Python Modules
+Requires-Dist: fastapi (>=0.62.0)
+Project-URL: Repository, https://github.com/dlski/fastapi-ext
+Description-Content-Type: text/markdown
+
+# fastapi-ext
+
+FastAPI extensions focused on productivity, contains:
+* `View` class to replace plain function binding within router (with counterparts decorators)
+* simple `AuthCheckDependency` to validate privileges
+
+## Help
+Coming soon...
+
