@@ -1,0 +1,12 @@
+teneva/__init__.py,sha256=gnzzs3NMMMDpin5anCMUnfWfzx9K7aNs0_rQSwTDBMo,474
+teneva/cross.py,sha256=TzkNWiyUH0_nyIjzYEeHeukQ2KvjPw75DZh4j1Shdag,3362
+teneva/cross_old.py,sha256=sL6j3u15sPLVZxEhZCP6M9e8Cdm7DRWB1zblA6sKNkE,9723
+teneva/jax_maxvol.py,sha256=XGPK4X4ofF5366CBxYGbbECaFgHZPwm9xCppu2AHt3I,2144
+teneva/maxvol.py,sha256=pWN2FLouh9sMVHIZElLYO8oYSuR3Dzue0dUqOR4F0DE,1325
+teneva/tensor.py,sha256=Qzrmey66D8LkjqySj0vYYphsx9AQOLNFzTvqzulyWMk,4358
+teneva/utils.py,sha256=43l1ZlF1zk2B8uh6e-L5Q5E8qZn0VOAS0-MC_qAiCDk,2767
+teneva-0.6.1.dist-info/LICENSE.txt,sha256=j9w1IB4o49iRgb6zbkTYSUjFG70SHRdytuh-gpkGIrQ,1080
+teneva-0.6.1.dist-info/METADATA,sha256=PxMW6B1FEKLilQYsDc7GwOYraknu0f6UJR3i_opwBx8,4048
+teneva-0.6.1.dist-info/WHEEL,sha256=EVRjI69F5qVjm_YgqcTXPnTAv3BfSUr0WVAHuSP3Xoo,92
+teneva-0.6.1.dist-info/top_level.txt,sha256=6N7gq9llcu_nxRWQysUWXCJgqaLXS1_jrdsOm9FS_p0,7
+teneva-0.6.1.dist-info/RECORD,,
