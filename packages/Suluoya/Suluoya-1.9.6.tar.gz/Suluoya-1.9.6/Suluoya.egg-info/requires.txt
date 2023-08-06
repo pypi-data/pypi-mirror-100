@@ -1,0 +1,16 @@
+requests
+pandas
+urllib3
+parsel
+tqdm
+baostock
+pretty_errors
+pprint
+termcolor
+lunar_python
+pyecharts
+pygal
+cutecharts
+pysimplegui
+zhon
+pdfplumber
