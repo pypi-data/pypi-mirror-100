@@ -1,0 +1,10 @@
+alva_machinery/__init__.py,sha256=RXYAebIVJxOxpUXzrRScK3z5IXmNXLGb1mgunk-jQJ8,210
+alva_machinery/branching/__init__.py,sha256=xDZa23y1MYaPTuyjO1pDUNDcgn_l5Uw7wcR7rUlkNKo,210
+alva_machinery/branching/aWay.py,sha256=rdSUVMeUwRXHWp5nx8tR8I9ViV7NAw2cTGqxf9m5y0Q,6816
+alva_machinery/markov/__init__.py,sha256=xDZa23y1MYaPTuyjO1pDUNDcgn_l5Uw7wcR7rUlkNKo,210
+alva_machinery/markov/aChain.py,sha256=0YYQh85AxLxuN0qILVCP_UN1rTTrM5F_MgVk8AYZ0qc,21701
+alva_machinery-0.0.1.dist-info/LICENSE.txt,sha256=2bm9uFabQZ3Ykb_SaSU_uUbAj2-htc6WJQmS_65qD00,1073
+alva_machinery-0.0.1.dist-info/METADATA,sha256=0kKQjrECfyKcxtXnM9QsHE6m7hPNebPZ98MOHDITBTM,1550
+alva_machinery-0.0.1.dist-info/WHEEL,sha256=OqRkF0eY5GHssMorFjlbTIq072vpHpF60fIQA6lS9xA,92
+alva_machinery-0.0.1.dist-info/top_level.txt,sha256=uar44gdP8WY-RMaxTOFtMDLujaa1MSGYKHnnqUX57Bw,15
+alva_machinery-0.0.1.dist-info/RECORD,,
