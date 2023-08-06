@@ -1,0 +1,13 @@
+README.md
+pyproject.toml
+setup.py
+nbib/__init__.py
+nbib/_parsing.py
+nbib/_structure.py
+nbib/_tags.py
+nbib/exceptions.py
+nbib.egg-info/PKG-INFO
+nbib.egg-info/SOURCES.txt
+nbib.egg-info/dependency_links.txt
+nbib.egg-info/requires.txt
+nbib.egg-info/top_level.txt
