@@ -1,0 +1,11 @@
+requests
+pandas
+beautifulsoup4
+urllib3
+tqdm
+baostock
+parsel
+pretty_errors
+pprint
+lunar_python
+pygal
