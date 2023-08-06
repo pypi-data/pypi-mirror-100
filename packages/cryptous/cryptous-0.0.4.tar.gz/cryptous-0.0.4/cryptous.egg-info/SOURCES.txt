@@ -1,0 +1,6 @@
+README.md
+setup.py
+cryptous.egg-info/PKG-INFO
+cryptous.egg-info/SOURCES.txt
+cryptous.egg-info/dependency_links.txt
+cryptous.egg-info/top_level.txt
