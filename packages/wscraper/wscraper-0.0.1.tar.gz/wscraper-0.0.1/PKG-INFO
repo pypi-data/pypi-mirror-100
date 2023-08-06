@@ -1,0 +1,11 @@
+Metadata-Version: 1.0
+Name: wscraper
+Version: 0.0.1
+Summary: Scraping documents from a dump XML file of Wikipedia.
+Home-page: https://github.com/tfull/wikipedia_scraper
+Author: T.Furukawa
+Author-email: tfurukawa.mail@gmail.com
+License: MIT License
+Description: UNKNOWN
+Keywords: Wikipedia
+Platform: UNKNOWN
