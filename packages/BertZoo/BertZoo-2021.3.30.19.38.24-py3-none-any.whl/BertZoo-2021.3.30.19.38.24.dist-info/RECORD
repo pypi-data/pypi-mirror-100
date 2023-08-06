@@ -1,0 +1,14 @@
+bertzoo/SimBert.py,sha256=8J5-iygw5F0PjLSq1t0oGDDmesHFAohnS_skirJJcuY,4105
+bertzoo/__init__.py,sha256=VtREQFhKZ3KSEndt7uczq_sjdN19JKEof3Qt512e0Js,285
+bertzoo/cpm_lm.py,sha256=PPKtLqfMF86hUPFUl-pockVa7RQLzGyUqsZNbYF1XKo,336
+bertzoo/utils/GPT2.py,sha256=EF2K4EEt8uibqCUHooVCxPOWMtYTviw-hYR8Nomxol0,2234
+bertzoo/utils/__init__.py,sha256=Ce3t0atRJ_zLZMzqZetIpk6UoApYZfYqMLqpRSdwC5Y,253
+bertzoo/utils/bert4keras_utils.py,sha256=J3KjvGkqKJHMUurYj1Et8uXy_nfNp4Ikdr1R47U1l4g,1291
+data/__init__.py,sha256=3VaRCCRtdYoTDHvDAG931nGv-TU5IojjUYeNOecNrRE,244
+data/chinese_simbert_L-4_H-312_A-12_Tiny.zip,sha256=WsWeUB2yoveBuQ7h-FmD9gzE9PFYq5IzMBm1eC96qZM,26033918
+BertZoo-2021.3.30.19.38.24.dist-info/LICENSE,sha256=xx0jnfkXJvxRnG63LTGOxlggYnIysveWIZ6H3PNdCrQ,11357
+BertZoo-2021.3.30.19.38.24.dist-info/METADATA,sha256=ogSGYlCiogB0iYm-PQMOX3hVBUO9f2z2isUCWPY80JA,809
+BertZoo-2021.3.30.19.38.24.dist-info/WHEEL,sha256=OqRkF0eY5GHssMorFjlbTIq072vpHpF60fIQA6lS9xA,92
+BertZoo-2021.3.30.19.38.24.dist-info/entry_points.txt,sha256=cN8cdKRRAK9-2DxBLv5kF1H7FqSqfUeIfz3FV72GV4I,37
+BertZoo-2021.3.30.19.38.24.dist-info/top_level.txt,sha256=u2YJmdnZ7bVTcDMTCChrLxoBh_CUDpL4Uu4yyOUOo50,13
+BertZoo-2021.3.30.19.38.24.dist-info/RECORD,,
