@@ -1,0 +1,7 @@
+emr_on_eks/__init__.py,sha256=EiaH394tv_bJ9t1gjDEToloo_epa6g2va5xt-sXseLA,4387
+emr_on_eks/cdk.py,sha256=V_hXbLhZ6UjHgoi7fqWTNkE62xG9a6YrHZ4QilLaLXk,3637
+aws_orbit_emr_on_eks-0.13.0.dist-info/METADATA,sha256=yhqVLRntsY0ENXJcwbYdQ3l7eOvVRkKIvSzneP_36Eo,924
+aws_orbit_emr_on_eks-0.13.0.dist-info/VERSION,sha256=1Pq79zdYUSVi9cO2o7d0VslKxCS3RD-a7mxht5Gcwt8,6
+aws_orbit_emr_on_eks-0.13.0.dist-info/WHEEL,sha256=OqRkF0eY5GHssMorFjlbTIq072vpHpF60fIQA6lS9xA,92
+aws_orbit_emr_on_eks-0.13.0.dist-info/top_level.txt,sha256=YGam-3hgAkQbCwUZmmItyNtKi95XAgR4ZSrQSmMA7B4,11
+aws_orbit_emr_on_eks-0.13.0.dist-info/RECORD,,
