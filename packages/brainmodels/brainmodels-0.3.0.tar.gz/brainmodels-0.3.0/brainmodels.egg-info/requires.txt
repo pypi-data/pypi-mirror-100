@@ -1,0 +1,3 @@
+brainpy-simulator
+matplotlib
+numpy
