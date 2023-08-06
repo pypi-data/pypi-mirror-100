@@ -1,0 +1,10 @@
+ansify/__init__.py,sha256=B1K5MonEd2fLIYFw2-K9UdHjGUXCHz7lm_c-zNRe-_8,402
+ansify/__main__.py,sha256=2GdzbTOOrnxu6REiTc8hEY41QCJUumH9heNxMquuDZE,2604
+ansify/ansify.py,sha256=iKth_tKtVTqD988zG0AEH9_pv62OWLeS2gAe9j_jUCg,4834
+ansify/py.typed,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+ansify/settings.py,sha256=Pt0ygKeC7JsFIrLXTz1L9I05gXT5sNP-VcaCr5lVpcQ,570
+ansify-0.1.0.dist-info/entry_points.txt,sha256=YX4PUkCpzO5EyB2iKh-xhkhMnnL-lVuBrQpPzjipCVo,46
+ansify-0.1.0.dist-info/LICENSE,sha256=uCRACK0mP--HTcY9CMS1VXeqF5LmFQjJuacTe3TuDXY,1067
+ansify-0.1.0.dist-info/WHEEL,sha256=VN2eEg4PHbTOniXb-cCYQPc6zUTS4dAcATjlgU3q-Lo,83
+ansify-0.1.0.dist-info/METADATA,sha256=K5L9Wax_FwYTfjmzStPUD7W1Gym--3qIuUBk9uw2lXE,6505
+ansify-0.1.0.dist-info/RECORD,,
