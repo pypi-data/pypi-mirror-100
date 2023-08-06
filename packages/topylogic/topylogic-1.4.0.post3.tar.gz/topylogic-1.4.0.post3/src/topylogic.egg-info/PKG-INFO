@@ -1,0 +1,15 @@
+Metadata-Version: 1.2
+Name: topylogic
+Version: 1.4.0.post3
+Summary: Context Free/Switching DFA/NFA library
+Home-page: https://github.com/mstern98/topylogic-git
+Author: Matthew Stern
+Author-email: msstern98@gmail.com
+License: UNKNOWN
+Description: UNKNOWN
+Keywords: NFA,DFA,Context-Switching,Threading,Graph
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.9
