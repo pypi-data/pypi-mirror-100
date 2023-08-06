@@ -1,0 +1,9 @@
+README.md
+setup.py
+terfapdf/__init__.py
+terfapdf/pdf2image.py
+terfapdf/pdf2text.py
+thelionpdf.egg-info/PKG-INFO
+thelionpdf.egg-info/SOURCES.txt
+thelionpdf.egg-info/dependency_links.txt
+thelionpdf.egg-info/top_level.txt
