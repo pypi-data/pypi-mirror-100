@@ -1,0 +1,19 @@
+Metadata-Version: 2.1
+Name: esparto
+Version: 0.1.0.dev2
+Summary: Simple toolkit for building minimal Bootstrap pages.
+License: MIT
+Author: Dominic Thorn
+Author-email: dominic.thorn@gmail.com
+Requires-Python: >=3.6
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Provides-Extra: extras
+Requires-Dist: Pillow (>=7.0.0)
+Requires-Dist: beautifulsoup4 (>=4.9.3); extra == "extras"
+Requires-Dist: jinja2 (>=2.10.1)
+Requires-Dist: markdown (>=3.1)
+Requires-Dist: prettierfier (>=1.0.3); extra == "extras"

@@ -1,0 +1,9 @@
+esparto/__init__.py,sha256=uKbZauuZglqxDFpkIFY2N_ozcrVL1LTFuWP7uX2BIcU,544
+esparto/_content.py,sha256=Tn5gUVgbfZF5avjZrTLNqVysBt8xrFLn2yXgV6ORDN0,4748
+esparto/_layout.py,sha256=TpGc5RgwR7hTlzhlKm75h6ngH0UqEIeZKUXt_sShA_I,7102
+esparto/_publish.py,sha256=OO7DQgLM8AmohEFDIp_CUdnfBfbipmY7NyXiVeJBtTM,2590
+esparto/templates/base.html,sha256=afnb7BeUI0bjck3qE4_AaoF9ycu4lgIoFHQPpHlXNPw,1185
+esparto-0.1.0.dev2.dist-info/LICENSE,sha256=tJZldBnvxamFvRnPCtgeSWfugTePNJeygTw4WTUnDMA,1072
+esparto-0.1.0.dev2.dist-info/WHEEL,sha256=Q99itqWYDhV793oHzqzi24q7L7Kdiz6cb55YDfTXphE,84
+esparto-0.1.0.dev2.dist-info/METADATA,sha256=HDtiYiDzXccaz_m8QF_uWlE9vzxiO8LqAFD6scgIc58,699
+esparto-0.1.0.dev2.dist-info/RECORD,,
