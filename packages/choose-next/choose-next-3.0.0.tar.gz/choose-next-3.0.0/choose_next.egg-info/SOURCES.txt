@@ -1,0 +1,11 @@
+LICENSE.txt
+MANIFEST.in
+README.rst
+choose_next.py
+pyproject.toml
+setup.py
+choose_next.egg-info/PKG-INFO
+choose_next.egg-info/SOURCES.txt
+choose_next.egg-info/dependency_links.txt
+choose_next.egg-info/entry_points.txt
+choose_next.egg-info/top_level.txt
