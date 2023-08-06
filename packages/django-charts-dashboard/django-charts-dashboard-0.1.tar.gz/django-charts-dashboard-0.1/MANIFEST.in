@@ -1,0 +1,7 @@
+include AUTHORS.rst
+include CONTRIBUTING.rst
+include LICENSE
+include README.rst
+recursive-include charts-dashboard/static *
+recursive-include charts-dashboard/templates *
+recursive-include docs *
