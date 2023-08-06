@@ -1,0 +1,6 @@
+pyscipopt
+networkx
+numpy
+scipy
+pandas
+dwave_networkx
