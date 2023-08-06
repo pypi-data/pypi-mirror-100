@@ -1,0 +1,5 @@
+click
+scipy
+matplotlib==3.2.2
+pandas
+numpy
