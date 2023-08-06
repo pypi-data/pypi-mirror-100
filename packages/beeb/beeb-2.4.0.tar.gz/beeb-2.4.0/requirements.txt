@@ -1,0 +1,8 @@
+bs4
+ffmpeg-python
+httpx[http2]
+aiostream
+aiofiles
+tqdm
+more_itertools
+python-dateutil
