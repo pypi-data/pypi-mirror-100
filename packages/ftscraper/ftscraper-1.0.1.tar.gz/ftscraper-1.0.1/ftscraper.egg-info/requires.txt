@@ -1,0 +1,6 @@
+requests
+pandas
+fuzzywuzzy
+numpy
+beautifulsoup4
+PyYAML
