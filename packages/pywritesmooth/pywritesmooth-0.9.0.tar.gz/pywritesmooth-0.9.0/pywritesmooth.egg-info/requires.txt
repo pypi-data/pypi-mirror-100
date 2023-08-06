@@ -1,0 +1,13 @@
+beautifulsoup4
+click
+ipython
+ipywidgets
+lxml
+matplotlib
+numpy
+Pillow
+pytorch-lightning
+scikit-learn
+scipy
+svgwrite
+torch
