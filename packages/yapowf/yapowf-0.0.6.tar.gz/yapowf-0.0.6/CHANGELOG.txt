@@ -1,0 +1,11 @@
+Change Log
+==========
+
+0.0.1 (28/03/2021)
+------------------
+ - First Release
+ - Load Flow and RMS simulation working
+
+0.0.4 (29/03/2021)
+------------------
+ - Fix import yapowf references when creating the package
