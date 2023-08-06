@@ -1,0 +1,21 @@
+Metadata-Version: 2.1
+Name: jupyterlab-cognos-dashboard-embedded
+Version: 3.0.0.dev0
+Summary: Cognos Dashboard Embedded for JupyterLab
+Home-page: https://github.com/IBM/jupyterlab-cognos-dashboard-embedded
+Author: James Reeve
+License: Apache 2
+Description: UNKNOWN
+Keywords: Jupyter,JupyterLab,JupyterLab3,S3
+Platform: Linux
+Platform: Mac OS X
+Platform: Windows
+Classifier: Intended Audience :: Developers
+Classifier: Intended Audience :: Education
+Classifier: Intended Audience :: Science/Research
+Classifier: License :: OSI Approved :: Apache Software License
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 3
+Classifier: Framework :: Jupyter
+Requires-Python: >=3.6
+Provides-Extra: dev
