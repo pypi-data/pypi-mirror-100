@@ -1,0 +1,14 @@
+MANIFEST.in
+README.md
+setup.cfg
+setup.py
+taylorswift/Grades.csv
+taylorswift/__init__.py
+taylorswift/answertext.txt
+taylorswift/main.py
+taylorswift/version.py
+taylorswift.egg-info/PKG-INFO
+taylorswift.egg-info/SOURCES.txt
+taylorswift.egg-info/dependency_links.txt
+taylorswift.egg-info/requires.txt
+taylorswift.egg-info/top_level.txt
