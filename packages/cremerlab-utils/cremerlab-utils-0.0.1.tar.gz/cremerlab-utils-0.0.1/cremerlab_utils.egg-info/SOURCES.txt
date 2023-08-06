@@ -1,0 +1,11 @@
+LICENSE
+MANIFEST.in
+README.md
+REQUIREMENTS.txt
+setup.py
+cremerlab/__init__.py
+cremerlab/hplc.py
+cremerlab_utils.egg-info/PKG-INFO
+cremerlab_utils.egg-info/SOURCES.txt
+cremerlab_utils.egg-info/dependency_links.txt
+cremerlab_utils.egg-info/top_level.txt
