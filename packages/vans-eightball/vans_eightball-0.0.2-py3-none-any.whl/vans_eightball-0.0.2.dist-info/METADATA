@@ -1,0 +1,26 @@
+Metadata-Version: 2.1
+Name: vans-eightball
+Version: 0.0.2
+Summary: Provides wise answers to tough problems
+Home-page: https://github.com/bluedenim/vans-eightball
+Author: Van Ly
+Author-email: vancly@hotmail.com
+License: MIT
+Platform: UNKNOWN
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.7
+Description-Content-Type: text/markdown
+
+# Van's Eightball (v8ball)
+
+Provides wise answers to whatever questions ails you at the moment.
+
+To get a whiff of the wisdom, just run `v8ball`:
+
+```
+> v8ball
+No doubt
+```
+
+
