@@ -1,0 +1,22 @@
+Metadata-Version: 2.1
+Name: taylorswift
+Version: 0.1.1rc1
+Summary: Find the perfect Taylor Swift song to match your mood
+Home-page: https://github.com/meganmansfield/taylorswift
+Author: Megan Mansfield
+Author-email: meganmansfield@uchicago.edu
+License: MIT
+Platform: UNKNOWN
+Classifier: Development Status :: 3 - Alpha
+Classifier: Intended Audience :: Science/Research
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Classifier: Programming Language :: Python :: 3.0
+Requires-Dist: numpy
+
+
+taylorswift is a python package that will find you the perfect Taylor Swift song
+to match your mood.
+
+
+
