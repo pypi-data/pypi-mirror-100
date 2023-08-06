@@ -1,0 +1,13 @@
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+src/vedirect/__init__.py
+src/vedirect/vedirect.py
+src/vedirect/vedirect_device_emulator.py
+src/vedirect_jmfife.egg-info/PKG-INFO
+src/vedirect_jmfife.egg-info/SOURCES.txt
+src/vedirect_jmfife.egg-info/dependency_links.txt
+src/vedirect_jmfife.egg-info/entry_points.txt
+src/vedirect_jmfife.egg-info/requires.txt
+src/vedirect_jmfife.egg-info/top_level.txt
