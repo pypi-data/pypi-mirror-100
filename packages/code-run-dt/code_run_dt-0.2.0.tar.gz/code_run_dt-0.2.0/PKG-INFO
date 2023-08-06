@@ -1,0 +1,21 @@
+Metadata-Version: 2.1
+Name: code-run-dt
+Version: 0.2.0
+Summary: Code Run Data Type
+Home-page: https://www.qiyutech.tech/
+Author: dev
+Author-email: dev@qiyutech.tech
+Requires-Python: >=3.9,<4.0
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.9
+Requires-Dist: pydantic (>=1.7,<2.0)
+Description-Content-Type: text/markdown
+
+# code run data type
+
+Code Run Data Definition
+
+## WARNING
+
+    may useless to you
+

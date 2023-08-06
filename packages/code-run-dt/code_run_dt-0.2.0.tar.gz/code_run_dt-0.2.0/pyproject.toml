@@ -1,0 +1,21 @@
+[tool.poetry]
+name = "code_run_dt"
+version = "0.2.0"
+description = "Code Run Data Type"
+authors = ["dev <dev@qiyutech.tech>"]
+readme = "README.md"
+homepage = "https://www.qiyutech.tech/"
+
+[tool.poetry.dependencies]
+python = "^3.9"
+
+pydantic = ">=1.7,<2.0"
+
+[tool.poetry.dev-dependencies]
+black = "*"
+pylama = "*"
+pytest = "*"
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
