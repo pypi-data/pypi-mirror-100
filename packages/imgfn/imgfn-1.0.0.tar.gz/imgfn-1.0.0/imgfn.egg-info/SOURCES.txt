@@ -1,0 +1,10 @@
+setup.py
+imgfn/__main__.py
+imgfn/colour.py
+imgfn/lines.py
+imgfn/mutation.py
+imgfn/test.py
+imgfn.egg-info/PKG-INFO
+imgfn.egg-info/SOURCES.txt
+imgfn.egg-info/dependency_links.txt
+imgfn.egg-info/top_level.txt
