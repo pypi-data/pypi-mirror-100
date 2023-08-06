@@ -1,0 +1,7 @@
+README.md
+setup.py
+pyaesni.egg-info/PKG-INFO
+pyaesni.egg-info/SOURCES.txt
+pyaesni.egg-info/dependency_links.txt
+pyaesni.egg-info/not-zip-safe
+pyaesni.egg-info/top_level.txt
