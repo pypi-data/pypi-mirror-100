@@ -1,0 +1,26 @@
+Metadata-Version: 2.1
+Name: cromo
+Version: 1.0.3
+Summary: Constraint Reasoning Over MOdels
+Home-page: https://github.com/mintproject/cromo
+Author: Varun Ratnakar
+Author-email: varunr@isi.edu
+License: UNKNOWN
+Project-URL: Bug Tracker, https://github.com/mintproject/cromo/issues
+Description: # cromo
+        Contraint Reasoning Over MOdels
+        
+        Installation
+        ------------
+        `pip install cromo`
+        
+        Example Usage
+        -------------
+        `cromo search start Cycles src/cromo/test/awash.geojson "2016-01-01" "2017-01-01"`
+        
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
