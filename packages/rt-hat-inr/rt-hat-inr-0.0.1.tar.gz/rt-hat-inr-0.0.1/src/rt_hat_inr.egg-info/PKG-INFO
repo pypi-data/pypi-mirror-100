@@ -1,0 +1,17 @@
+Metadata-Version: 2.1
+Name: rt-hat-inr
+Version: 0.0.1
+Summary: RealtimeHAT control
+Home-page: https://github.com/InnoRoute/RT_HAT_python
+Author: Marian Ulbricht
+Author-email: ulbricht@innoroute.de
+License: UNKNOWN
+Project-URL: Bug Tracker, https://github.com/InnoRoute/RT_HAT_python/issues
+Description: Realtime-HAT python package
+        
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
