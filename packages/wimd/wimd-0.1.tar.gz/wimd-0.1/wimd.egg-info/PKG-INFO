@@ -1,0 +1,15 @@
+Metadata-Version: 1.1
+Name: wimd
+Version: 0.1
+Summary: Download images from any website
+Home-page: https://github.com/ros4s/downloader
+Author: ros4s
+Author-email: c01066033993@gmail.com
+License: MIT
+Description: # downloader
+        
+        Web Image Downloader
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
