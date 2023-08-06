@@ -1,0 +1,9 @@
+ftscraper/__init__.py,sha256=urBZDtMHv6C6vtTtm7uoUQXjADXYQGivT83hmQEAVxg,115
+ftscraper/api.py,sha256=7mR6OZbmqACBc_rYfzQf5V7hMnsAJCiW91D67Riiu9Q,6654
+ftscraper/search_obj.py,sha256=Ytp7M_Q_UmT6W2hvBHsn5dmlzGlOd0v1yFlEShZ-FWc,3167
+ftscraper/utils.py,sha256=Y9CWgQwMx2GlXrlKNnGhyTQPcPtp-uoirUV9ONySkZE,1252
+ftscraper-1.0.3.dist-info/LICENSE,sha256=upjEyZ1sHo2cayMsxsOsosZu4a9WFStPQ3IDOleI918,1073
+ftscraper-1.0.3.dist-info/METADATA,sha256=VGK0V1ysAyITQCr-bjsxZE5l84KEH8KG_CIC6IFFeck,1425
+ftscraper-1.0.3.dist-info/WHEEL,sha256=OqRkF0eY5GHssMorFjlbTIq072vpHpF60fIQA6lS9xA,92
+ftscraper-1.0.3.dist-info/top_level.txt,sha256=h4xyOnBeOnMwpGSqAeqnY7mvIOuQht5QuhVKD44h4RQ,10
+ftscraper-1.0.3.dist-info/RECORD,,
