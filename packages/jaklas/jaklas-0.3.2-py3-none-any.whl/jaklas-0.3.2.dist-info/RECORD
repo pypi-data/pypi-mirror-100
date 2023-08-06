@@ -1,0 +1,11 @@
+jaklas/__about__.py,sha256=vNiWJ14r_cw5t_7UDqDQIVZvladKFGyHH2avsLpN7Vg,22
+jaklas/__init__.py,sha256=49ERpZy9_WwIuUsbrM3xzPaD1QFlN6NKuF9E2u0UjtU,187
+jaklas/header.py,sha256=qu9CwjFGb5Wsu0VeiJaVTmEip1s02eF6iZmrhW3Ty8M,527
+jaklas/point_formats.py,sha256=tzLMY9w-BVR9leZevbQroukezXbd7qsuWE8gGTVj1xM,2956
+jaklas/read.py,sha256=UqfkLdNxYBfDXBuV0B2lgAqPjJXZHlqDSMUBDBai_Nc,1680
+jaklas/utils.py,sha256=pUHyztrCaQnY4O5i41cGCU_HG-130QJXX8oQKsoCAdc,292
+jaklas/write.py,sha256=sllrFid5B4PIPeF-To6dHfkD3DJqmIojsaZMghTRhWs,6556
+jaklas-0.3.2.dist-info/METADATA,sha256=ZJtfr2LuWZ5bPP5UMPmwj0Iq0A8K2eWCgxjEW3EBps8,2449
+jaklas-0.3.2.dist-info/WHEEL,sha256=OqRkF0eY5GHssMorFjlbTIq072vpHpF60fIQA6lS9xA,92
+jaklas-0.3.2.dist-info/top_level.txt,sha256=wyzNsNefkd5nNPZTiWDFkU5g_rtP19aNrY8f84eFAiU,7
+jaklas-0.3.2.dist-info/RECORD,,
