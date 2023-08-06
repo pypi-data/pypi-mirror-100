@@ -1,0 +1,23 @@
+Metadata-Version: 2.1
+Name: pytest-hylang
+Version: 0.0.1
+Summary: Pytest plugin to allow running tests written in hylang
+Home-page: https://github.com/arjaz/pytest-hylang
+Author: Eugene Rossokha
+Author-email: arjaz@protonmail.com
+License: UNKNOWN
+Platform: UNKNOWN
+Classifier: Framework :: Pytest
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
+Requires-Dist: pytest
+Requires-Dist: py
+Requires-Dist: hy
+
+# Pytest-hylang
+Pytest plugin to allow running tests written in hylang
+
+
