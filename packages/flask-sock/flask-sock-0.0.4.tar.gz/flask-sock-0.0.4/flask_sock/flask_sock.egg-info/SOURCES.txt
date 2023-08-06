@@ -1,0 +1,9 @@
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+flask_sock/flask_sock.egg-info/PKG-INFO
+flask_sock/flask_sock.egg-info/SOURCES.txt
+flask_sock/flask_sock.egg-info/dependency_links.txt
+flask_sock/flask_sock.egg-info/requires.txt
+flask_sock/flask_sock.egg-info/top_level.txt
