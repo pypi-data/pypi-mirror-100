@@ -1,0 +1,15 @@
+koksszachy/__main__.py,sha256=fH_F6wwjRUt5uddP8Wp6MUqiQ0vlRb0qP0zQ5ozybIE,878
+koksszachy/engine.py,sha256=lv_RyB66xGyXhQfuApDp0qyU42e9rrdYF4MrvecHSD8,8071
+koksszachy/index.html,sha256=CwDvNXMG3Tvv2B3weEVKBb5yA56lNxuiWKZjl28w8aI,1981
+koksszachy/koksszachy.py,sha256=-59HF8Mqk5DER9eOOpcA4cZd8GMNLJdhyiDVqU-rB48,1296
+koksszachy/static/chessboard.min.css,sha256=HBdI0u2YA-1EMRpLBK2mKirjUI6pG2tLKYcuXE3Xfd4,718
+koksszachy/static/chessboard.min.js,sha256=x7eRTI1I8r82capX4IoJWxiQofzqXcHybc6xy70st3s,14478
+koksszachy/static/favicon.png,sha256=KOX_jroEDm2_KezTLhKZf1LvnWlrRwIk4Qp96y1i0Fg,121088
+koksszachy/static/index.js,sha256=MFewfS3ikw9XE1MY_w4JaiHRBfQeZBtswEzt1bwGYfw,4299
+koksszachy/static/jquery.min.js,sha256=9_aliU8dGd2tb6OSsuzixeV4y_faTqgFtohetphbbj0,89476
+koksszachy/static/style.css,sha256=HIDW4tNsDUvPVkpLlhIPCxn-N4IfUw6AukGXSog6G3A,1221
+KoksSzachy-0.5.8.dist-info/METADATA,sha256=6_7X1GVJQQuEIUvnj71HxyBdidXRvO74-HNFKcMAvB4,6061
+KoksSzachy-0.5.8.dist-info/WHEEL,sha256=OqRkF0eY5GHssMorFjlbTIq072vpHpF60fIQA6lS9xA,92
+KoksSzachy-0.5.8.dist-info/entry_points.txt,sha256=FpAmtTERsjZxXiW7BCGUbBXV5M4U7FbNvX5ECpqDGkI,95
+KoksSzachy-0.5.8.dist-info/top_level.txt,sha256=sHVft6ySAufK-a8i2jWtDUvZbDvTLkKtF4dxxaFswpw,11
+KoksSzachy-0.5.8.dist-info/RECORD,,
