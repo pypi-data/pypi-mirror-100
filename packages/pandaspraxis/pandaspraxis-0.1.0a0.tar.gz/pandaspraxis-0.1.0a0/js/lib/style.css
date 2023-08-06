@@ -1,0 +1,47 @@
+/* Table for the entire response */
+#pp-response-table td,
+#pp-response-table td {
+  border: 0;
+}
+
+/* Background highlight */
+.pp-highlight {
+  background-color: lightgreen;
+}
+
+/* Sidebar explanations */
+.pp-line-exp {
+  border: 2px solid black;
+  border-radius: 5px;
+  display: none;
+  left: 52%;
+  position: fixed;
+  padding: 5px;
+  top: 52%;
+  width: 425px;
+}
+
+/* Button that controls sidebar and below-text */
+.pp-or-button {
+  color: darkgreen;
+  cursor: pointer;
+  font-size: 12px;
+  padding: 1px;
+  margin: 0;
+  visibility: visible;
+}
+
+/* Below-text alternatives */
+.pp-below {
+  display: none;
+  color: rgb(102, 102, 102);
+}
+
+.pp-box {
+  border: 2px solid green !important;
+}
+
+.code {
+  border: 2px solid white;
+  font-family: Consolas,Monaco,Lucida Console,Liberation Mono,DejaVu Sans Mono,Bitstream Vera Sans Mono,Courier New;
+}
