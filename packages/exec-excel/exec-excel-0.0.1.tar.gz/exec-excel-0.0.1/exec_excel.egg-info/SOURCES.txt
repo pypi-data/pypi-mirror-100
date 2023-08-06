@@ -1,0 +1,11 @@
+LICENSE
+README.md
+setup.py
+.github/workflows/python-publish.yml
+exec_excel.egg-info/PKG-INFO
+exec_excel.egg-info/SOURCES.txt
+exec_excel.egg-info/dependency_links.txt
+exec_excel.egg-info/requires.txt
+exec_excel.egg-info/top_level.txt
+execexcel/__init__.py
+execexcel/handler.py
