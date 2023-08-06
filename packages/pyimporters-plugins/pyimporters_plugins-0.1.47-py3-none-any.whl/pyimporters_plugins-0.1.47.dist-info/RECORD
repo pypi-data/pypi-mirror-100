@@ -1,0 +1,5 @@
+pyimporters_plugins/__init__.py,sha256=FdKsQEXvgrjAVMHrkaN8JLkRsZUOeeSEmN95ctnZs8E,63
+pyimporters_plugins/base.py,sha256=eNwN6G4px-d5wClXu1clGGr3Lr_3qSHfBYa9ovCVYPQ,2325
+pyimporters_plugins-0.1.47.dist-info/WHEEL,sha256=o-Q2E8s7BKkCJ1EC2uQdaymZVVu2aUt1e8uTTFpzHVs,81
+pyimporters_plugins-0.1.47.dist-info/METADATA,sha256=rzg2hm9EzX1RgBLEhPv3BoOzOpSTuIPo-JF6IkLpkrM,1396
+pyimporters_plugins-0.1.47.dist-info/RECORD,,
