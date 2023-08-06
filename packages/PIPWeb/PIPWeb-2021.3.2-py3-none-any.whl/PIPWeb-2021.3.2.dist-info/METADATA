@@ -1,0 +1,19 @@
+Metadata-Version: 2.1
+Name: PIPWeb
+Version: 2021.3.2
+Summary: A Open-Source & Free Python PIP GUI (Web) Installer
+Home-page: https://github.com/TechGeeks-Dev/PIPWeb
+Author: TechGeeks
+Author-email: TechGeeks@tgeeks.cf
+Maintainer: Rajdeep Malakar
+Maintainer-email: Rajdeep@tgeeks.cf
+License: UNKNOWN
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+
+UNKNOWN
+
+

@@ -1,0 +1,3 @@
+[console_scripts]
+pipweb = PIPWeb.app:main
+
