@@ -1,0 +1,9 @@
+pysocket/__init__.py,sha256=bXFZa4xmELqAahnS_yvUO21WKhGqGCYBt-SG1tEuAPg,906
+pysocket/client.py,sha256=u390Kf7M4P8L2pQWu5_u_3M1IbKhBtVN_1i7Kq2-ZcE,2377
+pysocket/dataman.py,sha256=kHDDCu1FlJxXxH67rLWqN6bLPp1VHcHWyy_WHvHctWo,2226
+pysocket/server.py,sha256=nJni0kQVstEdSeaX9PUOtoVv9AbTk3fmquNM1evh9UU,4826
+py_socket-0.0.7.dist-info/LICENSE,sha256=OXLcl0T2SZ8Pmy2_dmlvKuetivmyPd5m1q-Gyd-zaYY,35149
+py_socket-0.0.7.dist-info/METADATA,sha256=2pq0HH0w1yL8SI1QuC66ukvePnwSYXrs3SoowjgQRds,630
+py_socket-0.0.7.dist-info/WHEEL,sha256=OqRkF0eY5GHssMorFjlbTIq072vpHpF60fIQA6lS9xA,92
+py_socket-0.0.7.dist-info/top_level.txt,sha256=0Dd54AoDe9fhb3Zlb6wJjFd4yvRIi97UVY8y3jMz1Qo,9
+py_socket-0.0.7.dist-info/RECORD,,
