@@ -1,0 +1,10 @@
+README.md
+setup.cfg
+setup.py
+conduit/mesconduit.py
+conduit/supports.py
+conduit/mesconduit.egg-info/PKG-INFO
+conduit/mesconduit.egg-info/SOURCES.txt
+conduit/mesconduit.egg-info/dependency_links.txt
+conduit/mesconduit.egg-info/requires.txt
+conduit/mesconduit.egg-info/top_level.txt
