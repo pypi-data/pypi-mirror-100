@@ -1,0 +1,10 @@
+nclpy/__init__.py,sha256=dJs17aoqT7RO1q0qHSJ6h855c72YkilZ4MN_FpVyLTc,172
+nclpy/common.py,sha256=Ln5FBeiYHsJIKPLo-emHYyQfKKlr8PdMm0db_9Osg9Y,89
+nclpy/nclpy.py,sha256=3PJYB1kbObYpZoRYqV75bJmOEJzP6WqVzlZerN-KrmE,4980
+nclpy/utils.py,sha256=7Dwnw5PeOwUAM8pGJFcadUCHF1saUAqCaUHmu8DluoA,460
+nclpy-0.0.10.dist-info/LICENSE,sha256=CKzp6beFaWJeHwKrKKbn93vxkjfbSpf8ZOZTGd1zXOY,1071
+nclpy-0.0.10.dist-info/METADATA,sha256=DNTAx8XIuyJHc9QlF2uP_ADEO187oeIhrqD2_dyunAc,1688
+nclpy-0.0.10.dist-info/WHEEL,sha256=Z-nyYpwrcSqxfdux5Mbn_DQ525iP7J2DG3JgGvOYyTQ,110
+nclpy-0.0.10.dist-info/dependency_links.txt,sha256=TWSsy6u8ep_7iMXI1WWCAdkMywUevQNnh1wSAffyOj0,40
+nclpy-0.0.10.dist-info/top_level.txt,sha256=jsAVw5C_FHI7TjREmNzbgOsVt2YLuLUR3c1PAkv4qp8,6
+nclpy-0.0.10.dist-info/RECORD,,
