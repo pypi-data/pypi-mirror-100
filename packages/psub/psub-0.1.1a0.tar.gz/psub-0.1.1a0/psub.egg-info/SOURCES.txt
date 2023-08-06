@@ -1,0 +1,14 @@
+README.md
+setup.py
+psub/__init__.py
+psub/cli.py
+psub/main.py
+psub/submission_scripts.py
+psub.egg-info/PKG-INFO
+psub.egg-info/SOURCES.txt
+psub.egg-info/dependency_links.txt
+psub.egg-info/entry_points.txt
+psub.egg-info/requires.txt
+psub.egg-info/top_level.txt
+tests/__init__.py
+tests/test_psub.py
