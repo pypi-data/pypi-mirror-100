@@ -1,0 +1,46 @@
+Metadata-Version: 2.1
+Name: flask-sock
+Version: 0.0.5
+Summary: WebSocket support for Flask
+Home-page: https://github.com/miguelgrinberg/flask-sock
+Author: Miguel Grinberg
+Author-email: miguel.grinberg@gmail.com
+License: UNKNOWN
+Project-URL: Bug Tracker, https://github.com/miguelgrinberg/flask-sock/issues
+Platform: UNKNOWN
+Classifier: Environment :: Web Environment
+Classifier: Intended Audience :: Developers
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
+Requires-Dist: wsproto
+
+# flask-sock
+WebSocket support for Flask
+
+## Installation
+
+```bash
+pip install flask-sock
+```
+
+## Example
+
+```python
+from flask import Flask, render_template
+from flask_sock import Sock
+
+app = Flask(__name__)
+sock = Sock(app)
+
+
+@sock.route('/echo')
+def echo(sock):
+    while True:
+        data = sock.receive()
+        sock.send(data)
+```
+
+
