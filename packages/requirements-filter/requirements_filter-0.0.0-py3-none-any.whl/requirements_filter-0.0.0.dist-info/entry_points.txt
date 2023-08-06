@@ -1,0 +1,3 @@
+[console_scripts]
+rqf = requirements_filter.requirements_filter:rqf
+
