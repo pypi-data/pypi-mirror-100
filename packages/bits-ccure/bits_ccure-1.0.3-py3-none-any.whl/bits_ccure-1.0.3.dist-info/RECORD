@@ -1,0 +1,7 @@
+bits/__init__.py,sha256=EtOD91ivU_kXxRA8lopap-Ihis3DvCkFVpiaQIdypM4,89
+bits/ccure/__init__.py,sha256=XCqif9NSclfhJ8KGuIWe7udn9-uDa4xC4Bu9ho7EPwA,1535
+bits/ccure/update.py,sha256=Xz-3Rc007MXJA4roGg7A32swHu8FgpMcm-IxcFNLi0I,22793
+bits_ccure-1.0.3.dist-info/METADATA,sha256=NTapCT1psbMwejv7d1WT87r7HAUK2VdNvgZt_8E9FoA,220
+bits_ccure-1.0.3.dist-info/WHEEL,sha256=OqRkF0eY5GHssMorFjlbTIq072vpHpF60fIQA6lS9xA,92
+bits_ccure-1.0.3.dist-info/top_level.txt,sha256=r0CPtEdvhPhtNI1RzFMKlSds-wmUFadHdR_o8lZNEOg,5
+bits_ccure-1.0.3.dist-info/RECORD,,
