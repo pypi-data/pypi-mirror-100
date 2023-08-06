@@ -1,0 +1,2 @@
+[console_scripts]
+notebook2script = notebook2script.__main__:main
