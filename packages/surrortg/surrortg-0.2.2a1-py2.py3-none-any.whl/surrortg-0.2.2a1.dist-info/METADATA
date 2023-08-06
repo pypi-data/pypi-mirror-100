@@ -1,0 +1,15 @@
+Metadata-Version: 2.1
+Name: surrortg
+Version: 0.2.2a1
+Summary: surrortg
+Home-page: https://github.com/SurrogateInc/surrortgsdk-sdk
+Author: Surrogate Inc
+Classifier: License :: OSI Approved :: MIT License
+Requires-Dist: chardet ==3.0.4
+Requires-Dist: idna ==2.10
+Requires-Dist: aiohttp ==3.7.4
+Requires-Dist: pigpio
+Requires-Dist: python-engineio ==3.14.2
+Requires-Dist: python-socketio ==4.6.1
+Requires-Dist: pyyaml
+Requires-Dist: toml
