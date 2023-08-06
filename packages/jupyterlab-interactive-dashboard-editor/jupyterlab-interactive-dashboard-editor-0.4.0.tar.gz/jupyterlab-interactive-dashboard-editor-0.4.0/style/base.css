@@ -1,0 +1,157 @@
+.pr-JupyterDashboard {
+  overflow: auto;
+}
+
+.pr-DashboardWidget {
+  display: inline-flex;
+}
+
+.pr-DashboardWidget .pr-MarkdownOutput {
+  display: inline-block;
+}
+
+.pr-EditableWidget {
+  outline: var(--jp-border-width) solid var(--jp-inverse-layout-color4);
+  outline-offset: calc(-1 * var(--jp-border-width));
+  background: var(--jp-layout-color0);
+  overflow: visible;
+}
+
+.pr-EditableWidget > .pr-DashboardWidgetChild {
+  pointer-events: none;
+}
+
+.pr-EditableWidget:focus {
+  outline: var(--jp-border-width) solid var(--jp-brand-color1);
+  outline-offset: calc(-1 * var(--jp-border-width));
+}
+
+.pr-EditableWidget:hover {
+  outline: var(--jp-border-width) solid var(--jp-brand-color1);
+  outline-offset: calc(-1 * var(--jp-border-width));
+  cursor: move;
+}
+
+.pr-DashboardArea {
+  overflow: auto;
+}
+
+.pr-Resizer {
+  display: none;
+  width: 4px;
+  height: 4px;
+  outline: 1px solid var(--jp-brand-color1);
+  z-index: 3;
+  background-color: var(--jp-layout-color0);
+  position: absolute;
+}
+
+.pr-Resizer:hover {
+  background-color: var(--jp-brand-color1);
+}
+
+.pr-ResizerBottomRight {
+  right: -2px;
+  bottom: -2px;
+  cursor: nwse-resize;
+}
+
+.pr-ResizerBottomLeft {
+  left: -2px;
+  bottom: -2px;
+  cursor: nesw-resize;
+}
+
+.pr-ResizerTopRight {
+  right: -2px;
+  top: -2px;
+  cursor: nesw-resize;
+}
+
+.pr-ResizerTopLeft {
+  left: -2px;
+  top: -2px;
+  cursor: nwse-resize;
+}
+
+.pr-DashboardWidgetChild {
+  /* width: 100%;
+  height: 100%; */
+  overflow: hidden;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.pr-EditableWidget:focus .pr-Resizer {
+  display: block;
+}
+
+.pr-Canvas {
+  pointer-events: none;
+}
+
+.pr-Canvas.pr-FreeLayout {
+  background-image: linear-gradient(
+      to right,
+      var(--jp-border-color2) 1px,
+      transparent 1px
+    ),
+    linear-gradient(to bottom, var(--jp-border-color2) 1px, transparent 1px);
+  background-color: var(--jp-cell-editor-background);
+  background-size: 10px 10px;
+}
+
+.pr-Canvas.pr-TiledLayout {
+  background-image: linear-gradient(
+      to right,
+      var(--jp-border-color2) 1px,
+      transparent 1px
+    ),
+    linear-gradient(to bottom, var(--jp-border-color2) 1px, transparent 1px);
+  background-color: var(--jp-cell-editor-background);
+  background-size: 32px 32px;
+}
+
+.pr-OnboardingGif {
+  position: absolute;
+  visibility: hidden;
+  object-fit: contain;
+  left: 0;
+  top: 0;
+}
+
+.pr-DashboardToolbar {
+  padding: 2px;
+}
+
+.jp-Toolbar-item.pr-ToolbarModeSwitcher .jp-select-wrapper.jp-mod-focused {
+  border: none;
+  box-shadow: none;
+}
+
+select.pr-ToolbarSelector.jp-mod-styled {
+  height: 24px;
+  font-size: var(--jp-ui-font-size1);
+  line-height: 14px;
+  border-radius: 0;
+  display: block;
+  box-shadow: none;
+  border: none;
+}
+
+.pr-ToolbarSelector.jp-mod-styled select {
+  height: 24px;
+  font-size: var(--jp-ui-font-size1);
+  line-height: 14px;
+  border-radius: 0;
+  display: block;
+  box-shadow: none;
+  border: none;
+}
+
+.pr-DragImage {
+  box-shadow: var(--jp-elevation-z1);
+  outline: var(--jp-border-width) solid var(--jp-brand-color1);
+  outline-offset: calc(-1 * var(--jp-border-width));
+}
