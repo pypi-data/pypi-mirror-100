@@ -1,0 +1,3 @@
+Pillow
+ffmpy
+get-video-properties
