@@ -1,0 +1,14 @@
+Metadata-Version: 2.1
+Name: currency-parser
+Version: 0.1.404
+Summary: Currency Value Parser
+Home-page: UNKNOWN
+Author: Varun Mittal
+Author-email: varunmittal@nlpcore.com
+License: UNKNOWN
+Platform: UNKNOWN
+Requires-Dist: setuptools (~=54.2.0)
+
+`pip install currency-parser` <br><br> `from currency_parser import international.parser`
+
+
