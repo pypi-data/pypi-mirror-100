@@ -1,0 +1,12 @@
+README.txt
+setup.cfg
+setup.py
+decoupage_montage.egg-info/PKG-INFO
+decoupage_montage.egg-info/SOURCES.txt
+decoupage_montage.egg-info/dependency_links.txt
+decoupage_montage.egg-info/entry_points.txt
+decoupage_montage.egg-info/not-zip-safe
+decoupage_montage.egg-info/requires.txt
+decoupage_montage.egg-info/top_level.txt
+montage/__init__.py
+montage/formatters.py
