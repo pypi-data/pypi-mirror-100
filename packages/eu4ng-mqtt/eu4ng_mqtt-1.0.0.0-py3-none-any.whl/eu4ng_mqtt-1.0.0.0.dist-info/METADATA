@@ -1,0 +1,15 @@
+Metadata-Version: 2.1
+Name: eu4ng-mqtt
+Version: 1.0.0.0
+Summary: Personal mqtt Package for Eu4ng
+Home-page: https://eu4ng.tistory.com
+Author: Eu4ng
+Author-email: wjdgnsehowl@naver.com
+License: MIT
+Platform: UNKNOWN
+Requires-Python: >=3
+Requires-Dist: paho-mqtt (==1.5.1)
+
+UNKNOWN
+
+
