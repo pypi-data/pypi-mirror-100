@@ -1,0 +1,8 @@
+setup.py
+kopo4group4/Group2.py
+kopo4group4/__init__.py
+kopo4group4.egg-info/PKG-INFO
+kopo4group4.egg-info/SOURCES.txt
+kopo4group4.egg-info/dependency_links.txt
+kopo4group4.egg-info/requires.txt
+kopo4group4.egg-info/top_level.txt
