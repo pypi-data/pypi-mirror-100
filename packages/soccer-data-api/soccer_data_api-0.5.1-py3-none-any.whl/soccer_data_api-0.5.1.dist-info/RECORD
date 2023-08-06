@@ -1,0 +1,12 @@
+soccer_data_api/__init__.py,sha256=QNosVyCHBgjlt8eRzWsq1VwJCW1c497ht3L10k-Ba-c,53
+soccer_data_api/config.py,sha256=Ry6jmGX5GQSAIv-MmYmo6vs1qmk62UWMDIKeCjH-MZg,517
+soccer_data_api/get_soccer_data.py,sha256=qN76HKgIEJV_2pjo70MPVMGikB2DNZAJYvunZBmxaLY,5441
+soccer_data_api/response_types.py,sha256=SpvW959JRQNgLJkcoX3TgIKebSw8kvXQ0ELMa7QPK_w,776
+soccer_data_api/soccer_api.py,sha256=9J6CNCs0bSMWwiQ993Ut1sYAY3PXcljeGMFJvRcL_q8,4360
+soccer_data_api/soccer_data_api.py,sha256=NGtgztiHdADHWED717NqV3AYPiDMTb0XrevNLncf_g4,3461
+soccer_data_api/test.py,sha256=yp7KsNYF-tqmLv3M7hm9cwYIE9xDBcHuGuGU_Hdt2_g,111
+soccer_data_api-0.5.1.dist-info/LICENSE,sha256=NUjXOqr5ybXBMlOrj_JI50TgR2vmzLIjbpuHdIhXop4,1053
+soccer_data_api-0.5.1.dist-info/METADATA,sha256=naHiT1AfexqCds32g0DrBTYonTA0RvBU3iiOyyKEiyU,1105
+soccer_data_api-0.5.1.dist-info/WHEEL,sha256=EVRjI69F5qVjm_YgqcTXPnTAv3BfSUr0WVAHuSP3Xoo,92
+soccer_data_api-0.5.1.dist-info/top_level.txt,sha256=MsNHEOmnqaaKB7CoXz1j8c6epoOIrYRFPSk9gRungQE,16
+soccer_data_api-0.5.1.dist-info/RECORD,,
