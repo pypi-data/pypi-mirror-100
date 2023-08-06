@@ -1,0 +1,23 @@
+Metadata-Version: 1.1
+Name: wnlp
+Version: 0.0.1
+Summary: PyRecommender is a library for building Recommender System with Python, and this library was writen by Wei Wei.
+Home-page: http://www.taoxiang.org
+Author: Wei Wei
+Author-email: w.w@taoxiang.org
+License: BSD License
+Description: wnlp is a library for building Natural Language Processing System with Python, and this library was writen by Wei Wei.
+Platform: all
+Classifier: Development Status :: 4 - Beta
+Classifier: Operating System :: OS Independent
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: BSD License
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: Implementation
+Classifier: Programming Language :: Python :: 2
+Classifier: Programming Language :: Python :: 2.7
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.4
+Classifier: Programming Language :: Python :: 3.5
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Topic :: Software Development :: Libraries
