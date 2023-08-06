@@ -1,0 +1,9 @@
+numpy
+pandas
+tqdm
+
+[fastparquet]
+fastparquet
+
+[networkx]
+networkx
