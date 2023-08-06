@@ -1,0 +1,6 @@
+psycopg2-binary
+python-keycloak-client
+python-tds
+pytz
+requests
+selenium
