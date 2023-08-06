@@ -1,0 +1,3 @@
+requests<3,>=2
+gfxinfo-mupuf>=0.0.3
+humanize>=3.3.0
