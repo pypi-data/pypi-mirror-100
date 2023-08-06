@@ -1,0 +1,11 @@
+LICENSE.txt
+MANIFEST.in
+README.rst
+XTool.py
+setup.py
+xissue/__init__.py
+xissue/xissuer.py
+xissue.egg-info/PKG-INFO
+xissue.egg-info/SOURCES.txt
+xissue.egg-info/dependency_links.txt
+xissue.egg-info/top_level.txt
