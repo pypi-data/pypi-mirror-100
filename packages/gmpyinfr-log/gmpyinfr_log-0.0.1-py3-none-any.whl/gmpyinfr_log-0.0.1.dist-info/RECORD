@@ -1,0 +1,12 @@
+gmpyinfr_log/__init__.py,sha256=AbpHGcgLb-kRsJGnwFEktk7uzpZOCcBY74-YBdrKVGs,1
+gmpyinfr_log/dsgpttn/__init__.py,sha256=AbpHGcgLb-kRsJGnwFEktk7uzpZOCcBY74-YBdrKVGs,1
+gmpyinfr_log/dsgpttn/singleton.py,sha256=iQyUw3gJHmXZBVRh_G5JIbSA19jIo1Bl6WcL7SKt9gA,355
+gmpyinfr_log/log/__init__.py,sha256=AbpHGcgLb-kRsJGnwFEktk7uzpZOCcBY74-YBdrKVGs,1
+gmpyinfr_log/log/base.py,sha256=da8Qtraj2FAvoEKLNQyoKz8c7EYhn-2soPrY2OzoAAs,2610
+gmpyinfr_log/log/kibana.py,sha256=mM6jI1py4lEaJXE_16xI9U3xVelxJ2pM7v3-OjUvFlw,3804
+gmpyinfr_log/utils/__init__.py,sha256=RUmSyo3ONNxvGDJ__dFzSHWVBkuxFsNg9ERQ7UG4zv4,1472
+gmpyinfr_log-0.0.1.dist-info/LICENSE,sha256=OXLcl0T2SZ8Pmy2_dmlvKuetivmyPd5m1q-Gyd-zaYY,35149
+gmpyinfr_log-0.0.1.dist-info/METADATA,sha256=5hghRb9LoO-IUEnoxzo_awxphoGdc5jqaeMJbEj7IHw,1502
+gmpyinfr_log-0.0.1.dist-info/WHEEL,sha256=EVRjI69F5qVjm_YgqcTXPnTAv3BfSUr0WVAHuSP3Xoo,92
+gmpyinfr_log-0.0.1.dist-info/top_level.txt,sha256=xqRSfEprUpEDq0xg0ZxEBOOFrw5MWfP6j27l7kse7l0,13
+gmpyinfr_log-0.0.1.dist-info/RECORD,,
