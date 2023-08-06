@@ -1,0 +1,10 @@
+BBN/BBN.py,sha256=ibNh4tNb-wXN9Drb_AxyxNkvnuK8iv9kR93Z4bzTuGI,4887
+BBN/__init__.py,sha256=hnmvv1d1RcEAo1DUd0wpkdn8UNJ2QtRuMlCYKtkccYU,19
+BBN/constants.py,sha256=UuhdI6eK0-V40d89fu7Dz-13tyjoC1i0S27N9EaY2f0,571
+BBN/expansion.py,sha256=0lZnFYwj1OhqgYoiwBPlLUTezD_26wkohF663bm9cmE,3305
+BBN/nuclear.py,sha256=MeHdB2dOVl4E-Ay3RvrTJjUqfTxm6Vn1wPPDEqh2Al4,4799
+BBN-0.0.1.dist-info/LICENSE,sha256=2bm9uFabQZ3Ykb_SaSU_uUbAj2-htc6WJQmS_65qD00,1073
+BBN-0.0.1.dist-info/METADATA,sha256=9_9IDqUHrQoOrW_WrzDdFvq-T9aL4cAGWf-kfECHMW0,2633
+BBN-0.0.1.dist-info/WHEEL,sha256=OqRkF0eY5GHssMorFjlbTIq072vpHpF60fIQA6lS9xA,92
+BBN-0.0.1.dist-info/top_level.txt,sha256=ksxN-yJ4iLcNdwD19Pmxp87Io4f9bt7mUTDPDCXQwog,4
+BBN-0.0.1.dist-info/RECORD,,
