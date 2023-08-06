@@ -1,0 +1,16 @@
+mirai/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+mirai/api.py,sha256=7lFOPizxDgnA97c_YEGeI3tJi42i1X_8qisa4H1PJCc,637
+mirai/application.py,sha256=KgKHOsb8gZYnHoIS6bpH2M1EFphnS3ZhaDMQBW5duQU,3665
+mirai/event.py,sha256=kJwG2Liy2GB9YAYPpCbztPgw-pKqRmYUK3nxioOkrss,3048
+mirai/httpapi.py,sha256=soVfwTBWmak1dK6zz0UXv35tZVvryx1vWV_AJ5uiNl0,2882
+mirai/sender.py,sha256=iajhEv_2w33GTHRETOySjZmTEGoyPksQkxZzyVlq-l4,1207
+mirai/session.py,sha256=oreZYyeLU6Mq5nJoZorxCktSztHlACnWXENEQX-5P7Y,4537
+mirai/message/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+mirai/message/chain.py,sha256=46wQmJTr2tzyxUqJRw3g8aCS2w28j6VvfJRYTwSyc2E,6787
+mirai/message/element.py,sha256=Q25M9O-4jiT8ufFthjcdvrwNcK3OJg8861ET2pyd7kA,23626
+mirai/message/messages.py,sha256=2JKc5sGrAGND4kkciLjo8zjOs0IOm9pZyY7yIOcoHZM,198
+mirai_py-0.1a1.dev1.dist-info/LICENSE,sha256=VEVYxlruvCjfrTTVMpoqSldtn5rzrhEnlEbgjuXv6ag,1085
+mirai_py-0.1a1.dev1.dist-info/METADATA,sha256=sMVzVTKOi6BddJqg3maXvKOUKvW19vUGJYFgc9wAkDo,545
+mirai_py-0.1a1.dev1.dist-info/WHEEL,sha256=OqRkF0eY5GHssMorFjlbTIq072vpHpF60fIQA6lS9xA,92
+mirai_py-0.1a1.dev1.dist-info/top_level.txt,sha256=VCtkw23aBGQojW2q16YXyjJjpJKEI-szR_4Dw0OelWM,6
+mirai_py-0.1a1.dev1.dist-info/RECORD,,
