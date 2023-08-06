@@ -1,0 +1,9 @@
+slack/__init__.py,sha256=rKjTw-9OzLPu9WF2jJ7IN31uhfd7Fs0_LKMXSdqkDyo,100
+slack/post.py,sha256=MGXCiLxPI2ZsG0-ixfGOqd1MIpByAEIyy6R4NAKDvcQ,1775
+slackbot/__init__.py,sha256=rKjTw-9OzLPu9WF2jJ7IN31uhfd7Fs0_LKMXSdqkDyo,100
+slackbot/post.py,sha256=MGXCiLxPI2ZsG0-ixfGOqd1MIpByAEIyy6R4NAKDvcQ,1775
+slackbot_jucho-0.1.4.dist-info/LICENSE,sha256=RBMGH0iDr8OvfyPlqeI5FJ8lKhu-8cvcXjxJSjrMDWo,1201
+slackbot_jucho-0.1.4.dist-info/METADATA,sha256=htNPPNBmQLU3HpolBKazZ8EjVXrM7QMFjwranpopL3g,747
+slackbot_jucho-0.1.4.dist-info/WHEEL,sha256=EVRjI69F5qVjm_YgqcTXPnTAv3BfSUr0WVAHuSP3Xoo,92
+slackbot_jucho-0.1.4.dist-info/top_level.txt,sha256=phA0I9e7Q6wTiyb3smEjG45EIVeDNO-0bKBtS-43QMs,9
+slackbot_jucho-0.1.4.dist-info/RECORD,,
