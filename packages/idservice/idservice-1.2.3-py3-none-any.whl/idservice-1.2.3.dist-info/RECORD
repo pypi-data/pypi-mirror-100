@@ -1,0 +1,10 @@
+idservice/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+idservice/__main__.py,sha256=wvKFhPnKjUC2o10Zj1i-yunxnndj8nKsqw9m3g-BF9Q,238
+idservice/api.py,sha256=dic4-UfEjHvGHOSkuyBSkhl0_o1wtrSIIOjznjZK3hA,486
+idservice/config.py,sha256=ATke6j9vftGtw2FawwMgaapVCmMQdKZM5bMayl2iqjc,307
+idservice/service.py,sha256=5kXyNyH-vpP0nrgFaiTsx8KZDBQXsdLrGArmxqseMM8,1086
+idservice-1.2.3.dist-info/entry_points.txt,sha256=26FBx8ju02WnfzGM7MCZvAR7-AJRtpqHyRRfkPjx61w,59
+idservice-1.2.3.dist-info/LICENSE,sha256=ppiuGSOe-05OU8BjPNtnRoDNtwJTvBtqNMyfrPrU4x4,1065
+idservice-1.2.3.dist-info/WHEEL,sha256=VN2eEg4PHbTOniXb-cCYQPc6zUTS4dAcATjlgU3q-Lo,83
+idservice-1.2.3.dist-info/METADATA,sha256=v6-LYlU2soyeyjLdr_kx96PzKTFkDVi0hRL6hESeMbE,1629
+idservice-1.2.3.dist-info/RECORD,,
