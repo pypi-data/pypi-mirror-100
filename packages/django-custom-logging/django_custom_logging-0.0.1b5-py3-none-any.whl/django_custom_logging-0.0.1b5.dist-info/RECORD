@@ -1,0 +1,10 @@
+custom_logging/__init__.py,sha256=VCzR8ouAuPFg_KYmdQgqdXMPdB2g3HzhFj-PsYiqZYs,116
+custom_logging/exceptions.py,sha256=4syv5g9q_VhuU2XJs__cHv2Cx5cWGcjeZZx5PBPSQwA,62
+custom_logging/filters.py,sha256=WMndYCpY0Nhs3OucQxdG2CyBzkt3_hXDTNnlbY7Qznw,1315
+custom_logging/middlewares.py,sha256=wOGTsQ73EVXtpx3qrvvn8QU3A7olNCjkfve7-VrV0bY,199
+custom_logging/utils.py,sha256=qPwdkG-1ugKgSQA-BxtFHv-gP6zu65FkMDev3TNYaos,602
+django_custom_logging-0.0.1b5.dist-info/LICENSE,sha256=1QhZbK9mVawIn15K8lOpTb-pg4ZJCD3cZpJVTfyi1Uw,1071
+django_custom_logging-0.0.1b5.dist-info/METADATA,sha256=_8lQ-TdCpYpzqSWG4TuBjwPvXkWjyHiiA0oRpS8Q2p0,3946
+django_custom_logging-0.0.1b5.dist-info/WHEEL,sha256=OqRkF0eY5GHssMorFjlbTIq072vpHpF60fIQA6lS9xA,92
+django_custom_logging-0.0.1b5.dist-info/top_level.txt,sha256=n0ZM1mThzvT-brTkmxhJaLWORUgbcfhMd8rnZ7AhSp8,15
+django_custom_logging-0.0.1b5.dist-info/RECORD,,
