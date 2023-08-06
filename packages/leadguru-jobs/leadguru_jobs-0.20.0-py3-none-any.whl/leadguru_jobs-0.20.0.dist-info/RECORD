@@ -1,0 +1,15 @@
+lgt_jobs/__init__.py,sha256=s-x_HkmpAs97mkj8sA8yfC1dTs2EWrjWMV9_kNGTEQc,997
+lgt_jobs/analytics.py,sha256=mH6WmpLx7_50lgiVAaqOqHbqrd10h800un6gKUTDeck,1250
+lgt_jobs/basejobs.py,sha256=wNbFvUXMyxwNTnQAy5VdRQyDA0Oh_byGFgafhTJSeCk,1230
+lgt_jobs/bots_stats.py,sha256=ufcO8WKtc94mDQ5lluX8fdW-VbYaEj8syM5x0AwUj8o,7890
+lgt_jobs/env.py,sha256=6T3TYk8b5MU2jroqiFoI7ORcXAh6Mmrl_8mLLd4SjBY,707
+lgt_jobs/k8client.py,sha256=oY9cFlLWoZmG8_cA-FIR1fESCTorvs-kNA__KBRehC4,920
+lgt_jobs/leads.py,sha256=J_tQinOYwM3LQ4ExgHMF8PXbNPgrdr6QnsElsNPeOMk,819
+lgt_jobs/main.py,sha256=QaaXioVgECa53lx-cM0HQOviMlP71t37j6APk9SnwIU,1199
+lgt_jobs/runner.py,sha256=d2728Qq3ozO-441NsHIkX-OIDNPCyMe87eiFz3tbtFk,920
+lgt_jobs/simple_job.py,sha256=L8gBO3DXMy0eHnYYfowRvX-4vh16mmrgdSv-i3wVsW4,517
+lgt_jobs/smtp.py,sha256=O2KSx3dbm2o_O_jWezYwiE1sEq0AzzOlwO2Plde-_bg,1333
+leadguru_jobs-0.20.0.dist-info/METADATA,sha256=ZZoc0l6S4eY6kFyMYYg2PhKgS_-wfRtrR_WHBOZbWEM,994
+leadguru_jobs-0.20.0.dist-info/WHEEL,sha256=OqRkF0eY5GHssMorFjlbTIq072vpHpF60fIQA6lS9xA,92
+leadguru_jobs-0.20.0.dist-info/top_level.txt,sha256=rIuw1DqwbnZyeoarBSC-bYeGOhv9mZBs7_afl9q4_JI,9
+leadguru_jobs-0.20.0.dist-info/RECORD,,
