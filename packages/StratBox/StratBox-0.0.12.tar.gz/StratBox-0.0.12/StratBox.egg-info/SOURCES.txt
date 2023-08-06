@@ -1,0 +1,5 @@
+setup.py
+StratBox.egg-info/PKG-INFO
+StratBox.egg-info/SOURCES.txt
+StratBox.egg-info/dependency_links.txt
+StratBox.egg-info/top_level.txt
