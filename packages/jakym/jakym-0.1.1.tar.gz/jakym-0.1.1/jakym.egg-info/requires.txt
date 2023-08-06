@@ -1,0 +1,5 @@
+youtube_dl
+pyfiglet
+requests
+pydub
+termcolor
