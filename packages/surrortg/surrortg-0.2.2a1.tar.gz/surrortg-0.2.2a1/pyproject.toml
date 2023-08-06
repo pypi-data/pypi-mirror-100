@@ -1,0 +1,41 @@
+[tool.black]
+line-length = 79
+include = '\.pyi?$'
+exclude = '''
+/(
+    \.git
+  | \.mypy_cache
+  | \.tox
+  | \.venv
+  | _build
+  | build
+)/
+'''
+
+[tool.isort]
+multi_line_output = 3
+include_trailing_comma = true
+force_grid_wrap = 0
+use_parentheses = true
+ensure_newline_before_comments = true
+line_length = 79
+
+[build-system]
+requires = ["flit_core >=2,<4"]
+build-backend = "flit_core.buildapi"
+
+[tool.flit.metadata]
+module = "surrortg"
+author = "Surrogate Inc"
+home-page = "https://github.com/SurrogateInc/surrortgsdk-sdk"
+classifiers = ["License :: OSI Approved :: MIT License"]
+requires = [
+    "chardet ==3.0.4",
+    "idna ==2.10",
+    "aiohttp ==3.7.4",
+    "pigpio",
+    "python-engineio ==3.14.2",
+    "python-socketio ==4.6.1",
+    "pyyaml",
+    "toml",
+]

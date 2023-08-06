@@ -1,0 +1,74 @@
+image: python:3.7.3
+
+definitions:
+  steps:
+    - step: &unittests
+        name: unittests
+        script:
+          - pip install pipenv==2020.11.4
+          - pipenv sync
+          - pipenv run tests
+    - step: &isort
+        name: isort
+        script:
+          - pip install pipenv==2020.11.4
+          - pipenv sync --dev
+          - pipenv run isort
+    - step: &black
+        name: black
+        script:
+          - pip install pipenv==2020.11.4
+          - pipenv sync --dev
+          - pipenv run black
+    - step: &flake8
+        name: flake8
+        script:
+          - pip install pipenv==2020.11.4
+          - pipenv sync --dev
+          - pipenv run flake8
+    - step: &markdownlint
+        name: markdownlint
+        image: ruby:2.7.2 # override default image
+        script:
+          - gem install mdl -v 0.11.0 # if version changed, change also on .pre-commit-config.yaml and .github/workflows/main.yml!
+          - mdl --style '.mdl-style.rb' .
+    - step: &codespell
+        name: codespell
+        script:
+          - pip install pipenv==2020.11.4
+          - pipenv sync --dev
+          - pipenv run codespell
+    - step: &docs-test
+        name: docs-test
+        script:
+          - pip install pipenv==2020.11.4
+          - pipenv sync --dev
+          - pipenv run docs
+    - step: &github-sync
+        name: github-sync
+        script:
+          - git remote add github-repo git@github.com:SurrogateInc/surrortg-sdk.git
+          - git push github-repo HEAD:main
+
+pipelines:
+  default:
+    - parallel:
+      - step: *unittests
+      - step: *isort
+      - step: *black
+      - step: *flake8
+      - step: *markdownlint
+      - step: *codespell
+      - step: *docs-test
+
+  branches:
+    main: # If tests/formatting fails, does not push to Github.
+      - parallel:
+        - step: *unittests
+        - step: *isort
+        - step: *black
+        - step: *flake8
+        - step: *markdownlint
+        - step: *codespell
+        - step: *docs-test
+      - step: *github-sync

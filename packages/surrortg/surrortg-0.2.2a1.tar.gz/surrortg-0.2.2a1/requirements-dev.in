@@ -1,0 +1,25 @@
+# Add this line if you need to figure out coflicts between regular and dev dependencies
+# -c requirements.in
+
+# Conflict fixes, required to fix conflicts between regular and dev dependencies:
+chardet==3.0.4          # if version changed, change also on requirements.in
+idna==2.10              # if version changed, change also on requirements.in
+
+# Generic:
+numpy
+pip-tools
+pre-commit
+
+# Pipelines:
+importlib-metadata      # needed by flake8 and listed explicitly to fix dependency issues between Python versions
+flake8==3.9.0           # if version changed, change also on .pre-commit-config.yaml and Pipfile
+black==20.8b1           # if version changed, change also on .pre-commit-config.yaml and Pipfile
+codespell==v2.0.0       # if version changed, change also on .pre-commit-config.yaml and Pipfile
+pep8-naming==0.11.1     # if version changed, change also on .pre-commit-config.yaml and Pipfile
+isort==5.7.0            # if version changed, change also on .pre-commit-config.yaml and Pipfile
+
+# Docs:
+recommonmark==0.6.0     # if version changed, change also on Pipfile
+sphinx==3.1.1           # if version changed, change also on Pipfile
+sphinx-rtd-theme==0.4.3 # if version changed, change also on Pipfile
+myst-parser==0.13.5     # if version changed, change also on Pipfile
