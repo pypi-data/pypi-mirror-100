@@ -1,0 +1,10 @@
+Metadata-Version: 1.0
+Name: thumbor_arcface
+Version: 0.1
+Summary: Enable thumbor to use ArcFace to run face detection
+Home-page: https://github.com/lanrenwo/thumbor_arcface
+Author: lanrenwo
+Author-email: phpcleps@gmail.com
+License: UNKNOWN
+Description: UNKNOWN
+Platform: UNKNOWN

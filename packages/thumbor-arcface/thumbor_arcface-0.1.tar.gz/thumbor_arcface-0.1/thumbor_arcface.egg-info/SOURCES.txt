@@ -1,0 +1,16 @@
+.gitignore
+MANIFEST.in
+VERSION
+requirements.txt
+setup.py
+thumbor_arcface/__init__.py
+thumbor_arcface.egg-info/PKG-INFO
+thumbor_arcface.egg-info/SOURCES.txt
+thumbor_arcface.egg-info/dependency_links.txt
+thumbor_arcface.egg-info/requires.txt
+thumbor_arcface.egg-info/top_level.txt
+thumbor_arcface/arcface/engine.py
+thumbor_arcface/arcface/lib_func.py
+thumbor_arcface/arcface/struct_info.py
+thumbor_arcface/lib/libarcsoft_face.so
+thumbor_arcface/lib/libarcsoft_face_engine.so
