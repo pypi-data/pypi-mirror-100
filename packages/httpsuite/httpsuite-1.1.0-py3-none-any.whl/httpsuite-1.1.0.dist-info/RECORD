@@ -1,0 +1,12 @@
+httpsuite/RFC.py,sha256=RLPkRmnS0L7lFx8ezYSA7YsgQAql-AwENWFizcTcWH8,6050
+httpsuite/__init__.py,sha256=J7HtLNXmsQmNniQVpxnLC0Q6lXxa0aZBHWV4Xc-m_5s,153
+httpsuite/http.py,sha256=Ne7UjQTMITI4SicsE1hDCsY-X2bu54REkDbbs-dcPZg,12035
+httpsuite/interface.py,sha256=HTZdBeYkyjNSCsVo4naPXFyNOr7Uv3zuy3DpRRTMvbg,5961
+httpsuite/session.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+httpsuite-1.1.0.dist-info/AUTHORS,sha256=IUJ7Ww3ZwJDeVDBVohFySluEm0QLD8ni6IlyMT7Z_dw,62
+httpsuite-1.1.0.dist-info/LICENSE,sha256=JXPN_UOETeAj7_APaTofTYtcD4DAKkdVTGAjfi6HMuM,1069
+httpsuite-1.1.0.dist-info/METADATA,sha256=fGFmLbXMlcx_zfYTGAKQh9Y9rIpwkWKwTB9Vkyuf3DY,5391
+httpsuite-1.1.0.dist-info/WHEEL,sha256=OqRkF0eY5GHssMorFjlbTIq072vpHpF60fIQA6lS9xA,92
+httpsuite-1.1.0.dist-info/pbr.json,sha256=wpHTygWKo9-HDgZLLwGxT9PL2AG87uXfDE4RPsd8W1Y,47
+httpsuite-1.1.0.dist-info/top_level.txt,sha256=yomfJMEspPKttMFDdPjNB1wUcJGlPZwHGYJliKAwpFg,10
+httpsuite-1.1.0.dist-info/RECORD,,
