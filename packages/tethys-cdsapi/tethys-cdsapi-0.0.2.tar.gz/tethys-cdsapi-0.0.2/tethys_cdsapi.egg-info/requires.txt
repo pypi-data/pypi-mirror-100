@@ -1,0 +1,5 @@
+tethys-utils
+xarray==0.16.2
+netcdf4
+cdsapi
+pandas
