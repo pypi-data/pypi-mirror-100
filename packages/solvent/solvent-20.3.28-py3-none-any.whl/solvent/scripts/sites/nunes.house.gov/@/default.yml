@@ -1,0 +1,85 @@
+locators:
+  inclusions:
+    - mode: ''
+      value: ''
+      index: 0
+      uses: 0
+  exclusions:
+    - mode: ''
+      value: ''
+      index: 0
+      uses: 0
+actions:
+  - verb: ''
+    name: ''
+    locators:
+      - mode: ''
+        value: ''
+        index: 0
+        uses: 0
+  - verb: fill
+    name: email
+    locators:
+      - mode: ''
+        value: ''
+        index: 0
+        uses: 0
+      - mode: name
+        value: email
+        index: 0
+        uses: -1
+      - mode: name
+        value: email
+        index: 0
+        uses: -1
+      - mode: id
+        value: email
+        index: 0
+        uses: -1
+      - mode: id
+        value: email
+        index: 0
+        uses: -1
+      - mode: css
+        value: '[aria-label="Email"]'
+        index: 0
+        uses: -1
+      - mode: id
+        value: Email
+        index: 0
+        uses: -1
+      - mode: css
+        value: '[title="input email"]'
+        index: 0
+        uses: 32
+  - verb: click
+    name: sign_up_now
+    locators:
+      - mode: ''
+        value: ''
+        index: 0
+        uses: 0
+      - mode: text
+        value: Sign Up Now
+        index: 0
+        uses: -1
+      - mode: text
+        value: Sign up now
+        index: 0
+        uses: 30
+      - mode: text
+        value: sign up now
+        index: 0
+        uses: 0
+      - mode: value
+        value: Sign Up Now
+        index: 0
+        uses: 0
+      - mode: value
+        value: Sign up now
+        index: 0
+        uses: 0
+      - mode: value
+        value: sign up now
+        index: 0
+        uses: 0
