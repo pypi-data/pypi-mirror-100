@@ -1,0 +1,3 @@
+[console_scripts]
+awareness-o-meter = awarenessometer.__main__:create_report
+

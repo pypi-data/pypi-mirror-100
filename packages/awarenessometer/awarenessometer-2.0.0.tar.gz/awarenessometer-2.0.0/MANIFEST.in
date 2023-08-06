@@ -1,0 +1,2 @@
+recursive-include awarenessometer/templates *
+recursive-include awarenessometer/locale *.mo
