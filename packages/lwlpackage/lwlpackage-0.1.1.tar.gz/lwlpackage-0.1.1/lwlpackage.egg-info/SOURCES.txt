@@ -1,0 +1,11 @@
+LICENSE
+MANIFEST.in
+README.md
+setup.py
+lwlPackge/__init__.py
+lwlPackge/__version__.py
+lwlPackge/core.py
+lwlpackage.egg-info/PKG-INFO
+lwlpackage.egg-info/SOURCES.txt
+lwlpackage.egg-info/dependency_links.txt
+lwlpackage.egg-info/top_level.txt
