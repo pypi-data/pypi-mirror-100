@@ -1,0 +1,85 @@
+2021-03-27  rocky <rb@dustyfeet.com>
+
+	* loctraceback/version.py: Get ready for release 1.1.1
+
+2021-03-27  rocky <rb@dustyfeet.com>
+
+	* README.rst: Administrivia
+
+2021-03-27  rocky <rb@dustyfeet.com>
+
+	* .github/FUNDING.yml, .github/workflows/osx.yaml,
+	.github/workflows/ubuntu.yaml, README.rst,
+	admin-tools/pyenv-versions: Try workflows CI...  pyenv-versions: uncompyle6 (and thus we) don't support 3.9
+
+2021-03-27  rocky <rb@dustyfeet.com>
+
+	* Makefile, admin-tools/check-versions.sh, test/test_traceback.py: 
+	Get tests working across all versions 3.3 doesn't have tb.check()
+
+2021-03-26  rocky <rb@dustyfeet.com>
+
+	* __pkginfo__.py, test/test_traceback.py: Administriva and test
+	adjusting
+
+2021-03-24  rocky <rb@dustyfeet.com>
+
+	* README.rst, __pkginfo__.py, admin-tools/how-to-make-a-release.md,
+	admin-tools/make-dist.sh, admin-tools/pyenv-versions,
+	loctraceback/__init__.py, loctraceback/linecache.py,
+	loctraceback/ltraceback.py, loctraceback/version.py, setup.py: 
+	General revision and update...  * Bump version to dev * VERSION -> __version__ * blacken some files * bump min packge versions Note: some tests fail...
+
+2018-03-13  rocky <rb@dustyfeet.com>
+
+	* __pkginfo__.py, loctraceback/ltraceback.py,
+	loctraceback/version.py, test/test_traceback.py: Revise for 3.0.0
+	uncompyle API...  fix tests for deparse output
+
+2018-02-17  rocky <rb@dustyfeet.com>
+
+	* README.rst: More Readme hacking
+
+2018-02-17  rocky <rb@dustyfeet.com>
+
+	* README.rst: README hacking
+
+2018-02-17  rocky <rb@dustyfeet.com>
+
+	* .gitignore, MANIFEST.in, NEWS, README.rst, __pkginfo__.py,
+	admin-tools/how-to-make-a-release.md, admin-tools/make-dist.sh,
+	admin-tools/pyenv-versions: Get ready for release 1.0.0
+
+2018-02-17  rocky <rb@dustyfeet.com>
+
+	* README.rst, example/.gitignore, example/call-fib.py, {test =>
+	example}/tb-comp.py, {test => example}/tb-div.py, {test =>
+	example}/tb-eval.py, {test => example}/tb-exec.py: Move/create
+	examples README.rst: show examples
+
+2018-02-17  rocky <rb@dustyfeet.com>
+
+	* loctraceback/ltraceback.py, test/script_helper.py,
+	test/test_traceback.py: Make compatible with 3.3...  Comment out some failing unit tests
+
+2018-02-16  rocky <rb@dustyfeet.com>
+
+	* README.rst, loctraceback/ltraceback.py: Correct {tb,f}_lasti
+	value...  Fill out README.rst
+
+2018-02-16  rocky <rb@dustyfeet.com>
+
+	* loctraceback/ltraceback.py, test/tb-comp.py, test/{tb1.py =>
+	tb-div.py}, test/tb-eval.py, test/tb-exec.py: Bang on some more
+
+2018-02-16  rocky <rb@dustyfeet.com>
+
+	* __pkginfo__.py, loctraceback/ltraceback.py, test/tb1.py: Add
+	deparsing for tracebacks...  Note that we need to adjust lasti in exceptions to be the lasti of
+	the instruction causing the exception and not of the frame that
+	calls the traceback-formatting routine.
+
+2018-02-14  rocky <rb@dustyfeet.com>
+
+	* Start traceback + uncompyle6
+
