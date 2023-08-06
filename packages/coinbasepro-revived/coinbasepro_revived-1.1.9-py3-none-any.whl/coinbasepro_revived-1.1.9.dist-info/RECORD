@@ -1,0 +1,11 @@
+cbpro/.gitignore,sha256=W_97FJece9c5eCAEeUPbwrUGJHj6U2mXHWjQvINrwOY,19
+cbpro/__init__.py,sha256=LIwZelxryrogp9xMSkUNAlInXqEmcxXuzYpZU8np-is,238
+cbpro/authenticated_client.py,sha256=yM6DhLd8Y0EmIe48Tdmc8EHLMEIOFsd1bQifAP43WH4,41762
+cbpro/cbpro_auth.py,sha256=LAM-wOEN_t17oulNKqoGiKAe3dgZrY7x7i6B7xH751g,1382
+cbpro/order_book.py,sha256=lylRi2rbWn8KzYZm557zVraa_CpjQLnWbIG7oElfEIs,9910
+cbpro/public_client.py,sha256=7WZRl7DpWWFn7qBhgzdqUW6AZ8mdYRf3u3oUdib4k_Y,11485
+cbpro/websocket_client.py,sha256=RIGhDYbhyWZsx6-NVpC0uXwLjUcP0ph450g-awnkjfI,5568
+coinbasepro_revived-1.1.9.dist-info/LICENSE,sha256=6jSQl3Irk0mfGHnehjhnkF0XJm-wUWfKjFeW9K0IazY,1103
+coinbasepro_revived-1.1.9.dist-info/WHEEL,sha256=VN2eEg4PHbTOniXb-cCYQPc6zUTS4dAcATjlgU3q-Lo,83
+coinbasepro_revived-1.1.9.dist-info/METADATA,sha256=wK2YPPHfwYltFQUxOHV1Rysyvwth6t9pRv1JGlT6r08,712
+coinbasepro_revived-1.1.9.dist-info/RECORD,,
