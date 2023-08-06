@@ -1,0 +1,18 @@
+Metadata-Version: 2.1
+Name: investate
+Version: 0.0.4
+Summary: Tools to find the value over time of various investments mainly to compare with real estate investment
+Home-page: https://github.com/cavart28/investate/investate
+Author: Christian Avart
+License: mit
+Keywords: invest,real estate,finance
+Platform: any
+Description-Content-Type: text/markdown
+Requires-Dist: numpy
+Requires-Dist: pandas
+Requires-Dist: matplotlib
+
+# investate
+Tools to find the value over time of various investments, mainly to compare with real estate investment
+
+
