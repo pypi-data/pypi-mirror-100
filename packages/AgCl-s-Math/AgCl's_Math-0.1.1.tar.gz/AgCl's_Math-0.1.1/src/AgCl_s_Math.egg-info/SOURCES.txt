@@ -1,0 +1,8 @@
+setup.py
+src/AgCl_s_Math.egg-info/PKG-INFO
+src/AgCl_s_Math.egg-info/SOURCES.txt
+src/AgCl_s_Math.egg-info/dependency_links.txt
+src/AgCl_s_Math.egg-info/top_level.txt
+src/Basic_Math/Elemental_calculation_decimal.py
+src/Basic_Math/Elemental_calculation_integer.py
+src/Basic_Math/__init__.py
