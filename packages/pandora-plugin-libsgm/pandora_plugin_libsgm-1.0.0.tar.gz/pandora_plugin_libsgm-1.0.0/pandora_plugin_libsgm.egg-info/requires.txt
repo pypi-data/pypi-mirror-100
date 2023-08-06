@@ -1,0 +1,17 @@
+numpy
+xarray
+nose2
+json-checker
+rasterio
+libsgm==0.3.1
+pandora>=1.0.0
+
+[dev]
+sphinx
+sphinx_rtd_theme
+sphinx_autoapi
+nose2
+pylint
+pre-commit
+mypy
+black
