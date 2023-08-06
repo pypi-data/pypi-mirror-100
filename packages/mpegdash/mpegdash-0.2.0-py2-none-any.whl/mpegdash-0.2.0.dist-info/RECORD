@@ -1,0 +1,10 @@
+mpegdash/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+mpegdash/nodes.py,sha256=j70LxBTTZPOkg8i4YprVzeOznY7uz5hC9HHgmDw4X0U,40004
+mpegdash/parser.py,sha256=Xkywc9FzptoRI5MuajdpCUqZZrmxiRh4bmullQ14y3o,1335
+mpegdash/prettyprinter.py,sha256=uh8a37-pkLS9iXEzZtdDcRhw1iCG7jFdJCMuiUtFmI4,2272
+mpegdash/utils.py,sha256=hPRE6upcoEBddSQfFty3jDwjWl690ZiXkmJm5KJ5zYs,2389
+mpegdash-0.2.0.dist-info/LICENSE,sha256=w83UWJWYnr2fS97uqFH_1Qqfn6KHa9hPeVK-Qfm2Xvw,1079
+mpegdash-0.2.0.dist-info/METADATA,sha256=MygaD6VmATZHY-w6QItsaKbZ-lPzqpMp_ws7EsYv3Sg,2180
+mpegdash-0.2.0.dist-info/WHEEL,sha256=bK8TJl-oUKFDa18qkB68zwTZhIBCifqi4qjS_NS4aFQ,92
+mpegdash-0.2.0.dist-info/top_level.txt,sha256=sxbZYidKbBu_b5lQjQXV66UqGAQWtutaxFT40xHNh_o,9
+mpegdash-0.2.0.dist-info/RECORD,,
