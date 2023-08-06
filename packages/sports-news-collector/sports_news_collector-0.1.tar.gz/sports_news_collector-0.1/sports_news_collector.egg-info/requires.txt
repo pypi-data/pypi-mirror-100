@@ -1,0 +1,5 @@
+beautifulsoup4
+requests
+pretty_html_table
+pandas
+pororo

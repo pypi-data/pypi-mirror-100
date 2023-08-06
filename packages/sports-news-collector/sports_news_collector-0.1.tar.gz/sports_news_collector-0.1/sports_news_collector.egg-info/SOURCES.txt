@@ -1,0 +1,12 @@
+README.md
+setup.py
+sports_news_collector/__init__.py
+sports_news_collector/email_sender.py
+sports_news_collector/news_crawler.py
+sports_news_collector/sports_news_collector.py
+sports_news_collector.egg-info/PKG-INFO
+sports_news_collector.egg-info/SOURCES.txt
+sports_news_collector.egg-info/dependency_links.txt
+sports_news_collector.egg-info/not-zip-safe
+sports_news_collector.egg-info/requires.txt
+sports_news_collector.egg-info/top_level.txt
