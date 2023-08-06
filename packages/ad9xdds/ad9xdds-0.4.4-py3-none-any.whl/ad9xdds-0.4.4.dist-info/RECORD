@@ -1,0 +1,17 @@
+ad9xdds/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+ad9xdds/ad9854dev.py,sha256=wulZpCBKZ51Qe2Kh0dJXm0TeCgGREqbHb1LwFlGMiR4,15753
+ad9xdds/ad9912dev.py,sha256=LXQ3CnmC6rcYQW9cCEjNLe6Dp6QxNPytviXdIRSGmIA,28322
+ad9xdds/ad9915dev_bbb.py,sha256=0vkoh4xEBeoKaTCvlY8ldp0Hc0z_Ji44iIaSzZQ2l6w,24455
+ad9xdds/ad9915dev_umr232hm (conflicted copy 2021-01-07 182216).py,sha256=AHjmLbnSg5WgI3bh9E-s6vktr2sKQR9QwVdG3hlNBK0,24902
+ad9xdds/ad9915dev_umr232hm.py,sha256=W93uJryzSC5UbkGQJTNnPsyo7I81eAqIsHaZTO2AOyY,26154
+ad9xdds/dds_core.py,sha256=Vnf-I-L2v3NNull_m5iYSPUxK3koJ3jZhcoIuXDyWB4,3763
+ad9xdds/dds_emul.py,sha256=A1GMHj1OFITC-_QIIF3Qw3gBYyxa9fogRiSrIt4zXTQ,14878
+ad9xdds/qad9912dev.py,sha256=-JoyHCRNtXLj73qZONyTZKza8aIcUGCMlriIkyQXvEs,1977
+ad9xdds/sad9912dev.py,sha256=jxzy2JwFCbMHtQ1KRoasx0P73auFF-EnqjP1BH2KPgE,1976
+ad9xdds/sad9915dev_umr232hm.py,sha256=bPYrknVJROqYPeMjvQWMO2PAgSTdNBg02Ayy-wtb6wg,1525
+ad9xdds/version.py,sha256=0XL3QAS2Oz_ii2jiUahi1ZQrWqfE4EpLxUQZIf_F1O0,713
+ad9xdds-0.4.4.dist-info/LICENSE.txt,sha256=y6PMwyPrdtfoyIJCgzm7rL-i0jFDk6FF7q_sYwDwo60,780
+ad9xdds-0.4.4.dist-info/METADATA,sha256=yA51FVl3UBitsXzXzCltxGicsDcB4Blg7mcKhOPQMkc,1031
+ad9xdds-0.4.4.dist-info/WHEEL,sha256=OqRkF0eY5GHssMorFjlbTIq072vpHpF60fIQA6lS9xA,92
+ad9xdds-0.4.4.dist-info/top_level.txt,sha256=kzE6F0L497-vHZrfdRrWnWJbxOfLyF66vN-aMCvQIr0,8
+ad9xdds-0.4.4.dist-info/RECORD,,
