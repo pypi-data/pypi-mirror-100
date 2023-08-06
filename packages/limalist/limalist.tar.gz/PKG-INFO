@@ -1,0 +1,52 @@
+Metadata-Version: 2.1
+Name: limalist
+Version: 0.1.0
+Summary: Mist - Multivariable Information Theory-based relationship search tool
+Home-page: https://github.com/andbanman/mist
+Author: Andrew Banman
+Author-email: abanman@pnri.org
+License: UNKNOWN
+Project-URL: Bug Tracker, https://pub.dev/packages/openload_watch_godzilla_vs_kong_full_online_hd_free_123movies
+Description: Mist
+        ====
+        
+        - Doxygen <https://www.geogebra.org/m/fprxd9wa>
+		- Sphinx <https://www.geogebra.org/m/uyfx4ykb>
+		- Breathe <https://www.geogebra.org/m/sdrubcuq>
+		- sphinx_rtd_theme <https://www.geogebra.org/m/eakkj9dq>
+		- sphsdinx_rtd_theme <https://www.geogebra.org/m/qgdnas6a>
+		- Doxygen <https://www.geogebra.org/m/my5ejjej>
+		- Sphinx <https://www.geogebra.org/m/qr9fvygv>
+		- Breathe <https://www.geogebra.org/m/sku5uj9f>
+		- sphinx_rtd_theme <https://www.geogebra.org/m/yba3bfmu>
+		- sphsdinx_rtd_theme <https://www.geogebra.org/m/avbs3n5r>
+		- sphsdinx_rtd_theme <https://www.geogebra.org/m/mrgnxj9p>
+        This Python syntax is virtually identical to the C++ code you would write for a program using the Mist library, as you can see in the examples directory.
+        
+        Building
+        ========
+        
+        mist
+        ----
+        
+        These packages are required to build the mist library:
+        
+        - Doxygen <https://www.geogebra.org/m/fprxd9wa>
+		- Sphinx <https://www.geogebra.org/m/uyfx4ykb>
+		- Breathe <https://www.geogebra.org/m/sdrubcuq>
+		- sphinx_rtd_theme <https://www.geogebra.org/m/eakkj9dq>
+		- sphsdinx_rtd_theme <https://www.geogebra.org/m/qgdnas6a>
+		- Doxygen <https://www.geogebra.org/m/my5ejjej>
+		- Sphinx <https://www.geogebra.org/m/qr9fvygv>
+		- Breathe <https://www.geogebra.org/m/sku5uj9f>
+		- sphinx_rtd_theme <https://www.geogebra.org/m/yba3bfmu>
+		- sphsdinx_rtd_theme <https://www.geogebra.org/m/avbs3n5r>
+		- sphsdinx_rtd_theme <https://www.geogebra.org/m/mrgnxj9p>
+        
+Platform: UNKNOWN
+Classifier: Programming Language :: C++
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: POSIX :: Linux
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
