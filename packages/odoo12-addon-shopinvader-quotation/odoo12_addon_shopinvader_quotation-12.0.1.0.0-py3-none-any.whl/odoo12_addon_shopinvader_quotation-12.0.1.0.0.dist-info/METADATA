@@ -1,0 +1,67 @@
+Metadata-Version: 2.1
+Name: odoo12-addon-shopinvader-quotation
+Version: 12.0.1.0.0
+Summary: Shopinvader Quotation
+Home-page: https://github.com/shopinvader/odoo-shopinvader
+Author: Akretion
+License: AGPL-3
+Platform: UNKNOWN
+Classifier: Programming Language :: Python
+Classifier: Framework :: Odoo
+Classifier: License :: OSI Approved :: GNU Affero General Public License v3
+Classifier: Development Status :: 5 - Production/Stable
+Requires-Python: >=3.5
+Requires-Dist: odoo12-addon-shopinvader
+Requires-Dist: odoo (<12.1dev,>=12.0a)
+
+.. image:: https://img.shields.io/badge/licence-AGPL--3-blue.svg
+   :target: http://www.gnu.org/licenses/agpl-3.0-standalone.html
+   :alt: License: AGPL-3
+
+=====================
+ShopInvader Quotation
+=====================
+
+This module help to manage quotation in shopinvader. It adds a new typology 'quotation' on sale_order.
+
+Usage
+=====
+
+
+Known issues / Roadmap
+======================
+
+
+Changelog
+=========
+
+10.0.1.0.0 (2018-07-20)
+~~~~~~~~~~~~~~~~~~~~~~~
+
+* [IMP] add module to handle quotation with shopinvader
+
+12.0.1.0.0 (2019-05-14)
+~~~~~~~~~~~~~~~~~~~~~~~
+
+* [12.0][MIG] shopinvader_quotation
+
+
+Credits
+=======
+
+Contributors
+~~~~~~~~~~~~
+
+* Benoît GUILLOT <benoit.guillot@akretion.com>
+
+Do not contact contributors directly about support or help with technical issues.
+
+Funders
+~~~~~~~
+
+The development of this module has been financially supported by:
+
+* Akretion R&D
+* LaboAndCo
+
+
