@@ -1,0 +1,16 @@
+HISTORY.rst
+MANIFEST.in
+README.rst
+requirements.txt
+setup.cfg
+setup.py
+versioneer.py
+JsonSyncer.egg-info/PKG-INFO
+JsonSyncer.egg-info/SOURCES.txt
+JsonSyncer.egg-info/dependency_links.txt
+JsonSyncer.egg-info/not-zip-safe
+JsonSyncer.egg-info/requires.txt
+JsonSyncer.egg-info/top_level.txt
+jsonsyncer/__init__.py
+jsonsyncer/_version.py
+jsonsyncer/syncer.py
