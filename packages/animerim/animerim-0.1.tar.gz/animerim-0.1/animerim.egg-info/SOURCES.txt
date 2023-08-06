@@ -1,0 +1,8 @@
+README.txt
+setup.py
+animerim/__init__.py
+animerim.egg-info/PKG-INFO
+animerim.egg-info/SOURCES.txt
+animerim.egg-info/dependency_links.txt
+animerim.egg-info/requires.txt
+animerim.egg-info/top_level.txt
