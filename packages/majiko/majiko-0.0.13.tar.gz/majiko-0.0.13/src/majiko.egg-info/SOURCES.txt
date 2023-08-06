@@ -1,0 +1,9 @@
+README.md
+pyproject.toml
+setup.py
+src/majiko/__init__.py
+src/majiko/wisso.py
+src/majiko.egg-info/PKG-INFO
+src/majiko.egg-info/SOURCES.txt
+src/majiko.egg-info/dependency_links.txt
+src/majiko.egg-info/top_level.txt
