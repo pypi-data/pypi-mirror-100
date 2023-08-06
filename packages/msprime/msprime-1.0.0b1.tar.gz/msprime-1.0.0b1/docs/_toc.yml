@@ -1,0 +1,29 @@
+- file: intro
+- part: Getting started
+  chapters:
+  - file: quickstart
+  - file: installation
+
+- part: Running simulations
+  chapters:
+  - file: ancestry
+  - file: mutations
+  - file: demography
+
+- part: Interfaces
+  chapters:
+  - file: api
+  - file: cli
+
+- part: Utilities
+  chapters:
+  - file: rate_maps
+  - file: likelihoods
+  - file: logging
+- part: Miscellaneous
+  chapters:
+  - file: legacy
+  - file: notes_ms_users
+  - file: development
+  - file: CITATION
+  - file: CHANGELOG
