@@ -1,0 +1,16 @@
+XlsxWriter
+Shapely
+SQLAlchemy
+fake-useragent
+fuzzywuzzy
+numpy
+openpyxl
+pandas
+psycopg2
+pyproj
+python-rapidjson
+pyxlsb
+requests
+scipy
+tqdm
+xlrd
