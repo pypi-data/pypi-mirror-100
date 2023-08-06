@@ -1,0 +1,6 @@
+setup.py
+FNNH/FNNH.egg-info/PKG-INFO
+FNNH/FNNH.egg-info/SOURCES.txt
+FNNH/FNNH.egg-info/dependency_links.txt
+FNNH/FNNH.egg-info/requires.txt
+FNNH/FNNH.egg-info/top_level.txt
