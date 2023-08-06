@@ -1,0 +1,18 @@
+Metadata-Version: 2.1
+Name: vax
+Version: 0.0.3
+Summary: Finding covid vaccine appointment slots
+Home-page: https://github.com/thorwhalen/vax/vax
+License: mit
+Platform: any
+Description-Content-Type: text/markdown
+Requires-Dist: requests
+
+
+# vax
+Finding covid vaccine appointment slots
+
+
+To install:	```pip install vax```
+
+
