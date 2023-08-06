@@ -1,0 +1,9 @@
+README.md
+pyspoa.cpp
+setup.py
+pyspoa.egg-info/PKG-INFO
+pyspoa.egg-info/SOURCES.txt
+pyspoa.egg-info/dependency_links.txt
+pyspoa.egg-info/not-zip-safe
+pyspoa.egg-info/requires.txt
+pyspoa.egg-info/top_level.txt
