@@ -1,0 +1,15 @@
+fangraphs/__init__.py,sha256=OY5xPQm480ygXw_5FtdT8HsHBK4pjwvPETxdu_RZcxo,37
+fangraphs/exceptions.py,sha256=oioDt8NxTPS-F6cRbgA4fhLq_5Iuxih4ktg9qVBjEEc,2427
+fangraphs/leaders.py,sha256=ljLPG2RDbE8ME68ZaB-obXeAKvOhFYjnq7aP2REX3jI,44215
+fangraphs/utilities.py,sha256=hOcW8Hjw-ddOhA-MCii0Ih72rCwHgU6EG5D3aTCsmLY,3930
+fangraphs/selectors/__init__.py,sha256=wBHpFC3Bhoy1pFVFcJm2Xzoo7VZH7M5R9JoAZv1h908,47
+fangraphs/selectors/leaders_sel.py,sha256=ffflnx1FzleBS00YbNlYcaWhQZdw7p_tmNLVMOjZcc4,11411
+fangraphs/tests/__init__.py,sha256=YYGtml8AzGpa0eUFfBplA8UPswtAGT0zVvtG3t51nXg,33
+fangraphs/tests/test_leaders.py,sha256=lXEJGHK3pf2C4oWPDqYVmuRIrYrCXLdDIU-81zg2Mc0,26084
+fangraphs-1.0.1.dist-info/AUTHORS,sha256=LI9TbE8tSh3DIDg8dtEsgRzv0sdQaF01yJryJevjpH8,91
+fangraphs-1.0.1.dist-info/LICENSE,sha256=93xHnOZMPxbXxkh3mkQkzmxVPA15hFheeSw6lgVYN2Y,1087
+fangraphs-1.0.1.dist-info/METADATA,sha256=Qt5jHCyfn5MhB8UQubdygbJDa5MTMmTd1lxUT0W92BU,4849
+fangraphs-1.0.1.dist-info/WHEEL,sha256=OqRkF0eY5GHssMorFjlbTIq072vpHpF60fIQA6lS9xA,92
+fangraphs-1.0.1.dist-info/pbr.json,sha256=YKmgH6i-psvFPeROvPiu7aScUBLkRxIX_jW-B1nfHFI,47
+fangraphs-1.0.1.dist-info/top_level.txt,sha256=3zEyr3EX1Oblaf56RYjvSCh8KIl0F8L9jnfJSRKiEdY,10
+fangraphs-1.0.1.dist-info/RECORD,,
