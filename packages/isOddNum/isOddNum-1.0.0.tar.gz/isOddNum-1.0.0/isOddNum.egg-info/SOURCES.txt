@@ -1,0 +1,6 @@
+isOdd.py
+setup.py
+isOddNum.egg-info/PKG-INFO
+isOddNum.egg-info/SOURCES.txt
+isOddNum.egg-info/dependency_links.txt
+isOddNum.egg-info/top_level.txt
