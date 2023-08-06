@@ -1,0 +1,13 @@
+nrpc/__init__.py,sha256=DNLQIsgwWXvDh3KD7qEEv4KIUwVSmo6Y3SS-tlnTddg,290
+nrpc/exc.py,sha256=F80rGFpqgODYrJnFWDlC_GDuFKawn8E-HRIS-xBZL10,1246
+nrpc/gen.py,sha256=fNCaEDw8Guj0cHACfYpyaCsf0Y9HKnnRGLR0QSTP1Bo,4072
+nrpc/lib.py,sha256=06CO53koDPIlKvwq376i86bgDNoPCAkSs02o5tq28AM,6170
+nrpc/nrpc_pb2.py,sha256=Y-P8kEkkBQcAra2FN4UmC260T55iyCYUN7T-DpahVTo,17116
+nrpc/tmpl.mako,sha256=b-TWiGr0e4iopGKUNYYnThiMbSfCmU_RBd6OBXu6yG4,5575
+nrpc/tmpl.py,sha256=VanaLEwMrtu51ltPfhaCNkoApjFy-uJbiUb5q8IWeQA,134
+python_nrpc-0.0.4.dist-info/LICENSE,sha256=6lIt1_Kx9PDZCAKkcwmqFuZZhRVHci4p-kuRcVrKgJo,1068
+python_nrpc-0.0.4.dist-info/METADATA,sha256=r2xusBju4PpoW9HVDoSXjd_g6PMQ8bFrOyR9jKdHboE,1196
+python_nrpc-0.0.4.dist-info/WHEEL,sha256=g4nMs7d-Xl9-xC9XovUrsDHGXt-FT0E17Yqo92DEfvY,92
+python_nrpc-0.0.4.dist-info/entry_points.txt,sha256=j9Q7VUZf14b4aoYW9n41dyYEvrtsfQSNJiZB0CESFKc,53
+python_nrpc-0.0.4.dist-info/top_level.txt,sha256=g0Ma7gq6_-5-UoK74ItUhnrbQApKZ6mSP0zuWaLX2uc,5
+python_nrpc-0.0.4.dist-info/RECORD,,
