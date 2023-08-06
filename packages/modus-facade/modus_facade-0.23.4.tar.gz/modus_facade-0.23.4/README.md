@@ -1,0 +1,50 @@
+Modus Facade
+============
+
+## Deprecation Notice
+
+*Deprecated and no longer supported. Please don't use this.*
+
+This package is being left up for legacy support. It is not maintained and shouldn not be 
+used.
+
+DotModus wrapper for common Google Cloud Components.
+ 
+Facade is now designed for python 3.5 and above.
+
+For example:
+
+- Logging (including Cloud Logging)
+- Dataproc
+- Compute
+- Solr
+
+Each facade module will be stored in its own directory. However, the entire
+ facade module will be installable.
+
+## Problems with google-api-client
+ 
+The Google API Client has historically had a problem where it shared a 
+ namespace with apiclient (another python package). As such, there can be 
+ issues with certain parts of the googleapiclient package not being found. As 
+ an example, a recent problem popped up running `dataproc.py` with the 
+ following error:
+ 
+ ```
+ Traceback (most recent call last):
+  File "dataproc-play.py", line 4, in <module>
+    from modcloud import dataproc
+  File "/Users/thomas/Development/facade/modcloud/dataproc.py", line 6, in <module>
+    from googleapiclient.discovery import build
+  File "/Users/thomas/.virtualenvs/scoop/lib/python2.7/site-packages/googleapiclient/discovery.py", line 53, in <module>
+    import uritemplate
+ImportError: No module named uritemplate
+```
+
+For some reason, I had managed to mess up the dependencies and needed to 
+ reinstall the google-api-client with the following command, whcih resolved the
+ problem:
+
+```
+pip install --force-reinstall google-api-python-client
+```
