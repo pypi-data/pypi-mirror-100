@@ -1,0 +1,11 @@
+create_tt_data/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+create_tt_data/cnn_build_rule.py,sha256=hfcF8-lzEvRFFNTllP3YACXT0tQEVrzEiS_24BkX-sY,4727
+create_tt_data/ffnn_build_rule.py,sha256=xgSJ8MNLb_tfoZbOHsaf9P2tGhp-KbdLT1yPRVQdVWc,366
+create_tt_data/generate_tt_data.py,sha256=06Qrqy3kn62g_srobduBuidS6GjBC14lYBnSUFT98zE,3870
+create_tt_data/model_build.py,sha256=HDwNcjBm7BAQxdx7seexedIWnZHOqhZVvM7Y_CzG0H0,7246
+create_tt_data/model_data_convert.py,sha256=EOX0vahsUQ3Op3en86-6Sy6tKeq3JOM9YRuyoqT8IDA,4378
+model_data_util-0.0.1.1.dist-info/LICENCE,sha256=kYzpkrQX8Fg-8KR9yG1mm7HCFiSl86VZ8G83-NDYQw0,1063
+model_data_util-0.0.1.1.dist-info/METADATA,sha256=KgzmzQsvRuof7mhE_Uf3DMmWwNR-PsLdS0iC8K-1UMg,508
+model_data_util-0.0.1.1.dist-info/WHEEL,sha256=OqRkF0eY5GHssMorFjlbTIq072vpHpF60fIQA6lS9xA,92
+model_data_util-0.0.1.1.dist-info/top_level.txt,sha256=LiifFr5JFZs857CM58oml23jp7e1IH4hsEPsh6k1Se4,15
+model_data_util-0.0.1.1.dist-info/RECORD,,
