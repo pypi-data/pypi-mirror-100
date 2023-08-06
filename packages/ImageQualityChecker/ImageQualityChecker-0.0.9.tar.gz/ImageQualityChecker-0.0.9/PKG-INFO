@@ -1,0 +1,16 @@
+Metadata-Version: 1.1
+Name: ImageQualityChecker
+Version: 0.0.9
+Summary: VinAI image quality checker
+Home-page: UNKNOWN
+Author: Hieu Tr Luu
+Author-email: <hieu.luu2411@gmail.com>
+License: UNKNOWN
+Description: Classify normal, soil, defocusing images
+Keywords: python,first package
+Platform: UNKNOWN
+Classifier: Development Status :: 3 - Alpha
+Classifier: Intended Audience :: Education
+Classifier: Programming Language :: Python :: 3
+Classifier: Operating System :: MacOS :: MacOS X
+Classifier: Operating System :: Microsoft :: Windows
