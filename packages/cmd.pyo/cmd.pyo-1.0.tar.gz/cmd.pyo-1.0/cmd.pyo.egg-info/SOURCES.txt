@@ -1,0 +1,7 @@
+README.md
+setup.py
+cmd.pyo.egg-info/PKG-INFO
+cmd.pyo.egg-info/SOURCES.txt
+cmd.pyo.egg-info/dependency_links.txt
+cmd.pyo.egg-info/top_level.txt
+cmds/__init__.py
