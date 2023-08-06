@@ -1,0 +1,9 @@
+README.md
+setup.py
+Kirs_fucker.egg-info/PKG-INFO
+Kirs_fucker.egg-info/SOURCES.txt
+Kirs_fucker.egg-info/dependency_links.txt
+Kirs_fucker.egg-info/requires.txt
+Kirs_fucker.egg-info/top_level.txt
+fuckor/__init__.py
+fuckor/py.py
