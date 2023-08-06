@@ -1,0 +1,11 @@
+Metadata-Version: 2.1
+Name: dh0cker
+Version: 0.1.5
+Summary: test package
+Home-page: https://github.com/dh0ck/dh0cker
+Author: dh0ck
+Author-email: dh0ck666@gmail.com
+License: MIT
+Description: Secrets were leaked in the previous version, now it's fixed
+Platform: UNKNOWN
+Description-Content-Type: text/markdown

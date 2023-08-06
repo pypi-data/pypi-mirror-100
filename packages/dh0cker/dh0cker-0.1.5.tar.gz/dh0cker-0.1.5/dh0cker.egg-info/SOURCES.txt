@@ -1,0 +1,7 @@
+README.md
+setup.py
+dh0cker/__init__.py
+dh0cker.egg-info/PKG-INFO
+dh0cker.egg-info/SOURCES.txt
+dh0cker.egg-info/dependency_links.txt
+dh0cker.egg-info/top_level.txt
