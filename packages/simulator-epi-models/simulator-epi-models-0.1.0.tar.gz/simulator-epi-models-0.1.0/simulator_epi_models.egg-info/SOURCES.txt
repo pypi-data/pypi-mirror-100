@@ -1,0 +1,16 @@
+README.md
+setup.py
+epi_models/__init__.py
+epi_models/deterministic_compartmental_model.py
+epi_models/deterministic_compartmental_model_scenario.py
+epi_models/model.py
+epi_models/params.py
+epi_models/config/__init__.py
+epi_models/config/compartmental_model.py
+epi_models/config/epidemic_params.py
+simulator_epi_models.egg-info/PKG-INFO
+simulator_epi_models.egg-info/SOURCES.txt
+simulator_epi_models.egg-info/dependency_links.txt
+simulator_epi_models.egg-info/not-zip-safe
+simulator_epi_models.egg-info/requires.txt
+simulator_epi_models.egg-info/top_level.txt
