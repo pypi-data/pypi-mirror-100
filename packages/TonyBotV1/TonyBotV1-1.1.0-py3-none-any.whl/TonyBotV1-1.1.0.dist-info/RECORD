@@ -1,0 +1,12 @@
+TonyBotV1/__init__.py,sha256=pCtKOzRCezfo2sOwp1Jaf1llUJ2TuMizt7RlkZzH_kA,573
+TonyBotV1/datasets/__init__.py,sha256=rBq4UD7r-36rCSO3x6OIoHg770z2BFbeTDYxC8uyaJQ,209
+TonyBotV1/datasets/utils.py,sha256=Ki36RemCrwvG4-z3Fjmuj2RrFBoQ_goBwmY0VoH6OhI,1161
+TonyBotV1/datasets/data/GBPUSD15.csv,sha256=7zV_zW6d6FzkmS4Kn8g-lLIR6edKATUDNPlHo-6jrZY,1567160
+TonyBotV1/datasets/data/GBPUSD60.csv,sha256=LpE5uPdXFoBSEFO5McSMFtjc7uqgw2dBYA8ovLE7s-w,391847
+TonyBotV1/envs/__init__.py,sha256=Jv-vW9pe19jF41AwWvwmZkGNAKcDWFElPul81fzVawo,69
+TonyBotV1/envs/gym_TonyBot.py,sha256=qMycWkzijZtY_0Wr5u29Aq247WU2lFJ5o8okIWLo8BQ,6688
+TonyBotV1-1.1.0.dist-info/LICENSE.txt,sha256=cVxV7HlGD3jtcSgmQpfCyrFS_BEoh9QZzt0pmL8BIUc,1056
+TonyBotV1-1.1.0.dist-info/METADATA,sha256=VrPRclhddpfmn13L_ygykuxxfyl4qra-N07O47dgwJY,510
+TonyBotV1-1.1.0.dist-info/WHEEL,sha256=OqRkF0eY5GHssMorFjlbTIq072vpHpF60fIQA6lS9xA,92
+TonyBotV1-1.1.0.dist-info/top_level.txt,sha256=NfLrgYWSExSBAVdmTwGLdniNqKxZqflFWbGFkT0y-FM,10
+TonyBotV1-1.1.0.dist-info/RECORD,,

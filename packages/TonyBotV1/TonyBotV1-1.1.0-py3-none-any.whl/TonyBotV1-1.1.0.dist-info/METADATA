@@ -1,0 +1,27 @@
+Metadata-Version: 2.1
+Name: TonyBotV1
+Version: 1.1.0
+Summary: UNKNOWN
+Home-page: UNKNOWN
+Author: VEGETA_777
+Author-email: xguru.vn@gmail.com
+License: MIT
+Platform: UNKNOWN
+Requires-Dist: gym (>=0.12.5)
+Requires-Dist: numpy (>=1.16.4)
+Requires-Dist: pandas (>=0.24.2)
+Requires-Dist: matplotlib (>=3.1.1)
+
+This is env for forex trading.
+Data used is GBP/USD from '2020-02-03'to '2020-05-03'.
+------setup------
+$ pip install TonyBotV1
+
+
+Change Log
+==========
+
+0.01 (28/03/2021)
+-----------------
+- First Release
+
