@@ -1,0 +1,11 @@
+.gitignore
+LICENSE.txt
+MANIFEST.in
+README.md
+example.py
+setup.py
+src/ducolib.py
+src/ducolib.egg-info/PKG-INFO
+src/ducolib.egg-info/SOURCES.txt
+src/ducolib.egg-info/dependency_links.txt
+src/ducolib.egg-info/top_level.txt

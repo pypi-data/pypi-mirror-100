@@ -1,0 +1,27 @@
+Metadata-Version: 2.1
+Name: ducolib
+Version: 0.0.1
+Summary: Duino-Coin Mining library for Python.
+Home-page: UNKNOWN
+Author: Alicia426
+Author-email: alicia426@protonmail.com
+License: UNKNOWN
+Description: # DUCOlib: A friendly Duino-Coin Python Library.
+        
+        DUCOlib strives to be the most accesible miner and mining library for [Duino-Coin](https://duinocoin.com/)
+        within the Python ecosystem. 
+        
+        
+        ## Installation:
+        
+        
+        ## Usage:
+        
+        
+        ## Changelog:
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
