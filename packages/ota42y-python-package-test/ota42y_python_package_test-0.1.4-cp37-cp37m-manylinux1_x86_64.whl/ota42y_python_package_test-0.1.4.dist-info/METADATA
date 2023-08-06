@@ -1,0 +1,13 @@
+Metadata-Version: 2.1
+Name: ota42y-python-package-test
+Version: 0.1.4
+Summary: test package(only linux)
+Home-page: https://github.com/ota42y/ota42y_python_package_test
+Author: ota42y
+License: MIT
+Platform: UNKNOWN
+Requires-Python: >=3.7,<3.8
+
+UNKNOWN
+
+
