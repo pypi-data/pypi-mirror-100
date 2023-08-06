@@ -1,0 +1,8 @@
+README.md
+setup.py
+shellit/__init__.py
+shellit/shellit.py
+shellit.egg-info/PKG-INFO
+shellit.egg-info/SOURCES.txt
+shellit.egg-info/dependency_links.txt
+shellit.egg-info/top_level.txt
