@@ -1,0 +1,3 @@
+[console_scripts]
+QtSplashScreen = QtSplashScreen.__main__:main
+
