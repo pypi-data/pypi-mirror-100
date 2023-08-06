@@ -1,0 +1,9 @@
+libgen_uploader/__init__.py,sha256=O3eCqyr3kveUBT2aXnL-Lft0hNbNXDgn0GQ1PSPGsLE,60
+libgen_uploader/__main__.py,sha256=cqEv1QpJfj04aNUo_F0B7EeG4pX09rqyAALHfNPtLXQ,2402
+libgen_uploader/constants.py,sha256=Zs8-si86P_UjQINUV8jLW64X90NjU9otur9-nVxfyfQ,807
+libgen_uploader/helpers.py,sha256=cpn5Oi-y0peS54iRHdVAcRkKCM3oBK6FTIwnGzQ3k9I,3009
+libgen_uploader/libgen_uploader.py,sha256=x_2UjYYVOZMpfL2SW65FGV4GD1YJfXjiVQGfl0-fYS4,11656
+libgen_uploader-0.2.0.dist-info/LICENSE,sha256=bnxDfw8SsiAZUSysCXut-nZ8npbSO3Drzje0SKRmgZw,1073
+libgen_uploader-0.2.0.dist-info/WHEEL,sha256=VN2eEg4PHbTOniXb-cCYQPc6zUTS4dAcATjlgU3q-Lo,83
+libgen_uploader-0.2.0.dist-info/METADATA,sha256=SZh93WcV4gCEd7ZJ1YVqmiE4zBbRAP5wYv52LCgKXaM,3682
+libgen_uploader-0.2.0.dist-info/RECORD,,
