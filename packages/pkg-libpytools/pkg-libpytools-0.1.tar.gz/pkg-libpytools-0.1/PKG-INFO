@@ -1,0 +1,47 @@
+Metadata-Version: 2.1
+Name: pkg-libpytools
+Version: 0.1
+Summary: Módulo para exemplificar construção de projetos Python no curso PyTools
+Home-page: https://github.com/gabrieldcpadilha/libpytools
+Author: Gabriel Padilha
+Author-email: gdcpadilha@gmail.com
+License: GNU AFFERO GENERAL PUBLIC LICENSE
+Description: # libpytools
+        MÃ³dulo para exemplificar construÃ§Ã£o de projetos Python.
+        
+        Neste mÃ³dulo Ã© mostrado como contribuir com cÃ³digos opensource.
+        
+        Link do curso: [Python Pro](http://python.pro.br/)
+        
+        [![Build Status](https://travis-ci.org/gabrieldcpadilha/libpytools.svg?branch=main)](https://travis-ci.org/gabrieldcpadilha/libpytools)
+        [![Updates](https://pyup.io/repos/github/gabrieldcpadilha/libpytools/shield.svg)](https://pyup.io/repos/github/gabrieldcpadilha/libpytools/)
+        [![Python 3](https://pyup.io/repos/github/gabrieldcpadilha/libpytools/python-3-shield.svg)](https://pyup.io/repos/github/gabrieldcpadilha/libpytools/)
+        
+        Para instalar:
+        ```console
+        python3 -m venv .venv
+        source .venv/bin/activate
+        pip install -r requiments-dev.txt
+        ```
+        
+        Para conferir a qualidade do cÃ³digo:
+        ```console
+        flake8
+        ```
+        
+        TÃ³picos abordados:
+        
+        1. Git
+        2. Virtualenv
+        3. Pip
+        
+Platform: UNKNOWN
+Classifier: Development Status :: 2 - Pre-Alpha
+Classifier: Environment :: Console
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: GNU Affero General Public License v3 or later (AGPLv3+)
+Classifier: Operating System :: OS Independent
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Framework :: Pytest
+Description-Content-Type: text/markdown
