@@ -1,0 +1,13 @@
+Metadata-Version: 2.1
+Name: wikiman
+Version: 0.1.0
+Summary: GitHub Wiki CLI manager.
+Home-page: https://github.com/blakeNaccarato/wikiman
+Author: Blake Naccarato
+License: UNKNOWN
+Description: # wikiman
+        GitHub Wiki CLI manager: Generate tree view, table of contents, and relative navigation.
+        
+Platform: UNKNOWN
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
