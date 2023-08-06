@@ -1,0 +1,43 @@
+Metadata-Version: 2.1
+Name: certomancer
+Version: 0.1.0
+Summary: PKI testing tool
+Home-page: https://github.com/MatthiasValvekens/certomancer
+Author: Matthias Valvekens
+Author-email: dev@mvalvekens.be
+License: MIT
+Keywords: pki testing
+Platform: UNKNOWN
+Classifier: Development Status :: 3 - Alpha
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Topic :: Security :: Cryptography
+Classifier: Topic :: Software Development :: Libraries :: Python Modules
+Description-Content-Type: text/markdown
+Requires-Dist: asn1crypto (>=1.4.0)
+Requires-Dist: click (>=7.1.2)
+Requires-Dist: oscrypto (>=1.2.1)
+Requires-Dist: pyyaml (>=5.4.1)
+Requires-Dist: python-dateutil (>=2.8.1)
+Requires-Dist: tzlocal (>=2.1)
+Provides-Extra: pkcs12
+Requires-Dist: cryptography (>=3.4.7) ; extra == 'pkcs12'
+Provides-Extra: requests-mocker
+Requires-Dist: requests-mock (>=1.8.0) ; extra == 'requests-mocker'
+Provides-Extra: web-api
+Requires-Dist: Werkzeug (>=1.0.1) ; extra == 'web-api'
+Requires-Dist: Jinja2 (>=2.11.3) ; extra == 'web-api'
+
+# Certomancer
+
+Quickly construct, mock & deploy PKI test configurations using simple declarative configuration. Includes CRL, OCSP and time stamping service provisioning.
+
+Install with `python setup.py install`, and see `example.yml` for an example config file. The CLI comes with a built-in help function (although it isn't very helpful at this stage).
+
+
+*Warning:*  This is a testing tool for developers that write software to interface with public-key infrastructure. It is *NOT* intended to function as management software for production PKI deployments. Certomancer is very much garbage-in garbage-out, and happily ignores validation & security best practices in favour of allowing you to abuse your codebase in the worst possible ways. Consider yourself warned.
+
+
