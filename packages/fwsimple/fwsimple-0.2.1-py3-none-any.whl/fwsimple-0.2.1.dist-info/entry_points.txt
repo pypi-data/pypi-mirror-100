@@ -1,0 +1,3 @@
+[console_scripts]
+fwsimple = fwsimple:main
+
