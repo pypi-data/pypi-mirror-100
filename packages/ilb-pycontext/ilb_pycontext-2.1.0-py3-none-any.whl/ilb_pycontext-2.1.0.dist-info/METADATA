@@ -1,0 +1,25 @@
+Metadata-Version: 2.1
+Name: ilb-pycontext
+Version: 2.1.0
+Summary: Library for getting context from web.xml/context.xml/environment & ldap resources
+Home-page: https://git.ilb.ru/kuznetsov_me/pycontext
+Author: Denis Borodulin, Maxim Kuznetsov
+Author-email: borodulin@bystrobank.ru, kuznetsov_me@bystrobank.ru
+License: UNKNOWN
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: Operating System :: OS Independent
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Requires-Python: >=3.6
+Requires-Dist: pyasn1 (==0.4.8)
+Requires-Dist: pyasn1-modules (==0.2.7)
+Requires-Dist: python-ldap (==3.2.0)
+
+UNKNOWN
+
+
