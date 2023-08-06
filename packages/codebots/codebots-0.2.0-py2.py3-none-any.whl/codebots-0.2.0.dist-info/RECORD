@@ -1,0 +1,11 @@
+codebots/__init__.py,sha256=YZF6fRaXJ5z0GmonwSvR5Scq2jDgIQLCPNzuuPD93wI,99
+codebots/cli.py,sha256=CU5hm5uxsJG8L2Cb2L61rKDZArY--JERZbdDdgeO4x0,418
+codebots/emailbot.py,sha256=MEFKpJejqXx5wKc6_d5Be_-TWTMPo7i6a7hQgxswaXo,2374
+codebots/slackbot.py,sha256=D9T4iv2V1En7j3qosN7YWFwxVTan1qpMykhCKVn0Ut8,3453
+codebots-0.2.0.dist-info/AUTHORS.rst,sha256=iJd6t6SpNqqcD_2nWE6iNFYqYsiHH5T_I-2g7zd772c,176
+codebots-0.2.0.dist-info/LICENSE,sha256=x_mb2kWQFm_TxrhkSnY5WgCv7IwsjVO7lXltp1OOIVU,1098
+codebots-0.2.0.dist-info/METADATA,sha256=tlMso7t_BCTNe8xfXacR0GU1ZAlHCXaD8Ufql4MqbJ4,1914
+codebots-0.2.0.dist-info/WHEEL,sha256=JZXtYepZFsf4IoivNpnSgKIc4qTHan08DRd56koo_DM,116
+codebots-0.2.0.dist-info/entry_points.txt,sha256=jZQCFymZvk3RvlhlGUoHNSeDDKYN0nc-316OWi-qL-M,48
+codebots-0.2.0.dist-info/top_level.txt,sha256=VHhtOPoULx0OTbF1NNEWN_Na8g1e_YiASnCsDTan580,9
+codebots-0.2.0.dist-info/RECORD,,
