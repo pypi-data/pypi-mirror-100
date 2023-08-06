@@ -1,0 +1,12 @@
+metex/VERSION,sha256=klIfw8vZZL3J9YSpkbif3apXVO0cyW1tQkRTOGacEwU,5
+metex/__init__.py,sha256=2QSClsev0yc-hgVX6VDeHbluJn0qJjB88J8jwm78XEs,80
+metex/core.py,sha256=3bLvcqFsSLD-e0eoaLrA-nvQwW9PWjhy37DAbXiwg7c,8713
+metex/test/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+metex/test/test_cli_interface.sh,sha256=ddN9oR0WGeBdtj6RgnAqD6ulfA7JK4HWzYpUg-B3BlI,1042
+metex/test/test_library.py,sha256=f8uUmIVjPzvYuIDO-S8g8vibTkoD72qF_p4QZBtvL2c,3406
+metex-1.0.0.data/scripts/metex,sha256=U4h3-O9NuMHgPdN3w92Rl9_SswmZJYWhec8UEcYwCCQ,2495
+metex-1.0.0.dist-info/LICENSE,sha256=jOtLnuWt7d5Hsx6XXB2QxzrSe2sWWh3NgMfFRetluQM,35147
+metex-1.0.0.dist-info/METADATA,sha256=L4cBrV_ocYhhyfe1DfEMTHqjdb_H4EbJLOJNI6TE_64,5218
+metex-1.0.0.dist-info/WHEEL,sha256=OqRkF0eY5GHssMorFjlbTIq072vpHpF60fIQA6lS9xA,92
+metex-1.0.0.dist-info/top_level.txt,sha256=NnvekrK9nS-h0P6Hl2_y4dUlNNmaH02nxUPR2YVAjl8,6
+metex-1.0.0.dist-info/RECORD,,
