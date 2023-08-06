@@ -1,0 +1,75 @@
+- model: regex_match.ParserMethod
+  pk: 1
+  fields:
+    name: scheme
+    type: url
+- model: regex_match.ParserMethod
+  pk: 2
+  fields:
+    name: host
+    type: url
+- model: regex_match.ParserMethod
+  pk: 3
+  fields:
+    name: domain
+    type: url
+- model: regex_match.ParserMethod
+  pk: 4
+  fields:
+    name: path
+    type: url
+- model: regex_match.ParserMethod
+  pk: 5
+  fields:
+    name: query
+    type: url
+- model: regex_match.ParserMethod
+  pk: 6
+  fields:
+    name: query_param
+    type: url
+- model: regex_match.ParserMethod
+  pk: 7
+  fields:
+    name: fragment
+    type: url
+- model: regex_match.ParserMethod
+  pk: 8
+  fields:
+    name: query_param_with_semicolon_and_not_unquote
+    type: url
+- model: regex_match.ParserMethod
+  pk: 9
+  fields:
+    name: query_param_in_path
+    type: url
+- model: regex_match.ParserMethod
+  pk: 10
+  fields:
+    name: fragment_split_get_first
+    type: url
+- model: regex_match.ParserMethod
+  pk: 11
+  fields:
+    name: path_re_search_group
+    type: url
+- model: regex_match.ParserMethod
+  pk: 12
+  fields:
+    name: host_re_search_group
+    type: url
+- model: regex_match.ParserMethod
+  pk: 13
+  fields:
+    name: domain_re_search_group
+    type: url
+- model: regex_match.ParserMethod
+  pk: 14
+  fields:
+    name: fragment_re_search_group
+    type: url
+- model: regex_match.ParserMethod
+  pk: 15
+  fields:
+    name: query_re_search_group
+    type: url
