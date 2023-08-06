@@ -1,0 +1,10 @@
+evdev_prepared/__init__.py,sha256=q5HLmR_RzOskPDGyBJz3parmcApxD4k5_FxQNxLOBkc,817
+evdev_prepared/device_control.py,sha256=6TAkzmNOwTayvJyZ1m_SAsTwi9MWXRuB6vKajJFpE-U,8347
+evdev_prepared/input_dev.py,sha256=Go3bepvCwiFltCrgr2Ky7bUYSMLMJNaGclejfpCyIT0,10193
+evdev_prepared/tests.py,sha256=Yu-mFVpaTu6XIaoNgUr5Ili7B5DClVoIFLbff1da4TE,1532
+evdev_prepared/uinput.py,sha256=hQ8hPdhVnSNoADnG80x04YvpZ4Xlcphz90DCOuTkEEM,2665
+evdev_prepared-0.2.1.dist-info/COPYING,sha256=OXLcl0T2SZ8Pmy2_dmlvKuetivmyPd5m1q-Gyd-zaYY,35149
+evdev_prepared-0.2.1.dist-info/METADATA,sha256=7g4qGazjEhK0BHHq-w7FP0W5xafU4JFcvJj9ttbL1Pg,468
+evdev_prepared-0.2.1.dist-info/WHEEL,sha256=g4nMs7d-Xl9-xC9XovUrsDHGXt-FT0E17Yqo92DEfvY,92
+evdev_prepared-0.2.1.dist-info/top_level.txt,sha256=s2Z9iwo4elz7dNxHCcoEh_XuOTux94s9uYMpCSOOpt8,15
+evdev_prepared-0.2.1.dist-info/RECORD,,
