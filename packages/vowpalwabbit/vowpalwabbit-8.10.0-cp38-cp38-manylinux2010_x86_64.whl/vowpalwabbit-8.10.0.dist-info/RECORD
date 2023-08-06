@@ -1,0 +1,13 @@
+pylibvw.so,sha256=M3-ogLQOHcYVLtQHYz3U1H5sXRplwqaw88Tk_F3Btrs,7501544
+vowpalwabbit-8.10.0.dist-info/RECORD,,
+vowpalwabbit-8.10.0.dist-info/WHEEL,sha256=RIeRBYNNiNK3sXfnenIjXDrR2Tzyz05xCMpKF2hJ1iA,111
+vowpalwabbit-8.10.0.dist-info/METADATA,sha256=EGfyhb8UVhoeR0sdX9iSMIPDQ066Y7T2OPVWoW41oGg,5012
+vowpalwabbit-8.10.0.dist-info/top_level.txt,sha256=vKtzbmfF2K1-R3cKgDzKP-f1SrkfeXbHrBbQMVKpGng,21
+vowpalwabbit-8.10.0.dist-info/LICENSE,sha256=6sWWtZuFeuZOkSg4QLTSeMim_KKWzIBV8MqC0CaScsk,1584
+vowpalwabbit-8.10.0.dist-info/AUTHORS,sha256=P92qQvB0HRMQUTxqADlhlSpnB_CfI7Q6NdUFCiUgixM,1355
+vowpalwabbit/conda_install.sh,sha256=Dqfm7jaaUeZRhub9XfspVQ7ClwFFrrXoN7Qw-A-ykxE,1107
+vowpalwabbit/DFtoVW.py,sha256=-6RjDm_QF1P148N6YiDK_rpqw7l1qFZquh048G9od-M,31384
+vowpalwabbit/pyvw.py,sha256=Rn_68hlQhkwdWiqgx_dFlOuU4FwOlID4nUISw-_Z9cY,50215
+vowpalwabbit/sklearn_vw.py,sha256=OKziTY8F0TxyQ-LNEEIF_XZ2o-ljt_ozOuqR8rbND5Y,36345
+vowpalwabbit/__init__.py,sha256=0-eqGX80Xyyr3vk5X-cdMnYLflG-EaYkFartMzQu-Cw,89
+vowpalwabbit/version.py,sha256=jpo0iEl8unCmI0K2bx3GC-F61KO64ikQLASogzt87Yw,133
