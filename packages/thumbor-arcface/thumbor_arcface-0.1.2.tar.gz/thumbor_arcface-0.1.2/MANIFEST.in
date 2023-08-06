@@ -1,0 +1,4 @@
+prune .git
+include *.txt
+recursive-include docs *
+include VERSION

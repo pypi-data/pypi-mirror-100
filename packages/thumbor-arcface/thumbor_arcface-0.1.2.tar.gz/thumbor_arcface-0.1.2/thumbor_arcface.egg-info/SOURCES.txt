@@ -1,0 +1,11 @@
+MANIFEST.in
+README.md
+VERSION
+requirements.txt
+setup.py
+thumbor_arcface/__init__.py
+thumbor_arcface.egg-info/PKG-INFO
+thumbor_arcface.egg-info/SOURCES.txt
+thumbor_arcface.egg-info/dependency_links.txt
+thumbor_arcface.egg-info/requires.txt
+thumbor_arcface.egg-info/top_level.txt
