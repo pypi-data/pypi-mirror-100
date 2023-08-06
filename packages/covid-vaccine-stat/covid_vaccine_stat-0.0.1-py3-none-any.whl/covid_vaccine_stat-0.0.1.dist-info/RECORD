@@ -1,0 +1,12 @@
+covid_vaccine_stat/__init__.py,sha256=zyFCXDkZq8ku6zaPWzrhfbZltaiNNjItcmd0_U6U7LQ,400
+covid_vaccine_stat/_conf.py,sha256=HdIiDcL58A-7mf2rtf0HkJP4UWfJK2YUywjqV9Lm6uM,64
+covid_vaccine_stat/async_request.py,sha256=SRd4pst3dAkEG99Gag8Fv_VuIfFVT1PZEKIYWbwED7s,2098
+covid_vaccine_stat/error.py,sha256=bAwwzF9mIcZCZDX2XjmK1NuZsSlPghhaGgVeZyP4wzs,70
+covid_vaccine_stat/model.py,sha256=jmYAdHi_0PfcO6f39Vhe-bbXz4rZk-WImyqnGvlxxs4,2562
+covid_vaccine_stat/sync_request.py,sha256=QhegHoSFEAITLjrUwYLgGiwn6ebT5XLDp4gkg1hDlFM,1958
+covid_vaccine_stat/util.py,sha256=pZtu6IwRonl13yPJUJ1psJgTEiRjv2AScQaTJAb8pyY,799
+covid_vaccine_stat-0.0.1.dist-info/LICENSE,sha256=qJzMXmEEeRJoLBXL7bwYa4LUlV94ocac7r30Wvl316Y,1090
+covid_vaccine_stat-0.0.1.dist-info/METADATA,sha256=jywbYjMtFYLL8FypV39tpgZpx9_bPT_fWC4fnXRhNoo,3041
+covid_vaccine_stat-0.0.1.dist-info/WHEEL,sha256=OqRkF0eY5GHssMorFjlbTIq072vpHpF60fIQA6lS9xA,92
+covid_vaccine_stat-0.0.1.dist-info/top_level.txt,sha256=NcC1tSrC3NQHbTQGtz1JXphoIJ_oUdg3xCCm6i0fM90,19
+covid_vaccine_stat-0.0.1.dist-info/RECORD,,
