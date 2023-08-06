@@ -1,0 +1,13 @@
+# tqdm
+# Arch fails to install the man page.
+pkgrel=99
+
+package() {
+    _package &&
+    mkdir -p "$pkgdir/usr/share/man/man1" &&
+    PYTHONPATH="$(find "$pkgdir" -name site-packages)" \
+        "$pkgdir/usr/bin/tqdm" \
+        --manpath "$pkgdir/usr/share/man/man1" ||
+    return 1
+}
+# vim: set ft=PKGBUILD :
