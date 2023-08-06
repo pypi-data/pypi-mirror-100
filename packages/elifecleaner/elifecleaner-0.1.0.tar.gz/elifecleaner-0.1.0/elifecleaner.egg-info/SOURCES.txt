@@ -1,0 +1,10 @@
+MANIFEST.in
+README.md
+requirements.txt
+setup.py
+elifecleaner/__init__.py
+elifecleaner/parse.py
+elifecleaner.egg-info/PKG-INFO
+elifecleaner.egg-info/SOURCES.txt
+elifecleaner.egg-info/dependency_links.txt
+elifecleaner.egg-info/top_level.txt
