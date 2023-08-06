@@ -1,0 +1,10 @@
+README.md
+setup.cfg
+setup.py
+investate/__init__.py
+investate.egg-info/PKG-INFO
+investate.egg-info/SOURCES.txt
+investate.egg-info/dependency_links.txt
+investate.egg-info/not-zip-safe
+investate.egg-info/requires.txt
+investate.egg-info/top_level.txt
