@@ -1,0 +1,9 @@
+numpy
+pydub
+pylint
+librosa
+ffmpeg
+webrtcvad
+setuptools
+pandas
+absl-py
