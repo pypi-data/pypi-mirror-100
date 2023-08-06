@@ -1,0 +1,17 @@
+odoo9_addon_sale_order_digitized_signature-9.0.1.0.0.99.dev3-py3.6-nspkg.pth,sha256=byZRehCeET5bIG0AMyMXPLGoXAE887IW4f1j_Rh4alU,564
+odoo_addons/sale_order_digitized_signature/README.rst,sha256=zm-z5KCcHEffbD5aqp7UroUI32rFoWVE4vxedHJXo9U,1803
+odoo_addons/sale_order_digitized_signature/__init__.py,sha256=4ksX69WMnn2SRF-eP3qzwk-w1wxraKBUgAEbq1BJUe4,110
+odoo_addons/sale_order_digitized_signature/__openerp__.py,sha256=kz2BHwv88tUngSC-vVeraEyUuKVmWKOykbSPPYC_poU,583
+odoo_addons/sale_order_digitized_signature/i18n/ca.po,sha256=0V1fMb0oMgO_h9i-krt_4wxtSD0E5R_I5u9HJKHz8os,1144
+odoo_addons/sale_order_digitized_signature/i18n/es.po,sha256=UR0uV6Lj4YBYW2u2RF4Z-frktyjZ1cgHcGoGzXzo968,1072
+odoo_addons/sale_order_digitized_signature/i18n/sale_order_digitized_signature.pot,sha256=2zq6b_roqR0jBqeFz7qVa1GOwQRj52l-Lr_kJwcf82A,898
+odoo_addons/sale_order_digitized_signature/models/__init__.py,sha256=Hag-bm65HyIgdztK3PNkVfwlqlKi4veoj6feKDM0Ceg,108
+odoo_addons/sale_order_digitized_signature/models/sale.py,sha256=8QV09qACgsFn3kwHZUjb9-2bCcV4hTFnT1xsGNGPxhA,764
+odoo_addons/sale_order_digitized_signature/report/report_saleorder.xml,sha256=2SRnH_DDMrYAG25TmP0sSMfXTCMWRy1oPrLBofzV2SQ,543
+odoo_addons/sale_order_digitized_signature/static/description/icon.png,sha256=e2TbDCkP0GWkRRsSCUZf60cWj7G9xnR6UC9xeJkGH9w,5691
+odoo_addons/sale_order_digitized_signature/views/sale_views.xml,sha256=R3l_yaG9Uy0ievKqbYmAIspgya-X2usSFbG9Yom9h9o,611
+odoo9_addon_sale_order_digitized_signature-9.0.1.0.0.99.dev3.dist-info/METADATA,sha256=Yk6PZ6ucdiBFvyFM_irogVJIdV6MbIoJC1480IVK4xs,2373
+odoo9_addon_sale_order_digitized_signature-9.0.1.0.0.99.dev3.dist-info/WHEEL,sha256=bK8TJl-oUKFDa18qkB68zwTZhIBCifqi4qjS_NS4aFQ,92
+odoo9_addon_sale_order_digitized_signature-9.0.1.0.0.99.dev3.dist-info/namespace_packages.txt,sha256=zhjxn3lgwTXeAiTvAlKWYlCdmGhlOYAY9CuT2hfLb40,12
+odoo9_addon_sale_order_digitized_signature-9.0.1.0.0.99.dev3.dist-info/top_level.txt,sha256=zhjxn3lgwTXeAiTvAlKWYlCdmGhlOYAY9CuT2hfLb40,12
+odoo9_addon_sale_order_digitized_signature-9.0.1.0.0.99.dev3.dist-info/RECORD,,
