@@ -1,0 +1,11 @@
+s2/__init__.py,sha256=8C_sJqX0IdA1FDeGIN_8D4buPlL5mIJOrEyjJ-0Btv8,423
+s2/api.py,sha256=tbBI9EoaviaYe9n_gPuZ9mOEzDB9g3sSletOWsK2ODY,7528
+s2/models.py,sha256=gsbCudQMJB0kMGC1UQyZ8FmdX1T8FXTVvbIAILBuICs,6935
+s2/db/__init__.py,sha256=i602RsTEqrA6qDRX-1eg7BMNtnfd2uQkN-X8a2i1q88,47
+s2/db/json.py,sha256=1ObQIM2Kr8ty-ROvjsz6Ype_xXACxe2G6U3ayk7WwxA,7299
+pys2-1.1.0.dist-info/AUTHORS.rst,sha256=vI_QY2y_4oq8-_kSUTGgCVT7bpBIAeammCsI-RlH8Es,351
+pys2-1.1.0.dist-info/LICENSE.txt,sha256=aFVG2bZ2lgItf4dau71H-j1zvoYcjDz7CYwSW0uzl5E,1070
+pys2-1.1.0.dist-info/METADATA,sha256=Yk9TU7ITDeiRWTitGUf_Wgm2n0Lcue3K6PEPB23QCn0,8914
+pys2-1.1.0.dist-info/WHEEL,sha256=OqRkF0eY5GHssMorFjlbTIq072vpHpF60fIQA6lS9xA,92
+pys2-1.1.0.dist-info/top_level.txt,sha256=tKf0e3UEYCzhC1WmxAsXWM3XFvBTOllPpCbyZBi30es,3
+pys2-1.1.0.dist-info/RECORD,,
