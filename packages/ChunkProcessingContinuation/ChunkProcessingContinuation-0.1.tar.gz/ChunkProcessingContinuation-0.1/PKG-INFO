@@ -1,0 +1,20 @@
+Metadata-Version: 1.1
+Name: ChunkProcessingContinuation
+Version: 0.1
+Summary: Continue the processing of large files processed in chunks in pandas without starting all over when stopped
+Home-page: https://github.com/ABIMATHS78/ChunkProcessingContinuation
+Author: Mojeed Abisiga
+Author-email: abisigadamilola@gmail.com
+License: MIT
+Download-URL: https://github.com/ABIMATHS78/ChunkProcessingContinuation/archive/v_01.tar.gz
+Description: UNKNOWN
+Keywords: large,files,pandas,chunks,stopped,python,dataframe,interrupted,shutdown,continue,processing
+Platform: UNKNOWN
+Classifier: Development Status :: 3 - Alpha
+Classifier: Intended Audience :: Developers
+Classifier: Topic :: Software Development :: Build Tools
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.4
+Classifier: Programming Language :: Python :: 3.5
+Classifier: Programming Language :: Python :: 3.6
