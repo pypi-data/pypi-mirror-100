@@ -1,0 +1,4 @@
+[console_scripts]
+qsub = uge2slurm.commands.qsub:main
+uge2slurm = uge2slurm.commands.uge2slurm:main
+
