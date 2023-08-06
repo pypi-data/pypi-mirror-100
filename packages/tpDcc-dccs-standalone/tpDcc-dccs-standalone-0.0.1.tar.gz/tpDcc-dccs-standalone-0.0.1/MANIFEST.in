@@ -1,0 +1,4 @@
+include tpDcc/dccs/standalone/__logging__.ini
+recursive-include tpDcc/dccs/standalone/resources/* *.*
+include versioneer.py
+include tpDcc/dccs/standalone/_version.py
