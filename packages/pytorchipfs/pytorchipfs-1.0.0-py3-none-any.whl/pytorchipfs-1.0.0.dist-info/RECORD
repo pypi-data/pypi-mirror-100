@@ -1,0 +1,16 @@
+pytorch-ipfs/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+pytorch-ipfs/checkpoint.py,sha256=nqUm4RtehI9J2cj1RXBGsN24AX6uvLHDcjCmRxtQLfo,4020
+pytorch-ipfs/dataset.py,sha256=tzGY0RXKutvp-VsepYdzyRefUb905qItCQz8pT9bzNE,9529
+pytorch-ipfs/parsers.py,sha256=M-U_dU9A6IfY4uV6F2wtPeWxPz77crexYZj378XL3hM,2799
+pytorch-ipfs/utils.py,sha256=S76W5d3V8trj2ItESeV_mweYe4TYWeILoO2MfBsfU58,975
+pytorchipfs/__init__.py,sha256=lv8AxayT6p7_4Akpczf_pxKvS9GVbbcj2Xiu8grfsrs,123
+pytorchipfs/checkpoint.py,sha256=gEGb0pKTs4tLHM41TjZqPpGfk2TOTGB80k7M-M_bMYk,4025
+pytorchipfs/dataset.py,sha256=tzGY0RXKutvp-VsepYdzyRefUb905qItCQz8pT9bzNE,9529
+pytorchipfs/datasets.py,sha256=TTllbBKjulDrGvfiJ94ZGHK1FlhIdguv9wq2DzuOh9w,11462
+pytorchipfs/parsers.py,sha256=BDsT1finGx2IRIZs1qZw9y3nDG2f3yUWa67snkDAGhE,2817
+pytorchipfs/utils.py,sha256=HVgBHp2qeBoTH4zhdLL22bbtJpUL_bZb43PmxcTNtu0,974
+pytorchipfs-1.0.0.dist-info/LICENSE,sha256=8M5vTSoTnQwl3G7ZK44JNot4VzkPDawiJ8JkT9CrcCY,1087
+pytorchipfs-1.0.0.dist-info/METADATA,sha256=0i9CqOWHIyTez1zko1GgTeqREfvsuCTBCh8gjqMci0Y,759
+pytorchipfs-1.0.0.dist-info/WHEEL,sha256=OqRkF0eY5GHssMorFjlbTIq072vpHpF60fIQA6lS9xA,92
+pytorchipfs-1.0.0.dist-info/top_level.txt,sha256=7NqCj1v4KmTxDp5fkc5Riq7irWzuvaKwBqVlav2sSrY,12
+pytorchipfs-1.0.0.dist-info/RECORD,,
