@@ -1,0 +1,9 @@
+README.md
+setup.py
+tactile_map/__init__.py
+tactile_map/generate.py
+tactile_map.egg-info/PKG-INFO
+tactile_map.egg-info/SOURCES.txt
+tactile_map.egg-info/dependency_links.txt
+tactile_map.egg-info/requires.txt
+tactile_map.egg-info/top_level.txt
