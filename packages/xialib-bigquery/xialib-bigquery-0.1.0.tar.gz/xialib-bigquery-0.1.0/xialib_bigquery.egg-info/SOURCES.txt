@@ -1,0 +1,9 @@
+README.md
+setup.py
+xialib_bigquery/__init__.py
+xialib_bigquery/bigquery_adaptor.py
+xialib_bigquery.egg-info/PKG-INFO
+xialib_bigquery.egg-info/SOURCES.txt
+xialib_bigquery.egg-info/dependency_links.txt
+xialib_bigquery.egg-info/requires.txt
+xialib_bigquery.egg-info/top_level.txt
