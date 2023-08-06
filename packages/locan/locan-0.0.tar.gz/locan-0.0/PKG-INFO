@@ -1,0 +1,12 @@
+Metadata-Version: 2.1
+Name: locan
+Version: 0.0
+Summary: A small example package
+Home-page: UNKNOWN
+Author: Example Author
+License: UNKNOWN
+Description: A small example package
+        
+Platform: UNKNOWN
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown

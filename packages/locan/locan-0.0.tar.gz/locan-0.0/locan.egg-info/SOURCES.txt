@@ -1,0 +1,11 @@
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+locan.egg-info/PKG-INFO
+locan.egg-info/SOURCES.txt
+locan.egg-info/dependency_links.txt
+locan.egg-info/top_level.txt
+project/__init__.py
+project/__main__.py
+project/_version.py
