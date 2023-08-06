@@ -1,0 +1,9 @@
+README.md
+setup.py
+Memes_And_Jokes/__init__.py
+Memes_And_Jokes/jokes.py
+Memes_And_Jokes/memes.py
+memes_and_jokes.egg-info/PKG-INFO
+memes_and_jokes.egg-info/SOURCES.txt
+memes_and_jokes.egg-info/dependency_links.txt
+memes_and_jokes.egg-info/top_level.txt

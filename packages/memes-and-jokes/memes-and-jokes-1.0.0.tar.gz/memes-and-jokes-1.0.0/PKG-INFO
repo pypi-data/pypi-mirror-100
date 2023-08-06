@@ -1,0 +1,21 @@
+Metadata-Version: 2.1
+Name: memes-and-jokes
+Version: 1.0.0
+Summary: Gets memes and jokes from Reddit
+Home-page: UNKNOWN
+Author: MST_Creator_Dev
+Author-email: tssab.creator@gmail.com
+License: UNKNOWN
+Description: 
+            read the docs on my website!
+            https://sites.google.com/view/mst-creator-docs/memes-and-jokes-docs
+        
+Keywords: python,memes,jokes,praw,PRAW,reddit,Reddit
+Platform: UNKNOWN
+Classifier: Development Status :: 1 - Planning
+Classifier: Intended Audience :: Developers
+Classifier: Programming Language :: Python :: 3
+Classifier: Operating System :: Unix
+Classifier: Operating System :: MacOS :: MacOS X
+Classifier: Operating System :: Microsoft :: Windows
+Description-Content-Type: text/markdown
