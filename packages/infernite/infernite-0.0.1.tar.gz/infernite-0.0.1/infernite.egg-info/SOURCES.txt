@@ -1,0 +1,9 @@
+README.md
+setup.py
+infernite/__init__.py
+infernite/infernite.py
+infernite.egg-info/PKG-INFO
+infernite.egg-info/SOURCES.txt
+infernite.egg-info/dependency_links.txt
+infernite.egg-info/requires.txt
+infernite.egg-info/top_level.txt

@@ -1,0 +1,13 @@
+Metadata-Version: 1.1
+Name: infernite
+Version: 0.0.1
+Summary: Python client for Infernite
+Home-page: https://github.com/generative-technology/Infernite-python
+Author: Generative Technology Limited
+Author-email: li@generative.technology
+License: MIT
+Description: UNKNOWN
+Platform: UNKNOWN
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3
+Classifier: Operating System :: OS Independent
