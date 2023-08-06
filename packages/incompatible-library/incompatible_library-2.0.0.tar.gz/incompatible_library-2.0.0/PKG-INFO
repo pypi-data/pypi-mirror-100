@@ -1,0 +1,9 @@
+Metadata-Version: 2.1
+Name: incompatible-library
+Version: 2.0.0
+Summary: An example of a library which has incompatible changes from one version to the next
+Author: Jordan Gillard
+Author-email: jordan-gillard@outlook.com
+Requires-Python: >=3.9,<4.0
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.9
