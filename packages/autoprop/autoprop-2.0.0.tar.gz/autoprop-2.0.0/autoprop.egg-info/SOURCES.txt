@@ -1,0 +1,17 @@
+.commitlintrc.js
+.gitignore
+CHANGELOG.md
+LICENSE.txt
+README.rst
+autoprop.py
+setup.cfg
+setup.py
+.github/workflows/test_and_release.yml
+autoprop.egg-info/PKG-INFO
+autoprop.egg-info/SOURCES.txt
+autoprop.egg-info/dependency_links.txt
+autoprop.egg-info/requires.txt
+autoprop.egg-info/top_level.txt
+tests/.coveragerc
+tests/test_autoprop.py
+tests/test_cache.py
