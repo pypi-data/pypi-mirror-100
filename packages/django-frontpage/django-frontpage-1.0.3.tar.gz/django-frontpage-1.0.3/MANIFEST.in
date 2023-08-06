@@ -1,0 +1,3 @@
+include CHANGELOG.rst
+include README.md
+recursive-include frontpage/templates *.html
