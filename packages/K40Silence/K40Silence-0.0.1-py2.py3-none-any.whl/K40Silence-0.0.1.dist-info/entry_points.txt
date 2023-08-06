@@ -1,0 +1,3 @@
+[console_scripts]
+silence = src.main:run
+
