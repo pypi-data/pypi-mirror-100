@@ -1,0 +1,12 @@
+README.md
+setup.cfg
+setup.py
+gauss_bi_distribution/Binomialdistribution.py
+gauss_bi_distribution/Gaussiandistribution.py
+gauss_bi_distribution/Generaldistribution.py
+gauss_bi_distribution/__init__.py
+gauss_bi_distribution.egg-info/PKG-INFO
+gauss_bi_distribution.egg-info/SOURCES.txt
+gauss_bi_distribution.egg-info/dependency_links.txt
+gauss_bi_distribution.egg-info/not-zip-safe
+gauss_bi_distribution.egg-info/top_level.txt
