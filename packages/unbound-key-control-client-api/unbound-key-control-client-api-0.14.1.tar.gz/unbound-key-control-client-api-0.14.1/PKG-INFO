@@ -1,0 +1,11 @@
+Metadata-Version: 2.1
+Name: unbound-key-control-client-api
+Version: 0.14.1
+Summary: Client API for Unbound Key Control
+Author: Jerod Gawne
+Author-email: jerodgawne@gmail.com
+Requires-Python: >=3.8.0,<4.0.0
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Requires-Dist: base-client-api (>=2.2.0,<3.0.0)
