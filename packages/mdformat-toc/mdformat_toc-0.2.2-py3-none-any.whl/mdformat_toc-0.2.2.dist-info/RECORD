@@ -1,0 +1,11 @@
+mdformat_toc/__init__.py,sha256=IlD2X0_-1xXPGCgAPO5ReuLlD1E_NqQjOj0MBZH-zCc,88
+mdformat_toc/_heading.py,sha256=87EP7M40vTFbF3dhebcaOaNAP04CoMyp4ZA7TEtyU50,1198
+mdformat_toc/_options.py,sha256=Dg7AXadMvkH4ZG4K7Q35xPM1LUDogAM5e4DUbeMSpIA,1863
+mdformat_toc/_tokens.py,sha256=vbpKzZoHi4reQTdK-WrPp68wRhpfrFRf3J-bfy6v1kM,2512
+mdformat_toc/plugin.py,sha256=Rnt9KItk6xxgbZAYpLtgyDpcwTJEE3hmtgnqNBBMORk,8715
+mdformat_toc/slug.py,sha256=t20mNjFtUbAfxg7Dz7bgd-qdZgHZgzJ50JS5slVMzs8,1692
+mdformat_toc-0.2.2.dist-info/entry_points.txt,sha256=D59r3GA2xI2tQvNiY00AL7aVIweoj9G7pF3SZZ3psJ8,53
+mdformat_toc-0.2.2.dist-info/LICENSE,sha256=f7Prh_aIy4_ZbcZhLJjb-gZy9FJNdOJAJqTBWGjDBKw,1072
+mdformat_toc-0.2.2.dist-info/WHEEL,sha256=VN2eEg4PHbTOniXb-cCYQPc6zUTS4dAcATjlgU3q-Lo,83
+mdformat_toc-0.2.2.dist-info/METADATA,sha256=Z0kJUlBVHpwmyt8xBnzjsmWmUATavUO2TTW6KALI3i4,4644
+mdformat_toc-0.2.2.dist-info/RECORD,,
