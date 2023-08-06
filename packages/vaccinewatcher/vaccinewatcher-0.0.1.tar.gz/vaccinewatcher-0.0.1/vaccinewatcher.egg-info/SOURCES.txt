@@ -1,0 +1,11 @@
+README.md
+setup.py
+vaccinewatcher/__init__.py
+vaccinewatcher/logger.py
+vaccinewatcher/watcher.py
+vaccinewatcher.egg-info/PKG-INFO
+vaccinewatcher.egg-info/SOURCES.txt
+vaccinewatcher.egg-info/dependency_links.txt
+vaccinewatcher.egg-info/entry_points.txt
+vaccinewatcher.egg-info/requires.txt
+vaccinewatcher.egg-info/top_level.txt
