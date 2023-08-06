@@ -1,0 +1,14 @@
+README.md
+setup.py
+gitee_utils/__init__.py
+gitee_utils/__main__.py
+gitee_utils/helper.py
+gitee_utils.egg-info/PKG-INFO
+gitee_utils.egg-info/SOURCES.txt
+gitee_utils.egg-info/dependency_links.txt
+gitee_utils.egg-info/entry_points.txt
+gitee_utils.egg-info/top_level.txt
+gitee_utils/command/__init__.py
+gitee_utils/command/create_repo.py
+gitee_utils/command/delete_repo.py
+gitee_utils/command/list_repos.py
