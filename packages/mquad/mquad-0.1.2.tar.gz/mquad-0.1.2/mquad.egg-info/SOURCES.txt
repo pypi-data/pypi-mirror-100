@@ -1,0 +1,27 @@
+.gitignore
+LICENSE
+README.rst
+setup.py
+docs/install.rst
+example/example.vcf.gz
+images/cdf.png
+images/top_var_heatmap.png
+mquad/__init__.py
+mquad/mquad.py
+mquad/mquad_CLI.py
+mquad/mquad_batch_mixbin.py
+mquad/utils.py
+mquad/version.py
+mquad.egg-info/PKG-INFO
+mquad.egg-info/SOURCES.txt
+mquad.egg-info/dependency_links.txt
+mquad.egg-info/entry_points.txt
+mquad.egg-info/requires.txt
+mquad.egg-info/top_level.txt
+test/BIC_params.csv
+test/debug_unsorted_BIC_params.csv
+test/deltaBIC_cdf.pdf
+test/passed_ad.mtx
+test/passed_dp.mtx
+test/passed_variant_names.txt
+test/top variants heatmap.pdf
