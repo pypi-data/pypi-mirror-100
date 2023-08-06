@@ -1,0 +1,13 @@
+MANIFEST.in
+README.md
+requirements.txt
+setup.py
+kong_service_exporter/__init__.py
+kong_service_exporter/main.py
+kong_service_exporter/template.md
+kong_service_exporter.egg-info/PKG-INFO
+kong_service_exporter.egg-info/SOURCES.txt
+kong_service_exporter.egg-info/dependency_links.txt
+kong_service_exporter.egg-info/entry_points.txt
+kong_service_exporter.egg-info/requires.txt
+kong_service_exporter.egg-info/top_level.txt

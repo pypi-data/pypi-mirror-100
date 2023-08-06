@@ -1,0 +1,3 @@
+[console_scripts]
+kong_service_exporter = kong_service_exporter:main
+
