@@ -1,0 +1,11 @@
+wicope/__init__.py,sha256=AbpHGcgLb-kRsJGnwFEktk7uzpZOCcBY74-YBdrKVGs,1
+wicope/__main__.py,sha256=SrAqV61r3vA0d3mbWYk5iRsoHPuv4NCzzSzdQsUyQuo,36
+wicope/app.py,sha256=7O4WS8cXx2UetSDCKwUrOP6AfsVlPMDiKJ8R3EL0Egg,172
+wicope/controller.py,sha256=6S6ppDl3tz73tMlXRoEQG6QziKgfD89qbSw5cgpaXX8,5808
+wicope/device.py,sha256=8RkBZ1CRC7JKgYBHPFpv-uc7pNkcCwuk1BUcueOs05E,2196
+wicope/main_window.py,sha256=92tSjfelkGlYXkfHsc1v_U0bRy-Iz5TknQoY881Bo68,7151
+wicope-0.1.0b1.dist-info/METADATA,sha256=uu-eubC1tuKRRy3naHZZzgXWEodG_5vO6z7Zpn-8JVM,848
+wicope-0.1.0b1.dist-info/WHEEL,sha256=EVRjI69F5qVjm_YgqcTXPnTAv3BfSUr0WVAHuSP3Xoo,92
+wicope-0.1.0b1.dist-info/entry_points.txt,sha256=b-35ewMyIGxVE2Ayzx4GUS0a5B3TLHQioiGf2HrrOiM,44
+wicope-0.1.0b1.dist-info/top_level.txt,sha256=YJkYavp8B7wj2koPWSwex7LVW5xlQQTtFtdSY_CdsLY,7
+wicope-0.1.0b1.dist-info/RECORD,,
