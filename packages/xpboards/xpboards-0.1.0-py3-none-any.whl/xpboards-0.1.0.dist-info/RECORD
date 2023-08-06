@@ -1,0 +1,8 @@
+xpboards/__init__.py,sha256=szFrhi5TX09TTgClCX_i5_lGMfWuI2nSsren3WaBb9M,38
+xpboards/dataset.py,sha256=seIGHHRPGOaFFgUtDST18Toj3Kh6vwvfaIhP7Lf5ZRw,8585
+xpboards/plan.py,sha256=glLru4hH7DvN6wL2zHmrVEYF_X5jXQmqnBEbHECEYxg,878
+xpboards/services.py,sha256=O42Xp7NjueHew_Qe3YCgLFogaXvkXOnJwSZteWIiI74,4778
+xpboards-0.1.0.dist-info/METADATA,sha256=zqGMOHQWkPWj-CUH0XTutTtYm9M5te7uQRND1N_3tfU,216
+xpboards-0.1.0.dist-info/WHEEL,sha256=OqRkF0eY5GHssMorFjlbTIq072vpHpF60fIQA6lS9xA,92
+xpboards-0.1.0.dist-info/top_level.txt,sha256=IUEZpmCf-mHu7mTjmuE3FHZmkGp6uZSQEg2SakFQbLU,9
+xpboards-0.1.0.dist-info/RECORD,,
