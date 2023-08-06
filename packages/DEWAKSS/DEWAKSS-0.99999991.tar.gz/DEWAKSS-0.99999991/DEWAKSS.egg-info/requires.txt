@@ -1,0 +1,9 @@
+matplotlib
+pandas
+pynndescent
+scanpy>=1.5.1
+scipy
+seaborn
+sklearn
+sparse-dot-mkl
+umap-learn>=0.5.0
