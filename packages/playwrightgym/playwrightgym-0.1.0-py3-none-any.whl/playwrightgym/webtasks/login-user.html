@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <title>Login User Task</title>
+
+  <!-- stylesheets -->
+  <style>
+    .bold {
+      font-weight: bold;
+    }
+
+    input {
+      margin: 5px;
+      width: 100px;
+    }
+  </style>
+
+  <!-- JS -->
+  <script>
+    /** Done is true when submit button is clicked */
+    var done = false;
+    /**
+     * Reward is:
+     *      -1 per step by default.
+     *      +1 if submit button is clicked and the task is complete
+     *      -2 if submit button is clicked and the task is incomplete
+     */
+    var reward = -1;
+
+    var taskComplete_ = false;  // true when username & password match the target
+    function getReward() {
+            reward = taskComplete_ ? 1.0 : -1.0;
+      return reward;
+    }
+
+    function submitTask() {
+      done = true;
+
+      /** Check for task completion by comparing current state with goal state */
+      username = document.getElementById("username").value;
+      password = document.getElementById("password").value;
+      taskComplete_ = (username == "HELLO" && password == "WORLD") ? true : false;
+
+      reward = taskComplete_ ? 1.0: -2;
+    }
+
+    function initGym() {
+      submitbtn = document.getElementById("subbtn")
+      submitbtn.addEventListener("click", submitTask)
+    }
+
+    window.onload = initGym;
+  </script>
+</head>
+
+<body>
+  <div id="wrap">
+    <div id="query"></div>
+    <div id="area">
+      <div id="form">
+        <p>
+        <div id="task"><b> Task: </b>Login with username <b>HELLO</b> and password <b>WORLD</b>.</div>
+        </p>
+        <p><label class="bold">Username</label><input type="text" id="username"></p>
+        <p><label class="bold">Password</label><input type="password" id="password"></p>
+        <button id="subbtn">Login</button>
+      </div>
+    </div>
+  </div>
+</body>
+
+</html>
