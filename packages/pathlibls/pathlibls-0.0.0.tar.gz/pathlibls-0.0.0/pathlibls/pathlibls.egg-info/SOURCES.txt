@@ -1,0 +1,13 @@
+LICENSE
+README.md
+pyproject.toml
+requirements.txt
+setup.cfg
+setup.py
+.github/workflows/deploy.yml
+pathlibls/__init__.py
+pathlibls/path.py
+pathlibls/pathlibls.egg-info/PKG-INFO
+pathlibls/pathlibls.egg-info/SOURCES.txt
+pathlibls/pathlibls.egg-info/dependency_links.txt
+pathlibls/pathlibls.egg-info/top_level.txt
