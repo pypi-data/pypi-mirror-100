@@ -1,0 +1,4 @@
+[console_scripts]
+D2F2 = D2F2:main
+d2f2 = D2F2:main
+
