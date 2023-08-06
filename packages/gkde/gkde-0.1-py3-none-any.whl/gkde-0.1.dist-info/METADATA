@@ -1,0 +1,19 @@
+Metadata-Version: 2.1
+Name: gkde
+Version: 0.1
+Summary: Gaussian kernel density estimation
+Home-page: http://github.com/storborg/funniest
+Author: Flying Circus
+Author-email: flyingcircus@example.com
+License: MIT
+Keywords: funniest joke comedy flying circus
+Platform: UNKNOWN
+Classifier: Development Status :: 3 - Alpha
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 2.7
+Classifier: Topic :: Text Processing :: Linguistic
+Requires-Dist: torch (==1.7.0)
+
+Gaussian kernel density estimation
+
+
