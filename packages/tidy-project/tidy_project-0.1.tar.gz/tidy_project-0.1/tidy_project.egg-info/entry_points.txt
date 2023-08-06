@@ -1,0 +1,3 @@
+[console_scripts]
+tidy_project = tidy_project:main
+

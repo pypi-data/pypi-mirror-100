@@ -1,0 +1,15 @@
+README.md
+setup.cfg
+setup.py
+src/__init__.py
+src/conf.py
+src/tidy_project_pbxproj.py
+src/xcode_helper.py
+src/xcode_helper_test.py
+src/xcode_helper_v2.py
+tidy_project.egg-info/PKG-INFO
+tidy_project.egg-info/SOURCES.txt
+tidy_project.egg-info/dependency_links.txt
+tidy_project.egg-info/entry_points.txt
+tidy_project.egg-info/requires.txt
+tidy_project.egg-info/top_level.txt
