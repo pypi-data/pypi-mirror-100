@@ -1,0 +1,127 @@
+pipeline {
+
+    options {
+        timeout(time: 40, unit: 'MINUTES')
+    }
+
+    environment {
+        DOCKER_PYSUG = 'kairntech/pysuggester'
+        DOCKER_CREDITS = 'dockerhub-ktadminkt'
+        SPACY_VERSION = '2.3.4'
+        DOCKER_BUILDKIT = '1'
+        DOCKER_CLI_EXPERIMENTAL = 'enabled'
+    }
+
+    agent {
+        node {
+            label 'master'
+            customWorkspace "/home/jenkins/${env.JOB_NAME}"
+        }
+    }
+    parameters {
+          booleanParam(defaultValue: false, description: 'if set to true (ticked), base images will be rebuilt', name: 'forceBaseImages')
+    }
+
+    stages {
+        stage("New base images?") {
+            steps {
+                script {
+                    if (params.forceBaseImages) {
+                        env.SPACY_CPU_IMAGE_EXIST = 1
+                        env.SPACY_GPU_IMAGE_EXIST = 1
+                    }
+                    else {
+                        env.SPACY_CPU_IMAGE_EXIST = sh(
+                                script: 'docker manifest inspect ${DOCKER_PYSUG}-cpu-base:${SPACY_VERSION} > /dev/null',
+                                returnStatus: true
+                        )
+                        println "Checking if docker image ${DOCKER_PYSUG}-cpu-base:${SPACY_VERSION}exists: ${SPACY_CPU_IMAGE_EXIST}"
+                        env.SPACY_GPU_IMAGE_EXIST = sh(
+                                script: 'docker manifest inspect ${DOCKER_PYSUG}-gpu-base:${SPACY_VERSION} > /dev/null',
+                                returnStatus: true
+                        )
+                        println "Checking if docker image ${DOCKER_PYSUG}-gpu-base:${SPACY_VERSION}exists: ${SPACY_GPU_IMAGE_EXIST}"
+                    }
+                }
+            }
+        }
+        stage("Build new CPU base image") {
+            when {
+                environment name: "SPACY_CPU_IMAGE_EXIST", value: "1"
+            }
+            steps {
+                println "building Pysuggester base (ready on CPU) docker image: ${DOCKER_PYSUG}-cpu-base:${SPACY_VERSION}"
+                script {
+                    //sh "docker build -f Dockerfile-pysuggester-cpu-base --build-arg spacy_version=${SPACY_VERSION} -t ${DOCKER_PYSUG}-cpu-base:${SPACY_VERSION} ."
+                    docker.withRegistry('', DOCKER_CREDITS) {
+                        docker.build("${DOCKER_PYSUG}-cpu-base:${SPACY_VERSION}", "-f Dockerfile-pysuggester-cpu-base --build-arg spacy_version=${SPACY_VERSION} .").push()
+                        //docker.image("${DOCKER_PYSUG}-cpu-base:${SPACY_VERSION}").push()
+                    }
+                }
+            }
+        }
+
+        stage('Build Pysuggester CPU docker image') {
+            steps {
+                println "building Pysuggester (ready on CPU) docker image: ${DOCKER_PYSUG}-cpu:${env.BRANCH_NAME}"
+                script {
+                    sh "docker build -f Dockerfile-pysuggester-cpu --build-arg engine=common -t ${DOCKER_PYSUG}-cpu-common:${env.BRANCH_NAME} ."
+                    //sh "docker build -f Dockerfile-pysuggester-cpu --build-arg engine=crfsuite -t ${DOCKER_PYSUG}-cpu-crfsuite:${env.BRANCH_NAME} ."
+                    sh "docker build -f Dockerfile-pysuggester-cpu --build-arg engine=sklearn -t ${DOCKER_PYSUG}-cpu-sklearn:${env.BRANCH_NAME} ."
+                    sh "docker build -f Dockerfile-pysuggester-cpu --build-arg engine=delft -t ${DOCKER_PYSUG}-cpu-delft:${env.BRANCH_NAME} ."
+                    sh "docker build -f Dockerfile-pysuggester-cpu --build-arg engine=trf -t ${DOCKER_PYSUG}-cpu-trf:${env.BRANCH_NAME} ."
+                    sh "docker build -f Dockerfile-pysuggester-cpu --build-arg engine=flair -t ${DOCKER_PYSUG}-cpu-flair:${env.BRANCH_NAME} ."
+                    //sh "docker build -f Dockerfile-pysuggester-cpu --build-arg engine=spacy -t ${DOCKER_PYSUG}-cpu-spacy:${env.BRANCH_NAME} ."
+                    //sh "docker build -f Dockerfile-pysuggester-cpu --build-arg engine=ef -t ${DOCKER_PYSUG}-cpu-ef:${env.BRANCH_NAME} ."
+                    sh "docker build -f Dockerfile-pysuggester-cpu --build-arg engine=bertopic -t ${DOCKER_PYSUG}-cpu-bertopic:${env.BRANCH_NAME} ."
+                    //sh "docker rmi $(docker images -q -f dangling=true)"
+                    sh "docker builder prune -f"
+                }
+            }
+        }
+
+        stage("Build new GPU base image") {
+            when {
+                environment name: "SPACY_GPU_IMAGE_EXIST", value: "1"
+            }
+            steps {
+                println "building Pysuggester base (ready on GPU) docker image: ${DOCKER_PYSUG}-gpu-base:${SPACY_VERSION}"
+                script {
+                    //sh "docker build -f Dockerfile-pysuggester-gpu-base --build-arg spacy_version=${SPACY_VERSION} -t ${DOCKER_PYSUG}-gpu-base:${SPACY_VERSION} ."
+                    docker.withRegistry('', DOCKER_CREDITS) {
+                        docker.build("${DOCKER_PYSUG}-gpu-base:${SPACY_VERSION}", "-f Dockerfile-pysuggester-gpu-base --build-arg spacy_version=${SPACY_VERSION} .").push()
+                        //docker.image("${DOCKER_PYSUG}-gpu-base:${SPACY_VERSION}").push()
+                    }
+                }
+            }
+        }
+
+        stage('Build Pysuggester GPU docker image') {
+            steps {
+                println "building Pysuggester (ready on GPU) docker image: ${DOCKER_PYSUG}-gpu:${env.BRANCH_NAME}"
+                script {
+                    sh "docker build -f Dockerfile-pysuggester-gpu --build-arg engine=common -t ${DOCKER_PYSUG}-gpu-common:${env.BRANCH_NAME} ."
+                    //sh "docker build -f Dockerfile-pysuggester-gpu --build-arg engine=crfsuite -t ${DOCKER_PYSUG}-gpu-crfsuite:${env.BRANCH_NAME} ."
+                    sh "docker build -f Dockerfile-pysuggester-gpu --build-arg engine=sklearn -t ${DOCKER_PYSUG}-gpu-sklearn:${env.BRANCH_NAME} ."
+                    sh "docker build -f Dockerfile-pysuggester-gpu --build-arg engine=delft -t ${DOCKER_PYSUG}-gpu-delft:${env.BRANCH_NAME} ."
+                    sh "docker build -f Dockerfile-pysuggester-gpu --build-arg engine=trf -t ${DOCKER_PYSUG}-gpu-trf:${env.BRANCH_NAME} ."
+                    sh "docker build -f Dockerfile-pysuggester-gpu --build-arg engine=flair -t ${DOCKER_PYSUG}-gpu-flair:${env.BRANCH_NAME} ."
+                    //sh "docker build -f Dockerfile-pysuggester-gpu --build-arg engine=spacy -t ${DOCKER_PYSUG}-gpu-spacy:${env.BRANCH_NAME} ."
+                    //sh "docker build -f Dockerfile-pysuggester-gpu --build-arg engine=ef -t ${DOCKER_PYSUG}-gpu-ef:${env.BRANCH_NAME} ."
+                    sh "docker build -f Dockerfile-pysuggester-gpu --build-arg engine=bertopic -t ${DOCKER_PYSUG}-gpu-bertopic:${env.BRANCH_NAME} ."
+                    //sh "docker rmi $(docker images -q -f dangling=true)"
+                    sh "docker builder prune -f"
+                }
+            }
+        }
+    }
+    post {
+        // trigger every-works
+        always {
+            println "sending Systematic Build notification"
+            emailext(body: '${DEFAULT_CONTENT}', mimeType: 'text/html',
+                    replyTo: '${DEFAULT_REPLYTO}', subject: '${DEFAULT_SUBJECT}',
+                    to: '${DEFAULT_RECIPIENTS}')
+        }
+    }
+}
