@@ -1,0 +1,16 @@
+chai_py/__init__.py,sha256=CF6qgSjOnDsdxhd8ho_2qPwZMJKyjPp6ywV8nJ3E4yk,358
+chai_py/auth.py,sha256=SeSwTojxfLD2eyCNsIYMF36qGyAOHoPXP-dxxXNrm0U,945
+chai_py/chai_bot.py,sha256=dP7Muh6xb4cZ5DzkMSY77raS-HliupUHhzKN65zPS0U,2036
+chai_py/cloud_logs.py,sha256=5GukAExB27Z-6rvT2l6rCLPGzBqonOFshU3WWi46t6A,1222
+chai_py/defaults.py,sha256=dLhYRnWVNQBB2HzmBDOhT79ks6noF4UVInToWo0TgFQ,438
+chai_py/deployment.py,sha256=hvBXaiLtiQRmXyO0mDLfiTTywY_7iHlx1kI16m8EqZM,9352
+chai_py/logger.py,sha256=FLFeAWFYetAzFQcDII4pv41pRfjkrPMveEVFa7TpSLw,1191
+chai_py/notebook_utils.py,sha256=eCErBa3DZ01ESVd806EZfd5nu1GzZOiaYwgJw4TZ-jY,2587
+chai_py/packaging.py,sha256=dccFlFnkMT3hbYruINuBvw5KpRe3pR5wEK1ttv2UqHc,7578
+chai_py/t_room.py,sha256=pQkt0ffe8ZVT6lo5n43Q3fYewieVuIvUn3NEFrLf9yY,2247
+chai_py/types.py,sha256=cRjE8V0_ayxpfGJo1_hPWRI1tRZ4PRakYnzaSpIAkI8,421
+chaipy-0.2.11.dist-info/LICENSE,sha256=xx0jnfkXJvxRnG63LTGOxlggYnIysveWIZ6H3PNdCrQ,11357
+chaipy-0.2.11.dist-info/METADATA,sha256=YM8p2U5AjB07wvpPN9zAFrouvGsn5NXkVbxhSzqGx9g,1657
+chaipy-0.2.11.dist-info/WHEEL,sha256=OqRkF0eY5GHssMorFjlbTIq072vpHpF60fIQA6lS9xA,92
+chaipy-0.2.11.dist-info/top_level.txt,sha256=IzHnz8wIQ03XPswQbxrEeWQ68ufp0Tn-OVDMna5US1A,8
+chaipy-0.2.11.dist-info/RECORD,,
