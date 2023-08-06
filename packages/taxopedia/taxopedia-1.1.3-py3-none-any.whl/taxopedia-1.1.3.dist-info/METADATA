@@ -1,0 +1,196 @@
+Metadata-Version: 2.1
+Name: taxopedia
+Version: 1.1.3
+Summary: Taxonomic trees (cladograms) from Wikipedia-scraped data.
+Home-page: https://github.com/shanedrabing/taxopedia
+Author: Shane Drabing
+Author-email: shane.drabing@gmail.com
+License: UNKNOWN
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: Unix
+Description-Content-Type: text/markdown
+Requires-Dist: bs4
+Requires-Dist: aiohttp
+
+# Taxopedia
+
+Build taxonomic trees (cladograms) from Wikipedia-scraped data.
+
+## Installation
+
+Use the package manager [pip](https://pip.pypa.io/en/stable/) to install
+taxopedia.
+
+```bash
+pip install taxopedia
+```
+
+## Getting Started
+
+```python
+import taxopedia
+
+# create a tree... and get a bag of parsed biota boxes!
+tree, bag = taxopedia.search("Bears", comprehensive=True)
+
+# pretty print the tree
+print(tree.pretty())
+
+# export multiple formats
+tree.to_txt("tree_Ursidae.txt")    # plain-text dendrogram
+tree.to_html("page_Ursidae.html")  # diagram with images
+tree.to_csv("table_Ursidae.csv")   # filled-out tabular data
+```
+
+## Tree Manipulation
+
+```py
+# take a clone of a tree (to prevent mutation)
+cutting = tree.clone()
+
+# finding a node
+bears = cutting.find("Ursidae")
+
+# trim cousins (other children of all parents)
+bears.exclude_cousins()
+
+# return to the root (topmost parent)
+cutting = bears.root()
+
+# re-root the tree
+bears = cutting.from_pov("Ursidae")
+```
+
+## Saving and Loading Progress
+
+```py
+# save the biota bag (so you don't have to scrape it again!)
+taxopedia.dump_bag("bag_Ursidae.json", bag)
+
+# loading the biota bag
+bag = taxopedia.load_bag("bag_Ursidae.json")
+
+# how to get a tree from a bag
+tree = taxopedia.make_tree(bag)
+```
+
+## Example Exports
+
+See `docs` folder for raw files.
+
+### Rendered HTML
+
+Click on the image to see a live preview.
+
+[![docs/page_Ursidae.png](docs/page_Ursidae.png)](https://shanedrabing.github.io/taxopedia/page_Ursidae.html)
+
+### Tabular Data
+
+Click on this link to view a CSV output.
+
+[docs/table_Ursidae.csv](docs/table_Ursidae.csv)
+
+### Plain-Text Dendrogram
+
+```txt
+Kingdom: Animalia
+â””â”€â”€ Phylum: Chordata
+    â””â”€â”€ Class: Mammalia
+        â””â”€â”€ Order: Carnivora
+            â””â”€â”€ Suborder: Caniformia (Caniforms)
+                â””â”€â”€ Infraorder: Arctoidea
+                    â””â”€â”€ Family: Ursidae (Bears)
+                        â”œâ”€â”€ Genus: Ursus
+                        â”‚   â”œâ”€â”€ Species: U. arctos (Brown bear)
+                        â”‚   â”‚   â”œâ”€â”€ Subspecies: U. a. arctos (Eurasian brown bear)
+                        â”‚   â”‚   â”œâ”€â”€ Subspecies: U. a. arctos / pyrenaicus (Cantabrian brown bear)
+                        â”‚   â”‚   â”œâ”€â”€ Subspecies: U. a. beringianus (Kamchatka brown bear)
+                        â”‚   â”‚   â”œâ”€â”€ Subspecies: U. a. collaris (East Siberian brown bear)
+                        â”‚   â”‚   â”œâ”€â”€ Subspecies: U. a. gobiensis
+                        â”‚   â”‚   â”œâ”€â”€ Subspecies: U. a. horriblis (Grizzly bear)
+                        â”‚   â”‚   â”œâ”€â”€ Subspecies: U. a. isabellinus (Himalayan brown bear)
+                        â”‚   â”‚   â”œâ”€â”€ Subspecies: U. a. lasiotus (Ussuri brown bear)
+                        â”‚   â”‚   â”œâ”€â”€ Subspecies: U. a. marsicanus / arctos (Marsican brown bear)
+                        â”‚   â”‚   â”œâ”€â”€ Subspecies: U. a. middendorffi / horribilis (Kodiak bear, Alaska Peninsula brown bear)
+                        â”‚   â”‚   â”œâ”€â”€ Subspecies: U. a. pruinosus
+                        â”‚   â”‚   â”œâ”€â”€ Subspecies: U. a. stikeenensis (Stickeen brown bear)
+                        â”‚   â”‚   â”œâ”€â”€ Subspecies: U. a. syriacus (Syrian brown bear)
+                        â”‚   â”‚   â”œâ”€â”€ Subspecies: U. a. ungavaesis / horribilis (Ungava brown bear)
+                        â”‚   â”‚   â”œâ”€â”€ Subspecies: â€  U. a. californicus (California grizzly bear)
+                        â”‚   â”‚   â”œâ”€â”€ Subspecies: â€  U. a. crowtheri (Atlas bear)
+                        â”‚   â”‚   â”œâ”€â”€ Subspecies: â€  U. a. horriblis (Mexican grizzly bear)
+                        â”‚   â”‚   â””â”€â”€ Subspecies: â€  U. a. priscus
+                        â”‚   â”œâ”€â”€ Species: U. americanus (American black bear)
+                        â”‚   â”‚   â”œâ”€â”€ Subspecies: U. a. carlottae (Haida Gwaii black bear)
+                        â”‚   â”‚   â”œâ”€â”€ Subspecies: U. a. cinnamomum (Cinnamon Bear)
+                        â”‚   â”‚   â”œâ”€â”€ Subspecies: U. a. emmonsii (Glacier bear)
+                        â”‚   â”‚   â”œâ”€â”€ Subspecies: U. a. floridanus (Florida black bear)
+                        â”‚   â”‚   â”œâ”€â”€ Subspecies: U. a. hamiltoni (Newfoundland black bear)
+                        â”‚   â”‚   â”œâ”€â”€ Subspecies: U. a. kermodei (Kermode bear)
+                        â”‚   â”‚   â””â”€â”€ Subspecies: U. a. luteolus (Louisiana black bear)
+                        â”‚   â”œâ”€â”€ Species: U. thibetanus (Asian black bear)
+                        â”‚   â”‚   â”œâ”€â”€ Subspecies: U. t. formosanus (Formosan black bear)
+                        â”‚   â”‚   â”œâ”€â”€ Subspecies: U. t. gedrosianus (Balochistan black bear)
+                        â”‚   â”‚   â”œâ”€â”€ Subspecies: U. t. japonicus (Japanese bear)
+                        â”‚   â”‚   â”œâ”€â”€ Subspecies: U. t. laniger (Himalayan black bear)
+                        â”‚   â”‚   â””â”€â”€ Subspecies: U. t. ussuricus (Ussuri black bear)
+                        â”‚   â”œâ”€â”€ Species: U. arctos Ã— U. maritimus
+                        â”‚   â”‚   â””â”€â”€ Subspecies: U. a. sitkensis (ABC Islands bear)
+                        â”‚   â”œâ”€â”€ Species: U. maritimus (Polar bear)
+                        â”‚   â”‚   â””â”€â”€ Subspecies: â€  U. m. tyrannus
+                        â”‚   â”œâ”€â”€ Species: U. deningeri
+                        â”‚   â”œâ”€â”€ Species: U. dolinensis
+                        â”‚   â”œâ”€â”€ Species: U. etruscus
+                        â”‚   â”œâ”€â”€ Species: U. ingressus
+                        â”‚   â”œâ”€â”€ Species: U. minimus
+                        â”‚   â”œâ”€â”€ Species: U. rossicus
+                        â”‚   â””â”€â”€ Species: â€  U. spelaeus (Cave bear)
+                        â”œâ”€â”€ Genus: â€  Kretzoiarctos
+                        â”‚   â””â”€â”€ Species: â€  K. beatrix
+                        â”œâ”€â”€ Genus: â€  Zaragocyon
+                        â”‚   â””â”€â”€ Species: â€  Z. daamsi (Zaragocyon)
+                        â”œâ”€â”€ Tribe: Ailuropodini
+                        â”‚   â””â”€â”€ Genus: â€  Ailurarctos
+                        â”œâ”€â”€ Subfamily: Ailuropodinae
+                        â”‚   â”œâ”€â”€ Genus: Ailuropoda (Panda)
+                        â”‚   â”‚   â”œâ”€â”€ Species: A. melanoleuca (Giant panda)
+                        â”‚   â”‚   â”‚   â””â”€â”€ Subspecies: A. m. qinlingensis (Qinling panda/Brown panda)
+                        â”‚   â”‚   â”œâ”€â”€ Species: A. baconi
+                        â”‚   â”‚   â””â”€â”€ Species: A. microta
+                        â”‚   â”œâ”€â”€ Genus: â€  Miomaci
+                        â”‚   â””â”€â”€ Tribe: â€  Indarctini
+                        â”‚       â””â”€â”€ Genus: â€  Indarctos
+                        â”œâ”€â”€ Subfamily: Tremarctinae
+                        â”‚   â”œâ”€â”€ Genus: Tremarctos
+                        â”‚   â”‚   â”œâ”€â”€ Species: T. ornatus (Spectacled bear)
+                        â”‚   â”‚   â””â”€â”€ Species: â€  T. floridanus
+                        â”‚   â”œâ”€â”€ Genus: Plionarctos
+                        â”‚   â”œâ”€â”€ Genus: â€  Arctodus (Short-faced bear)
+                        â”‚   â””â”€â”€ Genus: â€  Arctotherium
+                        â”œâ”€â”€ Subfamily: â€  Hemicyoninae
+                        â”‚   â”œâ”€â”€ Genus: â€  Cephalogale
+                        â”‚   â”œâ”€â”€ Genus: â€  Dinocyon
+                        â”‚   â”œâ”€â”€ Genus: â€  Hemicyon
+                        â”‚   â”œâ”€â”€ Genus: â€  Phoberocyon
+                        â”‚   â”œâ”€â”€ Genus: â€  Phoberogale
+                        â”‚   â””â”€â”€ Genus: â€  Plithocyon
+                        â”œâ”€â”€ Subfamily: Ursinae
+                        â”‚   â”œâ”€â”€ Genus: Melursus
+                        â”‚   â”‚   â””â”€â”€ Species: M. ursinus (Sloth bear)
+                        â”‚   â”‚       â””â”€â”€ Subspecies: M. u. inornatus (Sri Lankan sloth bear)
+                        â”‚   â””â”€â”€ Genus: Helarctos
+                        â”‚       â””â”€â”€ Species: H. malayanus (Sun bear)
+                        â”œâ”€â”€ Subfamily: â€  Ursavinae
+                        â”‚   â””â”€â”€ Tribe: â€  Ursavini
+                        â”‚       â””â”€â”€ Genus: â€  Ursavus
+                        â””â”€â”€ Subfamily: â€  Agriotheriinae
+                            â””â”€â”€ Genus: â€  Agriotherium
+```
+
+## License
+
+[MIT](https://choosealicense.com/licenses/mit/)
+
+
