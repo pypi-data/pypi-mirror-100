@@ -1,0 +1,44 @@
+Metadata-Version: 2.1
+Name: pyswEOS
+Version: 0.2.7
+Summary: Python API of swEOS library which is designed to calculate EOS and thermal dynamic properties of H2O-NaCl system, usually called salt water.
+Home-page: https://www.sweos.info
+Author: Zhikui Guo
+Author-email: zguo@geomar.de
+Maintainer: Zhikui Guo
+Maintainer-email: zguo@geomar.de
+License: UNKNOWN
+Keywords: NaCl H2O IAPWS Hydrothermal seawater
+Platform: UNKNOWN
+Classifier: Intended Audience :: Science/Research
+Classifier: Intended Audience :: Developers
+Classifier: Intended Audience :: Education
+Classifier: Topic :: Scientific/Engineering
+Classifier: Topic :: Software Development :: Libraries
+Classifier: Programming Language :: Python :: 2.7
+Classifier: Programming Language :: Python :: 3.5
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Requires-Dist: matplotlib
+Requires-Dist: numpy
+Requires-Dist: argparse
+Requires-Dist: colored
+
+pyswEOS
+============
+
+    A Python interface for swEOS - Salt-Water (H2O-NaCl) Equation of State.
+
+`Documentation (development version) <https://www.sweos.info/doxygen>`__ |
+`Contact <https://www.sweos.info>`__ |
+`Try Online <https://mybinder.org/v2/gh/zguoch/saltwatereos.git/HEAD?filepath=test%2Fpython%2FTest.ipynb>`__
+
+Please select a proper version from `Download Files <https://pypi.org/project/pyswEOS/#files>`_ according to python version (e.g. 2.7, 3.8, 3.9) and operation system (macosx, linux, windows). The download file pattern is :code:`pyswEOS-version-pythonVersion-none-OSVersion.whl`. For example, if your python version is 3.7 (or maybe 3.7.x, 3.7m, ...) and OS is windows 10, please copy the link of :code:`pyswEOS-0.2.6-py3.7-none-win_amd64.whl` and then use pip to install, :code:`pip install https://files.pythonhosted.org/packages/02/e4/8867bb89020e24129c40b5847fb868f731fe829ffccdca51b6e9ba093130/pyswEOS-0.2.6-py3.7-none-win_amd64.whl`.
+
+.. placeholder-for-doc-index
+
+.. image:: https://mybinder.org/badge_logo.svg
+    :target: https://mybinder.org/v2/gh/zguoch/saltwatereos.git/HEAD
+
