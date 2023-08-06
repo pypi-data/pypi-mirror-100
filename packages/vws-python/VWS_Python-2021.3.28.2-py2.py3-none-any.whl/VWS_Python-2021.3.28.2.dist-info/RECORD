@@ -1,0 +1,16 @@
+vws/__init__.py,sha256=s7eB5EoduDcHFFrCTfd6On5j-CgrY6IGpvwjL3ExC0M,152
+vws/include_target_data.py,sha256=1l9nSNOMYJ-NDhlz0Z2czStM1N2LOF6Kro89ghdhv10,302
+vws/py.typed,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+vws/query.py,sha256=fTQlskodvZHxO9CxRUff2gZC3pqYxiB4s-G8zPcOKUI,6412
+vws/reports.py,sha256=5j5NS8nyPHj5D_cW82oZfBMWhm6ku4v_2pQh4oNUU5E,2497
+vws/vws.py,sha256=xXaGnSFMi_9KP8vZ1rVlr27y1I4fdIcc6ZpJYjwjp1w,24713
+vws/exceptions/__init__.py,sha256=z4d7Muchy8PJqM0Njpz91MeIpX7DhBPRNGZ-rWln8Tw,50
+vws/exceptions/base_exceptions.py,sha256=HEX53PreY1tDoDpZKs3S81PK2Co1wnwboSBoj6OZMJE,1305
+vws/exceptions/cloud_reco_exceptions.py,sha256=THKHX9oJhTilirYY1v-HKx3AVuTWt4REG36tS49m_tQ,978
+vws/exceptions/custom_exceptions.py,sha256=_Gjn9ewGoyBCaXNnJZedogm7WgWbKIVpMvlv337IE0s,910
+vws/exceptions/vws_exceptions.py,sha256=gnZgC9Wqrr6GF8XcY2S9-RVKg9bHmMiNLJ6UdMK30c8,4275
+VWS_Python-2021.3.28.2.dist-info/LICENSE,sha256=3f-Eg9I7wNs9Ka37pighRJX8_ehhf-TCgHqLCsMFNKk,1041
+VWS_Python-2021.3.28.2.dist-info/METADATA,sha256=HOohVbJS3zSsFxshefBzXFzsWWRVDyWeCfauZfoyIPw,4366
+VWS_Python-2021.3.28.2.dist-info/WHEEL,sha256=Z-nyYpwrcSqxfdux5Mbn_DQ525iP7J2DG3JgGvOYyTQ,110
+VWS_Python-2021.3.28.2.dist-info/top_level.txt,sha256=b0Qp9MD6LOYXh3Cv9AyXNpT0KY9QnOt2Yb7RGtFeYd0,4
+VWS_Python-2021.3.28.2.dist-info/RECORD,,
