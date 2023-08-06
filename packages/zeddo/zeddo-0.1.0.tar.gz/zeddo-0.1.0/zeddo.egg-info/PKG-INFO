@@ -1,0 +1,53 @@
+Metadata-Version: 2.1
+Name: zeddo
+Version: 0.1.0
+Summary: News CLI for lazy people
+Home-page: http://github.com/clabe45/zeddo
+Author: Caleb Sacks
+License: GPLv3
+Description: # Zeddo
+        
+        >News CLI for lazy people
+        
+        ## Installation
+        
+        ```
+        pip install zeddo
+        ```
+        
+        ## Configuration
+        
+        Create a [News API account](https://newsapi.org/register) and remember the API key.
+        
+        Then run `zeddo` and enter the API key when prompted.
+        
+        ## Usage
+        
+        ```
+        zeddo
+        
+        [1] FULL SPEECH | Level 1 lockdown remains, beaches are open and restrictions on alcohol sales (News24)
+        [2] Ramaphosa closes lid on off-site booze sales ahead of spiritual weekend observations (News24)
+        [3] Businessinsider.co.za | All the new lockdown rules ahead of the Easter holiday (News24)
+        [4] BREAKING | Aspirant NPA head arrested for alleged corruption (News24)
+        [5] Prof Salim Abdool Karim wanted to step down as early as September, says Mkhize (News24)
+        Please enter an article number to open []: 
+        ```
+        
+        ## License
+        
+        Licensed under the GNU Public License v3.0
+        
+Keywords: cli news current events tool
+Platform: UNKNOWN
+Classifier: Development Status :: 3 - Alpha
+Classifier: Environment :: Console
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: GNU General Public License v3 (GPLv3)
+Classifier: Operating System :: MacOS :: MacOS X
+Classifier: Operating System :: Microsoft :: Windows
+Classifier: Operating System :: POSIX
+Classifier: Programming Language :: Python
+Classifier: Topic :: Internet
+Classifier: Topic :: Office/Business :: News/Diary
+Description-Content-Type: text/markdown

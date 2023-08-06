@@ -1,0 +1,10 @@
+README.md
+setup.py
+zeddo/__init__.py
+zeddo/news.py
+zeddo.egg-info/PKG-INFO
+zeddo.egg-info/SOURCES.txt
+zeddo.egg-info/dependency_links.txt
+zeddo.egg-info/entry_points.txt
+zeddo.egg-info/requires.txt
+zeddo.egg-info/top_level.txt
