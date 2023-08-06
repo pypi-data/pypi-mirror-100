@@ -1,0 +1,19 @@
+Metadata-Version: 2.1
+Name: derezzed
+Version: 0.0a2
+Summary: A toolkit for reducing data resolution for privacy-preserving applications
+Home-page: https://gitlab.com/cleaninsights/derezzed
+Author: Iain R. Learmonth
+Author-email: irl@sr2.uk
+License: UNKNOWN
+Project-URL: Bug Tracker, https://gitlab.com/cleaninsights/derezzed/-/issues
+Project-URL: Source Code, https://gitlab.com/cleaninsights/derezzed
+Description: derezzed
+        ========
+        
+        A toolkit for reducing data resolution for privacy-preserving applications
+        
+Keywords: privacy metrics analytics
+Platform: UNKNOWN
+Classifier: License :: OSI Approved :: BSD License
+Description-Content-Type: text/markdown

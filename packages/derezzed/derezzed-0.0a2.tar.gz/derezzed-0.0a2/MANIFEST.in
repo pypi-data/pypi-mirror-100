@@ -1,0 +1,4 @@
+include COPYING
+include derezzed/tests/*.mmdb
+include derezzed/tests/*.geojson
+include requirements.txt
