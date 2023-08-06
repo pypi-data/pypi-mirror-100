@@ -1,0 +1,20 @@
+Metadata-Version: 2.1
+Name: zjk_try
+Version: 0.0.1
+Summary: I'm zjk! I'm 21! I'm single! Don't wait! Come!
+Home-page: https://github.com/junjunjun-learner
+Author: junjunjun
+Author-email: 996001302@qq.com
+License: UNKNOWN
+Description: # zjk_try
+        # I'm zjk.
+        # I'm 21.
+        # I'm from Beijing, China.
+        # I'm single.
+        # Don't wait and come to see me!
+        # Or tell me your address and I will see you!
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Description-Content-Type: text/markdown
