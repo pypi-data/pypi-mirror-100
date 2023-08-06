@@ -1,0 +1,82 @@
+Metadata-Version: 1.1
+Name: shear-bias
+Version: 0.4
+Summary: Shear bias estimation tools
+Home-page: https://github.com/cosmostat/shear_bias
+Author: Martin Kilbinger, Arnau Pujol
+Author-email: martin.kilbinger@cea.fr
+License: GNU GPLv3
+Description: ##########
+        Shear bias
+        ##########
+        
+        |arXiv|
+        
+        .. |arXiv| image:: https://img.shields.io/badge/arXiv-1806.10537-red.svg
+           :target: https://arxiv.org/abs/1806.10537
+        
+        
+        :Version: 0.4
+        
+        :Date: March 2021
+        
+        ``shear_bias`` is a package that contains tools and scripts for shear bias
+        estimation for weak gravitational lensing analysis.
+        
+        Authors
+        =======
+                - Martin Kilbinger `martin.kilbinger@cea.fr`
+                - Arnau Pujol `arnaupv@gmail.com`
+        
+        Installation
+        ============
+        
+        Download the code from the ``github`` repository.
+        
+        .. code-block:: bash
+        
+                git clone https://github.com/cosmostat/shear_bias
+        
+        A directory `shear_bias` is created. There, call the setup script to install the
+        package.
+        
+        .. code-block:: bash
+        
+                cd shear_bias
+                python setup.py install
+        
+        You might have to use ``sudo`` in front of the setup command, if you have the root password.
+        Alternatively, you can install the package from within a virtual environment, or use
+        the option ``--prefix DIR`` to install it in a directory ``DIR`` of your choice.
+        
+        External programs and libraries
+        -------------------------------
+        
+        The following packages should be installed:
+          - `galsim`
+        
+        Content
+        =======
+        
+                - ``shear_bias``
+        
+                  Python scripts with the shear_bias module functions and classes.
+                - ``notebooks``
+        
+                  Jupyter notebooks
+                    - ``shear_bias_example.ipynb``
+        
+                      Example notebook using galsim
+        
+        Reference
+        =========
+        
+        Pujol, Kilbinger, Sureau & Bobin (2018) arXiv_ ads_.
+        
+        .. _arXiv: https://arxiv.org/abs/1806.10537
+        .. _ads: http://cdsads.u-strasbg.fr/abs/2018arXiv180610537P
+        
+Platform: posix
+Platform: mac os
+Classifier: Programming Language :: Python
+Classifier: Natural Language :: English
