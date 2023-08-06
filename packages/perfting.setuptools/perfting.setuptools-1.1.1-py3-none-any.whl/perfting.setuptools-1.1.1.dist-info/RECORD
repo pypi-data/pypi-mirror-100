@@ -1,0 +1,12 @@
+perfting.setuptools-1.1.1-py3.9-nspkg.pth,sha256=pcpVB3-RV1dI5bj81imPweJ8BcABM6UWkqy0FV05FrY,550
+perfting/setuptools/__init__.py,sha256=i31fiDxtP4GxobWY6lMLv13PGzD2jzS8bxv2zR8bUYQ,176
+perfting/setuptools/attriclass.py,sha256=eIoCLaO8k48qC7gg-P2CF0vcq-1va8z8xemI5taSRbE,662
+perfting/setuptools/extension.py,sha256=9cFCzd7sbNa7zG4XulLpSV4AhpsDBlXXBfbE-smtxTo,2613
+perfting/setuptools/package.py,sha256=GJk6SqkG4xdj04BynBP-gtxZbE4yoWvnH6tOvfZ2q9A,4916
+perfting/setuptools/py.typed,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+perfting.setuptools-1.1.1.dist-info/LICENSE,sha256=Ujzu5espCkN178C37-67KNGHNsYDplHTPuE6GU0yvAE,1084
+perfting.setuptools-1.1.1.dist-info/METADATA,sha256=NtENalRPtWMpHaMGVMB86YuA_b5SAhMq-zwphPYu7Rg,718
+perfting.setuptools-1.1.1.dist-info/WHEEL,sha256=OqRkF0eY5GHssMorFjlbTIq072vpHpF60fIQA6lS9xA,92
+perfting.setuptools-1.1.1.dist-info/namespace_packages.txt,sha256=7YNs43B-y7FbnopvCk440WIyhVVOV5Iu_fiYTprIr8Q,9
+perfting.setuptools-1.1.1.dist-info/top_level.txt,sha256=7YNs43B-y7FbnopvCk440WIyhVVOV5Iu_fiYTprIr8Q,9
+perfting.setuptools-1.1.1.dist-info/RECORD,,
