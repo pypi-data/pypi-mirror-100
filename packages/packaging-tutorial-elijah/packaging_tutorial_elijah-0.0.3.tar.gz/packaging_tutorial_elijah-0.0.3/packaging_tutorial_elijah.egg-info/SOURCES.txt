@@ -1,0 +1,9 @@
+README.md
+setup.py
+example_pkg/__init__.py
+example_pkg/hello.py
+packaging_tutorial_elijah.egg-info/PKG-INFO
+packaging_tutorial_elijah.egg-info/SOURCES.txt
+packaging_tutorial_elijah.egg-info/dependency_links.txt
+packaging_tutorial_elijah.egg-info/requires.txt
+packaging_tutorial_elijah.egg-info/top_level.txt
