@@ -1,0 +1,9 @@
+LICENSE,sha256=z8d0m5b2O9McPEK1xHG_dWgUBT6EfBDz6wA0F7xSPTA,11358
+querius/__init__.py,sha256=ani05q645XRdLUlqssDgIQTNfV7w_akN4kwi7ZK6DLo,89
+querius/client.py,sha256=ugqdiz6-Knxo5-Z3TRgx34n7cxvhP49Iexlcuagfj90,4165
+querius/patch.py,sha256=6CRbn9aSnfG2_NwFynqthxlAa68jh5eOxkr35Tt4yNA,1039
+querius/secretmanager.py,sha256=9Q1mUQmjkutEDvhp21ei0J2Qp4dvyJ5NSMwxx2oyxpo,617
+querius-0.1.2.dist-info/LICENSE,sha256=z8d0m5b2O9McPEK1xHG_dWgUBT6EfBDz6wA0F7xSPTA,11358
+querius-0.1.2.dist-info/WHEEL,sha256=VN2eEg4PHbTOniXb-cCYQPc6zUTS4dAcATjlgU3q-Lo,83
+querius-0.1.2.dist-info/METADATA,sha256=tgpgucUZoXG3mYXNgRMW3wMRlyvCEKRM_-jd2PP2pu0,1522
+querius-0.1.2.dist-info/RECORD,,
