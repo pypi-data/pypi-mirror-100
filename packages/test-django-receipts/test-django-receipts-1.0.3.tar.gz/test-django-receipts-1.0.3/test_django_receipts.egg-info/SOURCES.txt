@@ -1,0 +1,7 @@
+setup.cfg
+setup.py
+test_django_receipts.egg-info/PKG-INFO
+test_django_receipts.egg-info/SOURCES.txt
+test_django_receipts.egg-info/dependency_links.txt
+test_django_receipts.egg-info/requires.txt
+test_django_receipts.egg-info/top_level.txt
