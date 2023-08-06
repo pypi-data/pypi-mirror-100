@@ -1,0 +1,22 @@
+Metadata-Version: 2.1
+Name: redisAioSpider
+Version: 1.1.2
+Summary: async run spider for redis
+Home-page: UNKNOWN
+Author: NotOne
+Author-email: aiphalv0010@gmail.com
+License: UNKNOWN
+Platform: UNKNOWN
+Classifier: Operating System :: OS Independent
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: MIT License
+Requires-Python: >=3.5
+Requires-Dist: aiohttp
+Requires-Dist: aiomysql
+Requires-Dist: aioredis
+Requires-Dist: fire
+Requires-Dist: requests
+
+UNKNOWN
+
+
