@@ -1,0 +1,6 @@
+click
+pillow
+colorama
+matplotlib
+webrequests
+simple-loggers
