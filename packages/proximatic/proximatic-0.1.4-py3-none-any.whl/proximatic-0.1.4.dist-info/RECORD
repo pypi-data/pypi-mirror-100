@@ -1,0 +1,13 @@
+proximatic/__init__.py,sha256=KPAlhhvZo2YKYN0sI3JukmMuF2VdzM2FJM4auo0eaJc,65
+proximatic/cli.py,sha256=iwLb8U_NXN_bl545xT-kjs29Y1g-hr_5H_hp4eOygD0,2676
+proximatic/core.py,sha256=632TrQfGBJKZaahg-lVRYqpWRILvSABnVN0My360ruU,3559
+proximatic/main.py,sha256=xVGpr0zTtTwoyG9_CC58HLpukriModZZg0TxcA5C-SQ,91
+proximatic/restapi.py,sha256=kC9t7ZNTWNhb8DlDkDrvWOvZJhHYJuYDfSxVJ6_T-AM,1280
+proximatic/restapi_serve.py,sha256=Ra51Ap9feU7cM1cDiGOQBTrD6XlDsemD8-25LOii298,879
+proximatic/templates/domain.j2.yml,sha256=h0HSp6XO-lnQw7OMq-TJaLJEkHq0GbOTaYDcfNUgnC4,623
+proximatic/utils.py,sha256=HZtDpwwc8ecHfQaaMhVeKZlvkiKXEhy5GPvedsoLzfs,197
+proximatic-0.1.4.dist-info/entry_points.txt,sha256=-kly5aNa_MBD9weGZlOI2mn66C5Y2LK8Rq3Wm1eGgrY,96
+proximatic-0.1.4.dist-info/LICENSE.md,sha256=QlSj3AfMB2vVvX5nmnRe-Ibl6VmKrya7yHHyaOzYD8g,1079
+proximatic-0.1.4.dist-info/WHEEL,sha256=VN2eEg4PHbTOniXb-cCYQPc6zUTS4dAcATjlgU3q-Lo,83
+proximatic-0.1.4.dist-info/METADATA,sha256=R8v_5pA_EIFSlAMSWXZdJto4wIb46XYYm0V3gNKIiZ8,1431
+proximatic-0.1.4.dist-info/RECORD,,
