@@ -1,0 +1,14 @@
+Metadata-Version: 2.1
+Name: twisties
+Version: 1.0.0
+Summary: Twisty puzzle scrambler for python
+Home-page: https://github.com/Adog64/twisties
+Author: Aidan Sharpe
+Author-email: amsharpe102@protonmail.com
+License: MIT
+Description: # twisties
+Platform: UNKNOWN
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.7
+Description-Content-Type: text/markdown
