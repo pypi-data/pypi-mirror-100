@@ -1,0 +1,8 @@
+counterfit_shims_grove/__init__.py,sha256=gVAiI3fNGPDNeJRTM_yDzP6H5VactAmdtVjMA1L3Kwg,464
+counterfit_shims_grove/counterfit_connection.py,sha256=4m-LRjNv0D55wtrgxaaQ-mvQIbytQOJon7lRSHtl1Jo,2644
+counterfit_shims_grove/grove_led.py,sha256=DQ1KCKHSA54Vy-InJUIvHPyh6SfDcC4ySrsjQ_XckFA,1535
+counterfit_shims_grove/grove_light_sensor_v1_2.py,sha256=7w_J-OTaBZ4cAEhvOPQDxe_Y3eAFerT2I6D6uOMrfFg,1262
+counterfit_shims_grove-0.1.4.dev2.dist-info/METADATA,sha256=BU2HE57PqI4NlYD-AFvMjLoEdzNnaHlE11fczkks_mc,2703
+counterfit_shims_grove-0.1.4.dev2.dist-info/WHEEL,sha256=OqRkF0eY5GHssMorFjlbTIq072vpHpF60fIQA6lS9xA,92
+counterfit_shims_grove-0.1.4.dev2.dist-info/top_level.txt,sha256=-pY6WUYfzVw9MQCVCfSI0mpPcntY4HFRcrNJkyEP0Wo,23
+counterfit_shims_grove-0.1.4.dev2.dist-info/RECORD,,
