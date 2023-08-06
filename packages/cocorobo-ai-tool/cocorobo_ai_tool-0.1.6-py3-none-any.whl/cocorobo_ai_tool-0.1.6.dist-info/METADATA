@@ -1,0 +1,153 @@
+Metadata-Version: 2.1
+Name: cocorobo-ai-tool
+Version: 0.1.6
+Summary: CocoRobo AI Training Tools
+Home-page: http://cocorobo.cc
+Author: Tommy Jing-Tao Liu
+Author-email: tommy@cocorobo.cc
+License: UNKNOWN
+Project-URL: Bug Tracker, http://cocorobo.cc
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.7
+Description-Content-Type: text/markdown
+
+# CocoRobo AI Training Tool
+
+## Requirements
+
+Pacakages:
+
+- scikit-image==0.16.2
+- matplotlib>=3.3.0
+- numpy>=1.19.5
+
+System Requirements:
+- Nvidia CUDA & cuDNN installed
+- Ubuntu 16+
+
+## Usage 
+
+After this tool is installed, follow the instruction below to create your own model:
+
+```python
+from cocoroboai import init, tool, train
+from config import configuration
+
+import os, time
+import matplotlib.pyplot as plt
+
+configuration = {
+    "RootPath": os.getcwd(),
+    "ConfigurationPath": os.getcwd() + "/config",
+    "DatasetPath": os.getcwd() + "/dataset",
+    "DarknetPath": os.getcwd() + "/darknet-linux"
+}
+
+init = init(configuration)
+tool, train = tool(), train()
+
+'''
+# Resize a raw dataset to 448 * 448 px dimension
+log = tool.resize_dataset(
+    path = "./dataset/cocoroboraw"
+)
+print(log)
+'''
+
+# Process labeled dataset
+project_name = "cuhk"
+labeled_dataset_path = "./dataset/cuhk"
+
+log = tool.get_labeled_dataset_from_local(
+    name = project_name, 
+    path = labeled_dataset_path
+)
+print(log)
+
+processed_dataset_name = log["Response"]["DatasetName"]
+print(processed_dataset_name)
+
+# Get dataset ready for training
+log = train.prepare(
+    name = processed_dataset_name
+)
+print(log)
+
+# Start training
+log = train.start(
+    name = processed_dataset_name
+)
+print(log)
+
+# Checkout training status
+status = train.status(
+    name = processed_dataset_name
+)
+print(status)
+
+# Constantly checking training status until the avg loss is lower than 0.06
+while True:
+    status = train.status(
+        name = processed_dataset_name
+    )
+    time.sleep(1)
+
+    if len(status["Response"]["LatestEpochStatus"]) > 0:
+        latest_avg_loss = status["Response"]["LatestEpochStatus"]
+        print("Latest epoch info:\t", latest_avg_loss)
+        print("Latest weights info:\t", status["Response"]["WeightsInfo"])
+
+        if float(latest_avg_loss["AverageLoss"]) <= 0.06:
+            log = train.stop(
+                name = processed_dataset_name
+            )
+            print(log)
+            break
+
+# Test trained model with default model and images
+log = train.test(
+    name = processed_dataset_name
+)
+print(log["Response"]["TestResult"]["TestOutput"])
+
+# show test image
+image = tool.display_image(
+    image_base64 = log["Response"]["TestResult"]["PredictedImage"]
+)
+plt.imshow(image)
+
+# Get training statistics
+log = train.get_statistics(
+    name = processed_dataset_name
+)
+for weight in log["Response"]["ModelInfo"]["Weights"]["WeightsList"]:
+    print(weight["Iteration"])
+    if weight["Iteration"] == "last":
+        model_name = weight["ModelName"]
+print(model_name)
+
+# Test trained model with specified model and images
+log = train.test(
+    name = processed_dataset_name,
+    model_name = model_name,
+    image_path = os.getcwd() + "/dataset/cuhk/school_badge_converted_23.jpg"
+)
+print(log["Response"]["TestResult"]["TestOutput"])
+
+# show test image
+image = tool.display_image(
+    image_base64 = log["Response"]["TestResult"]["PredictedImage"]
+)
+plt.imshow(image)
+
+# Export to kmodel file
+log = train.export_kmodel(
+    name = "cuhk-202104020812500K",
+    model_name = model_name
+)
+print(log)
+```
+
