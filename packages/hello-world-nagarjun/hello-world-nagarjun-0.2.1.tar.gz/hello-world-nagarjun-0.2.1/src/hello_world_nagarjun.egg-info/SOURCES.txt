@@ -1,0 +1,8 @@
+README.md
+setup.py
+src/hello_world.py
+src/hello_world_nagarjun.egg-info/PKG-INFO
+src/hello_world_nagarjun.egg-info/SOURCES.txt
+src/hello_world_nagarjun.egg-info/dependency_links.txt
+src/hello_world_nagarjun.egg-info/requires.txt
+src/hello_world_nagarjun.egg-info/top_level.txt
