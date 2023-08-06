@@ -1,0 +1,9 @@
+setup.py
+thonny_ask_makerbean.egg-info/PKG-INFO
+thonny_ask_makerbean.egg-info/SOURCES.txt
+thonny_ask_makerbean.egg-info/dependency_links.txt
+thonny_ask_makerbean.egg-info/requires.txt
+thonny_ask_makerbean.egg-info/top_level.txt
+thonnycontrib/ask-makerbean/__init__.py
+thonnycontrib/ask-makerbean/res/ask.png
+thonnycontrib/ask-makerbean/res/ask_2x.png
