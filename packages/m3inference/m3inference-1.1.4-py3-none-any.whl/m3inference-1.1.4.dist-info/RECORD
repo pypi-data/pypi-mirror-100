@@ -1,0 +1,16 @@
+m3inference/__init__.py,sha256=ngG3pRaYYP-Hf3VT6KE-BmDf4ZrLgUVj0BmZqzCzkhA,146
+m3inference/consts.py,sha256=17LgZ6GXlHNB2mNKadF10BwpOhYXok9k3szXAc0PQ0s,1884
+m3inference/dataset.py,sha256=NOnBornxacfVkZJN5hdcgdsmhxyYkaEStuD8rEBkrJ8,3729
+m3inference/full_model.py,sha256=L-lOLxJTV_w5ztnRa4znOmJIHuhGqtLuCP-FV_pP7N0,8942
+m3inference/m3inference.py,sha256=NKrRzUq7-xKFJFc5lr1yRhknWo6Bfajrl4haeZ2vlG4,7561
+m3inference/m3twitter.py,sha256=Ybac-FNFFJCQfFYinJiuDLlKkVk5WMJI3qnHkIodPXg,11685
+m3inference/preprocess.py,sha256=IiZwBDm_BHX4CSJox_y0cjK12mFywDEowjFdj7AxmWY,3285
+m3inference/text_model.py,sha256=ruSMEndI0_v9R3rLVKX4WQEgGgGNblPTH0pVVYDq864,8651
+m3inference/utils.py,sha256=p9MDips_DNhV30d-TEwU3d2-wn2Ncr6jm7sl4Ck3LBc,4581
+m3inference/data/emb.pkl,sha256=TtsgIZjjrzrNJzqMrhnNW7nglnLuk50JGY5Xy4AAbsU,47435
+m3inference/data/tw_default_profile.png,sha256=4gFRtM12j5vhEtmArgUHjbN9ulT7RwRNGq7wufivC3M,4560
+m3inference-1.1.4.dist-info/LICENSE,sha256=hIahDEOTzuHCU5J2nd07LWwkLW7Hko4UFO__ffsvB-8,34523
+m3inference-1.1.4.dist-info/METADATA,sha256=CHNSZsZ2zuP0aR-qYpeesomB53CGh53oQ1XCsRY62dY,11229
+m3inference-1.1.4.dist-info/WHEEL,sha256=S6zePDbUAjzMmpYOg2cHDxuYFWw7WiOXt6ogM6hIB5Q,92
+m3inference-1.1.4.dist-info/top_level.txt,sha256=Crp5yGN58E-ZP_XAureY5u_WGImlzjWeKA9jCTvTt6g,12
+m3inference-1.1.4.dist-info/RECORD,,
