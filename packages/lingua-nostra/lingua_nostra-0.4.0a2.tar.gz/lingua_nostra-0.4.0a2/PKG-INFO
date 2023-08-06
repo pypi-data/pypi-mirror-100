@@ -1,0 +1,35 @@
+Metadata-Version: 2.1
+Name: lingua_nostra
+Version: 0.4.0a2
+Summary: fork of Mycroftai lingua_franca
+Home-page: https://github.com/HelloChatterbox/lingua-nostra
+License: Apache2.0
+Description: # Lingua Nostra
+        
+        This is simply chatterbox's packaged version of https://github.com/MycroftAI/lingua-franca
+        
+        DO NOT INSTALL BOTH AT SAME TIME!
+        
+        versioning reflects latest lingua_franca release with `a#` appended
+        
+        Latest version: 0.4.0a2
+        
+        
+        ## Why?
+        
+        currently these repos are nearly identical, but we release more often and are 
+        occasionally ahead, this fork is packaged as lingua_nostra in pip but the 
+        module itself is still called lingua_franca.
+        
+        in the future projects might diverge due to creative differences or PRs not 
+        being accepted upstream, if that happens the imports will reflect that
+Platform: UNKNOWN
+Classifier: Development Status :: 4 - Beta
+Classifier: Intended Audience :: Developers
+Classifier: Topic :: Text Processing :: Linguistic
+Classifier: License :: OSI Approved :: Apache Software License
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Description-Content-Type: text/markdown
