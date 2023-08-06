@@ -1,0 +1,8 @@
+tests/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+tox_test_command/__init__.py,sha256=ork1_VsiezJ6ILzkNv-cdBVXqNEBNu_Vvin23U6O9Zk,347
+tox_test_command/command.py,sha256=98jIOdVvvqhCEOiJzx4jRh3c6Hoqq9IPkGuMLdgP_LM,1071
+bernardomg.tox_test_command-1.2.0.dist-info/LICENSE,sha256=xmzLGwgAmpvboORVRMI85bj_1UlVlDolD2YuXVXK_tM,1097
+bernardomg.tox_test_command-1.2.0.dist-info/METADATA,sha256=-CBDpE4IjWbYkUOVKAXu8T9hYrmg1t73t1SQXp40J9A,4999
+bernardomg.tox_test_command-1.2.0.dist-info/WHEEL,sha256=Z-nyYpwrcSqxfdux5Mbn_DQ525iP7J2DG3JgGvOYyTQ,110
+bernardomg.tox_test_command-1.2.0.dist-info/top_level.txt,sha256=q2umA8Gvv80WPzKIeeU_32dVvk9m4xu1R5LQZbbsP9M,23
+bernardomg.tox_test_command-1.2.0.dist-info/RECORD,,
