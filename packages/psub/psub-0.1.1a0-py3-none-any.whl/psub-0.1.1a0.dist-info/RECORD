@@ -1,0 +1,11 @@
+psub/__init__.py,sha256=gjcX7qtVv9q868zg32oCrv1cSyTHsL1QtI1PlNO0Ak0,78
+psub/cli.py,sha256=jyUOmG8yUjWmO23HW38UpBclas1GwuzOVCDU7cylurU,6541
+psub/main.py,sha256=tgSQdTgRgCodNbAQWl7NeoVdUadG3jtK_OxFNCyN3ik,9580
+psub/submission_scripts.py,sha256=x2_9omjKD1dwjdkOqysCMpZlE7Z7jeZJ5Khbt_cCaUM,937
+tests/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+tests/test_psub.py,sha256=G_jYKPbinZXVSibe3TGRLjT6MgN5b2b2SiQijaKAkb8,1449
+psub-0.1.1a0.dist-info/METADATA,sha256=ZgdT4buIMp2JEBjchCAlBaFGCdyK7gGEIedOJQOR3mg,2670
+psub-0.1.1a0.dist-info/WHEEL,sha256=OqRkF0eY5GHssMorFjlbTIq072vpHpF60fIQA6lS9xA,92
+psub-0.1.1a0.dist-info/entry_points.txt,sha256=650-ChRkAnAxAJhkozv644k07W6l4yecAFmnyEi26Oo,40
+psub-0.1.1a0.dist-info/top_level.txt,sha256=M8EXWTTUIKo1QZYFqSwwJI0MKxwFN8XEwulTvAvAJmk,11
+psub-0.1.1a0.dist-info/RECORD,,
