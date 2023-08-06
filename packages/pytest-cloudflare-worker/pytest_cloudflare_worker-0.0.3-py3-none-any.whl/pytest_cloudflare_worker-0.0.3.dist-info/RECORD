@@ -1,0 +1,12 @@
+pytest_cloudflare_worker/__init__.py,sha256=qTTm4nJt0XOjrZwW6_psmLBiOOiAbir_keqxvBl-40M,159
+pytest_cloudflare_worker/inspect.py,sha256=2fbRVDMjGk38IRX4Bw72n1Lhw2TP6i-wGyllVZo15-8,5637
+pytest_cloudflare_worker/main.py,sha256=Y9XWVG6h6ELw6xkBUpQWs6k9TOJcKjSiZZxaIZTo1_4,7625
+pytest_cloudflare_worker/plugin.py,sha256=pK2_26yrgaMFDrn1dErgJ6AY7bmmXoh023Y41vOQpic,1286
+pytest_cloudflare_worker/version.py,sha256=IWWQkr3B_YMNCh2LXeKY2lV-9e5dFHpNXT2rQYDqpqc,42
+pytest_cloudflare_worker-0.0.3.dist-info/LICENSE,sha256=zV_96A5tMoai4uXwL7LLB7gjkxyjaOfHNabF9a6-cQM,1080
+pytest_cloudflare_worker-0.0.3.dist-info/METADATA,sha256=FbUmcpdJpc7EPWn_8VnnRHoZnQ2DJh3hvXblNcIHhaI,2765
+pytest_cloudflare_worker-0.0.3.dist-info/WHEEL,sha256=OqRkF0eY5GHssMorFjlbTIq072vpHpF60fIQA6lS9xA,92
+pytest_cloudflare_worker-0.0.3.dist-info/entry_points.txt,sha256=l_TmHtddfLjys_KtRtjWo7gMqOeKmiUGsrzhML-VzHg,64
+pytest_cloudflare_worker-0.0.3.dist-info/top_level.txt,sha256=bVGKMw_kEqK9YBHAO6EkXOIiVaiabwMvZqOJw6fz37E,25
+pytest_cloudflare_worker-0.0.3.dist-info/zip-safe,sha256=AbpHGcgLb-kRsJGnwFEktk7uzpZOCcBY74-YBdrKVGs,1
+pytest_cloudflare_worker-0.0.3.dist-info/RECORD,,
