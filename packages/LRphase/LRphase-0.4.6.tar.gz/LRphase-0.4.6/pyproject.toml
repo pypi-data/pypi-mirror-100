@@ -1,0 +1,26 @@
+[tool.poetry]
+name = "LRphase"
+version = "0.4.6"
+description = "Phase individual long reads with haplotype information"
+authors = ["Greg Farnum <gregfar@umich.edu>"]
+
+[tool.poetry.scripts]
+LRphase = "lrphase.cli:run"
+haplotype_config = "lrphase.config:run"
+
+[tool.poetry.dependencies]
+python = "^3.9"
+typer = {extras = ["all"], version = "^0.3.2"}
+pysam = "^0.16.0"
+pyliftover = "^0.4"
+biopython = "^1.78"
+requests = "^2.25.1"
+ssw = "^0.4.1"
+typer-cli = "^0.0.11"
+
+[tool.poetry.dev-dependencies]
+pytest = "^5.2"
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
