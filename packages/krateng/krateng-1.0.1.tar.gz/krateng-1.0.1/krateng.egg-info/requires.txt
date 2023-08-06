@@ -1,0 +1,14 @@
+MechanicalSoup
+PyYAML
+Send2Trash
+borgbackup
+doreah
+jinja2
+lxml
+requests
+s3cmd
+selenium
+tabulate
+waitress
+yeonji
+youtube-dl
