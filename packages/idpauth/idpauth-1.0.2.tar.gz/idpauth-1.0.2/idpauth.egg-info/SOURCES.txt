@@ -1,0 +1,9 @@
+setup.py
+idpauth/__init__.py
+idpauth/idp_authentication.py
+idpauth/idp_authorization.py
+idpauth.egg-info/PKG-INFO
+idpauth.egg-info/SOURCES.txt
+idpauth.egg-info/dependency_links.txt
+idpauth.egg-info/requires.txt
+idpauth.egg-info/top_level.txt
