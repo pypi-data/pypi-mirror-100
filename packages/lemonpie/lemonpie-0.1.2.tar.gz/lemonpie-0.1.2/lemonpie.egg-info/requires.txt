@@ -1,0 +1,8 @@
+pandas>=1.2.2
+addict>=2.3.0
+fastai<2.0.0
+torchvision
+matplotlib
+requests
+pyyaml
+scikit-learn
