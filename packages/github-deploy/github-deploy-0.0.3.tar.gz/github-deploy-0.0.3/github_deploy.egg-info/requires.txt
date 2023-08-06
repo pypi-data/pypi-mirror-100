@@ -1,0 +1,6 @@
+asyncclick
+asyncio
+aiohttp
+certifi
+colorama
+aiofiles
