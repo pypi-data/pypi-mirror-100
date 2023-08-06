@@ -1,0 +1,43 @@
+Metadata-Version: 2.1
+Name: timedeltafmt
+Version: 0.1.1
+Summary: Parse and format timedelta
+Home-page: https://github.com/tsangwpx/timedeltafmt
+Author: Aaron Tsang
+License: UNKNOWN
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.7
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Classifier: Development Status :: 4 - Beta
+Classifier: Topic :: Text Processing
+Description-Content-Type: text/markdown
+
+# timedeltafmt
+
+A tool to parse and format `timedelta`
+
+# Examples
+
+```python
+from datetime import timedelta
+
+from timedeltafmt import parse_timedelta, format_timedelta, make_formatter, MICROSECOND, SECOND
+
+print(parse_timedelta('1day 24h'))  # 2 days, 0:00:00
+print(parse_timedelta('10s 1m 1s'))  # 0:01:11
+
+print(format_timedelta(timedelta(weeks=1)))  # 7d
+print(format_timedelta(timedelta(days=365.25)))  # 1y
+
+JIFFY_FMT = make_formatter({
+    MICROSECOND: 'ms',
+    SECOND // 50: 'jiffies',
+})
+
+print(JIFFY_FMT.format(timedelta(seconds=2)))  # 100jiffies
+
+```
+
+
