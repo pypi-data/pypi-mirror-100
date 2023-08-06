@@ -1,0 +1,10 @@
+tethys_cdsapi/__init__.py,sha256=IDsaghDeWcIDw2TR3Buw499Yv00Ze8k9cPlQYX2gTug,48
+tethys_cdsapi/downloader.py,sha256=Ka1UicZGywu8M2TPbwEiuYrfbTadrU-xAxNWXyFXqwc,8693
+tethys_cdsapi/tests/__init__.py,sha256=38pdDhEZk2RiT5kga2DPbhTYeDHdsCXNaEr7HH1-k20,208
+tethys_cdsapi/tests/testing.py,sha256=JzYUVHS5qkotXnaRTRiTNek20cUIgp8mKFzSZHHogXA,2914
+tethys_cdsapi/tests/utest_downloader.py,sha256=Krgh3HH3xpo-nJwQ8qN0C-Rnv-0pfXPqb5u2G-q9a8M,842
+tethys_cdsapi-0.0.7.dist-info/LICENSE,sha256=xx0jnfkXJvxRnG63LTGOxlggYnIysveWIZ6H3PNdCrQ,11357
+tethys_cdsapi-0.0.7.dist-info/METADATA,sha256=uFKV58BE3RglNaO5SowySGfKEiEeCdfi3whnSfTSZTY,682
+tethys_cdsapi-0.0.7.dist-info/WHEEL,sha256=ADKeyaGyKF5DwBNE0sRE5pvW-bSkFMJfBuhzZ3rceP4,110
+tethys_cdsapi-0.0.7.dist-info/top_level.txt,sha256=dcEc47Ujv3O3191qQRi9hoaR2iquF7ftzfeLlu2E-JE,14
+tethys_cdsapi-0.0.7.dist-info/RECORD,,
