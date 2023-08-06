@@ -1,0 +1,26 @@
+[tool.poetry]
+name = "nonebot_plugin_nodice"
+version = "2.0.0-alpha.1"
+description = "Dicebot Pulgin for Nonebot"
+authors = ["Jigsaw <j1g5aw@foxmail.com>"]
+license = "AGPL-3.0"
+packages = [
+    { include = "nonebot_plugin_nodice", from = ".."}
+]
+
+[tool.poetry.dependencies]
+python = "^3.7.3"
+nonebot = {version = "^1.8.2", optional = true}
+nonebot2 = {version = "^2.0.0-alpha.11", optional = true}
+nonebot-adapter-cqhttp = "^2.0.0a11.post2"
+hjson = "^3.0.2"
+
+[tool.poetry.extras]
+nb1 = ["nonebot"]
+nb2 = ["nonebot2"]
+
+[tool.poetry.dev-dependencies]
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
