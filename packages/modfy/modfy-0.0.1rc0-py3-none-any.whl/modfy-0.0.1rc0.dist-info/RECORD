@@ -1,0 +1,13 @@
+modfy/ProcessServer.py,sha256=dtSDsI4uf1dutC4n5RGxwyjnd3DoGdM47z2iBlSra5I,1011
+modfy/__init__.py,sha256=ELDw9cAo5DfNILmkpPcThlYmQBRd-kfBz-kmZNLE_PA,241
+modfy/auth.py,sha256=SXHh8WY3ua3PqmoeEcEVRA6Z2b_zujzACrQfpdiD_nc,2842
+modfy/config.py,sha256=KgPj42wB19PjyYfMEwtSQ6-LVgufHGlOfvbJ7FrmFMg,460
+modfy/main.py,sha256=sZUddCIGcQyvi92BYgK4_6hLkhwQ_IRyhLh6h26cPVY,481
+modfy/operations/Compress.py,sha256=0dYHambEYjrYh5WIoHdpx2iSJHCoOZuzmHe3Eaio5r0,537
+modfy/operations/OperationClass.py,sha256=Mjnx1ROpL1ENnD5ptQGx--qYR_fpn0Xd-exgcrhfYH0,677
+modfy/operations/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+modfy-0.0.1rc0.dist-info/LICENSE,sha256=U441IK0I2KfSZOe0V_c5K9u7lBXDWzdsuh5L5ymKyz0,11339
+modfy-0.0.1rc0.dist-info/METADATA,sha256=aqIYAqt5HZxhmsHu3KnuwTXFF85oJ37honRBPmtICWU,785
+modfy-0.0.1rc0.dist-info/WHEEL,sha256=g4nMs7d-Xl9-xC9XovUrsDHGXt-FT0E17Yqo92DEfvY,92
+modfy-0.0.1rc0.dist-info/top_level.txt,sha256=rTD6fft0vKYiZKOixaG5K7XVhUbpCtrmzQaozZgeo7I,6
+modfy-0.0.1rc0.dist-info/RECORD,,
