@@ -1,0 +1,17 @@
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+src/PyTorchIPFS.egg-info/PKG-INFO
+src/PyTorchIPFS.egg-info/SOURCES.txt
+src/PyTorchIPFS.egg-info/dependency_links.txt
+src/PyTorchIPFS.egg-info/top_level.txt
+src/pytorchipfs/__init__.py
+src/pytorchipfs/checkpoint.py
+src/pytorchipfs/datasets.py
+src/pytorchipfs/parsers.py
+src/pytorchipfs/utils.py
+src/pytorchipfs.egg-info/PKG-INFO
+src/pytorchipfs.egg-info/SOURCES.txt
+src/pytorchipfs.egg-info/dependency_links.txt
+src/pytorchipfs.egg-info/top_level.txt
