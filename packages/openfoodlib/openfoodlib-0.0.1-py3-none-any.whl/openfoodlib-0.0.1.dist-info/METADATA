@@ -1,0 +1,36 @@
+Metadata-Version: 2.1
+Name: openfoodlib
+Version: 0.0.1
+Summary: Python library to search products datas from open food facts api
+Home-page: https://https://gitlab.com/hbo1/openfoodlib
+Author: h42m0ny
+Author-email: h42m0ny@gmail.com
+License: UNKNOWN
+Project-URL: Bug Tracker, https://gitlab.com/hbo1/openfoodlib/issues
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
+Requires-Dist: requests
+
+# OpenfoodLib 
+
+## Introduction
+
+This library is a wrapper to interact with OpenFoodFacts API.
+
+## Install the library
+
+The librabry is available on pypy, to install it, run the following command : 
+
+`python -m pip install openfoodlib`
+
+## Use the library
+
+For now, only read actions are availables, example can be found [here](./example.py)
+
+
+
+
