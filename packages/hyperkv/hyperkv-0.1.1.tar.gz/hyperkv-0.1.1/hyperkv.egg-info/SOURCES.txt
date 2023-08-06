@@ -1,0 +1,12 @@
+README.md
+setup.py
+hyperkv/__init__.py
+hyperkv/__version__.py
+hyperkv/cli.py
+hyperkv/reader.py
+hyperkv.egg-info/PKG-INFO
+hyperkv.egg-info/SOURCES.txt
+hyperkv.egg-info/dependency_links.txt
+hyperkv.egg-info/entry_points.txt
+hyperkv.egg-info/not-zip-safe
+hyperkv.egg-info/top_level.txt

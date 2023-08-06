@@ -1,0 +1,3 @@
+[console_scripts]
+hyperkv = hyperkv.cli:command_line
+
