@@ -1,0 +1,17 @@
+kafkalo/__init__.py,sha256=kUR5RAFc7HCeiqdlX36dZOHkUI5wI6V_43RpEcD8b-0,22
+kafkalo/cli.py,sha256=0UhN1YrwMhWWnMd6CzFnqN1QGYf0Lr-MnVjrjw2ETE8,2611
+kafkalo/cli_schema.py,sha256=ZAzx0IEfmSFvERai4nJbkOARuSWmNVxuD-HS7UqojeI,1197
+kafkalo/clients.py,sha256=0cAZV5dyLL5-JkuOJ863i8lFTHWCTwXDsyqWdf3OR8w,10062
+kafkalo/config.py,sha256=WCHrnrWhXYJ8M2wlC8eC87pDV5gqPmqEFC0bSxhKCxY,1647
+kafkalo/inputparser.py,sha256=3WCXklOozkp_oncK7x6I3erS7JEImyBEAnMbNYGrUmU,7796
+kafkalo/report.py,sha256=wjHfFUqO013wIsy4SQgD9gxQhA9kGckD1VELJGUAVns,807
+kafkalo/schemas.py,sha256=yu52fKOpIvBvnFADfkZOlsxi6D2-MCZPdNuPyTKJhYU,7022
+kafkalo/topics.py,sha256=VM9MPJX1dYV3YqHlv-YQCHsrUzu0pw7LyGRL2SH_nyQ,8868
+kafkalo/templates/text.tmpl,sha256=wvt7lVTAvMfCr5EBOO75k8MbY1fDqy4JMOiHXxjvlX0,1561
+kafkalo-0.1.0.dist-info/AUTHORS.rst,sha256=pM1gpAygCTBaX2ejhT0UkKsMZ7TntZUE3EAtrZP5jcQ,164
+kafkalo-0.1.0.dist-info/LICENSE,sha256=0P1_J_SG3NSZZrqcadAB_rDgbjtpLUyPrQHQqTWT3nY,1567
+kafkalo-0.1.0.dist-info/METADATA,sha256=U02snSOQz3wecNDRMKk73hzCOFxbXFeGDIYJUU7fem0,2415
+kafkalo-0.1.0.dist-info/WHEEL,sha256=Z-nyYpwrcSqxfdux5Mbn_DQ525iP7J2DG3JgGvOYyTQ,110
+kafkalo-0.1.0.dist-info/entry_points.txt,sha256=DeTFpVhjv07SPkWKVGU8EzWjhuYY6g0CYL6CIfsQ5QI,46
+kafkalo-0.1.0.dist-info/top_level.txt,sha256=jvKW-NsDuZ9FiSj1u5f6x6XqyWL7Iz1o_-8oulrAEB0,8
+kafkalo-0.1.0.dist-info/RECORD,,
