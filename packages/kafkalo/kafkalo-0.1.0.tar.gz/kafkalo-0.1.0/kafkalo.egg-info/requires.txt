@@ -1,0 +1,6 @@
+Click>=7.0
+requests>=2.0
+pyyaml
+environs
+jinja2
+confluent-kafka[avro,json,protobuf,schema-registry]

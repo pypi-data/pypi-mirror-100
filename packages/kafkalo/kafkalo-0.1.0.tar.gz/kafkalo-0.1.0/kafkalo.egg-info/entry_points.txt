@@ -1,0 +1,3 @@
+[console_scripts]
+kafkalo = kafkalo.cli:main
+
