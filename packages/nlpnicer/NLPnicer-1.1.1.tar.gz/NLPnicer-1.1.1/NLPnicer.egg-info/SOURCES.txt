@@ -1,0 +1,14 @@
+CHANGELOG.txt
+MANIFEST.in
+README.txt
+setup.py
+NLPnicer.egg-info/PKG-INFO
+NLPnicer.egg-info/SOURCES.txt
+NLPnicer.egg-info/dependency_links.txt
+NLPnicer.egg-info/requires.txt
+NLPnicer.egg-info/top_level.txt
+nlpnicer/__init__.py
+nlpnicer/abbreviation.py
+nlpnicer/emoji.py
+nlpnicer/emoname.py
+nlpnicer/spell.py

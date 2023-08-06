@@ -1,0 +1,27 @@
+Metadata-Version: 1.1
+Name: NLPnicer
+Version: 1.1.1
+Summary: NLPnicer helps you to handle abbreviation, emoji and spelling mistake in your text
+Home-page: UNKNOWN
+Author: Samarth Gupta
+Author-email: samarthgupta0309@gmail.com
+License: MIT
+Description: This is a python Library used to make a improvement in Natural Language Processing 
+        NLPnicer replace your abbreviation with their full form.
+        NLPnicer replace your emoji with their meaning.
+        NLPnicer replace your spelling mistake with the most common word similar to them {using TextBlob Library}
+        
+        
+        
+        Change Log
+        ==========
+        
+        0.0.1 (28/3/2021)
+        -------------------
+Keywords: NLPnicer
+Platform: UNKNOWN
+Classifier: Development Status :: 5 - Production/Stable
+Classifier: Intended Audience :: Education
+Classifier: Operating System :: Microsoft :: Windows :: Windows 10
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3
