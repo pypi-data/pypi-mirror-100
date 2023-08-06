@@ -1,0 +1,12 @@
+autopep8
+colorama
+fabric
+ipywidgets
+joblib
+jupyterlab
+matplotlib
+numpy
+pandas
+pycodestyle
+pytest
+qgrid

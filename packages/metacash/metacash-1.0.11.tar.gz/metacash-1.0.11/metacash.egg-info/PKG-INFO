@@ -1,0 +1,20 @@
+Metadata-Version: 1.2
+Name: metacash
+Version: 1.0.11
+Summary: Keep a close eye on your financial transactions
+Home-page: https://github.com/elehcimd/metacash
+Author: Michele Dallachiesa
+Author-email: michele.dallachiesa@sigforge.com
+License: MIT
+Description: Keep a close eye on your financial transactions.
+        The online documentation is accessible at https://github.com/elehcimd/metacash.
+        
+        
+Platform: UNKNOWN
+Classifier: Development Status :: 3 - Alpha
+Classifier: Intended Audience :: Developers
+Classifier: Intended Audience :: Science/Research
+Classifier: Intended Audience :: System Administrators
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3
+Requires-Python: >=3.6
