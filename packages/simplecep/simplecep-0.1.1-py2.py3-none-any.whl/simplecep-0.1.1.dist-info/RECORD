@@ -1,0 +1,16 @@
+simplecep/__init__.py,sha256=aTpFKBP8sFcjA_Dp4YWlaid_1go5KHB6x0n-AIVqfFQ,863
+simplecep/cepaddress.py,sha256=DFL3f0Sd4kRrIXafmZvGmCE9vmK2RvGGJkx1dW7T4EU,1599
+simplecep/exceptions.py,sha256=k5zx5-DFx2RjQaXH0bM0Q_2dMosLIbyI8ZurnffMToo,689
+simplecep/resolver.py,sha256=DLiu_zxeG7-FYKtbCfUExJ1iq7ai8fgdXoVUGjBcr_U,2682
+simplecep/utils.py,sha256=C6-TH2R4Eo-UJwrcEm0FdtoGHoPA3XLBcOMHbXcsrcI,355
+simplecep/providers/__init__.py,sha256=slkF1ZBLWj67LkJjmePBtYHOjFrSFlGXu_WN_LjceiM,270
+simplecep/providers/commons.py,sha256=77JgQ4KpanW9vk4EYnQbpCJ6OLd0F2BzixYJ0NVAFUw,2022
+simplecep/providers/correios_sigep.py,sha256=_abrQsWl0ZWfw2_JaKH71nU-pXbgf0S-1r-Qg6OcC3s,2484
+simplecep/providers/republicavirtual.py,sha256=r7bBVhDLgfuCHbqhl3xadb5fNruwJNkccprMk9O7KGo,2202
+simplecep/providers/viacep.py,sha256=pcAoPGKhKo35cvRDa1FATTLRy2mDZaJ_TcpTev22rSI,1021
+simplecep-0.1.1.dist-info/LICENSE,sha256=alaTTwm6ikwcKG2YoW-12FCWV1p_5MBfiZ8LfrBxQho,1074
+simplecep-0.1.1.dist-info/METADATA,sha256=eEqbqndkKnGP4UVA2uKg3HHHEnOxy2eYCxrKIt9Q2B0,7751
+simplecep-0.1.1.dist-info/WHEEL,sha256=Z-nyYpwrcSqxfdux5Mbn_DQ525iP7J2DG3JgGvOYyTQ,110
+simplecep-0.1.1.dist-info/top_level.txt,sha256=1Gyi9jo9uQx5QNgEmmb4a8SRpafBXcsgbMpAiR_UcXQ,10
+simplecep-0.1.1.dist-info/zip-safe,sha256=AbpHGcgLb-kRsJGnwFEktk7uzpZOCcBY74-YBdrKVGs,1
+simplecep-0.1.1.dist-info/RECORD,,
