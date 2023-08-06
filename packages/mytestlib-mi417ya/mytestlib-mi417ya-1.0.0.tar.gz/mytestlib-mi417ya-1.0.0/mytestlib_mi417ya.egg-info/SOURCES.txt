@@ -1,0 +1,6 @@
+README.txt
+setup.py
+mytestlib_mi417ya.egg-info/PKG-INFO
+mytestlib_mi417ya.egg-info/SOURCES.txt
+mytestlib_mi417ya.egg-info/dependency_links.txt
+mytestlib_mi417ya.egg-info/top_level.txt
