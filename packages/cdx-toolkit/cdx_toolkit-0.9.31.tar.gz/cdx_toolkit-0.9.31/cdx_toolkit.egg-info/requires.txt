@@ -1,0 +1,12 @@
+requests
+warcio
+
+[package]
+twine<2
+setuptools
+setuptools-scm<6
+
+[test]
+pytest
+pytest-cov
+coverage
