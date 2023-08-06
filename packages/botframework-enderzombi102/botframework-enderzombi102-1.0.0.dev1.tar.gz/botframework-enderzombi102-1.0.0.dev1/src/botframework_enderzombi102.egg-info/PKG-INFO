@@ -1,0 +1,19 @@
+Metadata-Version: 2.1
+Name: botframework-enderzombi102
+Version: 1.0.0.dev1
+Summary: A feature rich, yet low level discord bot framework
+Home-page: https://github.com/ENDERZOMBI102/BotFramework
+Author: ENDERZOMBI102
+Author-email: enderzombi102.end@gmail.com
+License: UNKNOWN
+Project-URL: Bug Tracker, https://github.com/ENDERZOMBI102/BotFramework/issues
+Description: # BotFramework
+        A feature rich, yet low level discord bot framework
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Classifier: Development Status :: 4 - Beta
+Classifier: Framework :: AsyncIO
+Requires-Python: >=3.7
+Description-Content-Type: text/markdown
