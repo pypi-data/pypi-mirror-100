@@ -1,0 +1,13 @@
+README.md
+setup.py
+./script/file-zilla
+file-zilla/__init__.py
+file-zilla/__main__.py
+file-zilla/file_utility.py
+file-zilla/image_utility.py
+file-zilla/pdf_utility.py
+file_zilla.egg-info/PKG-INFO
+file_zilla.egg-info/SOURCES.txt
+file_zilla.egg-info/dependency_links.txt
+file_zilla.egg-info/requires.txt
+file_zilla.egg-info/top_level.txt
