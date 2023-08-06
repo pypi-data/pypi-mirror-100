@@ -1,0 +1,8 @@
+folium
+ipyleaflet
+pyshp
+pandas
+geopandas
+shapely
+earthengine-api
+scikit-learn
