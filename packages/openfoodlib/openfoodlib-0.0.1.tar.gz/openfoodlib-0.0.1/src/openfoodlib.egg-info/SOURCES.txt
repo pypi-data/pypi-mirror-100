@@ -1,0 +1,11 @@
+CONTRIBUTING.md
+LICENSE
+MANIFEST.in
+README.md
+project.toml
+setup.cfg
+src/openfoodlib.egg-info/PKG-INFO
+src/openfoodlib.egg-info/SOURCES.txt
+src/openfoodlib.egg-info/dependency_links.txt
+src/openfoodlib.egg-info/requires.txt
+src/openfoodlib.egg-info/top_level.txt
