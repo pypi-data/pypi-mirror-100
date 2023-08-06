@@ -1,0 +1,45 @@
+Metadata-Version: 2.1
+Name: mortgage-calculus
+Version: 0.0.2
+Summary: Tools for the analysis of mortgages
+Home-page: http://github.com/ramonVDAKKER/mortgage_calculus
+Author: Ramon van den Akker
+Author-email: ramon@vandenakker.tech
+License: MIT
+Description: .. -*- mode: rst -*-
+        
+        |PyPI version fury.io|
+        
+        .. |PyPI version fury.io| image:: https://badge.fury.io/py/mortgage-calculus.svg
+           :target: https://pypi.python.org/pypi/mortgage-calculus/
+        
+        .. |PythonMinVersion| replace:: 3.6
+        .. |NumPyMinVersion| replace:: 1.13.3
+        .. |PandasMinVersion| replace:: 0.25.0
+        .. |PytestMinVersion| replace:: 5.0.1
+        
+        
+        **mortgage_calculus** is a Python module for the (cashflow) analysis of mortgages.
+        
+        Installation
+        ------------
+        
+        Dependencies
+        ~~~~~~~~~~~~
+        
+        mortgage_calculus requires:
+        
+        - Python (>= |PythonMinVersion|)
+        - NumPy (>= |NumPyMinVersion|)
+        - Pandas (>= |PandasMinVersion|)
+        
+        User installation
+        ~~~~~~~~~~~~~~~~~
+        
+            pip install mortgage_calculus
+        
+Keywords: mortgage cashflows annuity interest
+Platform: UNKNOWN
+Classifier: License :: OSI Approved :: MIT License
+Requires-Python: >=3.7
+Description-Content-Type: text/markdown
