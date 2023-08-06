@@ -1,0 +1,15 @@
+Metadata-Version: 2.1
+Name: huffman-tree-scheduler
+Version: 0.0.1
+Summary: a -to do- tree
+Home-page: UNKNOWN
+Author: grebob
+Author-email: bobbe.cooper@gmail.com
+License: UNKNOWN
+Description: This is a tree for using if you need some stuff to do. Email bobbe.cooper@gmail.com for any bugs or suggestions
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3.9
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
