@@ -1,0 +1,15 @@
+LICENSE
+MANIFEST.in
+README.md
+setup.py
+pypi_learn/__init__.py
+pypi_learn/youtube_srt_mp3.py
+pypi_learn.egg-info/PKG-INFO
+pypi_learn.egg-info/SOURCES.txt
+pypi_learn.egg-info/dependency_links.txt
+pypi_learn.egg-info/entry_points.txt
+pypi_learn.egg-info/requires.txt
+pypi_learn.egg-info/top_level.txt
+pypi_learn/crop_mp3_srt/crop_mp3_srt.py
+pypi_learn/helper/helper.py
+test/test_package.py
