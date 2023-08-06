@@ -1,0 +1,3 @@
+[console_scripts]
+revjo = revjo._cli:cli
+

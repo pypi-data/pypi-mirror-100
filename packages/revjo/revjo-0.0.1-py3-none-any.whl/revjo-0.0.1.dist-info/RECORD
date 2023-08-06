@@ -1,0 +1,10 @@
+revjo/__init__.py,sha256=-mg9M3N4ISoNvWeElpM0x0yAnpUnB7BvLglJNFJ3YQw,105
+revjo/_cli.py,sha256=1CEbE78AcCcVppTBv5n3Z6arIPgsEyOn-QVZ_oKVjZQ,1358
+revjo/revjo.py,sha256=ObYKGhs_oKJJ4PcA_QtqHH79Ymvg5autFtH4rHPIyyA,1201
+revjo/version.py,sha256=Q8raD6k02z4DoYniAz3iui5d6EdM1el95SMTLXJbeCA,18
+revjo-0.0.1.dist-info/LICENSE,sha256=CVdrMVHbp4KqwJMmWxAL8jfjuTwRPGcYY3DMDcgK1Dk,1073
+revjo-0.0.1.dist-info/METADATA,sha256=5jrajmBE46487JwgbscasNzPsquQOdMhX0OBuR6yWp8,918
+revjo-0.0.1.dist-info/WHEEL,sha256=EVRjI69F5qVjm_YgqcTXPnTAv3BfSUr0WVAHuSP3Xoo,92
+revjo-0.0.1.dist-info/entry_points.txt,sha256=p4bXNGNkQASVCDmEiaIzVPESjB0jgxdfj9jUz_4VtZU,42
+revjo-0.0.1.dist-info/top_level.txt,sha256=MYEojNjQBNLxyZL-pZk2dID0Tp-e3RX6MxLS7oLSCYw,6
+revjo-0.0.1.dist-info/RECORD,,
