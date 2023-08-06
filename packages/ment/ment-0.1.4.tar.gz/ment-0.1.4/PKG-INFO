@@ -1,0 +1,48 @@
+Metadata-Version: 2.1
+Name: ment
+Version: 0.1.4
+Summary: python library to write daily log in markdown quickly and to synthesize daily logs based on category
+Home-page: https://github.com/kawagh/ment
+Author: kawagh
+Requires-Python: >=3.8,<4.0
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Project-URL: Repository, https://github.com/kawagh/ment
+Description-Content-Type: text/markdown
+
+# ment
+## what is this?
+ment is a python library to write daily log in markdown quickly and to synthesize daily logs based on category.
+
+## prerequisities
+- vim
+
+## how to install and run ment
+```
+pip install ment
+m # start editting ~/ment_dir/<todays_date>/diary.md
+```
+
+## structure
+```
+~/ment_dir/
+├── 2021-03-27
+│   └── diary.md
+├── 2021-03-28
+│   └── diary.md
+├── 2021-03-29
+│   └── diary.md
+├── 2021-03-30
+│   └── diary.md
+└── synthe
+    ├── tag1
+    │   └── synthe_tag1.md
+    ├── tag2
+    │   └── synthe_tag2.md
+    ├── tag3
+    │   └── synthe_tag3.md
+    └── weeks.md
+
+```
+
