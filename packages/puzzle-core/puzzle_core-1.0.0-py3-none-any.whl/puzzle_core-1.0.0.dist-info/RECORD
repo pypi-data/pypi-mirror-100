@@ -1,0 +1,10 @@
+puzzle/__init__.py,sha256=QQnpHR2lFhIl_FghMjDGwA5FhnJplAdV2OxgUVtWLCQ,141
+puzzle/plugin_collection.py,sha256=YkTtS6hUy70bI28i1bJWqVXgKKS5ZhwmRdSYs0On6vc,3799
+puzzle/telegram.py,sha256=pRjgV8R19po0oUBM3tX7hMxvp8bdEmy11zYkPmsLhuw,608
+puzzle/tools.py,sha256=Di-woc0jFqP2tuv2W1mP9EsSjrwRgZ3qO9VEQqAScoc,511
+puzzle/webhook.py,sha256=7UgvFoUrFEVOIie3_qmZouuqv2ZDH9SNBRSdePMY0Us,495
+puzzle_core-1.0.0.dist-info/LICENSE,sha256=344-1sG-YzBlzJpgVx09Vhme39ZmwckORYN-1XwoEVc,1072
+puzzle_core-1.0.0.dist-info/METADATA,sha256=5xO9yHgH9Dh3hAxGL7QXGHZLfRrOqw8PTRmZvBPhUcw,877
+puzzle_core-1.0.0.dist-info/WHEEL,sha256=OqRkF0eY5GHssMorFjlbTIq072vpHpF60fIQA6lS9xA,92
+puzzle_core-1.0.0.dist-info/top_level.txt,sha256=_kOrum6zrQSB96y_G96u97E0aRrh1x8yjnWIcUyUiUs,7
+puzzle_core-1.0.0.dist-info/RECORD,,
