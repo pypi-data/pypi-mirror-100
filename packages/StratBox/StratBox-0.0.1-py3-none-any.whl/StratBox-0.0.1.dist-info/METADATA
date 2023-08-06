@@ -1,0 +1,19 @@
+Metadata-Version: 2.1
+Name: StratBox
+Version: 0.0.1
+Summary: My first Strategy package
+Home-page: UNKNOWN
+Author: Kelian Ferhat
+Author-email: <kelianferhat@gmail.com>
+License: UNKNOWN
+Keywords: python,finance
+Platform: UNKNOWN
+Classifier: Development Status :: 3 - Alpha
+Classifier: Intended Audience :: Education
+Classifier: Programming Language :: Python :: 3
+Classifier: Operating System :: MacOS :: MacOS X
+Classifier: Operating System :: Microsoft :: Windows
+
+My first package which should help systematizethe back-end of strategy trading, from underlyingselection portfolio optimization.
+
+
