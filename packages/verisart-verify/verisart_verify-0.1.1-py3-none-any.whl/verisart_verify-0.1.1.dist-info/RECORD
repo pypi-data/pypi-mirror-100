@@ -1,0 +1,11 @@
+verisart_verify-0.1.1.data/scripts/verisart-verify,sha256=gYAIS2J5rhGahyN7sRFhePXD4U8uT_q8EqwNdZnu-7U,279
+verisartverify/OtsCli.jar,sha256=NhzfEADGuoWJ-kDjqEWy02IjJm7e5LBhz0AVXwxDJCA,9564692
+verisartverify/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+verisartverify/utils.py,sha256=rJKlnMhoDB1SyPhXXotpZ414LYv6ZUd6xJXkztyK5HI,2683
+verisartverify/verify.py,sha256=F6n_ua0DlnW7avCuYxjJZ5v9JzVJMRnr5r8y4NNip_o,14925
+verisartverify/verify_legacy.py,sha256=sGPLGMuYa5AFdhYhNb9JZr4aS-GCZs9Zt6Rd5Da5obE,3105
+verisart_verify-0.1.1.dist-info/LICENSE,sha256=z72U6pv-bQgJ_Svr4uCXnMjemsp38aSerhHEdEAOMJ4,7632
+verisart_verify-0.1.1.dist-info/METADATA,sha256=o8aQkvhqpekuuhi1UHG2W4YV7m_zMerCJFNzHlBmXk8,1622
+verisart_verify-0.1.1.dist-info/WHEEL,sha256=EVRjI69F5qVjm_YgqcTXPnTAv3BfSUr0WVAHuSP3Xoo,92
+verisart_verify-0.1.1.dist-info/top_level.txt,sha256=lwI9QkMnbKDI_JSVO0rh6P7VBfXg2uSNcxXfeVy3gLY,15
+verisart_verify-0.1.1.dist-info/RECORD,,
