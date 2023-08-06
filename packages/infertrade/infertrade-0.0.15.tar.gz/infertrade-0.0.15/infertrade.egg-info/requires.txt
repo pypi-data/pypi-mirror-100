@@ -1,0 +1,9 @@
+pandas==1.2.3
+numpy==1.20.1
+ta==0.7.0
+scikit-learn==0.24.1
+matplotlib
+typing_extensions
+
+[dev]
+pytest==6.2.2
