@@ -1,0 +1,44 @@
+Metadata-Version: 2.1
+Name: spoqa-requests-backoff
+Version: 0.1.0
+Summary: Backoff Session for requests
+Home-page: https://github.com/spoqa/requests-backoff
+License: MIT
+Author: Spoqa Creators
+Author-email: dev@spoqa.com
+Maintainer: rusty
+Maintainer-email: rusty@spoqa.com
+Requires-Python: >=2.7, !=3.0.*, !=3.1.*, !=3.2.*, !=3.3.*, !=3.4.*
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 2
+Classifier: Programming Language :: Python :: 2.7
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.5
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Requires-Dist: backoff (>=1.10.0,<2.0.0)
+Requires-Dist: backports.functools_lru_cache (!=1.6.2,!=1.6.3)
+Requires-Dist: requests (>=2.25.1,<3.0.0)
+Project-URL: Repository, https://github.com/spoqa/requests-backoff
+Description-Content-Type: text/markdown
+
+# spoqa-requests-backoff
+
+Backoff session for requests
+
+## Usage
+
+By default, `BackoffSession` 
+
+```python
+resp = BackoffSession().get('https://...')
+```
+
+## License
+
+_spoqa-requests-backoff_ is distributed under the terms of MIT License.
+
+See [LICENSE](LICENSE) for more details.
+
