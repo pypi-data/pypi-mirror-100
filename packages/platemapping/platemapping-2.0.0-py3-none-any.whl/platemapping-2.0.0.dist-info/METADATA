@@ -1,0 +1,28 @@
+Metadata-Version: 2.1
+Name: platemapping
+Version: 2.0.0
+Summary: Plate map uploading, processing & visualisaion
+Home-page: https://github.com/lawrencecollins/platemapping
+Author: Stuart Warriner, Lawrence Collins, Mariusz Las
+Author-email: s.l.warriner@leeds.ac.uk, lawrencejordancollins@gmail.com, cm18mel@leeds.ac.uk
+License: UNKNOWN
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
+
+# Plate Map #
+[Map well plate experiments via .csv plate map templates](https://github.com/lawrencecollins/Ca-Flex-Analysis/)<br><br>
+[Shorthand example](https://github.com/lawrencecollins/Ca-Flex-Analysis/blob/master/plate-map_example%203nM%20to%203%20uM.csv)<br>
+[Longhand example](https://github.com/lawrencecollins/Ca-Flex-Analysis/blob/master/long%20map%20example.csv)<br>
+<br>
+This software is used to read and interpret [calcium flux](https://github.com/lawrencecollins/calciumflexanalysis) and [fluorescence anisotropy](https://github.com/mariuszlas/Fluorescence-Anisotropy-Analysis) assays<br>
+<br>
+Suitable for well plates of size 6, 12, 24, 48, 96 and 384. 
+
+## Documentation ##
+Find the current documentation [here](https://lawrencecollins.github.io/platemapping/)
+
+
