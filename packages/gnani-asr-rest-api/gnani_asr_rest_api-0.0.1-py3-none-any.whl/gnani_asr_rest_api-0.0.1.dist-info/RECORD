@@ -1,0 +1,7 @@
+gnani_rest_api/__init__.py,sha256=rnyUE_ABw48PWM8SHkOfyXfJZ8XwMEDkmIFX-uA8afA,34
+gnani_rest_api/client.py,sha256=6F_oyjvykiOqDjOx8YtxePoaSCQjU2UnpJ5Hvlwap94,6508
+gnani_rest_api/audio/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+gnani_asr_rest_api-0.0.1.dist-info/METADATA,sha256=Iem7kxRk08ZwqSSjoFCEO0EZGrnOzOaUVte1Hdjwy7Y,582
+gnani_asr_rest_api-0.0.1.dist-info/WHEEL,sha256=OqRkF0eY5GHssMorFjlbTIq072vpHpF60fIQA6lS9xA,92
+gnani_asr_rest_api-0.0.1.dist-info/top_level.txt,sha256=_BiOm3Nc3RaN655PLYn6qS6jyHG8QGUA3yTC63aDTng,15
+gnani_asr_rest_api-0.0.1.dist-info/RECORD,,
