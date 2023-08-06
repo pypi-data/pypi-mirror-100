@@ -1,0 +1,10 @@
+compress_pptx/__init__.py,sha256=HfjVOrpTnmZ-xVFCYSVmX50EXaBQeJteUHG-PD6iQs8,22
+compress_pptx/__main__.py,sha256=YGiH_tsiYQg8ioEJdgACmQxMQN9Wl8Ha4zY6TZ8igF4,1542
+compress_pptx/compress_pptx.py,sha256=994AxMrWOGP-I2C6Mit4K8rlbLxkFyc0jlBVCSoWMLE,6430
+compress_pptx/util.py,sha256=vTvxus_oeOX868ry8v8zICzETYExkMflbSd_mR6nMw4,2773
+compress_pptx-0.2.1.dist-info/LICENSE.md,sha256=g3C3Suk5TlUX_WKoonHmrUBPRIblOhGlsl5CuRJesCY,1072
+compress_pptx-0.2.1.dist-info/METADATA,sha256=Y-sAnb6CotfgcaWmZisf5sehR5VnE3x-rtPjmsUYmSc,4390
+compress_pptx-0.2.1.dist-info/WHEEL,sha256=g4nMs7d-Xl9-xC9XovUrsDHGXt-FT0E17Yqo92DEfvY,92
+compress_pptx-0.2.1.dist-info/entry_points.txt,sha256=Pc2p6tLRKfW3VGEzWznOIVLsdgQQ6ZgX7VsWjihSzko,63
+compress_pptx-0.2.1.dist-info/top_level.txt,sha256=6J5LK3YOAYmyS_sisTNi-i_K0INhYWLi3jW6BSOyG3Y,14
+compress_pptx-0.2.1.dist-info/RECORD,,
