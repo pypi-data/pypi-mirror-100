@@ -1,0 +1,15 @@
+empy
+pexpect
+packaging
+pyyaml
+docker
+
+[packaging]
+stdeb
+twine
+
+[tests]
+codecov
+coverage
+nose
+pytest
