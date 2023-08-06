@@ -1,0 +1,2 @@
+blueqat>=0.4.2
+braket>=1.5.13

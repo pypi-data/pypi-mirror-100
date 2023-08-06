@@ -1,0 +1,16 @@
+Metadata-Version: 1.1
+Name: braket-backend-blueqat
+Version: 0.0.1rc0
+Summary: Braket backend for blueqat
+Home-page: UNKNOWN
+Author: gyu-don
+Author-email: kato@blueqat.com
+License: Apache-2.0
+Description: # Braket-backend-blueqat (bqbraket)
+        Convert `blueqat.Circuit` to `braket.circuits.Circuit`.
+        
+Platform: UNKNOWN
+Classifier: Development Status :: 3 - Alpha
+Classifier: License :: OSI Approved :: Apache Software License
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
