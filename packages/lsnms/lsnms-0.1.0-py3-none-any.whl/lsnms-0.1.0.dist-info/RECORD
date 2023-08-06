@@ -1,0 +1,9 @@
+lsnms/__init__.py,sha256=yaD4uHUVm9NuKPG-E4Uj8PfWFD1-quXVknFkfJhByxU,52
+lsnms/balltree.py,sha256=zzKwuflVZdhffoYd901LFGn3COOvNelN7gEvOUYAjmE,8338
+lsnms/kdtree.py,sha256=xUx-66ckS_a2obs_NnG-zGXLfdQDjlUX04avZwHjwG8,8421
+lsnms/nms.py,sha256=JPN9mJAaG6ksFFSgsa4v8674i8UuTZxvg5Sn4j3P-ss,4986
+lsnms/util.py,sha256=NCJBvCd4dR1nIihr8lGghzuyvOoeXT18XGhj__YW2-E,4571
+lsnms/wbc.py,sha256=SlT6lNOl7yJRFh9-uLdih6oVW40rJnsQrHe4Iyh2_t0,6265
+lsnms-0.1.0.dist-info/WHEEL,sha256=VN2eEg4PHbTOniXb-cCYQPc6zUTS4dAcATjlgU3q-Lo,83
+lsnms-0.1.0.dist-info/METADATA,sha256=QgIIciQovU-9iqA6baVOiKK38aAEGhpfGV5svFAGoYc,11253
+lsnms-0.1.0.dist-info/RECORD,,
