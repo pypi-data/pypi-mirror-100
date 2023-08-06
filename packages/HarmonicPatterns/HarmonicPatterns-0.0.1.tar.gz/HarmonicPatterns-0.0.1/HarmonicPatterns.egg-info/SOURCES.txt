@@ -1,0 +1,6 @@
+README.md
+setup.py
+HarmonicPatterns.egg-info/PKG-INFO
+HarmonicPatterns.egg-info/SOURCES.txt
+HarmonicPatterns.egg-info/dependency_links.txt
+HarmonicPatterns.egg-info/top_level.txt
