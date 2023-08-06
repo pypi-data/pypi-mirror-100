@@ -1,0 +1,12 @@
+eletter/__init__.py,sha256=AUe8WULPjDBjKz_MOxUs3enyApJt4efDru4_lmE3ADM,1657
+eletter/classes.py,sha256=mBe376Q984Hl4M7kUh3dBmL3AXjZXrqjand_RHDg00Q,28153
+eletter/core.py,sha256=y11huwDUQTWXU0mc7YW-jr0g97Y49jBSycgl7X0_MQE,5339
+eletter/decompose.py,sha256=8EAqa1hiL-PEOho-WMZ-ZAwjizsbJId7rqw-awyh9jI,18237
+eletter/errors.py,sha256=0vsufccjx7IvByWxUcTow8fHcSaGp9DKFEqYk8EsVNA,1013
+eletter/py.typed,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+eletter/util.py,sha256=8Bqf16pSZxxDLZOcjaYVZhSKMbiP2jIuQOls6ieyHuc,1611
+eletter-0.5.0.dist-info/LICENSE,sha256=kTSiU_qjJU-ybHXGLvcUbpL-AniB8y56QiBbpMmYU8c,1090
+eletter-0.5.0.dist-info/METADATA,sha256=ekWm8ymcf91DM6_KxyjtpA0bsF4ZpKjrx6EZHOt-gro,5662
+eletter-0.5.0.dist-info/WHEEL,sha256=OqRkF0eY5GHssMorFjlbTIq072vpHpF60fIQA6lS9xA,92
+eletter-0.5.0.dist-info/top_level.txt,sha256=Z-4QPP-z95mj92tl7F2O9Ck0quvTje_YJj8hePqOSTY,8
+eletter-0.5.0.dist-info/RECORD,,
