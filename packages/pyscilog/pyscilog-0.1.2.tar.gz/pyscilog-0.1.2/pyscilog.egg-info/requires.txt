@@ -1,0 +1,12 @@
+psutil
+dataclasses
+
+[doc]
+sphinx
+sphinx_rtd_theme
+
+[test]
+pytest
+mypy
+pycodestyle
+data-science-types
