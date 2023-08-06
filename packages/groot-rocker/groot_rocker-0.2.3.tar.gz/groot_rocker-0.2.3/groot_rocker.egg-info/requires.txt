@@ -1,0 +1,13 @@
+empy
+pexpect
+packaging
+pyyaml
+docker
+
+[packaging]
+stdeb
+twine
+
+[tests]
+nose
+pytest
