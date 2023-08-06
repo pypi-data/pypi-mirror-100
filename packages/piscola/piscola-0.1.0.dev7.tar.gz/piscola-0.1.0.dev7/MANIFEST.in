@@ -1,0 +1,9 @@
+include requirements.txt, LICENSE
+graft src/piscola
+graft data
+graft tests
+
+exclude src/piscola/sfddata-master/*fits
+prune docs
+prune joss_paper
+
