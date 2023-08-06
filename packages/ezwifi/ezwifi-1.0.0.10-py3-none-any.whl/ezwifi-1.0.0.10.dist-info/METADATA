@@ -1,0 +1,16 @@
+Metadata-Version: 2.1
+Name: ezwifi
+Version: 1.0.0.10
+Summary: Easy Python WiFi package for windows (Based on win32wifi package)
+Home-page: https://eu4ng.tistory.com/36
+Author: Eu4ng
+Author-email: wjdgnsehowl@naver.com
+License: MIT
+Platform: UNKNOWN
+Requires-Python: >=3
+Requires-Dist: win32wifi (==0.1.0)
+Requires-Dist: E4function (==1.0.0.0)
+
+UNKNOWN
+
+
