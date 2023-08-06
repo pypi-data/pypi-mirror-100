@@ -1,0 +1,31 @@
+Metadata-Version: 2.1
+Name: certomancer
+Version: 0.1.0
+Summary: PKI testing tool
+Home-page: https://github.com/MatthiasValvekens/certomancer
+Author: Matthias Valvekens
+Author-email: dev@mvalvekens.be
+License: MIT
+Description: # Certomancer
+        
+        Quickly construct, mock & deploy PKI test configurations using simple declarative configuration. Includes CRL, OCSP and time stamping service provisioning.
+        
+        Install with `python setup.py install`, and see `example.yml` for an example config file. The CLI comes with a built-in help function (although it isn't very helpful at this stage).
+        
+        
+        *Warning:*  This is a testing tool for developers that write software to interface with public-key infrastructure. It is *NOT* intended to function as management software for production PKI deployments. Certomancer is very much garbage-in garbage-out, and happily ignores validation & security best practices in favour of allowing you to abuse your codebase in the worst possible ways. Consider yourself warned.
+        
+Keywords: pki testing
+Platform: UNKNOWN
+Classifier: Development Status :: 3 - Alpha
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Topic :: Security :: Cryptography
+Classifier: Topic :: Software Development :: Libraries :: Python Modules
+Description-Content-Type: text/markdown
+Provides-Extra: requests-mocker
+Provides-Extra: web-api
+Provides-Extra: pkcs12
