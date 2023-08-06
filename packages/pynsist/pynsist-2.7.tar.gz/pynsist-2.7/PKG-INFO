@@ -1,0 +1,7 @@
+Metadata-Version: 1.1
+Name: pynsist
+Version: 2.7
+Summary: Build NSIS installers for Python applications.
+Home-page: None
+Author: None
+Author-email: Thomas Kluyver <thomas@kluyver.me.uk>
