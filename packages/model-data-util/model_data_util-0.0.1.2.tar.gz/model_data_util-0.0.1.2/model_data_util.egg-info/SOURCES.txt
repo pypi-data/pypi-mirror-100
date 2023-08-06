@@ -1,0 +1,11 @@
+README.md
+setup.py
+create_tt_data/cnn_build_rule.py
+create_tt_data/ffnn_build_rule.py
+create_tt_data/generate_tt_data.py
+create_tt_data/model_build.py
+create_tt_data/model_data_convert.py
+model_data_util.egg-info/PKG-INFO
+model_data_util.egg-info/SOURCES.txt
+model_data_util.egg-info/dependency_links.txt
+model_data_util.egg-info/top_level.txt
