@@ -1,0 +1,10 @@
+sakura/__init__.py,sha256=nmKq3MHGIpNcXUg8KWmTT9CmEwDc-df8U3VKesf6ogI,25
+sakura/functional.py,sha256=GYTsnSw7fZ1EanxtaKOZtcK3g073OYKiNRl1ynsy1rY,387
+sakura/ml/__init__.py,sha256=uDKIj4yD1D3_wmhCyaknqdc7a0V8OxU1nk6Cv5r5XGA,83
+sakura/ml/async_trainer.py,sha256=tiK8gjvxhUFRcWI-KiqbRmsgPuuyFutD1Zga-TyBaWs,1451
+sakura/ml/default_trainer.py,sha256=nx40jJIODp71fq6DWGK__wjwcZpeOusAb6vCSc_W5xk,2948
+sakura/ml/decorators/__init__.py,sha256=dSQAmx-pIlf7L8kzwcJfpffZ_xNy5ifrHoaMx7s9uuQ,2329
+sakura_ml-0.0.1.dist-info/METADATA,sha256=2xE2TT3IpvND2WT8mBKl_YAUOJ6vE1oFutpBzweSlBY,498
+sakura_ml-0.0.1.dist-info/WHEEL,sha256=OqRkF0eY5GHssMorFjlbTIq072vpHpF60fIQA6lS9xA,92
+sakura_ml-0.0.1.dist-info/top_level.txt,sha256=oLemNiG5CMXPkOaKG4LhXn7cyWYPfLQnqanpt0lDjeg,7
+sakura_ml-0.0.1.dist-info/RECORD,,
