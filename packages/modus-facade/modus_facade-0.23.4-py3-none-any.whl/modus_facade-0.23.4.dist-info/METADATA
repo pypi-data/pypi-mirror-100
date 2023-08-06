@@ -1,0 +1,85 @@
+Metadata-Version: 2.1
+Name: modus-facade
+Version: 0.23.4
+Summary: Modus Facade
+Home-page: https://github.com/dotmodus/facade
+Author: DotModus
+Author-email: developers@dotmodus.com
+License: UNKNOWN
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
+Requires-Dist: google-api-python-client (==1.12.8)
+Requires-Dist: google-cloud-storage (==1.36.1)
+Requires-Dist: google-cloud-bigquery (==2.10.0)
+Requires-Dist: oauth2client (==4.1.3)
+Requires-Dist: humanize
+Requires-Dist: requests
+Requires-Dist: simplejson
+Requires-Dist: pytz
+Provides-Extra: dev
+Requires-Dist: unittest2 ; extra == 'dev'
+Requires-Dist: vcrpy ; extra == 'dev'
+Requires-Dist: pytest ; extra == 'dev'
+Requires-Dist: coverage ; extra == 'dev'
+Requires-Dist: codacy-coverage ; extra == 'dev'
+Requires-Dist: requests-mock ; extra == 'dev'
+Requires-Dist: psutil ; extra == 'dev'
+Provides-Extra: mod_redis
+Requires-Dist: redis ; extra == 'mod_redis'
+
+Modus Facade
+============
+
+## Deprecation Notice
+
+*Deprecated and no longer supported. Please don't use this.*
+
+This package is being left up for legacy support. It is not maintained and shouldn not be 
+used.
+
+DotModus wrapper for common Google Cloud Components.
+
+Facade is now designed for python 3.5 and above.
+
+For example:
+
+- Logging (including Cloud Logging)
+- Dataproc
+- Compute
+- Solr
+
+Each facade module will be stored in its own directory. However, the entire
+ facade module will be installable.
+
+## Problems with google-api-client
+
+The Google API Client has historically had a problem where it shared a 
+ namespace with apiclient (another python package). As such, there can be 
+ issues with certain parts of the googleapiclient package not being found. As 
+ an example, a recent problem popped up running `dataproc.py` with the 
+ following error:
+
+ ```
+ Traceback (most recent call last):
+  File "dataproc-play.py", line 4, in <module>
+    from modcloud import dataproc
+  File "/Users/thomas/Development/facade/modcloud/dataproc.py", line 6, in <module>
+    from googleapiclient.discovery import build
+  File "/Users/thomas/.virtualenvs/scoop/lib/python2.7/site-packages/googleapiclient/discovery.py", line 53, in <module>
+    import uritemplate
+ImportError: No module named uritemplate
+```
+
+For some reason, I had managed to mess up the dependencies and needed to 
+ reinstall the google-api-client with the following command, whcih resolved the
+ problem:
+
+```
+pip install --force-reinstall google-api-python-client
+```
+
+
