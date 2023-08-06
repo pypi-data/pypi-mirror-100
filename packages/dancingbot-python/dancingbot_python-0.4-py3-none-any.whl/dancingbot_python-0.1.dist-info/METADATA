@@ -1,0 +1,21 @@
+Metadata-Version: 2.1
+Name: dancingbot-python
+Version: 0.1
+Summary: use dancingbot in python pacakge
+Home-page: https://github.com/applenongbu/dancingbot_python
+Author: applenongbu(TNB alba)
+Author-email: daefrica@kakao.com
+License: UNKNOWN
+Download-URL: https://github.com/applenongbu/dancingbot_python/archive/master.zip
+Keywords: dancingbot_python
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
+Requires-Dist: pyserial
+
+UNKNOWN
+
+
