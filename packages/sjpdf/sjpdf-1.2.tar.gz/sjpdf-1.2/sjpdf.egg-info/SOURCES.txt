@@ -1,0 +1,9 @@
+README.md
+setup.py
+Sjpdf/__init__.py
+Sjpdf/pdf2image.py
+Sjpdf/pdf2text.py
+sjpdf.egg-info/PKG-INFO
+sjpdf.egg-info/SOURCES.txt
+sjpdf.egg-info/dependency_links.txt
+sjpdf.egg-info/top_level.txt
