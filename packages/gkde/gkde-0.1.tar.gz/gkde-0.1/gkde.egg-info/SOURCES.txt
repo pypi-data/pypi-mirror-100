@@ -1,0 +1,7 @@
+setup.py
+gkde.egg-info/PKG-INFO
+gkde.egg-info/SOURCES.txt
+gkde.egg-info/dependency_links.txt
+gkde.egg-info/not-zip-safe
+gkde.egg-info/requires.txt
+gkde.egg-info/top_level.txt
