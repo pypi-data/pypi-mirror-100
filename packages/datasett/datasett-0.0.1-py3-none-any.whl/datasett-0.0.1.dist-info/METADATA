@@ -1,0 +1,23 @@
+Metadata-Version: 2.1
+Name: datasett
+Version: 0.0.1
+Summary: 
+License: MIT
+Author: pbencze
+Author-email: paul@idelab.com
+Requires-Python: ==3.9.2
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3
+Requires-Dist: dask (==2021.3.1)
+Requires-Dist: gcsfs (==0.7.2)
+Requires-Dist: google-api-core (==1.26.3)
+Requires-Dist: google-auth (==1.28.0)
+Requires-Dist: google-auth-oauthlib (==0.4.4)
+Requires-Dist: google-cloud (==0.34.0)
+Requires-Dist: google-cloud-bigquery (==2.13.1)
+Requires-Dist: google-cloud-core (==1.6.0)
+Requires-Dist: google-cloud-datacatalog (==3.1.1)
+Requires-Dist: google-cloud-datastore (==2.1.0)
+Requires-Dist: numpy (==1.20.2)
+Requires-Dist: pandas (==1.2.3)
+Requires-Dist: pyarrow (>=3.0.0,<4.0.0)
