@@ -1,0 +1,10 @@
+MANIFEST.in
+README.md
+setup.py
+v8ball/__init__.py
+v8ball/van/answers.json
+vans_eightball.egg-info/PKG-INFO
+vans_eightball.egg-info/SOURCES.txt
+vans_eightball.egg-info/dependency_links.txt
+vans_eightball.egg-info/entry_points.txt
+vans_eightball.egg-info/top_level.txt
