@@ -1,0 +1,10 @@
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+squid/__init__.py
+squid_qml.egg-info/PKG-INFO
+squid_qml.egg-info/SOURCES.txt
+squid_qml.egg-info/dependency_links.txt
+squid_qml.egg-info/requires.txt
+squid_qml.egg-info/top_level.txt
