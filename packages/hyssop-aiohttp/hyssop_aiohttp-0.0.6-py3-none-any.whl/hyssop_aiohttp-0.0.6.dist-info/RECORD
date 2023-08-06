@@ -1,0 +1,11 @@
+hyssop_aiohttp/__init__.py,sha256=l4FjCABeoyE6tIrPobllg1onlYBngm-ZXsZzOUk1Nn8,423
+hyssop_aiohttp/__main__.py,sha256=q-dit-GEV1qW7U5RilXPCx0sNvTEMcilGcDnqt7CFaQ,405
+hyssop_aiohttp/command.py,sha256=isidRQgQXkNMf_R93G9qcUNClBd0OyBUAxqtGniLJ58,3511
+hyssop_aiohttp/server.py,sha256=QGuewHE1rrgxNIsJMKPXyvUs2siu2kTCru_5RqzChfU,7305
+hyssop_aiohttp/component/__init__.py,sha256=Mz08ChiStuGFBNolDU0ei2K3SzIdCDEyytguUFvz25c,525
+hyssop_aiohttp/component/aio_client.py,sha256=CGkWT1t0SdG5dmyG7JJDb-Grh_azq-HVsLwGmdeOWoU,4598
+hyssop_aiohttp-0.0.6.dist-info/LICENSE,sha256=6nLE8V6qD4A_KWd6K6UFYXdJk8XPrJ9-hv7r4dbv-aw,1092
+hyssop_aiohttp-0.0.6.dist-info/METADATA,sha256=ZUIbn9M9i9R12dNEo250uCJu9Hl9kGaaYcPJQhr0Sc8,766
+hyssop_aiohttp-0.0.6.dist-info/WHEEL,sha256=D1Wh14kWDxPnrM-5t_6UCB-UuQNrEODtRa3vF4OsvQY,97
+hyssop_aiohttp-0.0.6.dist-info/top_level.txt,sha256=yUYsZn7H2ctgzDkkLu1jVG-dCrM6MYO_9Q0IzwK74mo,15
+hyssop_aiohttp-0.0.6.dist-info/RECORD,,
