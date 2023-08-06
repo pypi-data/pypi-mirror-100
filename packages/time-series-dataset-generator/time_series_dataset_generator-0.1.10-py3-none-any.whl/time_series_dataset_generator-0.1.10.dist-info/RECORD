@@ -1,0 +1,14 @@
+tests/fixtures/__init__.py,sha256=zT_a_IspDgt0l_E4HfRzI6fQw_SdBx-v4_XtX_sd-hE,114
+tests/fixtures/stride_result_fixture.py,sha256=dMt5MUdukz15LTmloe0hFnJqLaTFPSEJWkWzJKHCGSQ,898
+tests/fixtures/test_main_context_fixture.py,sha256=OkJJdjAYb7MgI25X3DKqL2uixMA5RrjzIYxzm625_vg,626
+tests/helpers/__init__.py,sha256=s6l2higmAgwNWO1Qsd_o5J8xFt6I0x8PN2akD3J4eOM,206
+tests/helpers/convert_year_month_array_to_datetime.py,sha256=Hlp3uMh_Ngvo70TiieObyUu-BI0_grHug3JMWAa1Kio,551
+tests/helpers/flight_series_dataset.py,sha256=lIyZ2ivJl951N6ypQhOqPPl9qDfga2ed_rtI8PzzLgo,1390
+tests/helpers/flights_dataset.py,sha256=dJ7OhWglCYvSgT8FK7ZWCbrSebLxbEaz9St2e6XXB4E,2363
+time_series_dataset_generator/__init__.py,sha256=5XqrXLrA0KABF-D-RUxb4_3Sng7Ujj4L3bXxtJ9BIK4,83
+time_series_dataset_generator/time_series_dataset_generator.py,sha256=54fpoYmnWgcw_JLbGPCgf7IuISNJjgGMWaB-tWyvpIg,3108
+time_series_dataset_generator-0.1.10.dist-info/LICENSE,sha256=awOCsWJ58m_2kBQwBUGWejVqZm6wuRtCL2hi9rfa0X4,1211
+time_series_dataset_generator-0.1.10.dist-info/METADATA,sha256=rsfljWCrVI2QMu1FP_gU3p8nzrIrha92Dkez-l7ldro,1128
+time_series_dataset_generator-0.1.10.dist-info/WHEEL,sha256=OqRkF0eY5GHssMorFjlbTIq072vpHpF60fIQA6lS9xA,92
+time_series_dataset_generator-0.1.10.dist-info/top_level.txt,sha256=uG8zwtd0fSXIPOBYvs-ugOanKzyydHm9gBtOHQ0T4pw,36
+time_series_dataset_generator-0.1.10.dist-info/RECORD,,
