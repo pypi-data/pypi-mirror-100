@@ -1,0 +1,10 @@
+MANIFEST.in
+README.md
+setup.py
+Narsi_square.egg-info/PKG-INFO
+Narsi_square.egg-info/SOURCES.txt
+Narsi_square.egg-info/dependency_links.txt
+Narsi_square.egg-info/entry_points.txt
+Narsi_square.egg-info/top_level.txt
+square/__init__.py
+square/__main__.py
