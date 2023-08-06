@@ -1,0 +1,15 @@
+microbiome/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+microbiome/data_analysis.py,sha256=yEE98HJ2ZqeuHivkZtTBtHc6wsGLKBuYgqxwer1X21s,44702
+microbiome/data_preparation.py,sha256=7cAf_F5BqETUQLTFkq-zstlXi9mM7Uacatn0nsrDZw4,18818
+microbiome/differential_ranking.py,sha256=B3_zslC3kLMV4baRGBx0_BfMhWiEQg9WfQNTR5mxO-8,9267
+microbiome/helpers.py,sha256=uvW9hrdh5JlORPYuRwwvJMGfXzDy6tnibmRnkb0qHAQ,11134
+microbiome/longitudinal_anomaly_detection.py,sha256=GtEhvM9bBabP5twlPFfPXGkTBaKaeGbB8_x1ZFzx6Pk,12100
+microbiome/postprocessing.py,sha256=pD-KcBFH1E2q-9mtkYvPW6wWSvvSGhCrjL4PxTf7W94,20451
+microbiome/statistical_analysis.py,sha256=eErJ8WRCG7bgsfuKurlhOQJvDAIgIuBo5-EX3OfMUr8,14195
+microbiome/trajectory.py,sha256=CHje3auolE6xZuf0c4BzLbnQkriwAZXJ3VLvZI5Vr1k,55092
+microbiome/variables.py,sha256=Q501X1wQi6jTVDXnAGprKSzqwFGezNp1sLkSe3n7ts8,497
+microbiome_toolbox-0.0.11.dist-info/LICENSE,sha256=M0P20IjcDCofICFM6Y3P3kjizkZZXWU0yaiEwXAZO0o,1070
+microbiome_toolbox-0.0.11.dist-info/METADATA,sha256=tzmKP2tYtwPoQpDuPqH0jzYRDri0jZg6uzTf1PrdTGM,3030
+microbiome_toolbox-0.0.11.dist-info/WHEEL,sha256=g4nMs7d-Xl9-xC9XovUrsDHGXt-FT0E17Yqo92DEfvY,92
+microbiome_toolbox-0.0.11.dist-info/top_level.txt,sha256=SXrMtOEl7-o3hqgflE4JDpm5CM8htboeXeTk4Z2h4lI,11
+microbiome_toolbox-0.0.11.dist-info/RECORD,,
