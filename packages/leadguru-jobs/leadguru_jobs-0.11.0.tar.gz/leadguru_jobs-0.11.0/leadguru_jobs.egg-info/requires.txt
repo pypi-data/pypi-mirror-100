@@ -1,0 +1,4 @@
+loguru
+leadguru-data==0.10.0
+leadguru-common==0.17.0
+pydantic==1.8.1
