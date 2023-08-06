@@ -1,0 +1,3 @@
+[console_scripts]
+proximatic=proximatic.main:app
+
