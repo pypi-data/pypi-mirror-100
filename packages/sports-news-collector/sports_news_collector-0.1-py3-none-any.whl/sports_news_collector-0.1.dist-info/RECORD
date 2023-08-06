@@ -1,0 +1,8 @@
+sports_news_collector/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+sports_news_collector/email_sender.py,sha256=uBPujNfy2TpqzqrM97H_c5Ocxfd0uQ2N8dNZQ3oQ5mo,1520
+sports_news_collector/news_crawler.py,sha256=yso__5ueLNulUCKVlvCw9E-0rjibyw0IEeEIsPdtBDM,2172
+sports_news_collector/sports_news_collector.py,sha256=r9v8jNMEWAQ8XXriIfEppb3A_4iNmqD_ZC7RFoiJiZ8,2250
+sports_news_collector-0.1.dist-info/METADATA,sha256=hZO5p9wvsotLc88ASYh-ij2rBbxiB0w3VHMr3AOxMXY,2665
+sports_news_collector-0.1.dist-info/WHEEL,sha256=YUYzQ6UQdoqxXjimOitTqynltBCkwY6qlTfTh2IzqQU,97
+sports_news_collector-0.1.dist-info/top_level.txt,sha256=XaXxr6qm8_TLgPdzj45haZklfUR5GUyc1799mD6qAiU,22
+sports_news_collector-0.1.dist-info/RECORD,,
