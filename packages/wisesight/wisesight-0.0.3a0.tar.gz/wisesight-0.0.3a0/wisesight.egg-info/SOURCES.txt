@@ -1,0 +1,6 @@
+README.md
+setup.py
+wisesight.egg-info/PKG-INFO
+wisesight.egg-info/SOURCES.txt
+wisesight.egg-info/dependency_links.txt
+wisesight.egg-info/top_level.txt
