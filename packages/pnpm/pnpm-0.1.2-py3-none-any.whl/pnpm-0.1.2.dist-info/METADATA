@@ -1,0 +1,10 @@
+Metadata-Version: 2.1
+Name: pnpm
+Version: 0.1.2
+Summary: 
+Author: robo-monk
+Author-email: rrobomonk@gmail.com
+Requires-Python: >=3.9,<4.0
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.9
+Requires-Dist: rich (>=9.13.0,<10.0.0)
