@@ -1,0 +1,6 @@
+bs4
+httpx[http2]
+aiostream
+tqdm
+more_itertools
+python-dateutil
