@@ -1,0 +1,14 @@
+Metadata-Version: 2.1
+Name: subtitlecore
+Version: 0.1.6
+Summary: Parse srt file content into well-formed structures
+Author: Phoenix.Grey
+Author-email: phoenix.grey0108@gmail.com
+Requires-Python: >=3.8,<4.0
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Requires-Dist: click (>=7.1.1,<8.0.0)
+Requires-Dist: pip (>=21.0.1,<22.0.0)
+Requires-Dist: spacy (>=3.0.5,<4.0.0)
+Requires-Dist: webvtt-py (>=0.4.3,<0.5.0)
