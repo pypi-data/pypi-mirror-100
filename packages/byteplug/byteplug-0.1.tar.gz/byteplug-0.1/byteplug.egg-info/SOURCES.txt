@@ -1,0 +1,8 @@
+README.md
+pyproject.toml
+setup.py
+byteplug/__init__.py
+byteplug.egg-info/PKG-INFO
+byteplug.egg-info/SOURCES.txt
+byteplug.egg-info/dependency_links.txt
+byteplug.egg-info/top_level.txt
