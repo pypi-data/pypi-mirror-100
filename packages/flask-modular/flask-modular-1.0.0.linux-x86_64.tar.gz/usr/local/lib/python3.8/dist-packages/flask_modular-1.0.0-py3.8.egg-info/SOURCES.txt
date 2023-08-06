@@ -1,0 +1,12 @@
+.gitignore
+LICENSE.txt
+README.md
+flask_modular.py
+pyproject.toml
+setup.cfg
+setup.py
+flask_modular.egg-info/PKG-INFO
+flask_modular.egg-info/SOURCES.txt
+flask_modular.egg-info/dependency_links.txt
+flask_modular.egg-info/requires.txt
+flask_modular.egg-info/top_level.txt
