@@ -1,0 +1,3 @@
+from .types import CategoryType as CategoryType, PolicyType as PolicyType
+
+def merge_policies(policies: list[PolicyType]) -> PolicyType: ...
