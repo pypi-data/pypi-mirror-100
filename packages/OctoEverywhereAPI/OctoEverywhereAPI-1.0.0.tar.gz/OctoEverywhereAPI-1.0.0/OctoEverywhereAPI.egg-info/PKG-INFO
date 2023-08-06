@@ -1,0 +1,33 @@
+Metadata-Version: 2.1
+Name: OctoEverywhereAPI
+Version: 1.0.0
+Summary: Get session cookie for simple login onto your OctoEverywhere Printer
+Home-page: https://github.com/mytja/AliExpressAPI
+Author: mytja
+License: UNKNOWN
+Description: # OctoEverywhereAPI
+        Login into OctoEverywhere and use it in your app, instead of NGROK
+        
+        # Usage
+        ```py
+        from octoeverywhere import *
+        
+        session = getSessionCookie("email@example.com", "password")
+        ```
+        
+        If we inserted correct login info, we should get something like this:
+        ```
+        {'OctoEverywhereSessionKey': 'dnmdmkjasnmkjkj644kJhjjhhHSIJSAjJKHKJAJSJIUEWUEHXSHWETWQZROO94UZZW'}
+        ```
+        
+        Otherwise, an exception will be thrown:
+        ```
+        Incorrect login info with status code of 403
+        ```
+        
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3
+Description-Content-Type: text/markdown
