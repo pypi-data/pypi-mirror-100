@@ -1,0 +1,10 @@
+setup.py
+probabis.egg-info/PKG-INFO
+probabis.egg-info/SOURCES.txt
+probabis.egg-info/dependency_links.txt
+probabis.egg-info/not-zip-safe
+probabis.egg-info/top_level.txt
+probabs/Binomialdistribution.py
+probabs/Gaussiandistribution.py
+probabs/Generaldistribution.py
+probabs/__init__.py
