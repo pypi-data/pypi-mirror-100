@@ -1,0 +1,8 @@
+README.md
+setup.py
+tail_envs/__init__.py
+tail_envs.egg-info/PKG-INFO
+tail_envs.egg-info/SOURCES.txt
+tail_envs.egg-info/dependency_links.txt
+tail_envs.egg-info/requires.txt
+tail_envs.egg-info/top_level.txt
