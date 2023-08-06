@@ -1,0 +1,18 @@
+{
+    "engine" : {},
+    "experiment" : {
+        "plot_results": true,
+        "readme_in_stats_folder": true
+    },
+    "routing" : {
+        "routing_suite": "quagga",
+        "routing_logs": false
+    },
+    "topology" : {
+        "assign_random_names": true,
+        "default_bandwidth": "1024mbit",
+        "delete_namespaces_on_termination": true
+    },
+    "disable_dad" : true,
+    "log_level": "INFO"
+}
