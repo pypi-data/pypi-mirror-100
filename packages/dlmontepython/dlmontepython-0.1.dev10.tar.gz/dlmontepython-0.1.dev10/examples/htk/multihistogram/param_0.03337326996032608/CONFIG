@@ -1,0 +1,6 @@
+Lennard-Jones starting configuration rho = 0.00; particles are molecules, not atoms
+0 1
+8.0 0.0 0.0
+0.0 8.0 0.0
+0.0 0.0 8.0
+NUMMOL 0 1000

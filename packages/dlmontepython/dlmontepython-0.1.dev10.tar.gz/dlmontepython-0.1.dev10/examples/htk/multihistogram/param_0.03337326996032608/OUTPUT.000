@@ -1,0 +1,540 @@
+
+                   ===================================================================
+                   * * *                                                         * * *
+                   * * *            D L - M O N T E - v e r. 2.0 (7)             * * *
+                   * * *                                                         * * *
+                   * * *           STFC / CCP5 - Daresbury Laboratory            * * *
+                   * * *                 program library  package                * * *
+                   * * *                                                         * * *
+                   * * *     general purpose Monte Carlo simulation software     * * *
+                   * * *                                                         * * *
+                   * * *     version:  2.07  / January 2020                      * * *
+                   * * *     author :  J. A. Purton (2007-2015)                  * * *
+                   * * *     website:  https://gitlab.com/dl_monte               * * *
+                   * * *     -----------------------------------------------     * * *
+                   * * *     co-authors:                                         * * *
+                   * * *     -------------                                       * * *
+                   * * *     A. V. Brukhno   - Free Energy Diff, planar pores    * * *
+                   * * *     T. L. Underwood - Lattice/Phase-Switch MC methods   * * *
+                   * * *     R. J. Grant     - extra potentials, optimizations   * * *
+                   * * *     -----------------------------------------------     * * *
+                   * * *                                                         * * *
+                   * * *     current execution:                                  * * *
+                   * * *     ==================                                  * * *
+                   * * *     number of nodes/CPUs/cores:          1              * * *
+                   * * *     number of threads per node:          1              * * *
+                   * * *     number of threads employed:          1              * * *
+                   * * *                                                         * * *
+                   * * * ======================================================= * * *
+                   * * * Publishing data obtained with DL_MONTE? - please cite:  * * *
+                   * * * ------------------------------------------------------- * * *
+                   * * *                                                         * * *
+                   * * *  A. V. Brukhno et al., Molecular Simulation 2019,       * * *
+                   * * *  DOI: 10.1080/08927022.2019.1569760,                    * * *
+                   * * *  `DL_MONTE: a multipurpose code for Monte Carlo         * * *
+                   * * *  simulation`                                            * * *
+                   * * *                                                         * * *
+                   * * *  J. A. Purton, J. C. Crabtree & S. C. Parker,           * * *
+                   * * *  Molecular Simulation 2013, 39 (14-15), 1240-1252       * * *
+                   * * *  `DL_MONTE: A general purpose program for parallel      * * *
+                   * * *  Monte Carlo simulation`                                * * *
+                   * * *                                                         * * *
+                   * * * ------------------------------------------------------- * * *
+                   * * * if using Lattice-Switch method, please also cite:       * * *
+                   * * * ------------------------------------------------------- * * *
+                   * * *              Bruce A.D., Wilding N.B. and G.J. Ackland, * * *
+                   * * *                         Phys. Rev. Lett. 1997, 79, 3002 * * *
+                   * * *    `Free Energy of Crystalline Solids: A Lattice-Switch * * *
+                   * * *                                      Monte Carlo Method`* * *
+                   * * * ------------------------------------------------------- * * *
+                   * * * if using Planar Pore (slit) geometry, please also cite: * * *
+                   * * * ------------------------------------------------------- * * *
+                   * * *                                         Broukhno A. V., * * *
+                   * * *     `Free Energy and Surface Forces in polymer systems: * * *
+                   * * *                          Monte Carlo Simulation Studies`* * *
+                   * * *                           PhD Thesis, Lund, Sweden 2003 * * *
+                   * * *                                                         * * *
+                   * * *    Brukhno A. V., Akinshina A., Coldrick Z., Nelson A., * * *
+                   * * *                                             and Auer S. * * *
+                   * * *                              Soft Matter. 2011, 7, 1006 * * *
+                   * * *               `Phase phenomena in supported lipid films * * *
+                   * * *                        under varying electric potential`* * *
+                   ===================================================================
+
+ ----------------------------------------------------------------------------------------------------
+ FIELD title  (100 symbols max) :
+ ----------------------------------------------------------------------------------------------------
+'lennard-jones, 2.5*sigma cut-off, sigma = 1 angstrom, epsilon = 1/k_b'
+ ----------------------------------------------------------------------------------------------------
+
+ reading species:   1 - molecule 'lj' of          1 atoms (         1 max)
+
+ WARNING: molecule 'lj' has no bond and is not 'rigid', so will be treated as 'atomic field'!
+
+ ------------------
+
+
+ ====================================================================================================
+ atom data :
+ ====================================================================================================
+ element           mass             charge
+ --------------------------------------------------
+  LJ               1.0000         0.0000
+
+
+ ====================================================================================================
+ molecule data :
+ ====================================================================================================
+ molecule name / rigid / exclude VDW & Coulomb
+ --------------------------------------------------
+ 'lj      '    /   F   /  F
+ --------------------------------------------------
+
+
+
+ ----------------------------------------------------------------------------------------------------
+ nonbonded (vdw) potentials :
+ ----------------------------------------------------------------------------------------------------
+ LJ      LJ         +lj               0.500000       1.000000       1.000000       0.000000       0.000000       0.000000       0.000000
+
+ LJ (VdW) pair potential (  1) will have long-range corrections applied 
+
+ VdW repulsion capped at D_core(  1) =     0.423269 by E_cap = 0.100000E+06
+
+
+ NOTE: cell (box) type [ < 0 -> 2D-slit ] =          0 coultype =          1         0
+
+
+ DL_MONTE WARNING:    24
+
+
+ inconsistency between FIELD and CONTROL files:
+ charges are absent but Coulomb calculations are specified (by default)
+
+ NOTE: switching off Coulomb calculations!
+
+
+ --------------------------------------------------
+ configuration box No.          1
+ --------------------------------------------------
+
+ the maximum no of atoms/molecules in this cell:     1000 /     1000
+
+ the factual no of atoms/molecules in this cell:        0 /        0
+
+          lattice vectors
+     8.00000     0.00000     0.00000
+     0.00000     8.00000     0.00000
+     0.00000     0.00000     8.00000
+
+          Using: is_simple_orthogonal:    T
+
+
+          Using: is_orthogonal:    T
+
+
+          reciprocal lattice vectors
+     0.12500     0.00000     0.00000
+     0.00000     0.12500     0.00000
+     0.00000     0.00000     0.12500
+
+
+ --------------------------------------------------
+ configuration sample (up to 10 atoms):
+ --------------------------------------------------
+
+
+
+ --------------------------------------------------
+ NOTE: FED calculation is OFF; order parameter =  0 (should be zero)
+
+
+ ==================================================
+                simulation parameters 
+ ==================================================
+
+ cell (box) type [ < 0 -> 2D-slit; else 3D-bulk ] =          0 (bulk: XYZ-PBC)
+
+ - no charges, no electrostatics required; pure short-range/VdW/metal(?) force-field
+
+ global cutoff for interactions (Angstroms)       =   0.2500000E+01
+
+ cutoff for vdw interactions (Angstroms)          =   0.2500000E+01
+
+ Verlet neighbour lists not used                  =   F  F
+
+ system temperature (Kelvin)                      =   0.1500000E+01
+
+ constant volume simulation (NVT), i.e. volume not sampled
+
+ system pressure (katms)                          =   0.1000000E-02
+
+ total number of MC steps (cycles)                =     300000
+
+ number of equilibration steps                    =          0
+
+ number of pre-heating steps                      =         -1
+
+ maximum no of non-bonded neighbours              =          0
+
+ maximum no of three-body triplets per atom       =          6
+
+ three body list updated every (cycles)           =         50
+
+ stack-size for block averaging                   =        100
+
+ statistics data saved every (cycles) -> PTFILE*  = 1000000000
+
+ energy frames printed every (cycles) -> OUTPUT*  = 1000000000
+
+ energy checks printed every (cycles) -> OUTPUT*  =      10000
+
+ level of precision used in energy checks         =   0.1000000E-09
+
+ configurations stored every (cycles) -> REVCON*  = 1000000000
+
+ trajectories archived every (cycles) -> ARCHIVE* = 1000000000 (DL_MONTE style)
+
+ REVCON configuration data in DL_MONTE style (extended native)
+
+ ARCHIVE* trajectory data in DL_MONTE style (all)
+
+ electrostatics is not used (no Coulomb interactions)
+
+ all g-vectors stored on each node
+
+ tolerance for rejection (energy units)           =   0.1000000E+03
+
+ random number generator seeded from user input
+
+ random number seeds (i,j,k,l) =     12    34    56    78 (for workgroup    0)
+
+ total job time and close time =      1000000.00         200.00
+
+ rotation of molecules will use Euler method
+
+ Grand-Canonical (GCMC, muVT) scheme using chemical activity (internal units)
+
+ Grand Canonical (GCMC) ensemble using molecules
+
+ the number of different molecule types           =     1
+
+ the frequency of mol insert/delete               =     1
+
+ the minimum distance for inserts                 =     0.7000
+
+ the number of atoms in molecule   1 is     1
+
+ the maximum number of atoms in molecule          =     1
+
+ molecule name lj      
+
+ Fuchs/Muller/Frenkel activity of molecs (deca-J) =     0.0334
+
+ number of moving particles for box    1         0
+
+ energy unit conversion factor (user -> internal) =        0.8314511150
+
+ beta (deca-J/mol) & Bjerrum length (Angstroem)   =        0.8018110201   111400.0017507544
+
+ ==================================================
+
+
+
+ Initialisation phase 1 - elapsed time:  0 h :  0 m :  0.005 s
+
+
+
+
+ Initialisation phase 2 - elapsed time:  0 h :  0 m :  0.005 s
+
+
+ --------------------------------------------------
+                  initial energies 
+ --------------------------------------------------
+
+ break down of energies for box:   1
+
+ total energy                        0.0000000000E+00
+ reciprocal space coulomb            0.0000000000E+00
+ real space coulomb                  0.0000000000E+00
+ external mfa coulomb                0.0000000000E+00
+ nonbonded two body (vdw)            0.0000000000E+00
+ bonded two body (pair)              0.0000000000E+00
+ nonbonded three body                0.0000000000E+00
+ bonded three body (angle)           0.0000000000E+00
+ bonded four body (angle)            0.0000000000E+00
+ many body energy                    0.0000000000E+00
+ external potential energy           0.0000000000E+00
+ total virial                        0.0000000000E+00
+ volume                              0.5120000000E+03
+
+ long-range correction (vdw)         0.0000000000E+00
+
+ components of energies by  molecule: lj      
+
+ total energy                        0.0000000000E+00
+ reciprocal space coulomb            0.0000000000E+00
+ real space coulomb - other types    0.0000000000E+00
+ real space coulomb - same type      0.0000000000E+00
+ real space coulomb - self energy    0.0000000000E+00
+ real space coulomb - corection      0.0000000000E+00
+ vdw - other types mol               0.0000000000E+00
+ vdw - same type mol                 0.0000000000E+00
+ bonded two body (pair)              0.0000000000E+00
+ nonbonded three body                0.0000000000E+00
+ bonded three body (angle)           0.0000000000E+00
+ many body energy                    0.0000000000E+00
+ external potential energy           0.0000000000E+00
+
+
+ Initialisation phase 3 - elapsed time:  0 h :  0 m :  0.005 s
+
+
+ Resetting time and proceeding to simulation
+
+ Workgroup    0, box    1 check: U_recalc - U_accum = -0.26645E-13 -0.21365E-13 -0.92889E-15  0.44086E-14 (internal, kT, kT/atom, dU/U)
+
+ ----------------------------------------------------------------------------------------------------
+
+
+ Workgroup    0, box    1 check: U_recalc - U_accum = -0.13323E-13 -0.10682E-13 -0.56222E-15  0.38319E-14 (internal, kT, kT/atom, dU/U)
+
+ ----------------------------------------------------------------------------------------------------
+
+
+ Workgroup    0, box    1 check: U_recalc - U_accum =  0.31086E-13  0.24925E-13  0.15578E-14 -0.11998E-13 (internal, kT, kT/atom, dU/U)
+
+ ----------------------------------------------------------------------------------------------------
+
+
+ Workgroup    0, box    1 check: U_recalc - U_accum = -0.53513E-13 -0.42907E-13 -0.28605E-14  0.38217E-13 (internal, kT, kT/atom, dU/U)
+
+ ----------------------------------------------------------------------------------------------------
+
+
+ Workgroup    0, box    1 check: U_recalc - U_accum = -0.10392E-12 -0.83322E-13 -0.29758E-14  0.22594E-13 (internal, kT, kT/atom, dU/U)
+
+ ----------------------------------------------------------------------------------------------------
+
+
+ Workgroup    0, box    1 check: U_recalc - U_accum = -0.11458E-12 -0.91868E-13 -0.41758E-14  0.17292E-13 (internal, kT, kT/atom, dU/U)
+
+ ----------------------------------------------------------------------------------------------------
+
+
+ Workgroup    0, box    1 check: U_recalc - U_accum = -0.14211E-12 -0.11394E-12 -0.43825E-14  0.20200E-13 (internal, kT, kT/atom, dU/U)
+
+ ----------------------------------------------------------------------------------------------------
+
+
+ Workgroup    0, box    1 check: U_recalc - U_accum = -0.97256E-13 -0.77981E-13 -0.43323E-14  0.25958E-13 (internal, kT, kT/atom, dU/U)
+
+ ----------------------------------------------------------------------------------------------------
+
+
+ Workgroup    0, box    1 check: U_recalc - U_accum = -0.71054E-13 -0.56972E-13 -0.33513E-14  0.30439E-13 (internal, kT, kT/atom, dU/U)
+
+ ----------------------------------------------------------------------------------------------------
+
+
+ Workgroup    0, box    1 check: U_recalc - U_accum = -0.37303E-13 -0.29910E-13 -0.15742E-14  0.61061E-14 (internal, kT, kT/atom, dU/U)
+
+ ----------------------------------------------------------------------------------------------------
+
+
+ Workgroup    0, box    1 check: U_recalc - U_accum =  0.53291E-14  0.42729E-14  0.23738E-15 -0.25706E-14 (internal, kT, kT/atom, dU/U)
+
+ ----------------------------------------------------------------------------------------------------
+
+
+ Workgroup    0, box    1 check: U_recalc - U_accum =  0.43521E-13  0.34895E-13  0.20527E-14 -0.11935E-13 (internal, kT, kT/atom, dU/U)
+
+ ----------------------------------------------------------------------------------------------------
+
+
+ Workgroup    0, box    1 check: U_recalc - U_accum =  0.00000E+00  0.00000E+00  0.00000E+00 -0.00000E+00 (internal, kT, kT/atom, dU/U)
+
+ ----------------------------------------------------------------------------------------------------
+
+
+ Workgroup    0, box    1 check: U_recalc - U_accum = -0.35527E-14 -0.28486E-14 -0.10956E-15  0.33512E-15 (internal, kT, kT/atom, dU/U)
+
+ ----------------------------------------------------------------------------------------------------
+
+
+ Workgroup    0, box    1 check: U_recalc - U_accum =  0.15099E-13  0.12107E-13  0.46564E-15 -0.22479E-14 (internal, kT, kT/atom, dU/U)
+
+ ----------------------------------------------------------------------------------------------------
+
+
+ Workgroup    0, box    1 check: U_recalc - U_accum = -0.24425E-13 -0.19584E-13 -0.13056E-14  0.89008E-14 (internal, kT, kT/atom, dU/U)
+
+ ----------------------------------------------------------------------------------------------------
+
+
+ Workgroup    0, box    1 check: U_recalc - U_accum = -0.19540E-13 -0.15667E-13 -0.74606E-15  0.21155E-14 (internal, kT, kT/atom, dU/U)
+
+ ----------------------------------------------------------------------------------------------------
+
+
+ Workgroup    0, box    1 check: U_recalc - U_accum = -0.19540E-13 -0.15667E-13 -0.74606E-15  0.30964E-14 (internal, kT, kT/atom, dU/U)
+
+ ----------------------------------------------------------------------------------------------------
+
+
+ Workgroup    0, box    1 check: U_recalc - U_accum = -0.21316E-13 -0.17092E-13 -0.81389E-15  0.41934E-14 (internal, kT, kT/atom, dU/U)
+
+ ----------------------------------------------------------------------------------------------------
+
+
+ Workgroup    0, box    1 check: U_recalc - U_accum = -0.23981E-13 -0.19228E-13 -0.76912E-15  0.38544E-14 (internal, kT, kT/atom, dU/U)
+
+ ----------------------------------------------------------------------------------------------------
+
+
+ Workgroup    0, box    1 check: U_recalc - U_accum = -0.71054E-14 -0.56972E-14 -0.35608E-15  0.26718E-14 (internal, kT, kT/atom, dU/U)
+
+ ----------------------------------------------------------------------------------------------------
+
+
+ Workgroup    0, box    1 check: U_recalc - U_accum = -0.43965E-13 -0.35251E-13 -0.19584E-14  0.12266E-13 (internal, kT, kT/atom, dU/U)
+
+ ----------------------------------------------------------------------------------------------------
+
+
+ Workgroup    0, box    1 check: U_recalc - U_accum = -0.67946E-13 -0.54480E-13 -0.38914E-14  0.22843E-13 (internal, kT, kT/atom, dU/U)
+
+ ----------------------------------------------------------------------------------------------------
+
+
+ Workgroup    0, box    1 check: U_recalc - U_accum = -0.82823E-13 -0.66408E-13 -0.55340E-14  0.50083E-13 (internal, kT, kT/atom, dU/U)
+
+ ----------------------------------------------------------------------------------------------------
+
+
+ Workgroup    0, box    1 check: U_recalc - U_accum = -0.79936E-13 -0.64094E-13 -0.26706E-14  0.17727E-13 (internal, kT, kT/atom, dU/U)
+
+ ----------------------------------------------------------------------------------------------------
+
+
+ Workgroup    0, box    1 check: U_recalc - U_accum = -0.68334E-13 -0.54791E-13 -0.45659E-14  0.16668E-12 (internal, kT, kT/atom, dU/U)
+
+ ----------------------------------------------------------------------------------------------------
+
+
+ Workgroup    0, box    1 check: U_recalc - U_accum = -0.54623E-13 -0.43797E-13 -0.24332E-14  0.23447E-13 (internal, kT, kT/atom, dU/U)
+
+ ----------------------------------------------------------------------------------------------------
+
+
+ Workgroup    0, box    1 check: U_recalc - U_accum = -0.69722E-13 -0.55904E-13 -0.25411E-14  0.17649E-13 (internal, kT, kT/atom, dU/U)
+
+ ----------------------------------------------------------------------------------------------------
+
+
+ Workgroup    0, box    1 check: U_recalc - U_accum = -0.61284E-13 -0.49138E-13 -0.27299E-14  0.16459E-13 (internal, kT, kT/atom, dU/U)
+
+ ----------------------------------------------------------------------------------------------------
+
+
+ Workgroup    0, box    1 check: U_recalc - U_accum = -0.76827E-13 -0.61601E-13 -0.32422E-14  0.30387E-13 (internal, kT, kT/atom, dU/U)
+
+ ----------------------------------------------------------------------------------------------------
+
+
+
+ ====================================================================================================
+                          averages and fluctuations
+ ----------------------------------------------------------------------------------------------------
+      avrg      en-total            h-total             coul-rcp            coul-real
+      avrg      en-vdw              en-three            en-pair             en-angle 
+      avrg      en-four             en-many             en-external         en-extMFA
+      flct      en-total            h-total             coul-rcp            coul-real
+      flct      en-vdw              en-three            en-pair             en-angle 
+      flct      en-four             en-many             en-external         en-extMFA
+ ----------------------------------------------------------------------------------------------------
+    300000    -0.6316700973E+01    0.7145341649E+02    0.0000000000E+00    0.0000000000E+00
+              -0.6316700973E+01    0.0000000000E+00    0.0000000000E+00    0.0000000000E+00
+               0.0000000000E+00    0.0000000000E+00    0.0000000000E+00    0.0000000000E+00
+
+               0.3681740766E+01    0.1608937261E+02    0.0000000000E+00    0.0000000000E+00
+               0.3681740766E+01    0.0000000000E+00    0.0000000000E+00    0.0000000000E+00
+               0.0000000000E+00    0.0000000000E+00    0.0000000000E+00    0.0000000000E+00
+
+
+
+ average cell parameters and fluctuations
+
+          vol   =     0.5120000000E+03    0.0000000000E+00
+          a     =         8.0000000000        0.0000000000
+          b     =         8.0000000000        0.0000000000
+          c     =         8.0000000000        0.0000000000
+          alpha =        90.0000000000        0.0000000000
+          beta  =        90.0000000000        0.0000000000
+          gamma =        90.0000000000        0.0000000000
+    
+ LJ       c         20.6972          5.0653
+
+ lj               20.6972          5.0653
+
+
+ ----------------------------------------------------------------------------
+                          final energies 
+ ----------------------------------------------------------------------------
+
+ break down of energies for box:   1
+
+ total energy                       -0.3040872515E+01
+ reciprocal space coulomb            0.0000000000E+00
+ real space coulomb                  0.0000000000E+00
+ external mfa coulomb                0.0000000000E+00
+ nonbonded two body (vdw)           -0.3040872515E+01
+ bonded two body (pair)              0.0000000000E+00
+ nonbonded three body                0.0000000000E+00
+ bonded three body (angle)           0.0000000000E+00
+ bonded four body (angle)            0.0000000000E+00
+ many body energy                    0.0000000000E+00
+ external potential energy           0.0000000000E+00
+ total virial                        0.0000000000E+00
+ volume                              0.5120000000E+03
+
+ long-range correction (vdw)        -0.3775221677E+00
+
+ components of energies by  molecule: lj      
+
+ total energy                       -0.2663350348E+01
+ reciprocal space coulomb            0.0000000000E+00
+ real space coulomb - other types    0.0000000000E+00
+ real space coulomb - same type      0.0000000000E+00
+ real space coulomb - self energy    0.0000000000E+00
+ real space coulomb - corection      0.0000000000E+00
+ vdw - other types mol               0.0000000000E+00
+ vdw - same type mol                -0.2663350348E+01
+ bonded two body (pair)              0.0000000000E+00
+ nonbonded three body                0.0000000000E+00
+ bonded three body (angle)           0.0000000000E+00
+ many body energy                    0.0000000000E+00
+ external potential energy           0.0000000000E+00
+
+
+ ----------------------------------------------------------------------------
+                          processing data 
+ ----------------------------------------------------------------------------
+
+ attempted molecule inserts  =     149687
+ successful molecule inserts =     118674      0.79281434
+
+ attempted & empty molecule deletes  =     150313         4
+ successful molecule deletes =     118655      0.78938615
+
+
+ pure simulation time (excl. init.):  0 h :  0 m :  7.138 s
+
+
+
+
+ total elapsed time   (incl. init.):  0 h :  0 m :  7.143 s
+
+
+ normal exit 

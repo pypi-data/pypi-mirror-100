@@ -1,0 +1,13 @@
+LJ simulation
+use ortho
+finish use-block
+seeds 12 34 56 78
+temperature 1.5
+steps 300000
+print 1000000000
+stat 1000000000
+yamldata 100
+sample coords 1000000000
+move gcinsertmol 1 1 0.7
+lj 0.035673993347252395
+start simulation
