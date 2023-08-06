@@ -1,0 +1,8 @@
+Change Log
+===========
+
+1.0.0 (30/03/2020)
+------------------
+- First Release
+- Second Release
+- Update 1.1.0
