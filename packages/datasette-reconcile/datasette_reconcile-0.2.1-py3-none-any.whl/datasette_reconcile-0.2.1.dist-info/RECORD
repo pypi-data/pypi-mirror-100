@@ -1,0 +1,9 @@
+datasette_reconcile/__init__.py,sha256=RHjfcGmXo4N5sjbBy4lS7ux-KlqL3A1g_7_043UjkTQ,1737
+datasette_reconcile/reconcile.py,sha256=Dj5q7ozHsoXuoIo5P73mhF-2f0AoKCIAC6Q_m0UAJYw,3705
+datasette_reconcile/settings.py,sha256=196GLQ2A_g917gQuMuYhc3U3Q6uwHN_9AdH7_xBPNnw,216
+datasette_reconcile/utils.py,sha256=8INqbAZ-9ckfipcKZPX63ZLVtlqf9wj05SE5o9CsIks,4113
+datasette_reconcile-0.2.1.dist-info/METADATA,sha256=zx2d9lwdQk7UUdBd0kYjpqDgLdStWOiCZlulDW5gDOE,9613
+datasette_reconcile-0.2.1.dist-info/WHEEL,sha256=OqRkF0eY5GHssMorFjlbTIq072vpHpF60fIQA6lS9xA,92
+datasette_reconcile-0.2.1.dist-info/entry_points.txt,sha256=5Y5gKRprAxUirUr-hA52SPbPEuLGkbWkEfKcdyrIkc0,45
+datasette_reconcile-0.2.1.dist-info/top_level.txt,sha256=50HHVyG9cXlMNpZTuUx7kxuKaeYVJZoKD-pHP4dmKxg,20
+datasette_reconcile-0.2.1.dist-info/RECORD,,
