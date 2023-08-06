@@ -1,0 +1,48 @@
+Version 1.1.0 (2021-03-29)
+--------------------------
+
+Enhancements
+~~~~~~~~~~~~
+* Improved error messaging for syntax errors in SDF
+* Allow jinja templating within teflo.cfg
+* Allow multiple --vars-data arguments
+* Removed backward compatibility support for using name field under orchestrate block as script/playbook path
+* Removed backward compatibility support for using ansible_script as a boolean
+* Removed backward compatibility support to remove role attribute from assets, and use only groups
+
+Bug Fixes
+~~~~~~~~~
+* Modified ansible-base version in setup.py
+* Fixed issue during generation inentory for static host with no groups attribute
+* Fixed issue where Teflo was improperly exiting with a return code of 0 when the
+  scenario descriptor file was invalid
+
+Documentation
+~~~~~~~~~~~~~
+* Added more details and diagram on the teflo readme page
+* Corrected the vars-data info page
+* Use github pages for teflo plugins
+
+Version 1.0.1 (2021-02-10)
+--------------------------
+
+Enhancements
+~~~~~~~~~~~~
+* Update teflo config code to not make defaults section mandatory
+* For Openstack, display instance IDs
+* Alter error message to not contain the words "fail" and "success" simultaneously
+* The openstack lincloud schema needs two additional keys project_id and project_domain_id
+
+Bug Fixes
+~~~~~~~~~
+* asset delete fails when using native provisioner (os libcloud) without provider attribute
+
+Documentation
+~~~~~~~~~~~~~
+* Updated provision and examples docs to remove provider key and update examples
+* Updated contribution page to add plugin template info
+
+Version 1.0.0 (2021-01-07)
+--------------------------
+
+This is the first version of Teflo project (formerly known as Carbon)
