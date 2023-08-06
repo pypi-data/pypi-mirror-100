@@ -1,0 +1,119 @@
+Metadata-Version: 2.1
+Name: gyptis
+Version: 0.1.2
+Summary: Computational Photonics in Python
+Home-page: https://gyptis.gitlab.io
+Author: Benjamin Vial
+Author-email: benjamin.vial84@gmail.com
+License: License :: OSI Approved :: MIT License
+Project-URL: Documentation, https://gyptis.gitlab.io
+Platform: any
+Classifier: Development Status :: 1 - Planning
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 3
+Classifier: Topic :: Scientific/Engineering
+Classifier: Topic :: Scientific/Engineering :: Physics
+Description-Content-Type: text/x-rst
+Requires-Dist: scipy
+Requires-Dist: dolfin-adjoint
+Requires-Dist: meshio
+Requires-Dist: gmsh
+Requires-Dist: h5py
+Requires-Dist: nlopt
+Requires-Dist: numpy
+Requires-Dist: simpy
+
+
+
+.. image:: https://gitlab.com/gyptis/gyptis/badges/master/pipeline.svg?style=flat-square
+   :target: https://gitlab.com/gyptis/gyptis/commits/master
+   :alt: pipeline status
+
+.. image:: https://gitlab.com/gyptis/gyptis/badges/master/coverage.svg?style=flat-square
+  :target: https://gitlab.com/gyptis/gyptis/commits/master
+  :alt: coverage report
+
+.. image:: https://img.shields.io/github/license/mashape/apistatus.svg?style=flat-square
+   :alt: Licence: MIT
+
+.. image:: https://img.shields.io/badge/code%20style-black-000000.svg?style=flat-square
+   :alt: Code style: black
+
+
+GYPTIS
+======
+
+Computational photonics in Python
+---------------------------------
+
+https://gyptis.gitlab.io
+
+.. image:: docs/_assets/landing.png
+   :align: center
+
+
+Gyptis is a package to solve Maxwell's equations with the finite element method. 
+It is in early stage and currently being actively developed, so features might 
+come and go.
+
+
+
+Installation
+------------
+
+.. `pip <https://pip.pypa.io/en/stable/>`_
+.. ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+.. 
+.. .. code-block:: bash
+.. 
+..   pip install gyptis
+.. 
+.. 
+.. `conda <https://docs.anaconda.com/>`_
+.. ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+.. 
+.. .. code-block:: bash
+.. 
+..   conda install -c conda-forge gyptis
+
+
+
+Docker
+~~~~~~
+
+
+
+Prebuilt container images are available at `DockerHub <https://hub.docker.com/r/gyptis/gyptis>`_
+
+On quick way of testing is getting the installation script
+
+.. code-block:: bash
+
+  curl -s https://gyptis.gitlab.io/get | bash
+
+
+Or you can pull the docker image
+
+.. code-block:: bash
+
+  docker pull gyptis/gyptis:latest
+
+
+Contributing
+------------
+
+Pull requests are welcome. For major changes, please open an issue first 
+to discuss what you would like to change.
+
+Please make sure to update tests as appropriate.
+
+
+
+License
+-------
+
+MIT, see LICENCE.txt
+
+
