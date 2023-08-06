@@ -1,0 +1,19 @@
+Metadata-Version: 2.1
+Name: pycrawl
+Version: 3.1.0
+Summary: A simple crawling utility for Python
+Home-page: UNKNOWN
+Author: averak
+Author-email: UNKNOWN
+License: MIT
+Keywords: crawling scraping spider
+Platform: UNKNOWN
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 3.8
+Requires-Dist: mechanize
+Requires-Dist: lxml
+Requires-Dist: cssselect
+
+UNKNOWN
+
+
