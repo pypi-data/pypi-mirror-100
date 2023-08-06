@@ -1,0 +1,6 @@
+auxiliary
+matplotlib
+mpmath
+numpy
+scipy
+sympy
