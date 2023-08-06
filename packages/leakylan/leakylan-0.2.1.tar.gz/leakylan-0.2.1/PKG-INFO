@@ -1,0 +1,23 @@
+Metadata-Version: 1.1
+Name: leakylan
+Version: 0.2.1
+Summary: Simple File sharing Service over LAN.
+Home-page: https://github.com/Anish-M-code/Leaky-LAN
+Author: Anish M
+Author-email: aneesh25861@gmail.com
+License: GPLv3
+Description: A simple File sharing service to share folder in LAN using python's builtin http.server .
+Keywords: File Sharing Service,student project
+Platform: UNKNOWN
+Classifier: Development Status :: 5 - Production/Stable
+Classifier: Intended Audience :: Developers
+Classifier: Topic :: Software Development
+Classifier: License :: OSI Approved :: GNU General Public License v3 (GPLv3)
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.4
+Classifier: Programming Language :: Python :: 3.5
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Intended Audience :: Developers
+Classifier: Intended Audience :: Education
+Classifier: Intended Audience :: End Users/Desktop
+Classifier: Topic :: Communications :: File Sharing
