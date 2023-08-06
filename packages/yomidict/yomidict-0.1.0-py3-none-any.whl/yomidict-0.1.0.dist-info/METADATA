@@ -1,0 +1,34 @@
+Metadata-Version: 2.1
+Name: yomidict
+Version: 0.1.0
+Summary: Create dictionaries for yomichan
+Home-page: https://github.com/exc4l/yomidict
+Keywords: japanese,kanji,dictionary,yomichan
+Author: exc4l
+Author-email: cps0537@gmail.com
+Requires-Python: >=3.8,<4.0
+Classifier: Development Status :: 3 - Alpha
+Classifier: Intended Audience :: Education
+Classifier: Intended Audience :: End Users/Desktop
+Classifier: Natural Language :: Japanese
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Topic :: Text Processing :: Linguistic
+Requires-Dist: fugashi (>=1.1.0,<2.0.0)
+Requires-Dist: srt (>=3.4.1,<4.0.0)
+Requires-Dist: unidic (>=1.0.3,<2.0.0)
+Project-URL: Repository, https://github.com/exc4l/yomidict
+Description-Content-Type: text/markdown
+
+# yomidict
+create dictionaries for yomichan
+
+MWE:
+```python
+import yomidict
+dm = yomidict.DictMaker()
+filelist = ["test.html" for _ in range(5)]
+dm.feed_files(filelist)
+dm.save("zipfile.zip", "name_in_yomichan")
+```
