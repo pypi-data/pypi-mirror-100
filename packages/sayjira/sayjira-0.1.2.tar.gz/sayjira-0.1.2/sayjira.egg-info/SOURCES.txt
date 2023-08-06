@@ -1,0 +1,11 @@
+README.md
+pyproject.toml
+setup.py
+sayjira/__init__.py
+sayjira/sayjira.py
+sayjira.egg-info/PKG-INFO
+sayjira.egg-info/SOURCES.txt
+sayjira.egg-info/dependency_links.txt
+sayjira.egg-info/entry_points.txt
+sayjira.egg-info/requires.txt
+sayjira.egg-info/top_level.txt
