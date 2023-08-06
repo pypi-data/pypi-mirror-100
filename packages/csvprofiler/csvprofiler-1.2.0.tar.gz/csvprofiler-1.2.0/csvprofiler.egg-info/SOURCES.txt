@@ -1,0 +1,12 @@
+README.md
+csvpcg.py
+csvprofiler.py
+profmod.py
+pyproject.toml
+setup.py
+wrapdemo.py
+csvprofiler.egg-info/PKG-INFO
+csvprofiler.egg-info/SOURCES.txt
+csvprofiler.egg-info/dependency_links.txt
+csvprofiler.egg-info/requires.txt
+csvprofiler.egg-info/top_level.txt
