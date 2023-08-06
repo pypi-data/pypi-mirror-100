@@ -1,0 +1,74 @@
+Metadata-Version: 2.1
+Name: snifa
+Version: 0.5.3
+Summary: Simple Numerical Instantaneous Frequency Approximation (SNIFA)
+Home-page: https://gitlab.flavio.be/flavio/snifa
+Author: Flavio Abreu Araujo
+Author-email: flavio.abreuaraujo@uclouvain.be
+License: MIT
+Description: # SNIFA
+        
+        SNIFA is a tiny Python library for computing an instantaneous frequency approximation numerically using a very simple algorithm. This algorithm was originally created for the purpose of analysing the gyrotropic dynamics of vortex based nano-oscillators but it can be used for any kind of varying monocomponent-frequency signal (only the main frequency is captured by the algorithm).
+        
+        ## Installation
+        
+        Use the package manager [pip](https://pip.pypa.io/en/stable/) to install snifa.
+        
+        ```bash
+        pip install snifa
+        ```
+        
+        This package is also available in this private GitLab instance and can be installed using the `--extra-index-url` parameter.
+        
+        ```bash
+        pip install snifa --extra-index-url https://gitlab.flavio.be/api/v4/projects/9/packages/pypi/simple
+        ```
+        
+        ## Usage
+        
+        ```python
+        import snifa
+        import numpy as np
+        
+        ti, tf, nb_pts = 0, 1, 400
+        fs = nb_pts/(tf-ti) # sampling frequency
+        t = np.linspace(ti, tf, nb_pts)
+        
+        f = 20+((100*t)**1)/2 # my shirp :-)
+        x = np.sin(2*np.pi*f*t)
+        y = np.cos(2*np.pi*f*t)
+        
+        x *= (1.0 + 0.5 * np.sin(2*np.pi*3.0*t))
+        y *= (1.0 + 0.5 * np.sin(2*np.pi*3.0*t))
+        
+        # Uncomment if only x-component is available
+        # and comment the other line with filt_freq
+        # t_, f_ = snifa.filt_freq(t, x, w_filt=0)
+        t_, f_ = snifa.filt_freq(t, x, y, w_filt=0)
+        
+        # w_filt is a multiplyer of the number of cycles over which to
+        # perform a moving avereage. The default value is w_filt=1
+        # (w_filt=0 means no filtering)
+        
+        import pylab as pp
+        pp.plot(t_, f_)
+        pp.xlabel('Time (s)')
+        pp.ylabel('Frequency (Hz)')
+        pp.show()
+        ```
+        
+        ## Contributing
+        Pull requests are welcome.
+        
+        ## License
+        [MIT](https://choosealicense.com/licenses/mit/)
+        
+Platform: UNKNOWN
+Classifier: Intended Audience :: Science/Research
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Topic :: Software Development
+Classifier: Topic :: Scientific/Engineering
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
