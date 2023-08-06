@@ -1,0 +1,8 @@
+[console_scripts]
+lccut = lcheapo.lccut:main
+lcdump = lcheapo.lcdump:main
+lcfix = lcheapo.lcfix:main
+lcheader = lcheapo.lcheader:main
+lcinfo = lcheapo.lcinfo:main
+sdpcat = lcheapo.sdpchain:sdpcat
+
