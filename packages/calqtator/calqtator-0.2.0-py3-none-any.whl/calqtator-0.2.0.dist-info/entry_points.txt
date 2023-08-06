@@ -1,0 +1,3 @@
+[console_scripts]
+calqtator = calqtator.__main__:main
+
