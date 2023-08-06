@@ -1,0 +1,15 @@
+ingestion/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+ingestion/config/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+ingestion/config/feed.py,sha256=xBIBja0XAxKe-t9C6wfqKsKCcr_JEw8fMnmFI7dSsWk,957
+ingestion/config/model.py,sha256=QH6LfUQWcWynekP9ni3P6zc43tZAeoO3B1IPqObb6H0,268
+ingestion/config/parser.py,sha256=6aaqR9MG1bEXNzwsBJzS--L8k-kYaEVU2ybNAJ9M5PA,391
+ingestion/storage/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+ingestion/storage/bigquery/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+ingestion/storage/bigquery/utils.py,sha256=pbWuqnH_YNE-SB_0t8hGyVqhC4sBo61BGCzYa9fULew,3482
+ingestion/storage/gcs/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+ingestion/storage/gcs/utils.py,sha256=bglJ7rz-p_tKGeH1UCA3j0gbrbxZ_7D6NsaUZxs4dpQ,4247
+gcp_data_ingestion-1.0.0.dist-info/LICENSE,sha256=bngOCy3yvN4jaESd2xZYYc9QUAsvBJUwJzXONQVdOmU,1070
+gcp_data_ingestion-1.0.0.dist-info/METADATA,sha256=-FQ1J5MnxBe-_759wLxOR6icsEho8h_boG8qwoigNfI,585
+gcp_data_ingestion-1.0.0.dist-info/WHEEL,sha256=OqRkF0eY5GHssMorFjlbTIq072vpHpF60fIQA6lS9xA,92
+gcp_data_ingestion-1.0.0.dist-info/top_level.txt,sha256=wyZccObk8rJzjH34biEeSgXIi1FIlXN7b4czTOjZt3A,10
+gcp_data_ingestion-1.0.0.dist-info/RECORD,,
