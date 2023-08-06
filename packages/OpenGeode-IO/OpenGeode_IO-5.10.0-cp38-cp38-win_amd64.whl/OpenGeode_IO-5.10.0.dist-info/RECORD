@@ -1,0 +1,14 @@
+opengeode_io/OpenGeode-IO_mesh.dll,sha256=FNby_aEOyluKF1bu5Cgo5y3UjIX44YqvERb8JE_MVmg,1043456
+opengeode_io/OpenGeode-IO_model.dll,sha256=_j72RJ4oGmFgySZuT37345MWfpaNlwgkr8YmDUPAXJ4,246784
+opengeode_io/__init__.py,sha256=9QXA7nSbKVOutb87s7T4Ad0xuCtC3F1SRs5TOwxNNPc,1264
+opengeode_io/concrt140.dll,sha256=1AS0nCXMdtxMhuHYL8I3mUgvZQnoWnPtgXfvwyDsAZU,332568
+opengeode_io/msvcp140.dll,sha256=mePiXNpAQoP72Wslt2g6jSE-eVRnSt76InkSOo0HAf0,627992
+opengeode_io/msvcp140_1.dll,sha256=XmJ_rEefcjYwdYJEI9dNCl0QC7aTd_KowJQuEgma9wA,31512
+opengeode_io/msvcp140_2.dll,sha256=qpZbyEKZlMl7wkmO2AUaQQH3mHo3aSSxBd5feRXkKkg,206104
+opengeode_io/opengeode_io_py_mesh.cp38-win_amd64.pyd,sha256=aaNw5krXiG9uLYQ6DFsosgXmYIWqa_3gY4-1jLROM54,89088
+opengeode_io/opengeode_io_py_model.cp38-win_amd64.pyd,sha256=JkFjb_c7-YKwwPSQ07iGPJiUV22_b1IjbWykHKsRzzA,89088
+opengeode_io/vcruntime140.dll,sha256=K3YCzBUhEB0RaZXj4t3-CUM0mAY3ig1Ardgbpk41m2w,85784
+OpenGeode_IO-5.10.0.dist-info/METADATA,sha256=mOtC6_jylbGbiCAn40zFeC2DjW41beGUOLLX_lEAxxc,3199
+OpenGeode_IO-5.10.0.dist-info/WHEEL,sha256=OqRkF0eY5GHssMorFjlbTIq072vpHpF60fIQA6lS9xA,92
+OpenGeode_IO-5.10.0.dist-info/top_level.txt,sha256=UbHospLC99KjjzaIpg_8PZkv87pJ67SRlIyMrWV58CY,13
+OpenGeode_IO-5.10.0.dist-info/RECORD,,
