@@ -1,0 +1,6 @@
+Click>=7.0
+requests
+flask
+IPy
+pytenable>=1.2.6
+arrow>=0.17.0
