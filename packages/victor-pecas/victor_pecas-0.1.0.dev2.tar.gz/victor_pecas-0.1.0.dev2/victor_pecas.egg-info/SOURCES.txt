@@ -1,0 +1,13 @@
+LICENSE
+README.md
+setup.cfg
+setup.py
+victor_pecas/__init__.py
+victor_pecas/__version__.py
+victor_pecas/tfidf_vectorizer.py
+victor_pecas/victor_pieces.py
+victor_pecas.egg-info/PKG-INFO
+victor_pecas.egg-info/SOURCES.txt
+victor_pecas.egg-info/dependency_links.txt
+victor_pecas.egg-info/requires.txt
+victor_pecas.egg-info/top_level.txt
