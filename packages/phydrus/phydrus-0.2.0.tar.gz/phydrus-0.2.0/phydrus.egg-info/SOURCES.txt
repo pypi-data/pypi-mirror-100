@@ -1,0 +1,15 @@
+README.md
+setup.py
+phydrus/__init__.py
+phydrus/decorators.py
+phydrus/model.py
+phydrus/plot.py
+phydrus/profile.py
+phydrus/read.py
+phydrus/utils.py
+phydrus/version.py
+phydrus.egg-info/PKG-INFO
+phydrus.egg-info/SOURCES.txt
+phydrus.egg-info/dependency_links.txt
+phydrus.egg-info/requires.txt
+phydrus.egg-info/top_level.txt
