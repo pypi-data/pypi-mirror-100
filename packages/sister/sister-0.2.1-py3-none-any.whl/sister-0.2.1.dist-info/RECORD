@@ -1,0 +1,8 @@
+sister/__init__.py,sha256=jI7uZwiQttFDvjwn_X8LNV8E-iZQYnheJh7MmaMFqDQ,92
+sister/core.py,sha256=BcoBnZ9Dn01Ypx_XPc60rFaLbrYBf2KsVZD-lb6i3tM,3321
+sister/download.py,sha256=ez7YKLDLgTijMd4FWBhyt26xwLp1XfPi3ySrcoc2r3Q,2642
+sister/tokenizers.py,sha256=tbxKGMr91X6v739_Tk_E5Ru3XNQ_Qp6dGHHRJVFfUy8,754
+sister/word_embedders.py,sha256=5E5iCVcv4R849f_vYI9YYwy7apFnTT1n89c4DCHDBkE,2715
+sister-0.2.1.dist-info/WHEEL,sha256=VN2eEg4PHbTOniXb-cCYQPc6zUTS4dAcATjlgU3q-Lo,83
+sister-0.2.1.dist-info/METADATA,sha256=FF-CaVGMHbx3Regn2Dz9p9KFb06o_CEdd6UESlkPAjE,615
+sister-0.2.1.dist-info/RECORD,,
