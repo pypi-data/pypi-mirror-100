@@ -1,0 +1,7 @@
+setup.py
+mostavate/__init__.py
+mostavate/me.py
+mostavate.egg-info/PKG-INFO
+mostavate.egg-info/SOURCES.txt
+mostavate.egg-info/dependency_links.txt
+mostavate.egg-info/top_level.txt
