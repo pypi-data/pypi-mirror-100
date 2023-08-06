@@ -1,0 +1,12 @@
+README.md
+setup.py
+thegoat/__init__.py
+thegoat/cli.py
+thegoat/config.py
+thegoat/whois.py
+thegoat.egg-info/PKG-INFO
+thegoat.egg-info/SOURCES.txt
+thegoat.egg-info/dependency_links.txt
+thegoat.egg-info/entry_points.txt
+thegoat.egg-info/requires.txt
+thegoat.egg-info/top_level.txt
