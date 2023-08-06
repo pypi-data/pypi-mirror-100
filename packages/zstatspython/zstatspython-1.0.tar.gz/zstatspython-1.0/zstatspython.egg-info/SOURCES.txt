@@ -1,0 +1,11 @@
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+zstatspython/__init__.py
+zstatspython/zstatspy.py
+zstatspython.egg-info/PKG-INFO
+zstatspython.egg-info/SOURCES.txt
+zstatspython.egg-info/dependency_links.txt
+zstatspython.egg-info/requires.txt
+zstatspython.egg-info/top_level.txt
