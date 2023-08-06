@@ -1,0 +1,14 @@
+sappy/__init__.py,sha256=ByAnaVT8bw8ZDEGF8D4lJr5A8cfNyaoYVePpqWUvqmE,326
+sappy/__main__.py,sha256=5jYNThfT5Rs_er_8joakPjSLSZOYpdwdIAGfIZrTt6o,114
+sappy/cli.py,sha256=8DTQq38Do8vU_h1rm9wU6Cn7dQ6mD22nUbH2EbGQMiI,866
+sappy/handlers.py,sha256=s76yvvw-sICe963B8zsE4imm7AUSXTseoIiKu-SYDis,1459
+sappy/server.py,sha256=2bsZ1KM8Aab7VJWTQ3lkJlMd3Eqq7sZlhNaJ6Fqn_aY,598
+sappy/settings.py,sha256=5EKfv-ByMQrLXaLOdp5AL8GqR-NtA5_jLOmI00xKu_E,585
+sappy/tests/__init__.py,sha256=1mW_xqxnMuIMn017Q9fO5EMo_DQKa87xPXy5GEzEi18,42
+sappy/tests/conftest.py,sha256=xV5AEQplk93gYFCwJd2xwy4sK0I5EmqaZfbMgXbf8QM,214
+sappy/tests/test_settings.py,sha256=acEKHza3LeErS12izz4lKMIsEKBkfHMZhO1tXxuY9VE,548
+sappy-1.2b1.dist-info/entry_points.txt,sha256=0Cpc_b2LaP98V1Qll_Ewh8lOi4EtcjH6G-XAMFyfnV8,40
+sappy-1.2b1.dist-info/LICENSE.md,sha256=iCsqMDokbQTmjOdD7c6KU_ttwfwUMXmsNUkJm_iTlII,1088
+sappy-1.2b1.dist-info/WHEEL,sha256=VN2eEg4PHbTOniXb-cCYQPc6zUTS4dAcATjlgU3q-Lo,83
+sappy-1.2b1.dist-info/METADATA,sha256=HjiNbWyqZWgZ6Wc8qhdfqhkr35oJuE5kHhN9scM6IfI,3433
+sappy-1.2b1.dist-info/RECORD,,
