@@ -1,0 +1,7 @@
+README.rst
+setup.py
+PyRecommender/__init__.py
+PyRecommender.egg-info/PKG-INFO
+PyRecommender.egg-info/SOURCES.txt
+PyRecommender.egg-info/dependency_links.txt
+PyRecommender.egg-info/top_level.txt
