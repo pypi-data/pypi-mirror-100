@@ -1,0 +1,12 @@
+
+[:python_version < "3"]
+pysvg==0.2.2
+
+[:python_version >= "3"]
+pysvg-py3
+
+[dev]
+wheel
+
+[test]
+pytest
