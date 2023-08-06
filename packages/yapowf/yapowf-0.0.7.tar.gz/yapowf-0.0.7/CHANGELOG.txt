@@ -1,0 +1,9 @@
+Change Log
+==========
+
+ 0.0.7 (29/03/2021)
+------------------
+ - First Release
+ - Load Flow and RMS simulation working
+ - Fix logger bug
+ - Include version
