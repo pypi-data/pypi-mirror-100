@@ -1,0 +1,17 @@
+drf_keycloak_auth/__init__.py,sha256=AgRB6u8V6a2WcY8Yom4Ij8MQzDXu-ZuZOiGcvP6IjGk,423
+drf_keycloak_auth/admin.py,sha256=suMo4x8I3JBxAFBVIdE-5qnqZ6JAZV0FESABHOSc-vg,63
+drf_keycloak_auth/apps.py,sha256=Z1r6d76QDaQwqBXKXUS2K1abSOrTcjZ6qrg7iI7U5IQ,110
+drf_keycloak_auth/authentication.py,sha256=Uc2ecqb2ZLDndBYiJI3QZW6GDdPzb6FuQ9zpqO2mAKc,4143
+drf_keycloak_auth/keycloak.py,sha256=NZpZrH7XPTf5zXj5B1RqpZh4TNFdOToJQKUcDCGc2lU,1835
+drf_keycloak_auth/middleware.py,sha256=Qk4VP4U4i6vr2x90CKdMe4SgOtDSP7yDEvnp5c4nBnY,4919
+drf_keycloak_auth/models.py,sha256=Vjc0p2XbAPgE6HyTF6vll98A4eDhA5AvaQqsc4kQ9AQ,57
+drf_keycloak_auth/permissions.py,sha256=Y48p2OsWD8tHtkIwiSC7B9vwPPNP_8JUPUZZgcT5MxI,3809
+drf_keycloak_auth/settings.py,sha256=LIXgYtScHvKxwu_r1YmAECT8IzcwFgBdEV2KhT4Exuo,1572
+drf_keycloak_auth/tests.py,sha256=mrbGGRNg5jwbTJtWWa7zSKdDyeB4vmgZCRc2nk6VY-g,60
+drf_keycloak_auth/views.py,sha256=xc1IQHrsij7j33TUbo-_oewy3vs03pw_etpBWaMYJl0,63
+drf_keycloak_auth/migrations/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+drf_keycloak_auth-0.0.1.dev12.dist-info/LICENSE,sha256=Ovc7vZESMlSLLwagWgnjOJznMJfV7LkhbzQV8Cj2wlw,1077
+drf_keycloak_auth-0.0.1.dev12.dist-info/METADATA,sha256=MDH1hyOo3LStaUPvhy0loSHOsC3YDM8KI0TfYpVL-Vs,4703
+drf_keycloak_auth-0.0.1.dev12.dist-info/WHEEL,sha256=OqRkF0eY5GHssMorFjlbTIq072vpHpF60fIQA6lS9xA,92
+drf_keycloak_auth-0.0.1.dev12.dist-info/top_level.txt,sha256=khaba9JJZGuSflOMFkx52Iya4saoZFu6VWj4d668X88,18
+drf_keycloak_auth-0.0.1.dev12.dist-info/RECORD,,
