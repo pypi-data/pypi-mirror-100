@@ -1,0 +1,3 @@
+[console_scripts]
+anonfiles = anonfiles:cli
+

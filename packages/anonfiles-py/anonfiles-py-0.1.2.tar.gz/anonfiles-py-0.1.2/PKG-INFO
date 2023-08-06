@@ -1,0 +1,48 @@
+Metadata-Version: 2.1
+Name: anonfiles-py
+Version: 0.1.2
+Summary: Simple AnonFiles.com API Wrapper
+Home-page: https://github.com/TheBoringDude/anonfiles.py
+Author: TheBoringDude
+Author-email: iamcoderx@gmail.com
+License: MIT
+Project-URL: Bug Tracker, https://github.com/TheBoringDude/anonfiles.py/issues
+Description: # anonfiles.py
+        Simple AnonFiles.com API Wrapper written on Python3
+        
+        BayFiles is also added and supported.
+        
+        ## Install
+        
+            $ pip3 install anonfiles-py
+        
+        ## Usage
+        ### CLI
+        Upload files directly to [AnonFiles.com](https://anonfiles.com). Multi-files is not supported.
+        ```
+        anonfiles [filename / path of file]
+        ```
+        
+        ### Integrate
+        ```python3
+        from anonfiles import AnonFiles 
+        
+        # BayFiles is also available and can be used similarly.
+        # `from anonfiles import BayFiles`
+        
+        a = AnonFiles()
+        
+        up = a.upload("example.py")
+        
+        print(up.status)
+        ```
+        
+        ##
+        ### &copy; 2021 TheBoringDude
+Platform: UNKNOWN
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Description-Content-Type: text/markdown
