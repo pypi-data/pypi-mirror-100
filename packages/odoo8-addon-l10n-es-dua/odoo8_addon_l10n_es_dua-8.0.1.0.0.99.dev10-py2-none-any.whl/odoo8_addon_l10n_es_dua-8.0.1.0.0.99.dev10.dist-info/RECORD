@@ -1,0 +1,17 @@
+odoo8_addon_l10n_es_dua-8.0.1.0.0.99.dev10-py3.6-nspkg.pth,sha256=byZRehCeET5bIG0AMyMXPLGoXAE887IW4f1j_Rh4alU,564
+odoo_addons/l10n_es_dua/README.rst,sha256=qOzQHOMN7uDVVKtS9pMFIUmNdfvWnyD74qDIisGQy-4,5382
+odoo_addons/l10n_es_dua/__init__.py,sha256=vS0r1eJJuvAMWC-yiyExS5hDx3t9o7Ov1wFwnd9PC6w,144
+odoo_addons/l10n_es_dua/__openerp__.py,sha256=_sRvkbmKpTBZcfESwBoA9LSaoZEaN8WzKG9XSpRdCuA,741
+odoo_addons/l10n_es_dua/data/fiscal_position_taxes_dua.xml,sha256=sO5PpKX8xsQQyouCgVbJzQVS7y2qjGzT-RCsqEWCkg8,4825
+odoo_addons/l10n_es_dua/data/fiscal_positions_dua.xml,sha256=wZ-DDwA2TbewZgRhfGpfnGdIw4qTRlCrBa4reSnq4wE,295
+odoo_addons/l10n_es_dua/data/products_dua.xml,sha256=iwx_LVkvb6byzVcezaaTzZFa3gaKc0eYqSIW0OlGCEI,2414
+odoo_addons/l10n_es_dua/data/taxes_dua.xml,sha256=MBTPx_WTPN5VREGsiQ4W67JWzkqYVZRiWoTJFwO5bi0,413
+odoo_addons/l10n_es_dua/i18n/ca.po,sha256=KnZrbmOw77Sn9oElmadldINq6w9iPzpxnM30Q0FZP7Y,1209
+odoo_addons/l10n_es_dua/i18n/es.po,sha256=e821tp-GJBYTR3qrSaUmha59a703vTYyydaBfPXwftE,1213
+odoo_addons/l10n_es_dua/i18n/l10n_es_dua.pot,sha256=E5RTOdBXnbAl6hUD9Nac-0L0oHPb3ZH8J15MeKasdTk,962
+odoo_addons/l10n_es_dua/static/description/icon.png,sha256=xVyrvZlzhWaLXhs0b5TOQHN-Xtk1_Upj299rd-N5LWM,12021
+odoo8_addon_l10n_es_dua-8.0.1.0.0.99.dev10.dist-info/METADATA,sha256=ipFw4S2VubOFOhrL1UZ9W75sq8aW7cpzTroncxPZMdQ,5877
+odoo8_addon_l10n_es_dua-8.0.1.0.0.99.dev10.dist-info/WHEEL,sha256=bK8TJl-oUKFDa18qkB68zwTZhIBCifqi4qjS_NS4aFQ,92
+odoo8_addon_l10n_es_dua-8.0.1.0.0.99.dev10.dist-info/namespace_packages.txt,sha256=zhjxn3lgwTXeAiTvAlKWYlCdmGhlOYAY9CuT2hfLb40,12
+odoo8_addon_l10n_es_dua-8.0.1.0.0.99.dev10.dist-info/top_level.txt,sha256=zhjxn3lgwTXeAiTvAlKWYlCdmGhlOYAY9CuT2hfLb40,12
+odoo8_addon_l10n_es_dua-8.0.1.0.0.99.dev10.dist-info/RECORD,,
