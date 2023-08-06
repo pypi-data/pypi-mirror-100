@@ -1,0 +1,3 @@
+[console_scripts]
+wikiman = wikiman.wikiman:main
+
