@@ -1,0 +1,13 @@
+Metadata-Version: 1.1
+Name: gruv_socks
+Version: 0.9.3
+Summary: Easy to use standard for abstracting the work needed to transport and reconstruct messages over TCP.
+Home-page: UNKNOWN
+Author: Forest Jacobsen
+Author-email: UNKNOWN
+License: UNKNOWN
+Description: UNKNOWN
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
