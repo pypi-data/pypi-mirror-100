@@ -1,0 +1,43 @@
+Metadata-Version: 2.1
+Name: SuperHelper
+Version: 0.1.0
+Summary: A collection of Python CLI to make life easier for terminal geeks!
+Home-page: https://github.com/GreaterGoodCorp/FocusEnabler
+Author: Nguyen Thai Binh
+Author-email: binhnt.mdev@gmail.com
+License: UNKNOWN
+Project-URL: Bug Tracker, https://github.com/GreaterGoodCorp/FocusEnabler/issues
+Description: # SuperHelper
+        A collection of Python CLI to make life easier for terminal geeks!
+        
+        ## Changelog
+        
+        ### Pre-release
+        
+        * Version `0.0.1`: Project initialisation.
+          
+        * Version `0.0.2`: Disabled `DEBUG` mode.
+        
+        * Version `0.1.0`: Added new core utilities functions, including installing, disabling and listing modules,
+          and showing versioning.
+        
+Platform: UNKNOWN
+Classifier: Development Status :: 3 - Alpha
+Classifier: Environment :: Console
+Classifier: Environment :: MacOS X
+Classifier: Environment :: Win32 (MS Windows)
+Classifier: Intended Audience :: Developers
+Classifier: Intended Audience :: End Users/Desktop
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Natural Language :: English
+Classifier: Operating System :: OS Independent
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Programming Language :: Python :: 3.10
+Classifier: Topic :: Home Automation
+Classifier: Topic :: Office/Business
+Classifier: Topic :: Utilities
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
