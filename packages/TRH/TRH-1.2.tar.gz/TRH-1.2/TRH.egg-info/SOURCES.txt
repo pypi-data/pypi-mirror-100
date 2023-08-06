@@ -1,0 +1,8 @@
+setup.py
+TRH/__init__.py
+TRH/main.py
+TRH.egg-info/PKG-INFO
+TRH.egg-info/SOURCES.txt
+TRH.egg-info/dependency_links.txt
+TRH.egg-info/requires.txt
+TRH.egg-info/top_level.txt
