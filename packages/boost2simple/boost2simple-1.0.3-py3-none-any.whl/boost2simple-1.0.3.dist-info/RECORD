@@ -1,0 +1,13 @@
+boost2simple/__init__.py,sha256=gfttY58gl8ZxWLoRrLNWXhCixnspig0Qh5XPgrAFACw,755
+boost2simple/cli.py,sha256=xNj6FeqkPVLBjqhwd6t7OXVU76NPwYypowwwc6v7Apo,4499
+boost2simple/converter.py,sha256=9zhI_moaDnhJQSKCPqOxoOYlF_rki70qEY5DwGCREog,2379
+boost2simple/gui.py,sha256=v6IkdMzOfvghti2MFTYXUqmjFrpotq49dczGr9wniEI,9219
+boost2simple/util.py,sha256=4t9lFI5dj-f8GdN26SZreKqLDg6y-Ht8XN6Rd51YsAY,968
+boost2simple/notes/__init__.py,sha256=gfttY58gl8ZxWLoRrLNWXhCixnspig0Qh5XPgrAFACw,755
+boost2simple/notes/boostnote.py,sha256=V8_IpMtHQyoeAC2nJyIyxxYNsqpJLFRJejdW5EfLVSM,4506
+boost2simple/notes/simplenote.py,sha256=UyTt-gh57uhibclb-vYPsXLvBgcEOtKxRd4Nrt5eIzc,7625
+boost2simple-1.0.3.dist-info/LICENSE,sha256=MjdpnZ5ngchYdzZavZSTyhMqD9MfQ-GjJ4uOdfNlSvQ,33094
+boost2simple-1.0.3.dist-info/METADATA,sha256=om7ldWNhGkdRgLRcrPemSF_OxLnkxgvnVpYS5ABCnVc,12729
+boost2simple-1.0.3.dist-info/WHEEL,sha256=OqRkF0eY5GHssMorFjlbTIq072vpHpF60fIQA6lS9xA,92
+boost2simple-1.0.3.dist-info/top_level.txt,sha256=TPPo-5ew-gnmh2SETR-RPCKg8_jfZgjmb8ZyODH-fFY,13
+boost2simple-1.0.3.dist-info/RECORD,,
