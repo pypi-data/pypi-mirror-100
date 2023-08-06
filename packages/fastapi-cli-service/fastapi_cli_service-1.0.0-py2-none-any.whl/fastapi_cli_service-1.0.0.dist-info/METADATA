@@ -1,0 +1,19 @@
+Metadata-Version: 2.1
+Name: fastapi-cli-service
+Version: 1.0.0
+Summary: Managing FastAPI projects made easy.
+Home-page: https://github.com/sxhxliang/fastapi-cli
+Author: liangshihua
+Author-email: shxh.liang@gmail.com
+License: UNKNOWN
+Platform: UNKNOWN
+Requires-Python: >=3.6.1,<4.0.0
+Description-Content-Type: text/markdown
+Requires-Dist: bullet (<3.0.0,>=2.2.0)
+Requires-Dist: cookiecutter (<2.0.0,>=1.7.2)
+Requires-Dist: pydantic[email] (<2.0.0,>=1.7.2)
+Requires-Dist: typer (<0.4.0,>=0.3.2)
+
+UNKNOWN
+
+
