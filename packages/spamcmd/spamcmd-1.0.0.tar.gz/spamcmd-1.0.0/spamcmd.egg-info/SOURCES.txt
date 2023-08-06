@@ -1,0 +1,7 @@
+README.md
+setup.py
+spamcmd.egg-info/PKG-INFO
+spamcmd.egg-info/SOURCES.txt
+spamcmd.egg-info/dependency_links.txt
+spamcmd.egg-info/entry_points.txt
+spamcmd.egg-info/top_level.txt

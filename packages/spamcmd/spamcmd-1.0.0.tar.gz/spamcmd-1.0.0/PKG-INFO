@@ -1,0 +1,28 @@
+Metadata-Version: 2.1
+Name: spamcmd
+Version: 1.0.0
+Summary: Delete every three letters command in the cmd using brute-force
+Home-page: https://github.com/donno2048/spamcmd
+Author: Elisha Hollander
+License: MIT
+Description: # spamcmd
+        
+        This Python module steels every single three letters command (e.g. `pip`)
+        
+        This is by **only** getting it from pip (!!!)
+        
+        ## Installation (=Usage)
+        
+        From PyPi:
+        
+        `pip install spamcmd`
+        
+        From GitHub:
+        
+        `pip install git+https://github.com/donno2048/spamcmd`
+        
+        ### Use it on your own responsibility
+        
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Description-Content-Type: text/markdown
