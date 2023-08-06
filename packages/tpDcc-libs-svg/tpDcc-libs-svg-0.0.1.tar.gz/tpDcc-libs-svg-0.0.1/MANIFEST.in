@@ -1,0 +1,3 @@
+include tpDcc/libs/svg/__logging__.ini
+include versioneer.py
+include tpDcc/libs/svg/_version.py
