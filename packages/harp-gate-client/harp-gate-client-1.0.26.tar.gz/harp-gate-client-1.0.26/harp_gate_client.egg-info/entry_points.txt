@@ -1,0 +1,6 @@
+[console_scripts]
+harp-agent-add = cmd_command.agent_configuration:agent_add
+harp-agent-delete = cmd_command.agent_configuration:agent_delete
+harp-agent-update = cmd_command.agent_configuration:agent_update
+harp-gate-client = harp_gate_client.app:main
+
