@@ -1,0 +1,15 @@
+MANIFEST.in
+README.md
+setup.cfg
+setup.py
+versioneer.py
+kfai_sql_chemistry/__init__.py
+kfai_sql_chemistry/_version.py
+kfai_sql_chemistry/test/__init__.py
+kfai_sql_chemistry/test/test_aws_auto_config.py
+kfai_sql_chemistry/test/test_create_db_connection.py
+kungfuai_sql_chemistry.egg-info/PKG-INFO
+kungfuai_sql_chemistry.egg-info/SOURCES.txt
+kungfuai_sql_chemistry.egg-info/dependency_links.txt
+kungfuai_sql_chemistry.egg-info/requires.txt
+kungfuai_sql_chemistry.egg-info/top_level.txt
