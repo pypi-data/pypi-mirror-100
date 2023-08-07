@@ -1,0 +1,14 @@
+Metadata-Version: 2.1
+Name: u-micro-rsa
+Version: 2021.3
+Summary: A pure python implementation of the RSA encryption algorithm
+Home-page: https://github.com/Z-40/MicroRSA
+Author: Z-40
+Author-email: UNKNOWN
+License: GNU General Public License Version 3.0
+Keywords: python,RSA,encryption,public-key-cryptography
+Platform: UNKNOWN
+
+A pure python implementation of the RSA encryption algorithm
+
+
