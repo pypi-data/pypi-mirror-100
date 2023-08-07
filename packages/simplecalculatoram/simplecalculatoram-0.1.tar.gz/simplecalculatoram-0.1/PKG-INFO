@@ -1,0 +1,23 @@
+Metadata-Version: 1.1
+Name: simplecalculatoram
+Version: 0.1
+Summary: Calculadora sencilla en Python de prueba
+Home-page: https://github.com/python-online-courses/simple-calculator-python
+Author: Anartz Mugika Ledo
+Author-email: mugan86@gmail.com
+License: MIT
+Download-URL: https://github.com/python-online-courses/simple-calculator-python/archive/master.tar.gz
+Description: UNKNOWN
+Keywords: add,multiply,divide
+Platform: UNKNOWN
+Classifier: Development Status :: 3 - Alpha
+Classifier: Intended Audience :: Developers
+Classifier: Topic :: Software Development :: Build Tools
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.4
+Classifier: Programming Language :: Python :: 3.5
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
