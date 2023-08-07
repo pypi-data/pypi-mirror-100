@@ -1,0 +1,13 @@
+Jinja2
+pymssql
+fuzzyfinder
+prompt_toolkit
+svn
+pyperclip
+PyYAML
+cx-Oracle
+prettytable
+sqlparse
+pytest
+docopt
+lxml
