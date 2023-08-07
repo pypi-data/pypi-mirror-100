@@ -1,0 +1,22 @@
+Metadata-Version: 2.1
+Name: ganeshportfolio
+Version: 1.0.0
+Summary: Portfolio Package
+Home-page: https://github.com/Ganeshuthiravasagam
+Author: Ganesh Uthiravasagam
+Author-email: ganeshuthiravasagam@gmail.com
+License: UNKNOWN
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Description-Content-Type: text/markdown
+
+Portfolio Package
+======================
+
+The aim of this project is to create a portfolio package which diplays basic information me. Check detailed information about 
+this project via my [Github](https://github.com/Ganeshuthiravasagam/My_own_python_package)
+
+
+
