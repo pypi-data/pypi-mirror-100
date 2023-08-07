@@ -1,0 +1,14 @@
+README.md
+setup.py
+tsad.egg-info/PKG-INFO
+tsad.egg-info/SOURCES.txt
+tsad.egg-info/dependency_links.txt
+tsad.egg-info/not-zip-safe
+tsad.egg-info/requires.txt
+tsad.egg-info/top_level.txt
+tsad_local/__init__.py
+tsad_local/generate_residuals.py
+tsad_local/main.py
+tsad_local/models.py
+tsad_local/src.py
+tsad_local/stastics.py
