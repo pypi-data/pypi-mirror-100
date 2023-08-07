@@ -1,0 +1,10 @@
+README.md
+setup.py
+pysignora/__init__.py
+pysignora/makegps.py
+pysignora/signora.py
+pysignora/version.py
+pysignora.egg-info/PKG-INFO
+pysignora.egg-info/SOURCES.txt
+pysignora.egg-info/dependency_links.txt
+pysignora.egg-info/top_level.txt
