@@ -1,0 +1,96 @@
+Metadata-Version: 2.1
+Name: glueather
+Version: 1.0.0
+Summary: A simple Python/Qt weather application using the OpenWeather API
+Home-page: https://github.com/vascocosta/glueather
+Author: Vasco Costa
+Author-email: vascomacosta@gmail.com
+License: GPLv3
+Project-URL: Bug Tracker, https://github.com/vascocosta/glueather/issues
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: GNU General Public License v3 (GPLv3)
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
+Requires-Dist: pyowm
+Requires-Dist: pyqt5
+
+# glueather
+
+**A simple Python/Qt weather application using the OpenWeather API.**
+
+glueather allows you to fetch the current weather as well as hourly and daily forecasts for any given location. The interface is extremely simple to use and multiplatform, working exactly the same across a variety of operating systems like MacOS, Linux or Windows.
+
+Instead of showing fancy graphics glueather focuses on the actual meteorological data, neatly presented in a tabular fahsion, particularly useful for the forecasts. The data is provided by the free [OpenWeather API](https://openweathermap.org/), through thousands of distributed home weather stations in addition to standard sources of meteorological data.
+
+The application **requires** you to get an [API key](https://home.openweathermap.org/users/sign_up) from OpenWeather which you should paste into your conf.json file.
+
+## Screenshots
+
+### Windows
+
+![Windows screenshot 1](https://i.imgur.com/lTc87Yq.png)
+
+### Linux
+
+![Linux screenshot 1](https://i.imgur.com/494m1jA.png)
+
+# Features
+
+* Simple interface
+* Multiplatform (MacOS/Linux/Windows)
+* Current weather
+* Hourly forecast
+* Daily forecast
+* Units (Celsius/Fahrenheit)
+* Persistent settings
+* Advanced weather API (OpenWeather)
+
+# Dependencies
+
+* Python >= 3.7.0
+* pyowm >= 3.2.0
+* PyQt5 >= 5.15.1 (on Debian Stable use specifically 5.15.1) 
+
+# Install (pip)
+
+```
+pip install glueather
+```
+
+# Install (source)
+
+## Global
+
+```
+git clone https://github.com/vascocosta/glueather.git
+pip3 install pyowm
+pip3 install pyqt5
+```
+
+## Venv
+
+### MacOS/Linux
+
+```
+git clone https://github.com/vascocosta/glueather.git
+cd glueather
+pyhton3 -m venv venv
+source venv\bin\activate
+pip3 install pyowm
+pip3 install pyqt5
+```
+
+### Windows
+
+```
+git clone https://github.com/vascocosta/glueather.git
+cd glueather
+pyhton3 -m venv venv
+venv\Scripts\activate
+pip3 install pyowm
+pip3 install pyqt5
+```
+
+
