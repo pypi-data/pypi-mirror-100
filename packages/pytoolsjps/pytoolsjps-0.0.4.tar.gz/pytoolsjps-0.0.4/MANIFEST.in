@@ -1,0 +1,6 @@
+include *.txt
+recursive-exlude src/tests/*
+recursive-exlude src/tests *.py
+recursive-exlude tests *.py
+exclude .env
+exclude notes.txt
