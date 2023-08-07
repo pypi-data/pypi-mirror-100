@@ -1,0 +1,14 @@
+Metadata-Version: 1.1
+Name: granim
+Version: 0.1
+Summary: Plotting animated graphs using manim.
+Home-page: http://github.com/praeclarumjj3/granim
+Author: Jitesh Jain
+Author-email: jitesh_j@cs.iitr.ac.in
+License: MIT
+Description: The package helps you plot animated graphs using the manim engine.
+Keywords: manim graph plots
+Platform: UNKNOWN
+Classifier: Development Status :: 4 - Beta
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3.7

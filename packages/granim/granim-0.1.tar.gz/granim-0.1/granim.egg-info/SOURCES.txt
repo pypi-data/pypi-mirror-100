@@ -1,0 +1,13 @@
+LICENSE
+MANIFEST.in
+README.md
+setup.py
+bin/granim-plot
+granim/__init__.py
+granim/granim_plot.py
+granim.egg-info/PKG-INFO
+granim.egg-info/SOURCES.txt
+granim.egg-info/dependency_links.txt
+granim.egg-info/requires.txt
+granim.egg-info/top_level.txt
+granim.egg-info/zip-safe
