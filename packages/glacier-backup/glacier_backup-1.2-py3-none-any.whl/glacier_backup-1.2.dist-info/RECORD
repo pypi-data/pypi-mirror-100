@@ -1,0 +1,10 @@
+glacier_backup/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+glacier_backup/backup.py,sha256=Ogj4KkqZLVln_0No9PdnppMRkPKeF8EJ0YP8OU1JbvY,8416
+glacier_backup/db.py,sha256=UrG1E6DkBNN1evVn3ytg_fUcfvu6xKxO2mq4mAkYMWM,1351
+glacier_backup/uploader.py,sha256=XtxfwpLJK6rywqQZl6pH_TZftgs7hZmtvY0pETleWs8,6268
+glacier_backup-1.2.dist-info/LICENSE,sha256=YSeYAIPoVvbHTRtsZwIeAJLFRetif5LniiLeOloNrxI,1069
+glacier_backup-1.2.dist-info/METADATA,sha256=z-zyhlBDAE7FcFQM2Z922JfcgucTDmd-ei-HzukxQsA,752
+glacier_backup-1.2.dist-info/WHEEL,sha256=OqRkF0eY5GHssMorFjlbTIq072vpHpF60fIQA6lS9xA,92
+glacier_backup-1.2.dist-info/entry_points.txt,sha256=c0n_W_6kcyvKY6FRLB-jCDNToQwjO0P_qsEb2HGwHpE,107
+glacier_backup-1.2.dist-info/top_level.txt,sha256=enk4AnQGG5G5IC3TQ8nRzvHOZzT01jotUIa04d1W6k4,15
+glacier_backup-1.2.dist-info/RECORD,,
