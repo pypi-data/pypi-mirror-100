@@ -1,0 +1,11 @@
+MANIFEST.in
+README.md
+requirements.txt
+setup.py
+MovieRecEngine/__init__.py
+MovieRecEngine/__main__.py
+MovieRecEngine.egg-info/PKG-INFO
+MovieRecEngine.egg-info/SOURCES.txt
+MovieRecEngine.egg-info/dependency_links.txt
+MovieRecEngine.egg-info/requires.txt
+MovieRecEngine.egg-info/top_level.txt
