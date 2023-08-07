@@ -1,0 +1,10 @@
+diacritization_evaluation/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+diacritization_evaluation/constants.py,sha256=A9Vggh0e66_wDNpN5gY5UiJbNbpdt1VFcGudBxiAjmA,1563
+diacritization_evaluation/der.py,sha256=iFjKpvkmDjiQ4QaBTI6mBoe5JmLOi2RhaFWPZQtOXU4,2308
+diacritization_evaluation/util.py,sha256=4Nz7f6ntlAJEBA31tUDO3-l1F4Emn8T0SzEsMgdymu0,5259
+diacritization_evaluation/wer.py,sha256=f87o0aA6K-RuKajLD1SRlmgVoWDLtI827pBMqc2fl5Q,2895
+diacritization_evaluation-0.5.dist-info/LICENSE.txt,sha256=S1pJL407BwTTXzZK0BQPNM7ZZs57uj1pTSfVZ8Whx30,1061
+diacritization_evaluation-0.5.dist-info/METADATA,sha256=f5aEva8qHlgt7PwBFss9tOwthW82ShNoaVy7CpEdSCk,945
+diacritization_evaluation-0.5.dist-info/WHEEL,sha256=OqRkF0eY5GHssMorFjlbTIq072vpHpF60fIQA6lS9xA,92
+diacritization_evaluation-0.5.dist-info/top_level.txt,sha256=AwjdbGfKWYeuEw64fWLomXLtKJCCD9-lcM83tVDBy7c,26
+diacritization_evaluation-0.5.dist-info/RECORD,,
