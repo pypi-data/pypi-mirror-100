@@ -1,0 +1,12 @@
+[run]
+omit=
+    */_vendor/*
+
+[paths]
+source =
+    auditwheel/
+    /auditwheel_src/auditwheel
+
+[report]
+exclude_lines =
+    raise NotImplementedError

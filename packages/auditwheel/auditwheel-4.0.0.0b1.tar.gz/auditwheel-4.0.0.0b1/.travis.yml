@@ -1,0 +1,34 @@
+os: linux
+dist: focal
+language: python
+python: "3.8"
+arch: arm64-graviton2
+
+jobs:
+  include:
+  - arch: arm64-graviton2
+    virt: vm
+    group: edge
+  - arch: ppc64le
+  - arch: s390x
+  allow_failures:
+  - arch: ppc64le
+
+services:
+  - docker
+
+notifications:
+  email: false
+
+before_install:
+  - pip install --upgrade pip setuptools
+
+install:
+  - ./tests/install.sh
+
+script:
+  - tests/travis.sh
+
+cache:
+  directories:
+    - $HOME/.cache/auditwheel_tests
