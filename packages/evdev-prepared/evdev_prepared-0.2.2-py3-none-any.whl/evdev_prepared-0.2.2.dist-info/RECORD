@@ -1,0 +1,10 @@
+evdev_prepared/__init__.py,sha256=cyqN5GdcKbsVCtlk4PmBQer8f-LrdntG0yJUHDvn_YQ,1322
+evdev_prepared/device_control.py,sha256=YzLZ-DDOG0IWE6kLkonhrkbIHL2XYGt8iDXn-ch_wTU,8452
+evdev_prepared/input_dev.py,sha256=O9N3DqPWLoho4h9h8DSzq1z7gmY_aSqJAHXR-9-Yto8,10267
+evdev_prepared/tests.py,sha256=um38UByO96SycBT8Q0L49IMcwzstFNZ7Xxdlat5kcUY,1945
+evdev_prepared/uinput.py,sha256=fQgZCz3Y4wATYktQd2sHN-aHX_dJSgWDX0lc8GABluo,2712
+evdev_prepared-0.2.2.dist-info/COPYING,sha256=OXLcl0T2SZ8Pmy2_dmlvKuetivmyPd5m1q-Gyd-zaYY,35149
+evdev_prepared-0.2.2.dist-info/METADATA,sha256=-HI-LVLEbEy12XP1tvjtbVx7elxKkd9WHvUJVjrDuBg,468
+evdev_prepared-0.2.2.dist-info/WHEEL,sha256=g4nMs7d-Xl9-xC9XovUrsDHGXt-FT0E17Yqo92DEfvY,92
+evdev_prepared-0.2.2.dist-info/top_level.txt,sha256=s2Z9iwo4elz7dNxHCcoEh_XuOTux94s9uYMpCSOOpt8,15
+evdev_prepared-0.2.2.dist-info/RECORD,,
