@@ -1,0 +1,3 @@
+[console_scripts]
+pynim = pynim.__init__:main
+
