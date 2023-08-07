@@ -1,0 +1,102 @@
+Metadata-Version: 2.1
+Name: xsdata-plantuml
+Version: 21.4
+Summary: xsdata PlantUML generator
+Home-page: https://github.com/tefra/xsdata-plantuml
+Author: Christodoulos Tsoulloftas
+Author-email: "chris@komposta.net",
+License: MIT
+Project-URL: Source, https://github.com/tefra/xsdata-plantuml
+Description: `xsData <https://pypi.org/project/xsdata/>`_ PlantUML plugin
+        ============================================================
+        
+        Generate `PlantUML <https://plantuml.com/class-diagram>`_ class diagrams from xml
+        schemas, wsdl definitions and directly from xml documents.
+        
+        .. image:: https://github.com/tefra/xsdata-plantuml/workflows/tests/badge.svg
+            :target: https://github.com/tefra/xsdata-plantuml/actions
+        
+        .. image:: https://codecov.io/gh/tefra/xsdata-plantuml/branch/master/graph/badge.svg
+            :target: https://codecov.io/gh/tefra/xsdata-plantuml
+        
+        .. image:: https://www.codefactor.io/repository/github/tefra/xsdata-plantuml/badge
+           :target: https://www.codefactor.io/repository/github/tefra/xsdata-plantuml
+        
+        .. image:: https://img.shields.io/pypi/pyversions/xsdata-plantuml.svg
+            :target: https://pypi.org/pypi/xsdata-plantuml/
+        
+        .. image:: https://img.shields.io/pypi/v/xsdata-plantuml.svg
+            :target: https://pypi.org/pypi/xsdata-plantuml/
+        
+        Usage
+        =====
+        
+        .. code:: bash
+        
+            $ pip install xsdata-plantuml
+        
+            $ xsdata samples/order.xsd --output plantuml --package samples
+        
+        
+        .. code::
+        
+            @startuml
+        
+            class Items {
+                +item : item[]
+            }
+            Items +-- item
+            class item {
+                +productName : string
+                +quantity : positiveInteger
+                +USPrice : decimal
+                +comment : string
+                +shipDate : date
+                +partNum : string
+            }
+            class PurchaseOrderType {
+                +shipTo : USAddress
+                +billTo : USAddress
+                +comment : string
+                +items : Items
+                +orderDate : date
+            }
+            class USAddress {
+                +name : string
+                +street : string
+                +city : string
+                +state : string
+                +zip : decimal
+                +country : NMTOKEN
+            }
+            class comment {
+                +@value : string
+            }
+            class purchaseOrder {
+            }
+            purchaseOrder *- PurchaseOrderType
+        
+            @enduml
+        
+        
+        .. image:: https://github.com/tefra/xsdata-plantuml/raw/master/samples/order.svg
+        
+Keywords: xsd,wsdl,schema,xml,uml,plantuml,generator,cli
+Platform: UNKNOWN
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3 :: Only
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Programming Language :: Python :: Implementation :: CPython
+Classifier: Programming Language :: Python :: Implementation :: PyPy
+Classifier: Topic :: Software Development :: Code Generators
+Classifier: Topic :: Text Processing :: Markup :: XML
+Requires-Python: >=3.6
+Description-Content-Type: text/x-rst
+Provides-Extra: test

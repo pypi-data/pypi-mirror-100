@@ -1,0 +1,8 @@
+xsdata[cli]
+
+[test]
+codecov
+pre-commit
+pytest
+pytest-cov
+tox
