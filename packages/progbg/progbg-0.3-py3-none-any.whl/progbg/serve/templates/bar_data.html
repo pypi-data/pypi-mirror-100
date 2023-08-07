@@ -1,0 +1,29 @@
+{% extends 'base.html' %}
+{% block header %}
+<h1> Data for {{name}}</h1>
+{% endblock %}
+
+{% block content %}
+<div>
+    <h3>{{exec_name}}</h3>
+    {% for bar_group in graph.workloads %}
+        {% for bar in bar_group %}
+            {% for metric in bar.workload._cached %}
+            <table>
+                <tr>
+                    <td>Key Name</td>
+                    <td>Value</td>
+                </tr>
+                {% for key_name, attr in metric.get_stats().items() %}
+                <tr>
+                    <td>{{key_name}}</td>
+                    <td>{{attr}}</td>
+                </tr>
+                {% endfor %}
+            </table>
+            {% endfor %}
+        {% endfor %}
+    {% endfor %}
+</dev>
+{% endblock %}
+
