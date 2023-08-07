@@ -1,0 +1,5 @@
+click==7.1.2
+
+[development]
+pytest==6.2.2
+pylint==2.7.4
