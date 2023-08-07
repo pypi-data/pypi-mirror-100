@@ -1,0 +1,16 @@
+Metadata-Version: 2.1
+Name: PyIsEven
+Version: 0.3.1
+Summary: Check is a integer is even
+Home-page: https://github.com/rosineygp/PyIsEven
+Author: Rosiney Gomes Pereira
+License: MIT
+Description: # Is Even
+        
+        check if interger is even using even api
+        
+        https://isevenapi.xyz/
+        
+Keywords: even
+Platform: UNKNOWN
+Description-Content-Type: text/markdown
