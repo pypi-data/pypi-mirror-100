@@ -1,0 +1,26 @@
+Metadata-Version: 2.1
+Name: pyiso3166
+Version: 0.0.3
+Summary: ISO 3166-2 info for Python Projects.
+Home-page: https://github.com/sebst/pyiso3166
+Author: Sebastian Steins
+Author-email: opensource@seb.st
+License: UNKNOWN
+Project-URL: Bug Tracker, https://github.com/sebst/pyiso3166/issues
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: The Unlicense (Unlicense)
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
+
+# pyiso3166
+
+*pyiso3166 by [Sebastian Steins](https://seb.st/)*
+
+Licence: The Unlicense
+
+___
+
+© 2021 [Sebastian Steins](https://seb.st/)
+
