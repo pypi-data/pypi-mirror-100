@@ -1,0 +1,12 @@
+README.md
+setup.py
+src/glacier_backup/__init__.py
+src/glacier_backup/backup.py
+src/glacier_backup/db.py
+src/glacier_backup/uploader.py
+src/glacier_backup.egg-info/PKG-INFO
+src/glacier_backup.egg-info/SOURCES.txt
+src/glacier_backup.egg-info/dependency_links.txt
+src/glacier_backup.egg-info/entry_points.txt
+src/glacier_backup.egg-info/requires.txt
+src/glacier_backup.egg-info/top_level.txt
