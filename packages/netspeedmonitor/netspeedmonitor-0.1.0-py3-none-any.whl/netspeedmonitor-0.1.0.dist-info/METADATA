@@ -1,0 +1,22 @@
+Metadata-Version: 2.1
+Name: netspeedmonitor
+Version: 0.1.0
+Summary: A utility for recording your internet speed.
+Home-page: https://github.com/ericmjl/internet-monitor
+Author: Eric J. Ma
+Author-email: ericmajinglong@gmail.com
+License: MIT
+Platform: UNKNOWN
+Requires-Dist: streamlit
+Requires-Dist: click
+Requires-Dist: tendo
+Requires-Dist: pandas
+Requires-Dist: speedtest-cli
+Requires-Dist: tinydb
+Requires-Dist: loguru
+Requires-Dist: schedule
+Requires-Dist: tinyrecord
+
+UNKNOWN
+
+
