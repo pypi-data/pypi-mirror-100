@@ -1,0 +1,17 @@
+Metadata-Version: 2.1
+Name: tputils
+Version: 0.0.1
+Summary: Utilities for TPUs.
+Home-page: https://github.com/sdtblck/tputils
+Author: Sid Black
+Author-email: sdtblck@gmail.com
+License: MIT
+Description: ## Utilities for TPUs.
+        
+        - **TPUMaker** - a convenience class for creating TPU pods.
+        - **TPUKeepAlive** - runs a python script or function that runs on TPUs, creating a tpu before running calling the function, and remaking and rerunning
+        the function if the tpu gets preempted.
+Platform: UNKNOWN
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3.6
+Description-Content-Type: text/markdown

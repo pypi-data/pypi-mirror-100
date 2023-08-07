@@ -1,0 +1,9 @@
+README.md
+setup.py
+tputils/__init__.py
+tputils/tputils.py
+tputils.egg-info/PKG-INFO
+tputils.egg-info/SOURCES.txt
+tputils.egg-info/dependency_links.txt
+tputils.egg-info/requires.txt
+tputils.egg-info/top_level.txt
