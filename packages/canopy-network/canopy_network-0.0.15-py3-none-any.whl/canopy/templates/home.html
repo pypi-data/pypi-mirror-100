@@ -1,0 +1,10 @@
+$def with (about, recent)
+$var title: $about["name"]
+
+<h1 class=h-card><a class="u-url u-uid p-name"
+href=/>$about["name"]</a></h1>
+
+$:recent
+
+$if tx.user.is_owner:
+    <p>Hello $about["name"] &mdash; <a href=/about>update your profile</a></p>
