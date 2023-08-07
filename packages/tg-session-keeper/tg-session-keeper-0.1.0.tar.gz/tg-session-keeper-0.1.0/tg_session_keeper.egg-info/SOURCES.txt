@@ -1,0 +1,14 @@
+README.md
+setup.py
+session_keeper/__init__.py
+session_keeper/__main__.py
+session_keeper/cli.py
+session_keeper/keeper.py
+session_keeper/session.py
+session_keeper/storage.py
+tg_session_keeper.egg-info/PKG-INFO
+tg_session_keeper.egg-info/SOURCES.txt
+tg_session_keeper.egg-info/dependency_links.txt
+tg_session_keeper.egg-info/entry_points.txt
+tg_session_keeper.egg-info/requires.txt
+tg_session_keeper.egg-info/top_level.txt
