@@ -1,0 +1,65 @@
+Metadata-Version: 2.1
+Name: ts-analysis
+Version: 0.0.3
+Summary: Scripts to find reoccuring patterns in time series.
+Home-page: https://git.ant.isi.edu/GAWSEED
+Author: Genevieve Bartlett, USC/ISI
+Author-email: bartlett@isi.edu
+License: UNKNOWN
+Keywords: time series network events time motif motifs signal processing fsdb
+Platform: UNKNOWN
+Classifier: Development Status :: 3 - Alpha
+Classifier: Intended Audience :: Developers
+Classifier: Topic :: Software Development :: Build Tools
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
+Requires-Dist: pandas (>=0.25.0)
+Requires-Dist: matplotlib (>=3.1.2)
+Requires-Dist: matrixprofile-ts (==0.0.8)
+Requires-Dist: pyfsdb (>=1.1.19)
+Requires-Dist: scipy (>=1.6.0)
+Requires-Dist: numpy (>=1.19.5)
+Provides-Extra: dev
+Requires-Dist: check-manifest ; extra == 'dev'
+Provides-Extra: test
+Requires-Dist: coverage ; extra == 'test'
+
+# Time Series Analysis
+
+This is a MixIn framework to:
+   1.  read data (from files, stdin etc.)
+   2.  extract one or more event time series 
+   3.  run analysis to identify points of interest on the timeline 
+   4.  translate the found events in extracted time series back to
+   (presumably time) markers in original data
+   5.  write finalized output in some format
+
+MixIns for a pipeline are:
+
+* Input
+* Analysis Method
+* Output
+* Logging
+
+## Approaches
+
+Below is a list of currently implemented approaches.
+
+### Kendall Correlation 
+
+Kendall rank correlation coefficient (aka Kendall's τ coefficient) performs
+pairwise identification of positive or negative correlation in two
+timeseries.
+
+### Time Motifs
+
+Time motifs are repeating patterns which indicate an underlying common cause.  Details on these approaches can be [found here][scrimp paper].
+
+----
+[scrimp paper]: https://www.cs.ucr.edu/~eamonn/SCRIMP_ICDM_camera_ready_updated.pdf
+
+
