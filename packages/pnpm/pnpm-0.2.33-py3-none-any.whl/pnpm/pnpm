@@ -1,0 +1,57 @@
+#!/usr/bin/python3
+import click
+import site
+import subprocess as sb
+
+# @click.command()
+# @click.argument('command', required=False)
+# @click.option()
+# def main(command, option):
+    # click.echo(f"{option} {command}")
+
+# if __name__ == "__main__":
+    # main()
+
+def bsh(script):
+    sb.call(f"source {script_path(script)}", shell=True)
+
+def py(script):
+    sb.call(f"python3 {script_path(script)}", shell=True)
+
+def script_path(script):
+    return f".pnpm/scripts/{script}"
+
+def abs_path(sub=''):
+    return site.getsitepackages()[0] + '/pnpm' + sub
+
+
+@click.group()
+def pnpm():
+    pass
+
+@pnpm.command()
+# @click.option('--count', default=1, help='number of greetings')
+@click.argument('package_name', required=False)
+def create(package_name):
+    sb.call(f"python3 {abs_path('/generate')} {package_name or ''}", shell=True)
+
+@pnpm.command()
+def dev():
+    bsh('setup')
+    # sb.call(f"source {script_path('setup')}", shell=True)
+    
+@pnpm.command()
+def build():
+    py('build')
+    # sb.call(f"python3 {script_path('build')}", shell=True)
+
+@pnpm.command()
+def release():
+    # print('yoing')
+    py('build')
+    py('release')
+    # sb.call(f"python3 {script_path('release')}", shell=True)
+    
+
+if __name__ == '__main__':
+    pnpm()
