@@ -1,0 +1,10 @@
+LICENSE
+README.md
+fb2epubru_dl.py
+setup.py
+fb2epubru_dl.egg-info/PKG-INFO
+fb2epubru_dl.egg-info/SOURCES.txt
+fb2epubru_dl.egg-info/dependency_links.txt
+fb2epubru_dl.egg-info/entry_points.txt
+fb2epubru_dl.egg-info/requires.txt
+fb2epubru_dl.egg-info/top_level.txt

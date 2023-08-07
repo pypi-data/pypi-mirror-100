@@ -1,0 +1,12 @@
+Metadata-Version: 1.1
+Name: fb2epubru-dl
+Version: 0.1.dev5
+Summary: Command-line program to download books from fb2-epub.ru
+Home-page: https://github.com/kyzima-spb/fb2epubru-dl
+Author: Kirill Vercetti
+Author-email: office@kyzima-spb.com
+License: MIT
+Description: UNKNOWN
+Platform: UNKNOWN
+Classifier: Operating System :: OS Independent
+Classifier: Programming Language :: Python
