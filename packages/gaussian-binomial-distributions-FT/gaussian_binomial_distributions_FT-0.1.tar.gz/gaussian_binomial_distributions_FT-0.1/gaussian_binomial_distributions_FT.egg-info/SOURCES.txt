@@ -1,0 +1,10 @@
+setup.py
+gaussian_binomial_distributions_FT/Binomialdistribution.py
+gaussian_binomial_distributions_FT/Gaussiandistribution.py
+gaussian_binomial_distributions_FT/Generaldistribution.py
+gaussian_binomial_distributions_FT/__init__.py
+gaussian_binomial_distributions_FT.egg-info/PKG-INFO
+gaussian_binomial_distributions_FT.egg-info/SOURCES.txt
+gaussian_binomial_distributions_FT.egg-info/dependency_links.txt
+gaussian_binomial_distributions_FT.egg-info/not-zip-safe
+gaussian_binomial_distributions_FT.egg-info/top_level.txt
