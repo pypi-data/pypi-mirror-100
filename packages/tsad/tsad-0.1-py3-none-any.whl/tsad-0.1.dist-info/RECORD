@@ -1,0 +1,11 @@
+tsad/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+tsad/generate_residuals.py,sha256=UUT99J5b_gEj5Nqizv01f5xa8dxSmzoGrn1FNGQ79ug,246
+tsad/main.py,sha256=pW6TyV3DGwW7YCmn-iFSsKPMT6b6mkvjff4X0HarF-M,27540
+tsad/models.py,sha256=l64pktgechRujTj1GwwrmeoVWpZQpkV_hFxceyGEq6I,8450
+tsad/src.py,sha256=1msx7ZIkWALySIF_VmbCu6L2zch6JbqSPZYU_fiifP0,5543
+tsad/stastics.py,sha256=rbp6vwlxMu-SjvQbow7yAdprr3jWSOHpOPbwfeleCDo,2024
+tsad-0.1.dist-info/LICENSE,sha256=lSSyTpTMHqtF55KCbXrGCgqN4_pmvvr1EfET1f0UIIw,1518
+tsad-0.1.dist-info/METADATA,sha256=rlTe9IFIHXoZJ1Dgalz-C4Jr5Qu98ygt9V1AniGQMFk,561
+tsad-0.1.dist-info/WHEEL,sha256=OqRkF0eY5GHssMorFjlbTIq072vpHpF60fIQA6lS9xA,92
+tsad-0.1.dist-info/top_level.txt,sha256=lcPtLSNsruSnEGBDBBv7mFD_lser0FYKdoazjpLPDaU,5
+tsad-0.1.dist-info/RECORD,,
