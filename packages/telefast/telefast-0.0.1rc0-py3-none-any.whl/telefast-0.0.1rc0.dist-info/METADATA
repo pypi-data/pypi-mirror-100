@@ -1,0 +1,13 @@
+Metadata-Version: 2.1
+Name: telefast
+Version: 0.0.1rc0
+Summary: 
+License: MIT
+Author: aahnik
+Author-email: daw@aahnik.dev
+Requires-Python: >=3.8,<4.0
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Requires-Dist: Telethon (>=1.21.1,<2.0.0)
