@@ -1,0 +1,3 @@
+[console_scripts]
+pwnchain = pwnchain:__main__
+
