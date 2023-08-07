@@ -1,0 +1,3 @@
+pyo
+numpy
+pandas>=0.25.1
