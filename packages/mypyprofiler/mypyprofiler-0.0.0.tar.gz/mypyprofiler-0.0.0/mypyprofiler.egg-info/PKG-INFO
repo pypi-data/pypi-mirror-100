@@ -1,0 +1,11 @@
+Metadata-Version: 1.0
+Name: mypyprofiler
+Version: 0.0.0
+Summary: A Python profiler that keeps things simple
+Home-page: https://github.com/life-efficient/PyProfiler
+Author: Harry Berg
+Author-email: harryaberg@gmail.com
+License: MIT
+Description: UNKNOWN
+Keywords: profiling
+Platform: UNKNOWN

@@ -1,0 +1,8 @@
+README.md
+setup.py
+mypyprofiler.egg-info/PKG-INFO
+mypyprofiler.egg-info/SOURCES.txt
+mypyprofiler.egg-info/dependency_links.txt
+mypyprofiler.egg-info/top_level.txt
+pyprofiler/__init__.py
+pyprofiler/profiler.py
