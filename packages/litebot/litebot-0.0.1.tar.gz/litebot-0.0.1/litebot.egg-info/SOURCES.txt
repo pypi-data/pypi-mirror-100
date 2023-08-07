@@ -1,0 +1,7 @@
+README.md
+setup.py
+litebot/bot.py
+litebot.egg-info/PKG-INFO
+litebot.egg-info/SOURCES.txt
+litebot.egg-info/dependency_links.txt
+litebot.egg-info/top_level.txt
