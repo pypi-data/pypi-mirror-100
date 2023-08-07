@@ -1,0 +1,11 @@
+LICENSE
+MANIFEST.in
+README.rst
+setup.cfg
+setup.py
+internet_sabotage/__init__.py
+internet_sabotage2.egg-info/PKG-INFO
+internet_sabotage2.egg-info/SOURCES.txt
+internet_sabotage2.egg-info/dependency_links.txt
+internet_sabotage2.egg-info/requires.txt
+internet_sabotage2.egg-info/top_level.txt
