@@ -1,0 +1,11 @@
+Metadata-Version: 1.2
+Name: pyluog
+Version: 0.11
+Summary: A python module for using Luogu Api.
+Home-page: UNKNOWN
+Author: hlwdy
+Author-email: hlwdyck@gmail.com
+License: MIT
+Description: UNKNOWN
+Platform: UNKNOWN
+Requires-Python: >=3.6
