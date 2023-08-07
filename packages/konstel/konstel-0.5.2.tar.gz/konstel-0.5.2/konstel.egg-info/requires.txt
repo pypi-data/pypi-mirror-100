@@ -1,0 +1,4 @@
+argh
+biopython>=1.78
+strictyaml>=1.4.0
+ruamel.yaml==0.16.12
