@@ -1,0 +1,12 @@
+session_keeper/__init__.py,sha256=F8oGd64oUwuLzBs4STe-bOF-o8mgorfYzk-jcudNPOg,70
+session_keeper/__main__.py,sha256=BMkFx3ZYZvFX3hHHPelAq_-DnPoWpLiU9698noOFZqM,130
+session_keeper/cli.py,sha256=XFXRRREgo8F_5VhnXl7BTUYwSM2dAXydFzG6bsAYY-A,5128
+session_keeper/keeper.py,sha256=lvg7EvdBQUdMwrAJkjrSgUNPA5yOyeMcuZqYzuoqLfU,25
+session_keeper/session.py,sha256=uE1DMJpM8G8Bh3MellDjGQhXopDdF2V-IETHRQTTyIk,1442
+session_keeper/storage.py,sha256=-ntTE2ZavXUAtnICD7pd4vQlFYq6Joj1-Q_fjgha5YE,4246
+tg_session_keeper-0.1.0.dist-info/LICENSE,sha256=D3KcGZ-S9ml6FdLpM6V2pcykf8EGLOoPPb3ufqXVLKg,1056
+tg_session_keeper-0.1.0.dist-info/METADATA,sha256=PEtfg5uMX7a8j7b9-c3JV7EdKJqL9PIp2mqqh5Nc8ew,3041
+tg_session_keeper-0.1.0.dist-info/WHEEL,sha256=OqRkF0eY5GHssMorFjlbTIq072vpHpF60fIQA6lS9xA,92
+tg_session_keeper-0.1.0.dist-info/entry_points.txt,sha256=fhTnyPX_VNIPfwfeN5Q9xsBqiaQ_L3ebYlJrCBoiQxs,56
+tg_session_keeper-0.1.0.dist-info/top_level.txt,sha256=6PjaLhC0XmJVJRESuR3BlxtozIThDaz7B0AtPvjNLe0,15
+tg_session_keeper-0.1.0.dist-info/RECORD,,
