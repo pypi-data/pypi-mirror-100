@@ -1,0 +1,11 @@
+README.md
+pyproject.toml
+setup.cfg
+src/icshelper/Calendar.py
+src/icshelper/Event.py
+src/icshelper/Util.py
+src/icshelper/__init__.py
+src/icshelper.egg-info/PKG-INFO
+src/icshelper.egg-info/SOURCES.txt
+src/icshelper.egg-info/dependency_links.txt
+src/icshelper.egg-info/top_level.txt
