@@ -1,0 +1,16 @@
+Metadata-Version: 2.1
+Name: pwg
+Version: 0.1
+Summary: Publication Worthy Graphics
+Home-page: https://github.com/alexhagen/pwg
+Author: Alex Hagen
+Author-email: alexhagen6@gmail.com
+License: UNKNOWN
+Platform: UNKNOWN
+Requires-Dist: matplotlib
+Requires-Dist: numpy
+
+# pwg
+publication worthy graphics
+
+
