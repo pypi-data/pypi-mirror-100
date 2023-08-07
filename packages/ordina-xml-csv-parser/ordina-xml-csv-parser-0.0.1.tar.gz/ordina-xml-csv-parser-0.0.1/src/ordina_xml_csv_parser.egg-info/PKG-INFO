@@ -1,0 +1,18 @@
+Metadata-Version: 2.1
+Name: ordina-xml-csv-parser
+Version: 0.0.1
+Summary: Parse puplic dvs data for ordina school project
+Home-page: https://github.com/michael-gvdw/ordina-xml-csv-parser.git
+Author: Michael Groenewegen van der Weijden, Mihail Bondarenco, Rostislav Ivanov
+Author-email: 
+License: UNKNOWN
+Project-URL: Bug Tracker, https://github.com/michael-gvdw/ordina-xml-csv-parser.git
+Description: # ordina-xml-csv-parser
+        This is a python script that loads in the dvs data into a csv file for the semester project for Ordina
+        
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3.8
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.8
+Description-Content-Type: text/markdown
