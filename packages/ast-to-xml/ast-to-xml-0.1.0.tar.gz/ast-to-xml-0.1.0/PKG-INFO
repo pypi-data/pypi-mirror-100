@@ -1,0 +1,13 @@
+Metadata-Version: 2.1
+Name: ast-to-xml
+Version: 0.1.0
+Summary: Converts a Python abstract source tree (AST) to an XML representation. Uses lxml to enable full XPath searching.
+License: MIT
+Author: Ellis Percival
+Author-email: ast-to-xml@failcode.co.uk
+Requires-Python: >=3.8,<4.0
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Requires-Dist: lxml (>=4.6.3,<5.0.0)
