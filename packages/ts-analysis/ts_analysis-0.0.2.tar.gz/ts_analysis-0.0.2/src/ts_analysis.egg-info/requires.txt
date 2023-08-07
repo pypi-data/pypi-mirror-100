@@ -1,0 +1,12 @@
+pandas>=0.25.0
+matplotlib>=3.1.2
+matrixprofile-ts==0.0.8
+pyfsdb>=1.1.19
+scipy>=1.6.0
+numpy>=1.19.5
+
+[dev]
+check-manifest
+
+[test]
+coverage
