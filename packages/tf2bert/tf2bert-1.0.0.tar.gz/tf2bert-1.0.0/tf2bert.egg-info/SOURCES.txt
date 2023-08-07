@@ -1,0 +1,6 @@
+setup.py
+tf2bert.egg-info/PKG-INFO
+tf2bert.egg-info/SOURCES.txt
+tf2bert.egg-info/dependency_links.txt
+tf2bert.egg-info/requires.txt
+tf2bert.egg-info/top_level.txt
