@@ -1,0 +1,10 @@
+bitstring
+numpy
+seaborn
+pexpect
+bleak
+pygments
+pyserial
+esptool
+nest_asyncio
+scipy
