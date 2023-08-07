@@ -1,0 +1,2 @@
+gym_ple @ git+https://github.com/lebrice/gym-ple.git#egg=gym_ple
+ple @ git+https://github.com/ntasfi/PyGame-Learning-Environment.git#egg=ple

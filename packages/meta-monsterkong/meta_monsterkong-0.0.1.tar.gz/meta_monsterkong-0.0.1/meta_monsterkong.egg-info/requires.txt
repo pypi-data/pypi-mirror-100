@@ -1,0 +1,7 @@
+gym
+pygame
+opencv-python
+matplotlib
+
+[:python_version < "3.7"]
+dataclasses
