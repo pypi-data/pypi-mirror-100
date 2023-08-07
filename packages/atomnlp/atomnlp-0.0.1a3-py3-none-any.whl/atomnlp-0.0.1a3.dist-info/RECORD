@@ -1,0 +1,12 @@
+atomnlp.py,sha256=VT9hhafA5c3vSxKW2a8joCmpMXY4GW9mVpiUSdev4BU,21
+atomnlp/__init__.py,sha256=ClSzhaxEFen0hUEzl15KaGaairOBgpZ262AasOBJ8vQ,65
+atomnlp/entry.py,sha256=fEtmNaLOdoOL7mzG2wY8Ij-YvivzNSiJZcQQrYCdal8,308
+atomnlp/python_import_cpp.py,sha256=EqfkrT_fs1CVZmw8aM-X-Y_Tu_PGRrQzB_LEcwhLOec,198
+atomnlp/segment.py,sha256=59VT7rpAK0skD5sHJb92XXQU6lYkmWxgfp7Ju9BnfgI,3026
+atomnlp/data/dict.txt,sha256=gGum7h51i2kMwMqj3TWlpdfzhWdo2Yb9OLMjw1Sv87E,1134831
+atomnlp/data/oov.txt,sha256=1LSUpjLgBUkf9DONF973zxDBn4EGHEKGyV7nqp8z1TE,61
+atomnlp-0.0.1a3.dist-info/METADATA,sha256=Bd2xNpFZBnf6bO0qHrwHt2VpR10gilOqyDs9DBHmd-8,723
+atomnlp-0.0.1a3.dist-info/WHEEL,sha256=OqRkF0eY5GHssMorFjlbTIq072vpHpF60fIQA6lS9xA,92
+atomnlp-0.0.1a3.dist-info/entry_points.txt,sha256=sq_AIuDLN5Ie-M-WfgpbvnPjDRu8jSGAOrJMrmBocoo,45
+atomnlp-0.0.1a3.dist-info/top_level.txt,sha256=fkbjrmOhUjQvbN_EfAVxy-OMYnS64aYBPMcGYSQM-BI,8
+atomnlp-0.0.1a3.dist-info/RECORD,,
