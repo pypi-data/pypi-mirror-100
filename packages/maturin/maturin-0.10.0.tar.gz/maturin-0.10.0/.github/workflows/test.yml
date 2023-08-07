@@ -1,0 +1,116 @@
+name: Run tests
+
+on:
+  push:
+    branches:
+      - main
+  pull_request:
+
+jobs:
+  test:
+    name: Test
+    strategy:
+      fail-fast: false
+      matrix:
+        os: [ ubuntu-latest, macos-latest, windows-latest ]
+    runs-on: ${{ matrix.os }}
+    steps:
+      - uses: actions/checkout@v2
+      - uses: actions/setup-python@v2
+        with:
+          python-version: 3.6
+      - uses: actions/setup-python@v2
+        with:
+          python-version: 3.7
+      - uses: actions/setup-python@v2
+        with:
+          python-version: 3.8
+      - uses: actions/setup-python@v2
+        with:
+          python-version: 3.9
+      - name: Install cffi and virtualenv
+        run: pip install cffi virtualenv
+      - uses: actions-rs/toolchain@v1
+        id: rustup
+        with:
+          profile: minimal
+          toolchain: stable
+          override: true
+      - name: Install aarch64-apple-darwin Rust target
+        if: matrix.os == 'macos-latest'
+        run: rustup target add aarch64-apple-darwin
+      # We use this target in the musl unit test
+      - name: Install x86_64-unknown-linux-musl Rust target
+        if: matrix.os == 'ubuntu-latest'
+        run: rustup target add x86_64-unknown-linux-musl
+      #- name: Cache cargo registry
+      #  uses: actions/cache@v2
+      #  with:
+      #    path: ~/.cargo/registry
+      #    key: ${{ runner.os }}-${{ steps.rustup.outputs.rustc_hash }}-registry-${{ hashFiles('**/Cargo.lock') }}
+      #- name: Cache cargo index
+      #  uses: actions/cache@v2
+      #  with:
+      #    path: ~/.cargo/git
+      #    key: ${{ runner.os }}-${{ steps.rustup.outputs.rustc_hash }}-index-${{ hashFiles('**/Cargo.lock') }}
+      #- name: Cache cargo build
+      #  uses: actions/cache@v2
+      #  with:
+      #    path: target
+      #    key: ${{ runner.os }}-${{ steps.rustup.outputs.rustc_hash }}-target-${{ hashFiles('**/Cargo.lock') }}
+      - name: Setup Xcode env
+        if: matrix.os == 'macos-latest'
+        shell: bash
+        run: |
+          echo "PYO3_CROSS_LIB_DIR=/Applications/Xcode.app/Contents/Developer/Library/Frameworks/Python3.framework/Versions/3.8/lib" >> "${GITHUB_ENV}"
+          sudo xcode-select -s /Applications/Xcode_12.3.app
+          bindir="$(xcode-select --print-path)/Toolchains/XcodeDefault.xctoolchain/usr/bin"
+          echo "CC=${bindir}/clang" >> "${GITHUB_ENV}"
+          echo "CXX=${bindir}/clang++" >> "${GITHUB_ENV}"
+          echo "SDKROOT=$(xcrun --sdk macosx --show-sdk-path)" >> "${GITHUB_ENV}"
+      - name: cargo test
+        uses: actions-rs/cargo@v1
+        with:
+          command: test
+
+  test-auditwheel:
+    name: Test Auditwheel
+    runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        manylinux: ['2010', '2014']
+    steps:
+      - uses: actions/checkout@v2
+      - name: Build
+        run: |
+          echo 'curl -sSf https://sh.rustup.rs | sh -s -- -y --default-toolchain stable
+          source ~/.cargo/env
+          for PYBIN in /opt/python/cp3[6789]*/bin; do
+            cargo run -- build --no-sdist -m test-crates/pyo3-mixed/Cargo.toml -i "${PYBIN}/python" --manylinux ${{ matrix.manylinux }} -o dist
+          done
+          ' > build-wheel.sh
+          docker run --rm -v "$PWD":/io -w /io quay.io/pypa/manylinux${{ matrix.manylinux }}_x86_64 bash build-wheel.sh
+      - name: Imcompliant Build
+        if: matrix.manylinux == '2014'
+        run: |
+          echo 'curl -sSf https://sh.rustup.rs | sh -s -- -y --default-toolchain stable
+          source ~/.cargo/env
+          for PYBIN in /opt/python/cp3[6]*/bin; do
+            if cargo run -- build --no-sdist -m test-crates/pyo3-mixed/Cargo.toml -i "${PYBIN}/python" --manylinux 2010 -o dist; then
+              echo "maturin build unexpectedly succeeded"
+              exit 1
+            else
+              echo "maturin build failed as expected"
+            fi
+          done
+          yum install -y zlib-devel
+          for PYBIN in /opt/python/cp3[6]*/bin; do
+            if cargo run -- build --no-sdist -m test-crates/lib_with_disallowed_lib/Cargo.toml -i "${PYBIN}/python" --manylinux 2014 -o dist; then
+              echo "maturin build unexpectedly succeeded"
+              exit 1
+            else
+              echo "maturin build failed as expected"
+            fi
+          done
+          ' > build-wheel.sh
+          docker run --rm -v "$PWD":/io -w /io quay.io/pypa/manylinux${{ matrix.manylinux }}_x86_64 bash build-wheel.sh
