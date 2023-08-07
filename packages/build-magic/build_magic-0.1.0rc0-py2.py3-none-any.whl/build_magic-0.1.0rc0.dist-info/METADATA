@@ -1,0 +1,23 @@
+Metadata-Version: 2.1
+Name: build-magic
+Version: 0.1.0rc0
+Summary: A general purpose build/install/deploy tool.
+Home-page: https://github.com/cmmorrow/build-magic
+Author: Chris Morrow
+Author-email: cmmorrow@gmail.com
+License: MIT
+Platform: UNKNOWN
+Requires-Python: >=3.6
+Requires-Dist: blessings
+Requires-Dist: click
+Requires-Dist: colorama
+Requires-Dist: jsonschema
+Requires-Dist: docker
+Requires-Dist: paramiko
+Requires-Dist: python-vagrant
+Requires-Dist: PyYAML
+Requires-Dist: scp
+
+UNKNOWN
+
+
