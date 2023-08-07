@@ -1,0 +1,35 @@
+Metadata-Version: 2.1
+Name: primeNumbersEIPCarvillac
+Version: 1.0
+Summary: Returns all the primes numbers from 1 to N
+Home-page: UNKNOWN
+Author: Carlos Villacastín
+Author-email: carlosvillacastinruiz@gmail.com
+License: GNU GPLv3
+Keywords: primenumbers prime eip
+Platform: UNKNOWN
+Classifier: Development Status :: 4 - Beta
+Classifier: Intended Audience :: Developers
+Classifier: Topic :: Utilities
+Classifier: License :: OSI Approved :: GNU General Public License v3 (GPLv3)
+Classifier: Programming Language :: Python :: 3
+Classifier: Operating System :: OS Independent
+Description-Content-Type: text/markdown
+
+PrimeNumbersEIPCarvillac
+========================
+
+This program returns all the primes numbers from 1 to a number by parameter
+
+How to use
+==========
+ Examples: 
+  - primes_py(10)   (It returns the primes number from 1 to 10)
+  - primes_py(20)   (It returns the primes number from 1 to 20)
+
+License
+=======
+This program is free software: you can redistribute it and /or modify it under the termns of the GNU General Public License as published by the Free Software Foundation, either version 3 of License, 
+or (at your option) any later version.
+
+
