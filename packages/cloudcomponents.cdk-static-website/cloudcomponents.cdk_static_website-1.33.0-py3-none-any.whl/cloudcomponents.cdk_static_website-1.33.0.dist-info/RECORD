@@ -1,0 +1,9 @@
+cloudcomponents/cdk_static_website/__init__.py,sha256=QYmetgqFexVUBOKLK8jbbaI0uwj8oEtB4yCsrGiafY4,38370
+cloudcomponents/cdk_static_website/py.typed,sha256=AbpHGcgLb-kRsJGnwFEktk7uzpZOCcBY74-YBdrKVGs,1
+cloudcomponents/cdk_static_website/_jsii/__init__.py,sha256=6_AY71Z2PSl3BBr14RljWnKKgVYUDqthdU3ZcbT699o,612
+cloudcomponents/cdk_static_website/_jsii/cdk-static-website@1.33.0.jsii.tgz,sha256=W1odBmqXnLzmlAh1JrM_pABGCw_b-xt4QeehenTScnE,57351
+cloudcomponents.cdk_static_website-1.33.0.dist-info/LICENSE,sha256=DC5mwzjdvc14vNIkGbMDFyOOJTkxI2b_1OtpeNA0A0A,1072
+cloudcomponents.cdk_static_website-1.33.0.dist-info/METADATA,sha256=BceM36hmbUqjZ8Bwtzb3qSgv0_gBxoKCZkXV6dowYtQ,6930
+cloudcomponents.cdk_static_website-1.33.0.dist-info/WHEEL,sha256=OqRkF0eY5GHssMorFjlbTIq072vpHpF60fIQA6lS9xA,92
+cloudcomponents.cdk_static_website-1.33.0.dist-info/top_level.txt,sha256=B4EWas985OPzDPLZgw2jcOsscXpuQJyowJnB5pl9rpQ,16
+cloudcomponents.cdk_static_website-1.33.0.dist-info/RECORD,,
