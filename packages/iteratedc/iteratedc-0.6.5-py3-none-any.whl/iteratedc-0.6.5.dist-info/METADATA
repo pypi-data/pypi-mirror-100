@@ -1,0 +1,47 @@
+Metadata-Version: 2.1
+Name: iteratedc
+Version: 0.6.5
+Summary: Iterator for data classes
+Home-page: https://github.com/carstencodes/iteratedc
+Author: Carsten Igel
+Author-email: cig@bite-that-bit.de
+License: BSD 3-Clause
+Platform: UNKNOWN
+Classifier: Development Status :: 4 - Beta
+Classifier: Intended Audience :: Developers
+Classifier: Operating System :: OS Independent
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Topic :: Software Development :: Libraries :: Python Modules
+Classifier: Topic :: System
+Classifier: Typing :: Typed
+Requires-Python: >=3.8, < 4
+Description-Content-Type: text/markdown
+
+# iteratedc - A small python iterator for python 3 dataclasses
+
+`iteratedc` is a small library used to iterate over python 3 dataclasses. It will not only traverse the low level, but will create the a tree-search diving down collections of dataclasses as well. If on each level, a dataclass is present it will follow these child nodes one level down.
+
+You can choose between four operation modes:
+
+* BFS (Breadth first search)
+* DFS (Depth first search)
+  * Pre-Order
+  * In-Order
+  * Post-Order
+  * Reverse Pre-Order
+  * Reverse Post-Order
+
+The result will not be the current node but a NodeElement carrying the current node.
+
+These `NodeElement`s accept visitors according to the visitor pattern.
+
+## Licensing
+
+This library is published under BSD-3-Clause license.
+
+## Versioning
+
+This library follows semantic versioning 2.0. Any breaking change will produce a new major release. Versions below 1.0 are considered to have a unstable interface.
+
+
