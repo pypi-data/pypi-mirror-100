@@ -1,0 +1,46 @@
+Metadata-Version: 2.1
+Name: olli
+Version: 0.1.0
+Summary: Olli searches your Loki logs and relays matching terms to Discord.
+Home-page: https://python-discord.github.io/olli/
+License: MIT
+Keywords: loki,discord,logs,observability
+Author: Joe Banks
+Author-email: joseph@josephbanks.me
+Requires-Python: >=3.9,<4.0
+Classifier: Development Status :: 4 - Beta
+Classifier: Environment :: Console
+Classifier: Intended Audience :: Developers
+Classifier: Intended Audience :: System Administrators
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.9
+Requires-Dist: httpx (>=0.17.1,<0.18.0)
+Requires-Dist: loguru (>=0.5.3,<0.6.0)
+Requires-Dist: pydantic (>=1.8.1,<2.0.0)
+Requires-Dist: python-dotenv (>=0.16.0,<0.17.0)
+Requires-Dist: schedule (>=1.0.0,<2.0.0)
+Requires-Dist: toml (>=0.10.2,<0.11.0)
+Project-URL: Documentation, https://python-discord.github.io/olli/
+Project-URL: Repository, https://github.com/python-discord/olli
+Description-Content-Type: text/markdown
+
+# Olli
+
+[![PyPI version fury.io](https://badge.fury.io/py/olli.svg)](https://pypi.python.org/pypi/olli/)
+[![PyPI pyversions](https://img.shields.io/pypi/pyversions/olli.svg)](https://pypi.python.org/pypi/olli/)
+[![GitHub license](https://img.shields.io/github/license/python-discord/olli.svg)](https://github.com/python-discord/olli/blob/main/LICENSE)
+
+Olli searches your Loki logs and relays matching terms to Discord. Please read the [documentation](https://python-discord.github.io/olli/) to get started.
+
+- [Documentation](https://python-discord.github.io/olli/)
+- [Docker Image](https://ghcr.io/python-discord/olli)
+
+## Contributing
+
+Please open an issue before contributing features to discuss implementation.
+
+## License
+
+Olli is licensed under MIT.
+
