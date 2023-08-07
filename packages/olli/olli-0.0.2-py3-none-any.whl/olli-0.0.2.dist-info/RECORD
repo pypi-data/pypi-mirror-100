@@ -1,0 +1,12 @@
+olli/__init__.py,sha256=hI8srguunG8yh8qwod0TEWLaK_KeeiE_XUob_3nWi3g,73
+olli/__main__.py,sha256=aKz4b_QE_Dy0RyCPZsw5YTKagiMeakd2Tq1svbNWB4E,449
+olli/alert.py,sha256=FrSMv0027qnM2FYCGU6FXfgts1RYcDOch8tNB1O10Bg,2066
+olli/api.py,sha256=4alVPEQ17Vc-aJeCtPO2n6-w9a3n-KSU7-jn91rmCyk,1207
+olli/config.py,sha256=R3HuKuvVumX5KpxKkx2hwbZwMNC70Yz9O0UajdUGpDo,3033
+olli/structures.py,sha256=gMdaOseiXWE3ReXwrokYBxldX6mbJM3utK_NCH-cbr0,506
+olli/webhook.py,sha256=hdEd-UOejY4YYCYFCGpeKikXHXM11ZaoN0SM2p-4fow,2018
+olli-0.0.2.dist-info/entry_points.txt,sha256=aHsAnykbI1NYMe6x5f0t7-G5AjW9YDZZxHC-YF9N43g,44
+olli-0.0.2.dist-info/LICENSE,sha256=8VhpmlLNiCKM6yvUvNM5RokO-mVsDM9oveWochxVKmw,1054
+olli-0.0.2.dist-info/WHEEL,sha256=VN2eEg4PHbTOniXb-cCYQPc6zUTS4dAcATjlgU3q-Lo,83
+olli-0.0.2.dist-info/METADATA,sha256=2egAdrC9l7XY7RvmTrZ9kGkVPaUdXrUQTpVuSj3p6zk,1815
+olli-0.0.2.dist-info/RECORD,,
