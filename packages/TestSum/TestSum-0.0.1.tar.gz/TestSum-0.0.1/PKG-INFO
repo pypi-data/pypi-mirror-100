@@ -1,0 +1,18 @@
+Metadata-Version: 2.1
+Name: TestSum
+Version: 0.0.1
+Summary: Test Package
+Home-page: UNKNOWN
+Author: Salah Uddin Momtaz
+Author-email: <sm1335@jagmail.southalabama.edu>
+License: UNKNOWN
+Description: A Test Package on Census Data API.
+Keywords: Test,Python,Sum
+Platform: UNKNOWN
+Classifier: Development Status :: 1 - Planning
+Classifier: Intended Audience :: Developers
+Classifier: Programming Language :: Python :: 3
+Classifier: Operating System :: Unix
+Classifier: Operating System :: MacOS :: MacOS X
+Classifier: Operating System :: Microsoft :: Windows
+Description-Content-Type: text/markdown
