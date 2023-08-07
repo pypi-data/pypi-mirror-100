@@ -1,0 +1,10 @@
+setup.py
+src/irv/__init__.py
+src/irv/__main__.py
+src/irv/irv.py
+src/irv/mainwindow.py
+src/irv.egg-info/PKG-INFO
+src/irv.egg-info/SOURCES.txt
+src/irv.egg-info/dependency_links.txt
+src/irv.egg-info/requires.txt
+src/irv.egg-info/top_level.txt
