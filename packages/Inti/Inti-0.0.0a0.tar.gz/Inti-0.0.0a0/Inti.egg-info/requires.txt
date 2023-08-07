@@ -1,0 +1,6 @@
+pymongo
+numpy
+requests
+psutil
+elasticsearch
+joblib
