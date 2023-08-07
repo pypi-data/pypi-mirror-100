@@ -1,0 +1,13 @@
+LICENSE
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+src/iteratedc/__init__.py
+src/iteratedc/iterators.py
+src/iteratedc/tree.py
+src/iteratedc/visitor.py
+src/iteratedc.egg-info/PKG-INFO
+src/iteratedc.egg-info/SOURCES.txt
+src/iteratedc.egg-info/dependency_links.txt
+src/iteratedc.egg-info/top_level.txt
