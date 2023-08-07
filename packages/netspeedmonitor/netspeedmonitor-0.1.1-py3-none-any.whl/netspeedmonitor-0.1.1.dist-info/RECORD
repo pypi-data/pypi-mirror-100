@@ -1,0 +1,10 @@
+netspeedmonitor/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+netspeedmonitor/cli.py,sha256=DGkuVQb7mjsoiTMQm1gMXM7z8eRJQxQuS38omWcP_iM,372
+netspeedmonitor/gui.py,sha256=hYBVPZKHm8_3LIpPStMadWGGw4_yb0mPoDRzhxMXUwA,1787
+netspeedmonitor/lib.py,sha256=7lreOrLzIAkrdaviiKJjERgkgta6tgZwQxgmU-Qh5d8,2669
+netspeedmonitor/ui.py,sha256=6G1LLuKku5EnOyd2UXrJ_v4Q2xSLW70XyZASewWmYpY,2685
+netspeedmonitor-0.1.1.dist-info/METADATA,sha256=oXhaaMI2_fva7a-LH3rgctC5wrDz8vcenEK1T5QD3RM,3663
+netspeedmonitor-0.1.1.dist-info/WHEEL,sha256=OqRkF0eY5GHssMorFjlbTIq072vpHpF60fIQA6lS9xA,92
+netspeedmonitor-0.1.1.dist-info/entry_points.txt,sha256=LFFijHrZuiMIcxtrUgJFkYz8vOlW4G3AvfkA2A7UUpg,62
+netspeedmonitor-0.1.1.dist-info/top_level.txt,sha256=E1KIrXTXWyRTfD0hZQ0-oj9NqsG74-F5RTXclEn55pk,16
+netspeedmonitor-0.1.1.dist-info/RECORD,,
