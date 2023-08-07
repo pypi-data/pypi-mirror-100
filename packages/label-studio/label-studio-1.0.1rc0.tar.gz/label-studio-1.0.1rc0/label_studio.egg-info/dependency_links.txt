@@ -1,0 +1,1 @@
+git+https://github.com/heartexlabs/label-studio-converter@5388a7edcc8319e401c0c5f0dd9c407f3de0822f#egg=label_studio_converter
