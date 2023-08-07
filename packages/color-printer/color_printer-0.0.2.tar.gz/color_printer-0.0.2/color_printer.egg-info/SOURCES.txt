@@ -1,0 +1,10 @@
+CHANGELOG.TXT
+LICENSE.TXT
+MANIFEST.in
+README.TXT
+setup.py
+color_printer/__init__.py
+color_printer.egg-info/PKG-INFO
+color_printer.egg-info/SOURCES.txt
+color_printer.egg-info/dependency_links.txt
+color_printer.egg-info/top_level.txt

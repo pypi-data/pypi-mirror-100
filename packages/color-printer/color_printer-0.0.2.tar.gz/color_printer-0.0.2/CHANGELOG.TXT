@@ -1,0 +1,11 @@
+Change Log
+==========
+
+0.0.2 (03/04/2021)
+------------------
+2st Version
+- include needed files lol
+
+0.0.1 (03/04/2021)
+------------------
+1st Version

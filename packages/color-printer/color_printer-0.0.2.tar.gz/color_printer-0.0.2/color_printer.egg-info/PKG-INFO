@@ -1,0 +1,28 @@
+Metadata-Version: 1.1
+Name: color-printer
+Version: 0.0.2
+Summary: This is the simple way to print with colors
+Home-page: UNKNOWN
+Author: TheBlackHero55
+Author-email: theblackhero2@gmail.com
+License: MIT
+Description: This is the simple way to print with colors
+        
+        Change Log
+        ==========
+        
+        0.0.2 (03/04/2021)
+        ------------------
+        2st Version
+        - include needed files lol
+        
+        0.0.1 (03/04/2021)
+        ------------------
+        1st Version
+Keywords: color,print,colorful,printer,prints,bold,underline
+Platform: UNKNOWN
+Classifier: Development Status :: 5 - Production/Stable
+Classifier: Intended Audience :: Education
+Classifier: Operating System :: Microsoft :: Windows :: Windows 10
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3
