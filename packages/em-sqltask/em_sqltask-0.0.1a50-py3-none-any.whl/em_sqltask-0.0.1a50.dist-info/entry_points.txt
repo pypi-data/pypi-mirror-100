@@ -1,0 +1,3 @@
+[console_scripts]
+sqltask = ccdev.__main__:main
+
