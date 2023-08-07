@@ -1,0 +1,9 @@
+README.md
+setup.py
+pwg/__init__.py
+pwg.egg-info/PKG-INFO
+pwg.egg-info/SOURCES.txt
+pwg.egg-info/dependency_links.txt
+pwg.egg-info/requires.txt
+pwg.egg-info/top_level.txt
+test/test_pwg.py
