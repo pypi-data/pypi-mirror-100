@@ -1,0 +1,12 @@
+README.md
+setup.py
+wizPy/__init__.py
+wizPy/discover.py
+wizPy/light.py
+wizPy/main.py
+wizPy/sender.py
+wizpy.egg-info/PKG-INFO
+wizpy.egg-info/SOURCES.txt
+wizpy.egg-info/dependency_links.txt
+wizpy.egg-info/requires.txt
+wizpy.egg-info/top_level.txt
