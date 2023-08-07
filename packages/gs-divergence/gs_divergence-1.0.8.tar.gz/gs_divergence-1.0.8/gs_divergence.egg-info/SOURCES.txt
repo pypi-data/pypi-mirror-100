@@ -1,0 +1,17 @@
+LICENSE
+README.md
+setup.cfg
+setup.py
+gs_divergence/__init__.py
+gs_divergence/alpha_geodesic.py
+gs_divergence/geodesical_skew_divergence.py
+gs_divergence/symmetrized_geodesical_skew_divergence.py
+gs_divergence.egg-info/PKG-INFO
+gs_divergence.egg-info/SOURCES.txt
+gs_divergence.egg-info/dependency_links.txt
+gs_divergence.egg-info/not-zip-safe
+gs_divergence.egg-info/requires.txt
+gs_divergence.egg-info/top_level.txt
+tests/__init__.py
+tests/test_alpha_geodesic.py
+tests/test_gs_div.py
