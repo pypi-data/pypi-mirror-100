@@ -1,0 +1,30 @@
+Metadata-Version: 2.1
+Name: mkdocs-meta-descriptions-plugin
+Version: 0.0.1
+Summary: Generate a meta description from the first paragraph in each MkDocs page
+Home-page: https://github.com/prcr/mkdocs-meta-descriptions-plugin
+Author: Paulo Ribeiro
+Author-email: paulo@diffraction.pt
+License: MIT
+Keywords: mkdocs meta description
+Platform: UNKNOWN
+Classifier: Development Status :: 4 - Beta
+Classifier: Intended Audience :: Developers
+Classifier: Intended Audience :: Information Technology
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 3 :: Only
+Classifier: Programming Language :: Python :: 3.4
+Classifier: Programming Language :: Python :: 3.5
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Requires-Python: >=3
+Requires-Dist: mkdocs (>=1.0.4)
+
+# mkdocs-meta-descriptions-plugin
+
+📑 Generate a meta description from the first paragraph in each MkDocs page
+
+
