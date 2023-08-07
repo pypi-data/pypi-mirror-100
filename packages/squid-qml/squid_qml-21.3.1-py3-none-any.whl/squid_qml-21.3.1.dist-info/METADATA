@@ -1,0 +1,40 @@
+Metadata-Version: 2.1
+Name: squid-qml
+Version: 21.3.1
+Summary: SQUID: Hybrid Quantum-Classical ML package
+Home-page: https://bitbucket.org/squid-qml/squid
+Author: Jakub Filipek
+License: UNKNOWN
+Platform: UNKNOWN
+Description-Content-Type: text/markdown
+Requires-Dist: numpy (>=1.19.1)
+Requires-Dist: pyyaml (>=5.3.1)
+Requires-Dist: torch (>=1.6.0)
+Requires-Dist: torchvision (>=0.7.0)
+
+# SQUID
+Scaled QUantum IDentifer (SQUID) is a package that allows for seamless integration of quantum models into classical ones.
+
+## Introduction
+
+SQUID builds on top of PyTorch to integrate Quantum Machine Learning (QML) models into its classical framework.
+The main goal of the project is to reduce amount of code needed to train QML algorithms on classical data.
+However, some useful side-effects include:
+
+* Load arbitrarily sized data, since encoder in front of quantum model can scale it down for use in near-term quantum devices
+* Ability to easily compare performance of classical and quantum algorithms (By changing middle model of [MainModel](https://pysquid.readthedocs.io/en/latest/source/squid.models.html#main-model)).
+This is especially useful in case of quantum-inspired classical algorithms.
+* Easily evaluate impact of different encodings
+
+More detailed documentation available [here](https://pysquid.readthedocs.io/).
+
+## Installation
+
+To install from pip:
+```
+pip install squid-qml
+```
+
+Alternatively one can follow instructions from [source document - DEVELOP readme](https://bitbucket.org/squid-qml/squid/src/master/DEVELOP.md).
+
+
