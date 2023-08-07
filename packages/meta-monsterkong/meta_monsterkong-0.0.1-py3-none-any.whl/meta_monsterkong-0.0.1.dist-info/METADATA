@@ -1,0 +1,17 @@
+Metadata-Version: 2.1
+Name: meta-monsterkong
+Version: 0.0.1
+Summary: meta_monsterkong: samples a new map uniformly at random from a directory of generated maps
+Home-page: UNKNOWN
+License: UNKNOWN
+Platform: UNKNOWN
+Requires-Python: >=3.6
+Requires-Dist: gym
+Requires-Dist: pygame
+Requires-Dist: opencv-python
+Requires-Dist: matplotlib
+Requires-Dist: dataclasses ; python_version < "3.7"
+
+UNKNOWN
+
+
