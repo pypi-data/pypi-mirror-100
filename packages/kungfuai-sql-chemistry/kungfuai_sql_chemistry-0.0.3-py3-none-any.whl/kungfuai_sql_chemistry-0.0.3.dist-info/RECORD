@@ -1,0 +1,10 @@
+kfai_sql_chemistry/__init__.py,sha256=AbpHGcgLb-kRsJGnwFEktk7uzpZOCcBY74-YBdrKVGs,1
+kfai_sql_chemistry/_version.py,sha256=AT31CDwXfAnOfj7YNvyn3cH4LhZlSQtP2i6QE3LlFQQ,497
+kfai_sql_chemistry/test/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+kfai_sql_chemistry/test/test_aws_auto_config.py,sha256=sv6kBKIiKfihiR44riVPGjfj_505fW7Dckn_ApzwJIc,1240
+kfai_sql_chemistry/test/test_create_db_connection.py,sha256=10vQdrljTkY_qVmUmbU3m3u2XVB4vZ6ZUOG_ZCCg7_U,962
+kungfuai_sql_chemistry-0.0.3.dist-info/LICENSE,sha256=vuBsVWOn62f4PtXFbUJ4f8hNzooC7fUaUq4YGEAnyxU,1030
+kungfuai_sql_chemistry-0.0.3.dist-info/METADATA,sha256=I7v3eephmm1kFEGx5EC7E4eDPLBiFbrzD4Cs9QUZyBM,3599
+kungfuai_sql_chemistry-0.0.3.dist-info/WHEEL,sha256=OqRkF0eY5GHssMorFjlbTIq072vpHpF60fIQA6lS9xA,92
+kungfuai_sql_chemistry-0.0.3.dist-info/top_level.txt,sha256=Z9AVP6nlN_ja9rZFqp_adOXs2msL27884PITEpMPi78,19
+kungfuai_sql_chemistry-0.0.3.dist-info/RECORD,,
