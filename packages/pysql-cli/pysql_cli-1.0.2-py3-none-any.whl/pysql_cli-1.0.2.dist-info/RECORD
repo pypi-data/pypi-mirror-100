@@ -1,0 +1,17 @@
+pysql/__init__.py,sha256=sMj-O2Sb3LrCGRgFEzRBbrmBS4Ezo1O59wnvYEFLcUM,536
+pysql/main.py,sha256=j33-pJqlrpiYTL9gxiiwP53ZICESeEYn2MgYK1BzYy0,14355
+pysql/main_c.py,sha256=0sGZ1joLFhu2k2k7HFbJZP0Tb0Icde-Kg_59TyiUJPI,18403
+pysql/data/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+pysql/data/export.py,sha256=N3qhYGDej2fZrZzc6Ky6mh3lKWX_nN4qLrB9MGohrUA,10873
+pysql/data/imports.py,sha256=ZBLCPnA6f0CKD9jPTtOV6QVapziyjBIU6Ohrw1Yiqos,3400
+pysql/data/info.py,sha256=9tBMIsbxAKck6WHtgRLMnEkhniDsYmr2rafKhskFdzY,5466
+pysql/packages/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+pysql/packages/auth.py,sha256=xnSxbhwfQoiwGflfBEJQYvZ-Qt47JlfcKk02DJA_dSQ,5182
+pysql/packages/ddl_commands.py,sha256=abNIAmr-0h4tdpv7won8udrCkDvIGkVzgUs0CzmP1kI,14004
+pysql/packages/dml_commands.py,sha256=3MCyUv1Kx0quHMggOTpsmYFQRuyd_mt1tahufID4Imo,10085
+pysql_cli-1.0.2.dist-info/LICENSE,sha256=qxfeZSdCLnl7EJ4mBFhWrbV84Sh7Sy3ZLBh6Ic0bEDQ,1064
+pysql_cli-1.0.2.dist-info/METADATA,sha256=YH9xhmmZTIKuymb_ClRZUK1PibRHLBIAViUGjSsQISI,5068
+pysql_cli-1.0.2.dist-info/WHEEL,sha256=OqRkF0eY5GHssMorFjlbTIq072vpHpF60fIQA6lS9xA,92
+pysql_cli-1.0.2.dist-info/entry_points.txt,sha256=jjYw6xBna2XP0bFi2yzW22WveWlsV7buQQV_8uljMjI,68
+pysql_cli-1.0.2.dist-info/top_level.txt,sha256=n21d5_pW6CnqyRC4-HRb-vSETZbNk8v_nFZRKf19Cpg,6
+pysql_cli-1.0.2.dist-info/RECORD,,
