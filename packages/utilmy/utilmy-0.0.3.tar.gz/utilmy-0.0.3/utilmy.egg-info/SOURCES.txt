@@ -1,0 +1,10 @@
+README.md
+setup.py
+myutil/__init__.py
+myutil/myutil.py
+myutil/test.py
+utilmy.egg-info/PKG-INFO
+utilmy.egg-info/SOURCES.txt
+utilmy.egg-info/dependency_links.txt
+utilmy.egg-info/entry_points.txt
+utilmy.egg-info/top_level.txt
