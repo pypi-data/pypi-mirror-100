@@ -1,0 +1,1 @@
+This is the simple way to print with colors
