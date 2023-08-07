@@ -1,0 +1,2 @@
+setuptools
+tensorflow>=2.4.0rc0
