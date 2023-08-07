@@ -1,0 +1,11 @@
+gs_divergence/__init__.py,sha256=VggPnmE_gaIa742S_mIDodcOMjTPkcR9WdYVVa446zY,167
+gs_divergence/alpha_geodesic.py,sha256=l7JJyMdSsNLBXGoq5sq4vGhXBE9IURGJeynKSg88V6A,669
+gs_divergence/geodesical_skew_divergence.py,sha256=pCaR5CNUJA4oLgZ8WLwEQwlv3fqmM1T4qf15U6xe_wc,1383
+gs_divergence/symmetrized_geodesical_skew_divergence.py,sha256=4wNKYWmcidvZN54LlAxnhq3p6SSGMGYuXxsc0mt082E,432
+tests/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+tests/test_alpha_geodesic.py,sha256=99pnNNQZnYMr1UTjCzUmjVNhwOPWXtZ0vNsJD8JAHAo,2341
+gs_divergence-1.0.4.dist-info/LICENSE,sha256=pkydSU5QOVtDcz9FP--mgCt3HnTkA89Ff0WD_20wAbg,1072
+gs_divergence-1.0.4.dist-info/METADATA,sha256=QPbScaBYNWiMYCYH40gZtNXIjg8cCh-lRFKt4t9bSfU,5866
+gs_divergence-1.0.4.dist-info/WHEEL,sha256=g4nMs7d-Xl9-xC9XovUrsDHGXt-FT0E17Yqo92DEfvY,92
+gs_divergence-1.0.4.dist-info/top_level.txt,sha256=AeI4H2QRwVGdFIuTY1MFuJuji2aRyiFTgPYtyVgmxyQ,20
+gs_divergence-1.0.4.dist-info/RECORD,,
