@@ -1,0 +1,40 @@
+Metadata-Version: 2.1
+Name: pyluog
+Version: 0.13.1
+Summary: A python module for using Luogu Api.
+Home-page: https://pypi.org/project/pyluog
+Author: hlwdy
+Author-email: hlwdyck@gmail.com
+License: MIT
+Platform: any
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
+Requires-Dist: requests
+Requires-Dist: matplotlib
+Requires-Dist: PIL
+
+# 如何使用
+首先，引用本模块：
+```
+import pyluog
+```
+你可以定义一个账号变量，需要两个字符串参数，分别是账号密码：
+```
+a=pyluog.User('name','password')
+```
+注意，以上操作并没有进行登录，登录操作需要执行：
+```
+a.login()
+```
+中途会要求输入验证码，请根据显示的图片验证码正确输入。
+如果过程顺利，最后会输出 登录成功!。
+登录操作完成后，你可以用：
+1. a.getUserData() 获取当前用户的信息
+2. a.getRecordList('name','1') 获取指定用户的评测提交记录 (两个参数分别是用户名和页数)
+3. a.getNotification(1,1) 获取当前用户的通知，(两个参数分别是类型和页数)
+-类型1: @我的   -类型2: 回复   -类型3: 系统通知
+4. a.QianDao() 执行签到
+
+以上操作均会返回一个json对象。
+
+
