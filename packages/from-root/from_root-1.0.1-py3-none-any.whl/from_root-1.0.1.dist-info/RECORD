@@ -1,0 +1,12 @@
+from_root/__init__.py,sha256=ICokGKWlEvKoF8le7s5ywDB4l-7cpepvFK3M4wXwNDQ,69
+from_root/from_base.py,sha256=tpYskVmNqcbNPKkcHAq1MXMdsjvW9JA95DLz64pYI8E,465
+from_root/from_here.py,sha256=gRPUzK8UnEeoYVlh9t13QC65VswE2twaetk9h9K9Uwg,703
+from_root/from_root_.py,sha256=F5zlzpJZqR9toXNhhgMrQFkJXBjpjG7KpFw1f3M9YXA,601
+from_root/utils/__init__.py,sha256=1cu-SWW3grlKvVOZrRwBaaUUHDjyqtbV3myJ7JyLsgI,93
+from_root/utils/all_dirs_exists.py,sha256=ev7wy-0bOsQBdYMF1VAkIX43qCKKe6IdOlL9KIBuyMs,163
+from_root/utils/get_project_root.py,sha256=xfMqcPNEEbqwY27EjfRtlJ8VVgcl33V91Q4Vhiqy_9o,1462
+from_root-1.0.1.dist-info/LICENSE,sha256=HDbMJ7oItmxTn3jVtZFi6jUFAHovset5jzAPUderjOc,1073
+from_root-1.0.1.dist-info/METADATA,sha256=lz7Vj36E1Q3IcbNRn0iz6-Xnw-a572llCvZQoR3Pusg,3880
+from_root-1.0.1.dist-info/WHEEL,sha256=OqRkF0eY5GHssMorFjlbTIq072vpHpF60fIQA6lS9xA,92
+from_root-1.0.1.dist-info/top_level.txt,sha256=NvNkuIqra2T2wWEbYGrlr4P2U4tED43DUKZt9o8O1cw,10
+from_root-1.0.1.dist-info/RECORD,,
