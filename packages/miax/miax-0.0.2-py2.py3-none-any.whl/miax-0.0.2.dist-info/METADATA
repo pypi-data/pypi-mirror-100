@@ -1,0 +1,16 @@
+Metadata-Version: 2.1
+Name: miax
+Version: 0.0.2
+Summary: use it to make sure to have your values your useing are corect
+Home-page: UNKNOWN
+Author: fat.yellow.ducky
+Author-email: <outlook_845155FE023A6EF8@outlook.com>
+License: UNKNOWN
+Keywords: geting,counting,words
+Platform: UNKNOWN
+Requires-Python: >=3.9.1
+Description-Content-Type: text/x-rst
+
+this package will let you use a minv and a maxv value and put a numv if that numv is less then the minv get the minv but if is biger then maxv you get maxv else you get the numv if you need help you get it here this is how to use it miax.miax(Example minv Value, Example maxv Value, Example)
+
+
