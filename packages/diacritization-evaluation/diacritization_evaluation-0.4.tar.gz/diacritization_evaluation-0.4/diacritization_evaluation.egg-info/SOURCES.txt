@@ -1,0 +1,12 @@
+README.md
+setup.cfg
+setup.py
+diacritization_evaluation/__init__.py
+diacritization_evaluation/constants.py
+diacritization_evaluation/der.py
+diacritization_evaluation/util.py
+diacritization_evaluation/wer.py
+diacritization_evaluation.egg-info/PKG-INFO
+diacritization_evaluation.egg-info/SOURCES.txt
+diacritization_evaluation.egg-info/dependency_links.txt
+diacritization_evaluation.egg-info/top_level.txt
