@@ -1,0 +1,17 @@
+MANIFEST.in
+README.md
+setup.cfg
+setup.py
+versioneer.py
+dockerRegistryPythonClient/ImageMetadata.py
+dockerRegistryPythonClient/RegisteryIterator.py
+dockerRegistryPythonClient/RegistryClient.py
+dockerRegistryPythonClient/RegistryLoginSession.py
+dockerRegistryPythonClient/__init__.py
+dockerRegistryPythonClient/_version.py
+dockerRegistryPythonClient.egg-info/PKG-INFO
+dockerRegistryPythonClient.egg-info/SOURCES.txt
+dockerRegistryPythonClient.egg-info/dependency_links.txt
+dockerRegistryPythonClient.egg-info/not-zip-safe
+dockerRegistryPythonClient.egg-info/requires.txt
+dockerRegistryPythonClient.egg-info/top_level.txt
