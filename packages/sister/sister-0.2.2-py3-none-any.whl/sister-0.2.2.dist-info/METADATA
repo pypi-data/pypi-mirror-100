@@ -1,0 +1,73 @@
+Metadata-Version: 2.1
+Name: sister
+Version: 0.2.2
+Summary: SISTER (SImple SenTence EmbeddeR)
+Author: sobamchan
+Author-email: oh.sore.sore.soutarou@gmail.com
+Requires-Python: >=3.8,<4.0
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Requires-Dist: Janome (==0.3.10)
+Requires-Dist: fasttext (==0.9.2)
+Requires-Dist: gensim (==3.8.3)
+Requires-Dist: mecab-python3 (==0.996.5)
+Requires-Dist: numpy (==1.19.0)
+Requires-Dist: progressbar (>=2.5,<3.0)
+Requires-Dist: torch (==1.5.1)
+Requires-Dist: transformers (==2.11.0)
+Description-Content-Type: text/markdown
+
+# sister
+SISTER (**SI**mple **S**en**T**ence **E**mbedde**R**)
+
+
+# Installation
+
+```bash
+pip install sister
+```
+
+
+# Basic Usage
+```python
+import sister
+sentence_embedding = sister.MeanEmbedding(lang="en")
+
+sentence = "I am a dog."
+vector = sentence_embedding(sentence)
+```
+
+
+# Supported languages.
+
+- English
+- Japanese
+- French
+
+In order to support a new language, please implement `Tokenizer` (inheriting `sister.tokenizers.Tokenizer`) and add fastText
+pre-trained url to `word_embedders.get_fasttext()` ([List of model urls](https://github.com/facebookresearch/fastText/blob/master/docs/pretrained-vectors.md)).
+
+
+# Bert models are supported for en, fr, ja (2020-06-29).
+Actually Albert for English, CamemBERT for French and BERT for Japanese.  
+To use BERT, you need to install sister by `pip install 'sister[bert]'`.
+
+```python
+import sister
+bert_embedding = sister.BertEmbedding(lang="en")
+
+sentence = "I am a dog."
+vector = bert_embedding(sentence)
+```
+
+You can also give multiple sentences to it (more efficient).
+
+```python
+import sister
+bert_embedding = sister.BertEmbedding(lang="en")
+
+sentences = ["I am a dog.", "I want be a cat."]
+vectors = bert_embedding(sentences)
+```
+
