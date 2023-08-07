@@ -1,0 +1,45 @@
+Metadata-Version: 2.1
+Name: sheet2csv
+Version: 1.0.2
+Summary: A package to export Google Sheet to CSV via API
+Home-page: https://github.com/sledilnik/sheet2csv/
+Author: 
+Author-email: 
+License: UNKNOWN
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Description-Content-Type: text/markdown
+Requires-Dist: google-api-python-client (~=1.12.2)
+Requires-Dist: google-auth-httplib2 (~=0.0.4)
+Requires-Dist: google-auth-oauthlib (~=0.4.1)
+Requires-Dist: python-dateutil (~=2.8.1)
+Requires-Dist: certifi (>=2020.12.5)
+
+# sheet2csv
+
+Python package to transform Google Sheet to CSV.
+
+## Install
+```
+pip install git+https://github.com/slo-covid-19/sheet2csv.git
+```
+
+## Example
+
+```python
+import os
+
+import sheet2csv
+
+SHEET_ID = "PUT_ID_OF_SHEET_HERE"
+RANGE_STATS = "SheetName!A3:ZZ"
+GOOGLE_API_KEY = os.environ["GOOGLE_API_KEY"]
+
+# First row of range will be become header row of CSV
+sheet2csv.sheet2csv(
+    id=SHEET_ID, range=RANGE_STATS, api_key=GOOGLE_API_KEY, filename="export.csv",
+)
+```
+
