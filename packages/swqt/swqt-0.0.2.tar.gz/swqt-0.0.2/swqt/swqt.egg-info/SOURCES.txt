@@ -1,0 +1,7 @@
+README.md
+pyproject.toml
+setup.cfg
+swqt/swqt.egg-info/PKG-INFO
+swqt/swqt.egg-info/SOURCES.txt
+swqt/swqt.egg-info/dependency_links.txt
+swqt/swqt.egg-info/top_level.txt
