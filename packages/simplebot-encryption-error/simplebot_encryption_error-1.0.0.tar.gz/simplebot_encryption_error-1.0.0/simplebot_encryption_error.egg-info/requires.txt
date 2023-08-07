@@ -1,0 +1,5 @@
+simplebot>=1.1.0
+
+[test]
+pytest>=6.2.2
+requests>=2.25.1

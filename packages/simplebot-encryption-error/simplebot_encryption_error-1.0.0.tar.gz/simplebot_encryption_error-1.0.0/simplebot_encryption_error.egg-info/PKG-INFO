@@ -1,0 +1,59 @@
+Metadata-Version: 2.1
+Name: simplebot-encryption-error
+Version: 1.0.0
+Summary: Notify user if message couldn't be decrypted (SimpleBot plugin)
+Home-page: https://github.com/simplebot-org/simplebot_encryption_error
+Author: The SimpleBot Contributors
+Author-email: adbenitez@nauta.cu
+License: MPL
+Description: Encryption Error
+        ================
+        
+        .. image:: https://img.shields.io/pypi/v/simplebot_encryption_error.svg
+           :target: https://pypi.org/project/simplebot_encryption_error
+        
+        .. image:: https://img.shields.io/pypi/pyversions/simplebot_encryption_error.svg
+           :target: https://pypi.org/project/simplebot_encryption_error
+        
+        .. image:: https://pepy.tech/badge/simplebot_encryption_error
+           :target: https://pepy.tech/project/simplebot_encryption_error
+        
+        .. image:: https://img.shields.io/pypi/l/simplebot_encryption_error.svg
+           :target: https://pypi.org/project/simplebot_encryption_error
+        
+        .. image:: https://img.shields.io/badge/code%20style-black-000000.svg
+           :target: https://github.com/psf/black
+        
+        A `SimpleBot`_ plugin that adds a filter to reply back a warning message when the bot receive a message that can't be decrypted so the user receives the bot's new public key and encryption works again.
+        
+        This can happen if you change the bot's encryption key or re-create the bot account.
+        
+        Install
+        -------
+        
+        To install run::
+        
+          pip install simplebot-encryption-error
+        
+        
+        .. _SimpleBot: https://github.com/simplebot-org/simplebot
+        
+        Changelog
+        =========
+        
+        1.0.0
+        -----
+        
+        - initial release
+        
+        
+Keywords: simplebot plugin deltachat
+Platform: UNKNOWN
+Classifier: Development Status :: 4 - Beta
+Classifier: Environment :: Plugins
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: Mozilla Public License 2.0 (MPL 2.0)
+Classifier: Operating System :: OS Independent
+Classifier: Topic :: Utilities
+Description-Content-Type: text/x-rst
+Provides-Extra: test
