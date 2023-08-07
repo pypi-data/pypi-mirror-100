@@ -1,0 +1,3 @@
+[console_scripts]
+barva = barva.__main__:main
+
