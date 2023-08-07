@@ -1,0 +1,10 @@
+README.md
+setup.py
+indicasr/__init__.py
+indicasr/indicasr.py
+indicasr/spellcorrection.py
+indicasr.egg-info/PKG-INFO
+indicasr.egg-info/SOURCES.txt
+indicasr.egg-info/dependency_links.txt
+indicasr.egg-info/requires.txt
+indicasr.egg-info/top_level.txt

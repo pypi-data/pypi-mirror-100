@@ -1,0 +1,4 @@
+transformers>=4.4.2
+pydload>=1.0.9
+torch
+torchaudio
