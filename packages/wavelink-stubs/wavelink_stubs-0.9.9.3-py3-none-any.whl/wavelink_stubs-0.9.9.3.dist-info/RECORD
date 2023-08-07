@@ -1,0 +1,14 @@
+LICENSE,sha256=UOZ1F5fFDe3XXvG4oNnkL1-Ecun7zpHzRxjp-XsMeAo,11324
+wavelink-stubs/__init__.pyi,sha256=VGvNv01bi-D9g12TgsMImapYm0BTzRp8J--YQ2K1UvM,424
+wavelink-stubs/client.pyi,sha256=za8noRl-kt7fLqWyKViuN3TpZxm3obqxqD0d06oXCZM,2043
+wavelink-stubs/eqs.pyi,sha256=8pmK0G5c7LihjJv5Ygv1f5xT1NzxjFZI4s0KrWougwY,836
+wavelink-stubs/errors.pyi,sha256=6222vEy4CKCJuRNDl6nfw5Uc9q4iMNgu3FwLjxrPVSU,311
+wavelink-stubs/events.pyi,sha256=-eDees3RO4qBh-4DioRTHMcfi9xVmYSVsRq8QRrywcg,758
+wavelink-stubs/meta.pyi,sha256=iDy79vqDa6IXu1WbLNYYGvuoVP9s38yGo6sGGf1BqDc,1033
+wavelink-stubs/node.pyi,sha256=l13DYv5ASpGXIiVsS6lCpZHQoh_NNEVn4XOTDfmUiA8,1515
+wavelink-stubs/player.pyi,sha256=X-VN29tchG5AXJ-5y_VlNbOMU8f3j0F7od2J75bEw8c,2337
+wavelink-stubs/websocket.pyi,sha256=DMc-VY68PhTS9UWKs9qHxvTrKn0MPy63KcM54hXeiDM,20
+wavelink_stubs-0.9.9.3.dist-info/LICENSE,sha256=UOZ1F5fFDe3XXvG4oNnkL1-Ecun7zpHzRxjp-XsMeAo,11324
+wavelink_stubs-0.9.9.3.dist-info/WHEEL,sha256=SrtnPGVTMeYWttls9xnWA01eUhCZ3ufFdJUYb1J3r-U,83
+wavelink_stubs-0.9.9.3.dist-info/METADATA,sha256=ErPER2o_auggUCtCfkqPNO5SzhzD_lmNoAd6BGp-mjk,740
+wavelink_stubs-0.9.9.3.dist-info/RECORD,,
