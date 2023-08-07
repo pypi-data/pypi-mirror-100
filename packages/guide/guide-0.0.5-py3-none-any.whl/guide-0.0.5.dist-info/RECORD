@@ -1,0 +1,11 @@
+guide/__init__.py,sha256=d2NPSk4BkWrZOiwnrD8z51cp1IGdsEXrPj-pgVOi8Q8,63
+guide/base.py,sha256=vCwkiaLv6vvPfdohNBXqtC-ucii38Nb2EaerYh5G--s,2781
+guide/tools.py,sha256=j0wUYyg5xrX22Q0MbRUEEBsPH7psQXA3B7xqzPVjdbU,2304
+guide/util.py,sha256=hpmTEoo7ykg2mZefvRsBz-r8tnzsJilOa-zsDJsR6tU,1306
+guide/tests/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+guide/tests/simple_tests.py,sha256=m1p9pv-WtPt_wFjRXXEs6_sXr9_G3Sbr0tMkOwEW5gQ,37
+guide-0.0.5.dist-info/LICENSE,sha256=xx0jnfkXJvxRnG63LTGOxlggYnIysveWIZ6H3PNdCrQ,11357
+guide-0.0.5.dist-info/METADATA,sha256=aYShtMjgHIJ318H0OtUkR97ONbjoMN0g930LTiI_j9k,2062
+guide-0.0.5.dist-info/WHEEL,sha256=EVRjI69F5qVjm_YgqcTXPnTAv3BfSUr0WVAHuSP3Xoo,92
+guide-0.0.5.dist-info/top_level.txt,sha256=kMOQ7B3oBr-UWIXNCvUekMPNjNoND_Z2BRpWwghIyQ8,6
+guide-0.0.5.dist-info/RECORD,,
