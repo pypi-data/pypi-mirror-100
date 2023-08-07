@@ -1,0 +1,11 @@
+Metadata-Version: 1.2
+Name: gcp-data-ingestion
+Version: 1.0.6
+Summary: Utility Functions for Data Ingestion in GCP
+Home-page: https://github.com/sreeraaman/data-ingestion
+Author: Sriraman Gopalan
+Author-email: sreeraaman@gmail.com
+License: MIT
+Description: UNKNOWN
+Platform: UNKNOWN
+Requires-Python: >=3.8
