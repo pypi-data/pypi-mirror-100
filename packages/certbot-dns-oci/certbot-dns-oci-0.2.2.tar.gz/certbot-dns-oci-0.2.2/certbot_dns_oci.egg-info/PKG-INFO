@@ -1,0 +1,56 @@
+Metadata-Version: 2.1
+Name: certbot-dns-oci
+Version: 0.2.2
+Summary: Oracle Cloud infrastructure DNS Authenticator plugin for Certbot
+Home-page: https://github.com/ITD27M01/certbot-dns-oci
+Author: itd27m01
+Author-email: igortiunov@gmail.com
+License: MIT
+Description: # Oracle Cloud Infrastructure DNS Authenticator plugin for Certbot
+        
+        Plugin automates the process of `dns-01` challenge by managing TXT records using the Oracle Cloud Infrastructure
+        DNS service.
+        
+        ## Installation
+        
+        ```shell
+        pip3 install certbot-dns-oci
+        ```
+        
+        ## Arguments
+        
+        | Name        | Description | Default |
+        | ------------- |:-------------:| :-------------: |
+        | **--authenticator dns-oci** | Select the plugin |Required|
+        | **--dns-oci-credentials** | OCI credentials config file location |`~/.oci/config`|
+        | **--dns-oci-profile** | Profile name in OCI credentials config file |`DEFAULT`|
+        | **--dns-oci-propagation-seconds** | DNS record propagation timeout |60|
+        
+        ## Usage
+        
+        ```shell
+        certbot certonly --email user@example.com \
+                         --authenticator dns-oci -d www.example.com --dry-run
+        ```
+        
+        ## Requirements
+        ```
+        oci
+        certbot
+        ```
+        
+        
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.8
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Intended Audience :: System Administrators
+Classifier: Environment :: Plugins
+Classifier: Operating System :: OS Independent
+Classifier: Topic :: Internet :: WWW/HTTP
+Classifier: Topic :: Security
+Classifier: Topic :: System :: Installation/Setup
+Classifier: Topic :: System :: Networking
+Classifier: Topic :: System :: Systems Administration
+Classifier: Topic :: Utilities
+Description-Content-Type: text/markdown
