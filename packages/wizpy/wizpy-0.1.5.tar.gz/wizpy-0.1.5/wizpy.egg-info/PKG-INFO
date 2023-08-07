@@ -1,0 +1,15 @@
+Metadata-Version: 2.1
+Name: wizpy
+Version: 0.1.5
+Summary: An API to communicate with the wiz lights
+Home-page: https://github.com/Pegacraft/wizPy
+Author: Pegacraffft
+Author-email: karl.w.schramm@gmail.com
+License: MIT
+Description: # Welcome to wizpy
+        
+        This is an api to communicate with the smart bulbs/led's from wiz
+        Get further information [here](https://github.com/Pegacraft/wizPy)
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3.9
+Description-Content-Type: text/markdown
