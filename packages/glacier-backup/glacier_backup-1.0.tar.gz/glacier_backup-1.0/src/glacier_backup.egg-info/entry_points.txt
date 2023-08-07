@@ -1,0 +1,4 @@
+[console_scripts]
+glacier-backup = glacier_backup.backup:main
+glacier-upload = glacier_backup.upload:main
+
