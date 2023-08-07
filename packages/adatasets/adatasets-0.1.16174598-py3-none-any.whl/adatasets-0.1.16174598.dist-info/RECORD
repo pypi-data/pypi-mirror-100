@@ -1,0 +1,10 @@
+adatasets/__init__.py,sha256=CSp160aWVLlnyym88k0P0wHWjy7iK0LQ9DPCNlPAljM,80
+adatasets/adatasets.py,sha256=187bIUMHc8i9LsYdF86jY7ZxLEKFuTL2s_Hwiz2GMlQ,6396
+adatasets/decorators.py,sha256=sOhnSl73tkhrFtOjhd8W4csr4dnAygnt7ovZ5iaeAzA,1859
+adatasets/ztest.py,sha256=y41LzSK13-5EOZlmJ4YnLF1cjfQ5qMzvWya1iqcwbaI,314
+adatasets-0.1.16174598.dist-info/LICENSE,sha256=obMlEw37k1VtqKyP1MgqDoNxmA_bC_bt_82l21nC2YA,1517
+adatasets-0.1.16174598.dist-info/METADATA,sha256=VBjfwSxz7TfGYPld-ccw9hqGN88TPy4Gcs0hr88XNHM,1216
+adatasets-0.1.16174598.dist-info/WHEEL,sha256=OqRkF0eY5GHssMorFjlbTIq072vpHpF60fIQA6lS9xA,92
+adatasets-0.1.16174598.dist-info/entry_points.txt,sha256=eqGnTHtEVMYwfXVk1Z9MhC8O2N8wuqAbr0lisLmrkxs,20
+adatasets-0.1.16174598.dist-info/top_level.txt,sha256=ZYuFZHfQlgbGtmtnE_BKa97vP4VDyfrQ9QvyVadUP9I,10
+adatasets-0.1.16174598.dist-info/RECORD,,
