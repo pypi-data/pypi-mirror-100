@@ -1,0 +1,11 @@
+Metadata-Version: 1.1
+Name: bertforyou
+Version: 1.1.3
+Summary: a package for your bert using
+Home-page: https://github.com/boss2020/tfbert
+Author: xiaoguzai
+Author-email: 474551240@qq.com
+License: Apache License 2.0
+Download-URL: https://github.com/boss2020/tfbert/master.zip
+Description: 使用keras实现你的bert项目
+Platform: UNKNOWN
