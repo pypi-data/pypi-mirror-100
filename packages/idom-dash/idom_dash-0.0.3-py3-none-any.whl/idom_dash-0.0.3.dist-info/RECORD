@@ -1,0 +1,13 @@
+idom_dash/IdomDashComponent.py,sha256=vuvSkoSzUhAg_N15DTwtmbwik9hEFd_oS9f_PNtnSfc,1178
+idom_dash/__init__.py,sha256=HFTAOg3O9XoO0uBdffBbK58lh5HpwIBKyCGt1dBdsUI,1545
+idom_dash/_imports_.py,sha256=XOh1eTvENW8tJtvLlysjXeJOMH12xlY_8jFTHWatX90,87
+idom_dash/idom_compat.py,sha256=vl_x4GUvMeTt7QgIXE3B5Vd8LZDAuAZK4-Zb4Mvd5ok,2012
+idom_dash/idom_dash.min.js,sha256=aWtyhOoE73vcRPY604n9cnA1KDUkn_pVJGlJnn6PpjU,24094
+idom_dash/idom_dash.min.js.map,sha256=vNuRy_oufrAKuyEzqS9ypzmVqlZyhY9d3bUHrT9NQlM,73873
+idom_dash/metadata.json,sha256=2hq-034Ibw1c_uo88X6IrGItc0nyZrfJ3YiDc7U2HQg,737
+idom_dash/package-info.json,sha256=0SR_yYmHyEcbyUF52n9-GLg5isThB87CsKWPxlOoA2s,1989
+idom_dash-0.0.3.dist-info/LICENSE,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+idom_dash-0.0.3.dist-info/METADATA,sha256=pS_AQPAAWsSIEoJDPs-QDRJpqHg-fTdlwaomDzPYNog,312
+idom_dash-0.0.3.dist-info/WHEEL,sha256=OqRkF0eY5GHssMorFjlbTIq072vpHpF60fIQA6lS9xA,92
+idom_dash-0.0.3.dist-info/top_level.txt,sha256=hWsTkM7dW6S4tFDRUN7aUU_vqMdK7eAPCSrK0ddp-fo,10
+idom_dash-0.0.3.dist-info/RECORD,,
