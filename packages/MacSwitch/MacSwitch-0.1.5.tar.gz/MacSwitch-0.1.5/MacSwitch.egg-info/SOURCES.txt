@@ -1,0 +1,12 @@
+.gitignore
+README.md
+asmac.py
+pylintrc
+setup.py
+MacSwitch.egg-info/PKG-INFO
+MacSwitch.egg-info/SOURCES.txt
+MacSwitch.egg-info/dependency_links.txt
+MacSwitch.egg-info/entry_points.txt
+MacSwitch.egg-info/requires.txt
+MacSwitch.egg-info/top_level.txt
+misc/MacSwitch.png
