@@ -1,0 +1,10 @@
+pydatagovgr/__init__.py,sha256=4JF6xTtyof6p1o8fqNhy3f0PhSB0bMAO93qAOMIxvII,57
+pydatagovgr/adapters.py,sha256=xXKOSbA-8fki8LuR_vLPNiy4V3SIY-LmRwlctwr6cbY,777
+pydatagovgr/base_client.py,sha256=3rJs28hdvLzsu0bTs1ZaIYo2iJSrIccqp-0bdBvalSQ,2891
+pydatagovgr/client.py,sha256=iN1XrT2O8S3tDFYfmbdqJ-Eqs_GlsQ5dqe5r1AYK1eM,979
+pydatagovgr/exceptions.py,sha256=FGumQmBNo-LvgL2_-p2QlC7H0jzXm-xedV-Ph_ZbWCc,201
+pydatagovgr/session.py,sha256=3ZmZxb8S7Zu_H8qQ5NbwPtUD0SBWDkRLmLgN-XGWIkY,1203
+pydatagovgr-0.1.8.dist-info/LICENSE,sha256=bvgKZKln_9habvCRtfOnB5mRHsj8MNWaIHqEkIrMZs8,1074
+pydatagovgr-0.1.8.dist-info/WHEEL,sha256=VN2eEg4PHbTOniXb-cCYQPc6zUTS4dAcATjlgU3q-Lo,83
+pydatagovgr-0.1.8.dist-info/METADATA,sha256=rQoOriBwYzPkMeQRVwW3gR9EbhwfjYcJQ39uMTIAPO0,5865
+pydatagovgr-0.1.8.dist-info/RECORD,,
