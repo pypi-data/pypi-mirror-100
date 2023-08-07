@@ -1,0 +1,15 @@
+Metadata-Version: 2.1
+Name: snowchange
+Version: 2.8.1
+Summary: snowchange is now schemachange
+Home-page: UNKNOWN
+License: UNKNOWN
+Description: # snowchange is now schemachange
+        
+        This package has been renamed. Use `pip install schemachange` instead.
+        
+        New package: https://pypi.org/project/schemachange/
+        
+Platform: UNKNOWN
+Classifier: Development Status :: 7 - Inactive
+Description-Content-Type: text/markdown
