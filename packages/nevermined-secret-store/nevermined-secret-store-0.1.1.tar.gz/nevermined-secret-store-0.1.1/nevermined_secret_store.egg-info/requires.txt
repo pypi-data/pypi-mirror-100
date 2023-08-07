@@ -1,0 +1,11 @@
+requests~=2.21.0
+
+[dev]
+bumpversion
+pkginfo
+twine
+watchdog
+pytest
+
+[test]
+pytest

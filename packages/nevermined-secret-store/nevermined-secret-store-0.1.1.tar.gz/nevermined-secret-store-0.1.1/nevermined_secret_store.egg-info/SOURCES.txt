@@ -1,0 +1,14 @@
+LICENSE
+MANIFEST.in
+README.md
+setup.cfg
+setup.py
+nevermined_secret_store.egg-info/PKG-INFO
+nevermined_secret_store.egg-info/SOURCES.txt
+nevermined_secret_store.egg-info/dependency_links.txt
+nevermined_secret_store.egg-info/not-zip-safe
+nevermined_secret_store.egg-info/requires.txt
+nevermined_secret_store.egg-info/top_level.txt
+secret_store_client/__init__.py
+secret_store_client/client.py
+tests/__init__.py
