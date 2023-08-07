@@ -1,0 +1,3 @@
+[console_scripts]
+kindlenotes2md=kindlenotes2md.notes:cli
+

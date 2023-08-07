@@ -1,0 +1,9 @@
+kindlenotes2md/__init__.py,sha256=IMjkMO3twhQzluVTo8Z6rE7Eg-9U79_LGKMcsWLKBkY,22
+kindlenotes2md/dataclasses.py,sha256=_guZsGmOzoDiWsSLDNVeMLE_6oddFzUtnpfkQHL_d0U,282
+kindlenotes2md/htmlparsing.py,sha256=D6fqIL7R1wyf0Gxg6kXTn6Y9J-OcWr-FlTNL5xHMe28,1087
+kindlenotes2md/markdownoutput.py,sha256=KpqsBbSWDno2NCtoaC9qrZITJxOQTcqbC_vizPSIGZk,766
+kindlenotes2md/notes.py,sha256=GdHDmrVGGwT1wp9xSWTFFSmt1o1_ChusdaI_D4SI1nE,1396
+kindlenotes2md-0.1.2.dist-info/entry_points.txt,sha256=EqwusWhZ2VRy5k5KU835_USx3oEjG-eHpE6PcIoema0,59
+kindlenotes2md-0.1.2.dist-info/WHEEL,sha256=VN2eEg4PHbTOniXb-cCYQPc6zUTS4dAcATjlgU3q-Lo,83
+kindlenotes2md-0.1.2.dist-info/METADATA,sha256=ilS96gyclrHRbzcWQb76mHBExLI0629cA9VdgmuRC6k,1459
+kindlenotes2md-0.1.2.dist-info/RECORD,,
