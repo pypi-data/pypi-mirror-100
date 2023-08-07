@@ -1,0 +1,4 @@
+numpy>=1.19.5
+opencv_python>=4.5.1.48
+xmltodict>=0.12.0
+yacs>=0.1.8
