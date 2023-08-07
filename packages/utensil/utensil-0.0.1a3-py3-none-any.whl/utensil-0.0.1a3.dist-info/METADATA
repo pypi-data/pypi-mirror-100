@@ -1,0 +1,29 @@
+Metadata-Version: 2.1
+Name: utensil
+Version: 0.0.1a3
+Summary: Wide variety of machine learning tools.
+Home-page: https://github.com/HYChou0515/utensil
+Author: Hung-Yi Chou
+Author-email: hychou.svm@gmail.com
+License: UNKNOWN
+Project-URL: Bug Tracker, https://github.com/HYChou0515/utensil/issues
+Project-URL: Source Code, https://github.com/HYChou0515/utensil
+Platform: UNKNOWN
+Classifier: Intended Audience :: Science/Research
+Classifier: Intended Audience :: Developers
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: Microsoft :: Windows
+Classifier: Operating System :: POSIX
+Classifier: Operating System :: Unix
+Classifier: Topic :: Software Development
+Classifier: Topic :: Scientific/Engineering
+Classifier: Development Status :: 2 - Pre-Alpha
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
+Provides-Extra: test
+Requires-Dist: pytest (>=5.0.1) ; extra == 'test'
+
+# Utensil
+
+
