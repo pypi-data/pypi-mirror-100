@@ -1,0 +1,3 @@
+[console_scripts]
+ee_extra=ee_extra.__main__:app
+
