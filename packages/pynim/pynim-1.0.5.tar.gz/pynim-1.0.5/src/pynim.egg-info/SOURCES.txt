@@ -1,0 +1,14 @@
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+src/pynim/__init__.py
+src/pynim/build.py
+src/pynim/installer.nsi
+src/pynim.egg-info/PKG-INFO
+src/pynim.egg-info/SOURCES.txt
+src/pynim.egg-info/dependency_links.txt
+src/pynim.egg-info/entry_points.txt
+src/pynim.egg-info/requires.txt
+src/pynim.egg-info/top_level.txt
+src/pynim.egg-info/zip-safe
