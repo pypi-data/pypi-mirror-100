@@ -1,0 +1,9 @@
+README.md
+pyproject.toml
+setup.cfg
+src/pyiso3166/__init__.py
+src/pyiso3166/pyiso3166.py
+src/pyiso3166.egg-info/PKG-INFO
+src/pyiso3166.egg-info/SOURCES.txt
+src/pyiso3166.egg-info/dependency_links.txt
+src/pyiso3166.egg-info/top_level.txt
