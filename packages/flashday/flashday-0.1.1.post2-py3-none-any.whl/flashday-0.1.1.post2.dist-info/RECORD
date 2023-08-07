@@ -1,0 +1,14 @@
+pripessoaink/flashday/__init__.py,sha256=6iMn9jOtD6IVgEkdU19R24SF5vPRNEs8tMoq1LKCf_U,153
+pripessoaink/flashday/admin.py,sha256=CNFwbYRvvTYVjvZTz5zkY-CxFPV_OPkxBGUKDVN_PXQ,365
+pripessoaink/flashday/apps.py,sha256=VN4noW6uVjb2TqODPKOCpgnMBiET12Z38g5Z_MsSkmM,91
+pripessoaink/flashday/models.py,sha256=Md1fpkDgL2KYOznigiOXnfwI0XvwK2uQ18UmokglDXs,1026
+pripessoaink/flashday/tests.py,sha256=mrbGGRNg5jwbTJtWWa7zSKdDyeB4vmgZCRc2nk6VY-g,60
+pripessoaink/flashday/urls.py,sha256=MMxunSMfshcNULThEiX4BMQ5S-atWFex9ZpBZoVSIc4,159
+pripessoaink/flashday/views.py,sha256=OIS-BG095HKO_KcAzUcWwSStHM-tej9KgQVPO4aWb3Y,248
+pripessoaink/flashday/migrations/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+flashday-0.1.1.post2.dist-info/LICENSE,sha256=ixuiBLtpoK3iv89l7ylKkg9rs2GzF9ukPH7ynZYzK5s,35148
+flashday-0.1.1.post2.dist-info/METADATA,sha256=QGX_Fmx-MoxEE6wJMwRdrbM4cS-Vp2IpQYE7BA6SRUU,2874
+flashday-0.1.1.post2.dist-info/WHEEL,sha256=OqRkF0eY5GHssMorFjlbTIq072vpHpF60fIQA6lS9xA,92
+flashday-0.1.1.post2.dist-info/entry_points.txt,sha256=oeTk5FcQcuDQd4eEtrRPk-5jWlBGcNZXW6YE80KgI0w,57
+flashday-0.1.1.post2.dist-info/top_level.txt,sha256=mTBJ5EoBnVAvvA4R6BiEfiGCnO-4VKEWwPvJGbhKBnM,13
+flashday-0.1.1.post2.dist-info/RECORD,,
