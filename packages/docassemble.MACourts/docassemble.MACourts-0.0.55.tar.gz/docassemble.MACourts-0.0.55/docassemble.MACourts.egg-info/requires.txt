@@ -1,0 +1,4 @@
+Shapely>=1.0.15
+geopandas>=0.1.0.dev-120828c
+usaddress>=0.5.10
+uszipcode>=0.2.4
