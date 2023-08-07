@@ -1,0 +1,11 @@
+README.md
+pyproject.toml
+setup.py
+pywfc.egg-info/PKG-INFO
+pywfc.egg-info/SOURCES.txt
+pywfc.egg-info/dependency_links.txt
+pywfc.egg-info/top_level.txt
+wfc/__init__.py
+wfc/rule.py
+wfc/state.py
+wfc/wave.py
