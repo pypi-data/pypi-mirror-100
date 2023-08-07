@@ -1,0 +1,7 @@
+mtg_parser/__init__.py,sha256=3s4YmeoSUKKktmPtw2NcA4Ufi4N5lTDEmdGUUKFxYW0,137
+mtg_parser/gramar.py,sha256=H_rqiOO_x7E0sZbaCibawGyg-rlhvhxoeAM7G8pz6vc,1376
+mtg_parser/parser.py,sha256=Q2DEtUtACkNekWf6law51f8gvooy0GOyizT8ufJX0YM,792
+mtg_parser-0.0.1a1.dist-info/LICENSE,sha256=1eCNwXuFBAaQVD7NV7-1A7lXWaxarkl640qBzPl5sgc,1074
+mtg_parser-0.0.1a1.dist-info/WHEEL,sha256=SrtnPGVTMeYWttls9xnWA01eUhCZ3ufFdJUYb1J3r-U,83
+mtg_parser-0.0.1a1.dist-info/METADATA,sha256=HRujgJtwv74d28gsUkYFKGM0okhKhwUhjYUe8-EgWU8,1039
+mtg_parser-0.0.1a1.dist-info/RECORD,,

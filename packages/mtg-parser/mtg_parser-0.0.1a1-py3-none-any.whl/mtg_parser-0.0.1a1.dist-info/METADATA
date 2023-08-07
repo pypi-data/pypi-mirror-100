@@ -1,0 +1,46 @@
+Metadata-Version: 2.1
+Name: mtg-parser
+Version: 0.0.1a1
+Summary: Magic: the Gathering decklist parser
+Home-page: https://github.com/lheyberger/mtg-parser
+License: MIT
+Author: Ludovic Heyberger
+Author-email: 940408+lheyberger@users.noreply.github.com
+Requires-Python: >=3.7,<4.0
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Requires-Dist: pyparsing (>=2.4.7,<3.0.0)
+Project-URL: Documentation, https://github.com/lheyberger/mtg-parser
+Project-URL: Repository, https://github.com/lheyberger/mtg-parser
+Description-Content-Type: text/markdown
+
+# Quickstart
+
+	make install
+	make test
+	make build
+	make clean
+
+or
+
+	make
+
+# Publish a new version
+
+## Test
+
+	poetry version (premajor|preminor|prepatch|prerelease)
+	make test
+	make lint
+	make build
+	make test-publish
+
+## Publish
+
+	poetry version (major|minor|patch)
+	make build
+	make publish
+
