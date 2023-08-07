@@ -1,0 +1,13 @@
+bentley_ottmann/__init__.py,sha256=ApWTy41PMY295Ogpz97hIzc8kD22CJwoeGbltNtQ-_U,84
+bentley_ottmann/planar.py,sha256=_MCDEl6HxnUm59eveTnFq-wE7jUJOJgOBKe-99PL3Sc,11078
+bentley_ottmann/core/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+bentley_ottmann/core/base.py,sha256=t4ArfRxJfIFbrbRuuEoxbQptUNbnmVekvheT9ibCmXk,4279
+bentley_ottmann/core/event.py,sha256=67nmqdrFdAakdl6G4k8fYsBeVVUq4UCz72jFnv5PGrY,5781
+bentley_ottmann/core/events_queue.py,sha256=8kLJ8Elh7HquTXZBacdKzVYps2RB-WPiU4nqgN8olNY,6143
+bentley_ottmann/core/sweep_line.py,sha256=OWacszxN5PQyAJUVYxQFgz0TRCl8Udt2ob7BblGlhLU,4330
+bentley_ottmann/core/utils.py,sha256=k33KlpcAYyHzj1ZMXYTS2vkypvQWlxbaWhf4MBhgUjU,1679
+bentley_ottmann-2.0.0.dist-info/LICENSE,sha256=-W_qNLRoZO2-AnwtGfKupruYTfLtIk39IeMqidpeVOU,1069
+bentley_ottmann-2.0.0.dist-info/METADATA,sha256=9kX5mfnrAj2mblemfRLE96laOqdtJdflKQ42IyCYDO4,5179
+bentley_ottmann-2.0.0.dist-info/WHEEL,sha256=OqRkF0eY5GHssMorFjlbTIq072vpHpF60fIQA6lS9xA,92
+bentley_ottmann-2.0.0.dist-info/top_level.txt,sha256=plniXB-FYz7fUbbwMoiKHkPGw_RZw14w08G5luYcTgQ,16
+bentley_ottmann-2.0.0.dist-info/RECORD,,
