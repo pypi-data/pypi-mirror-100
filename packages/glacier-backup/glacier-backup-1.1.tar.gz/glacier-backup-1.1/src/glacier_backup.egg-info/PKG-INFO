@@ -1,0 +1,18 @@
+Metadata-Version: 1.2
+Name: glacier-backup
+Version: 1.1
+Summary: A Python client for performing backups to AWS S3 Glacier
+Home-page: https://github.com/hopkiw/glacier_backup
+Author: Liam Hopkins
+License: UNKNOWN
+Description: A Python client for performing backups to AWS S3 Glacier
+Platform: UNKNOWN
+Classifier: Development Status :: 4 - Beta
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Programming Language :: Python :: 3 :: Only
+Requires-Python: >=3.6, <4
