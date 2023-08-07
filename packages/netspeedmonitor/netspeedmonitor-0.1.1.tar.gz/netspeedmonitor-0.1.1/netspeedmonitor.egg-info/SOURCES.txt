@@ -1,0 +1,13 @@
+setup.py
+netspeedmonitor/__init__.py
+netspeedmonitor/cli.py
+netspeedmonitor/gui.py
+netspeedmonitor/lib.py
+netspeedmonitor/ui.py
+netspeedmonitor.egg-info/PKG-INFO
+netspeedmonitor.egg-info/SOURCES.txt
+netspeedmonitor.egg-info/dependency_links.txt
+netspeedmonitor.egg-info/entry_points.txt
+netspeedmonitor.egg-info/not-zip-safe
+netspeedmonitor.egg-info/requires.txt
+netspeedmonitor.egg-info/top_level.txt

@@ -1,0 +1,3 @@
+[console_scripts]
+netspeedmonitor = netspeedmonitor.cli:main
+

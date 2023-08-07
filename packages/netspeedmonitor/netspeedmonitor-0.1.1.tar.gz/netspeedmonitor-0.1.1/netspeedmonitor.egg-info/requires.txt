@@ -1,0 +1,9 @@
+streamlit
+click
+tendo
+pandas
+speedtest-cli
+tinydb
+loguru
+schedule
+tinyrecord
