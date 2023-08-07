@@ -1,0 +1,9 @@
+README.md
+setup.py
+Base/__init__.py
+Base/builder.py
+Wordbuilds.egg-info/PKG-INFO
+Wordbuilds.egg-info/SOURCES.txt
+Wordbuilds.egg-info/dependency_links.txt
+Wordbuilds.egg-info/requires.txt
+Wordbuilds.egg-info/top_level.txt
