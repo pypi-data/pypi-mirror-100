@@ -1,0 +1,13 @@
+gene2word/__init__.py,sha256=Enx0BMLwBPBADfcU26Cd56CSf5XX1T7J8Uv41iHVNjw,2661
+gene2word/_source.py,sha256=uR05Ca441avDFiGAeTpgYH8kJRvH0NZziVWevhuw-Lo,210
+gene2word/_sqlite.py,sha256=v72puVIxO50b9OJRb4UN2RmbewGKlrA9IwDiFrFuyRU,2631
+gene2word/data.7z,sha256=anz1Ep5ZpImosHPsUF2nO2Y2MGlrZ46baBN5oyxAtQ8,42426101
+gene2word/exceptions.py,sha256=UT1mnLO2OV7791Qel7cB27BeoLIqpQJO_DX0dIcHN88,193
+gene2word/getArticle.py,sha256=hZfBDMBrbmwo3cr7A0IlJBU6cRKJuxB540R6c-KtTAQ,1353
+gene2word/jarvispatrick.py,sha256=WHMWlbBv1TSTLD2HezVkTLylxQ6l8PChQSuWSc-laiw,1046
+gene2word/queryWord.py,sha256=Wy1YRDP6k8tO9QGaH64U7C1P37PgAittFz3Gjtd_l6U,14339
+gene2word-2.0.0a1.dist-info/LICENSE,sha256=9Ofzc7m5lpUDN-jUGkopOcLZC3cl6brz1QhKInF60yg,7169
+gene2word-2.0.0a1.dist-info/METADATA,sha256=aBnOao9onW4R5QPkDQUOL70KO6NQ_wTgnPtdufxW3EE,1293
+gene2word-2.0.0a1.dist-info/WHEEL,sha256=OqRkF0eY5GHssMorFjlbTIq072vpHpF60fIQA6lS9xA,92
+gene2word-2.0.0a1.dist-info/top_level.txt,sha256=cRO6toDMCeruamCx03pZ2Qy2pzh0n7CzLIeRJP30p_I,10
+gene2word-2.0.0a1.dist-info/RECORD,,
