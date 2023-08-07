@@ -1,0 +1,6 @@
+pytz
+beautifulsoup4
+requests
+requests[socks]
+requests[security]
+fake-useragent
