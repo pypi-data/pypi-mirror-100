@@ -1,0 +1,6 @@
+setup.py
+skbinstaller/__init__.py
+skbinstaller.egg-info/PKG-INFO
+skbinstaller.egg-info/SOURCES.txt
+skbinstaller.egg-info/dependency_links.txt
+skbinstaller.egg-info/top_level.txt
