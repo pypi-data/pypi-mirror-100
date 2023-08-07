@@ -1,0 +1,10 @@
+CHANGELOG.txt
+LICENCE.txt
+MANIFEST.in
+README.txt
+setup.py
+randperc/__init__.py
+randpercent.egg-info/PKG-INFO
+randpercent.egg-info/SOURCES.txt
+randpercent.egg-info/dependency_links.txt
+randpercent.egg-info/top_level.txt

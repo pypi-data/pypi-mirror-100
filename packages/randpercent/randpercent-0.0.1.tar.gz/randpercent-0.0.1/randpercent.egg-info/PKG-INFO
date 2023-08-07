@@ -1,0 +1,30 @@
+Metadata-Version: 1.1
+Name: randpercent
+Version: 0.0.1
+Summary: A library to generate booleans with a given percentage.
+Home-page: UNKNOWN
+Author: Eric Sivak
+Author-email: eric.sivak05@googlemail.com
+License: MIT
+Description: A library to generate booleans with a given percentage.
+        *******************************************************
+        
+        There is a total of 2 functions in this library:
+        RTrue(perc) ---> perc can either be a float or an integer. There is a "perc"-percent chance that the function will return True, otherwise it will return False.
+        RFalse(perc) ---> perc can either be a float or an integer. There is a "perc"-percent chance that the function will return False, otherwise it will return True. Same logic, but the output is reversed.
+        
+        
+        Change Log
+        ==========
+        
+        0.0.1 (4/03/2021)
+        -------------------
+        - First Release
+        
+Keywords: random,booleans
+Platform: UNKNOWN
+Classifier: Development Status :: 5 - Production/Stable
+Classifier: Intended Audience :: Education
+Classifier: Operating System :: Microsoft :: Windows :: Windows 10
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3
