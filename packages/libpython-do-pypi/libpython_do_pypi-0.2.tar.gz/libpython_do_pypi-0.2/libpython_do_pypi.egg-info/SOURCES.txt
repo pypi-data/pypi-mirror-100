@@ -1,0 +1,12 @@
+LICENSE
+MANIFEST.in
+README.md
+setup.py
+libpython/__init__.py
+libpython/github_api.py
+libpython_do_pypi.egg-info/PKG-INFO
+libpython_do_pypi.egg-info/SOURCES.txt
+libpython_do_pypi.egg-info/dependency_links.txt
+libpython_do_pypi.egg-info/not-zip-safe
+libpython_do_pypi.egg-info/requires.txt
+libpython_do_pypi.egg-info/top_level.txt
