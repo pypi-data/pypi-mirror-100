@@ -1,0 +1,10 @@
+Metadata-Version: 1.0
+Name: dockerRegistryPythonClient
+Version: 0.0.6
+Summary: Python package which provides Docker registry Client
+Home-page: https://github.com/rmetcalf9/dockerRegistryPythonClient
+Author: Robert Metcalf
+Author-email: rmetcalf9@googlemail.com
+License: MIT
+Description: UNKNOWN
+Platform: UNKNOWN
