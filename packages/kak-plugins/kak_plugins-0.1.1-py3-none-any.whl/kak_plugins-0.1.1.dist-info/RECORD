@@ -1,0 +1,7 @@
+kak_plugins/__init__.py,sha256=IYEcJP8adm1gW8lSAUAns4f9gHTM19RwnRJgnxIURHg,156
+kak_plugins/apis/git.py,sha256=mQtrVuwQu42Zy-uNnkin0GPZ_Eopr1AxTt6_psYnTEw,860
+kak_plugins/github_permalink.py,sha256=gwaBfb4U0ooE1W0olBZ0235uDrC1rcDlkh36QE4l3LY,2360
+kak_plugins-0.1.1.dist-info/entry_points.txt,sha256=8cE_nslGBkND-fb2JmUkIItKrWhk3kviy6bvZsEmDak,70
+kak_plugins-0.1.1.dist-info/WHEEL,sha256=VN2eEg4PHbTOniXb-cCYQPc6zUTS4dAcATjlgU3q-Lo,83
+kak_plugins-0.1.1.dist-info/METADATA,sha256=t_UuCH9o1Hufi8Sfq-hrjmreY_IjAV-YBnpLkVP1YqI,815
+kak_plugins-0.1.1.dist-info/RECORD,,
