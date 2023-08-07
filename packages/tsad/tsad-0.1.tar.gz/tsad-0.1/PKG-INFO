@@ -1,0 +1,14 @@
+Metadata-Version: 1.0
+Name: tsad
+Version: 0.1
+Summary: Time Series Deep Learning Anomaly Detection
+Home-page: https://github.com/waico/tsad
+Author: Vyacheslav Kozitsin, Iurii Katser
+Author-email: rfptk2525@yandex.ru
+License:  BSD-3-Clause License
+Description: # DL-anomaly-detection
+        
+        pip install DL-anomaly-detection==0.0   [Pypi](https://pypi.org/project/DL-anomaly-detection/0.0/)
+        
+        
+Platform: UNKNOWN
