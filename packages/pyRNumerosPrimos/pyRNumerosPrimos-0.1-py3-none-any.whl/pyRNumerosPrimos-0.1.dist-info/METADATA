@@ -1,0 +1,65 @@
+Metadata-Version: 2.1
+Name: pyRNumerosPrimos
+Version: 0.1
+Summary: Sistema Administrativo de pyRNumerosPrimos
+Home-page: UNKNOWN
+Author: MarcH
+Author-email: 
+License: GPL
+Keywords: ejemplo instalador paquete Production/Stable
+Platform: Unix
+Classifier: Development Status :: 5 - Production/Stable
+Classifier: Environment :: Console
+Classifier: Intended Audience :: Developers
+Classifier: Topic :: Software Development :: Libraries
+Classifier: License :: Freely Distributable
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Operating System :: OS Independent
+Description-Content-Type: text/markdown
+
+==================
+pyRNumerosPrimos
+==================
+
+pyRNumerosPrimos es una libreria para calcular los numeros primos
+en un rango n
+
+## Installation
+
+Usa el package manager [pip](https://pip.pypa.io/en/stable/) para
+install pyRNumerosPrimos
+
+## Usage
+
+```python
+import pyRNumerosPrimos
+
+pyRNumerosPrimos.NumerosPrimos1(n) # returns -> numeros n primeros 
+						primos
+pyRNumerosPrimos.NumerosPrimos2(n) # returns -> lo mismo pero el codigo
+						hecho a mano
+```
+
+## Contributing
+Pull requests para todos. 
+
+## License
+Free
+License
+=======
+
+This program is free software: you can redistribute it and/or modify
+    it under the terms of the GNU General Public License as published by
+    the Free Software Foundation, either version 3 of the License, or
+    (at your option) any later version.
+
+    This program is distributed in the hope that it will be useful,
+    but WITHOUT ANY WARRANTY; without even the implied warranty of
+    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+    GNU General Public License for more details.
+
+    You should have received a copy of the GNU General Public License
+    along with this program.  If not, see <https://www.gnu.org/licenses/>.
+
+
