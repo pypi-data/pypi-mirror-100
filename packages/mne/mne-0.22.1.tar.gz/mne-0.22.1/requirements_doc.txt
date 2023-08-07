@@ -1,0 +1,9 @@
+sphinx
+https://github.com/numpy/numpydoc/archive/main.zip
+sphinx_fontawesome
+https://github.com/larsoner/sphinx-bootstrap-theme/archive/language_data.zip
+https://github.com/sphinx-gallery/sphinx-gallery/archive/master.zip
+sphinxcontrib-bibtex>=2.0.0
+memory_profiler
+neo
+seaborn
