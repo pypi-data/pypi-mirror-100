@@ -1,0 +1,33 @@
+Metadata-Version: 2.1
+Name: gene2word
+Version: 2.0.0a0
+Summary: Geneset translation library
+Home-page: https://github.com/textrous/gene2word
+Author: Robin De Schepper
+Author-email: robingilbert.deschepper@unipv.it
+License: UNKNOWN
+Keywords: gene gene2word geneset data mining NLP LSI semantic
+Platform: UNKNOWN
+Classifier: Development Status :: 4 - Beta
+Classifier: Intended Audience :: Science/Research
+Classifier: Intended Audience :: Developers
+Classifier: Topic :: Scientific/Engineering
+Classifier: License :: OSI Approved :: BSD License
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Description-Content-Type: text/markdown
+Requires-Dist: numpy
+Requires-Dist: peewee (>=3.14.0)
+Provides-Extra: dev
+Requires-Dist: black ; extra == 'dev'
+Requires-Dist: wheel ; extra == 'dev'
+Requires-Dist: twine ; extra == 'dev'
+Requires-Dist: sphinx ; extra == 'dev'
+
+# gene2word
+Python library that converts genesets into word clouds
+
+
