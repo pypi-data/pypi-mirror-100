@@ -1,0 +1,7 @@
+pyproject.toml
+setup.cfg
+src/derp_learning.egg-info/PKG-INFO
+src/derp_learning.egg-info/SOURCES.txt
+src/derp_learning.egg-info/dependency_links.txt
+src/derp_learning.egg-info/top_level.txt
+src/example/__init__.py
