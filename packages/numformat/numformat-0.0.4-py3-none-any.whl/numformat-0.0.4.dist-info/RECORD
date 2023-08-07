@@ -1,0 +1,14 @@
+numformat/__init__.py,sha256=rviHp93F7-1uUPtH4cfIzrpJCIu0JNKJs7xSqRLSGzo,91
+numformat/formatter.py,sha256=5i7Yk7V7EwJVXjePlv_6p25_4rAGynGf8RXfQhDiG4k,3096
+numformat/numformat.py,sha256=NvGmOsteqQDi_rp4Wk66KdQ1Dd5iFQYC9pvMUGQI4o4,5367
+numformat/utils.py,sha256=lVjjXAlNs-8bsbKv2XElMbRDQEiRY_9wLpm_d5gnqfY,1306
+numformat/operators/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+numformat/operators/decimal_operator.py,sha256=C4ixoBAo-a0rBC0hqtj4Efl1F9yoeuW_VRhRKi-r-vw,2572
+numformat/operators/integer_operator.py,sha256=Ol7UCDW7HJb3I-iynpJSkJyjKCXlseVDAls9vvsJhdY,1273
+numformat/operators/operator.py,sha256=khgnEnTR4nONGSmB8EXrQJ1-nT1Gpc3dPZf4hU7N4Yk,530
+numformat/operators/operator_factory.py,sha256=mE8RxluG1Pw2i9dXeTvp4arVNIwTGbIbYo2V1PQQlAk,922
+numformat-0.0.4.dist-info/LICENSE,sha256=2bm9uFabQZ3Ykb_SaSU_uUbAj2-htc6WJQmS_65qD00,1073
+numformat-0.0.4.dist-info/METADATA,sha256=WKMFdws4rohmgTCDm1MEXkDz5bEzD_hq1tYCs7YWuaM,3439
+numformat-0.0.4.dist-info/WHEEL,sha256=OqRkF0eY5GHssMorFjlbTIq072vpHpF60fIQA6lS9xA,92
+numformat-0.0.4.dist-info/top_level.txt,sha256=p5S5EwCSMZG8sl7EJjoK0i2S0uP44lxbPsETekPgV9g,10
+numformat-0.0.4.dist-info/RECORD,,
