@@ -1,0 +1,22 @@
+Metadata-Version: 2.1
+Name: sable
+Version: 0.0.0
+Summary: Sable is a testing tool for SQL.
+Home-page: https://github.com/HH-MWB/sable
+Author: HH-MWB
+Author-email: h.hong@mail.com
+License: UNKNOWN
+Description: # Sable
+        
+        Sable is a testing tool for SQL.
+        
+        ## License
+        
+        This project is licensed under the MIT License - see the [LICENSE](https://github.com/HH-MWB/sable/blob/main/LICENSE) file for details.
+        
+Platform: UNKNOWN
+Classifier: Development Status :: 1 - Planning
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Classifier: Topic :: Software Development :: Testing
+Description-Content-Type: text/markdown
