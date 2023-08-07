@@ -1,0 +1,11 @@
+README.md
+setup.cfg
+setup.py
+mugan86pkg/__init__.py
+mugan86pkg/functions.py
+mugan86pkg/greet.py
+mugan86pkg.egg-info/PKG-INFO
+mugan86pkg.egg-info/SOURCES.txt
+mugan86pkg.egg-info/dependency_links.txt
+mugan86pkg.egg-info/not-zip-safe
+mugan86pkg.egg-info/top_level.txt
