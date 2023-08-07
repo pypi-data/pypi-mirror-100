@@ -1,0 +1,16 @@
+Metadata-Version: 2.1
+Name: chrplotlib
+Version: 0.0.1
+Summary: Char plot in Python
+Home-page: https://github.com/guofei9987/chrplotlib
+Author: Guo Fei
+Author-email: guofei9987@foxmail.com
+License: MIT
+Description: # chrplotlib
+        plot graphs using chars
+        
+Platform: linux
+Platform: windows
+Platform: macos
+Requires-Python: >=3.5
+Description-Content-Type: text/markdown
