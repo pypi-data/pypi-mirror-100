@@ -1,0 +1,9 @@
+README.md
+setup.py
+src/ordina-xml-csv-parser/__init__.py
+src/ordina-xml-csv-parser/parser.py
+src/ordina_xml_csv_parser.egg-info/PKG-INFO
+src/ordina_xml_csv_parser.egg-info/SOURCES.txt
+src/ordina_xml_csv_parser.egg-info/dependency_links.txt
+src/ordina_xml_csv_parser.egg-info/requires.txt
+src/ordina_xml_csv_parser.egg-info/top_level.txt
